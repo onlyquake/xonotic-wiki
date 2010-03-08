@@ -1,0 +1,16 @@
+h1. Organizational Structure
+
+This organizational structure of this project is based on distributed power to avoid any single person making a decision without consulting the community.  Major decisions will be made by the 3-6 appointed leaders who have expertise in a specific area of the game but can also discuss all areas of the game/community.  Below the leaders serves a committee who exist to act as a liaison to project leaders on specific areas to make sure the leaders are getting the fullest picture they can.
+
+Please bare with us while we continue to define the team and review nominees.
+
+h2. Leaders
+
+* divVerent [ Lead Developer ]
+* Dokujisan [ Lead Community Director ]
+* -z- [ Lead Web Architect ]
+
+h2. Committee
+
+
+THIS PAGE IS IN PROGRESS

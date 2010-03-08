@@ -68,4 +68,4 @@ h1. Our announcement
 
 (Here is where the announcement copy will start)
 
-We would like to formally announce...
+We'd like to formally announce the beginnings of our new community project, Xonotic.  The founders of this project and community were first Nexuiz[link] developers, contributors and believers.  Following the March 1st announcement of IllFonic's aquiring of nexuiz.com and the rights to the name for their closed source PS3 version of Nexuiz, a large portion of the community has joined together to create Xonotic.  Beyond being a first person shooter based on Nexuiz (GPL) 2.5.2svn[link], Xonotic aims to be a rethink and reorganization of how we share a GPL video game and organize the services around it.

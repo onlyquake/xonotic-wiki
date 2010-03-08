@@ -30,8 +30,8 @@ scale 1
 # load the mesh file, this is stored into the dpm as frame 0
 scene model.smd
 # Each following (if any) smd's are animations
-scene model_action1.smd
-scene model_action2.smd
+scene model_action1.smd fps 30
+scene model_action2.smd fps 30
 </pre>
 
 * Place all smd's and the textfile in the same place, execute "dpmodel whateveryounamedthattextfile". If all goes well you should now have a working dpm (and .framegroups file if its animated)

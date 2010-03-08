@@ -1,0 +1,44 @@
+h1. Blender to dpm, mini tutorial
+
+h2. Pre-required tools and reading
+
+* Go here - http://developer.valvesoftware.com/wiki/Blender#Installation and download the export script.
+* Rig / Animate as outlined here - http://developer.valvesoftware.com/wiki/Animation_in_Blender.
+* Only works with blender 248a -- 249b (2.5 is no go)
+
+
+h2. Blender workflow 
+
+* Select your mesh and armature, export as smd. select Static Mesh. You only need to re-export this smd if the mesh or the rig change.
+* Now export as Animation Sequence. Preferably you have one track (and smd file) per animation. name it so you know what it is (modelname_attack1.smd for example).
+* You could possibly use the "Animation Sequence ( ALL )" or "All..." options, but i havent tried so i cant say if it works.
+
+
+h2. dpmodel workflow
+
+* dpmodel needs and a textfile telling it how to bake the mesh and animation/s into a dpm. This textfile will look something like:
+
+> <pre>
+# save the model as model.dpm
+model model
+# move the model this much before saving
+origin 0 0 0
+# rotate the model 90 degrees around vertical
+rotate 90
+# scale the model by this amount, 0.5 would be half size and 2.0 would be doule size
+scale 1
+# load the mesh file, this is stored into the dpm as frame 0
+scene model.smd
+# Each following (if any) smd's are animations
+scene model_action1.smd
+scene model_action2.smd
+</pre>
+
+* Place all smd's and the textfile in the same place, execute "dpmodel whateveryounamedthattextfile". If all goes well you should now have a working dpm (and .framegroups file if its animated)
+
+
+h2. Caves:
+
+ * Your mesh have to have a material assigned to it. The name of this material/s is what dp will look for to use as texture/shader on the model/mesh/es.
+ * Blender exports what you got selected. make sure you have the relevant (and only the relevant) objects selected.
+ * If export script fail with a encoding error, open it in a texeditor and remove the whole top comment block (lines starting with #). theres a illegal character in there according to pyton. i haven't bothered to check closer witch one it could be.

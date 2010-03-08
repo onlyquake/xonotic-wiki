@@ -1,0 +1,12 @@
+h1. IRC
+
+h2. About
+
+h2. Help
+
+h2. Rules
+
+h2. Power distribution
+
+- The leaders and chosen channel moderators have ops
+- committee, other respected members and respected channel bots have voice

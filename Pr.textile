@@ -1,0 +1,71 @@
+h1. Public Relations
+
+Our first announcement of this project is coming immediately after illfonic first announces their Nexuiz game at GDC http://www.gdconf.com
+Their announcement could happen anytime during that conference, which is held March 9th - 13th.
+
+Here, we will organize the ideas behind our first project announcement.
+
+The main goal for this introductory announcement is to state *1) our reasons* and *2) our plans*, but we will focus more on our plans. This announcement shouldn't focus on finger-pointing. Rather, it should focus on our own values and the goals that we plan to accomplish with this new game. We will have to touch upon the *broken trust* that stemmed from decisions made behind closed doors. But our main goal for this announcement is to make our intentions clear, and, of course, to unveil the new name. We want to begin filling up our IRC channels and our website.
+
+h2. Words we will try to not use, or use limitedly:
+
+* Fork
+* Nexuiz
+* Alientrap
+* Illfonic
+
+h2. What is going on?
+
+# a new game formed from the major contributors of Nexuiz GPL
+# the name of the game is Xonotic
+# the website is xonotic.org
+# irc channel is #xonotic on quakenet
+
+h2. Reasons
+
+# trust issues
+# a fresh start
+# focus on our values
+
+h2. Project changes
+
+# restructure project leadership for more balance
+# improved project organization
+# more community focus
+# better attention to marketing and public relations
+# a more defined artistic direction
+# more emphasis on recruiting and communicating with new contributors to the project
+
+h2. What will change in the game?
+
+# new set of player models
+# new set of sounds
+# default maps will get a makeover
+# new names for some weapons and gamemodes, especially ones using the "nex" prefix
+
+h2. Timeline
+
+# we can't give a timeline
+# instead, we will invite people to our IRC channels and to our website to keep updated
+
+h2. The name
+
+# some reasons why we chose the name
+
+h2. Summary
+
+# We appreciate everyone's support
+# We look forward to creating a game that everyone will enjoy.
+
+h2. Details or topics we will not mention in this announcement
+
+(better to spread out to future announcements)
+# Central user system
+# Website features
+# Details about roles
+
+h1. Our announcement
+
+(Here is where the announcement copy will start)
+
+We would like to formally announce...

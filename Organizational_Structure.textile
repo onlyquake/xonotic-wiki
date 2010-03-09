@@ -9,8 +9,15 @@ h2. Leaders
 * divVerent [ Lead Developer ]
 * Dokujisan [ Lead Community Director ]
 * -z- [ Lead Web Architect ]
+* tZork [ ... ]
+* merlijn [ Server admin ]
+* mand1nga [ Developer ]
+* Morphed [ ... ]
 
 h2. Committee
 
+Key contributors within the community
+With good amount of knowledge about the game
+Perhaps 30-40 members
 
 THIS PAGE IS IN PROGRESS

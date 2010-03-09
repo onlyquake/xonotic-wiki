@@ -1,0 +1,41 @@
+h1. Xonotic compatibility pack
+
+The following images and sounds have Nexuiz branding and 'n' logos or are associated with the Nexuiz game. They need to be changed ASAP.
+
+h2. Images
+
+data/gfx/loading.tga
+data/gfx/sb_energy.tga
+data/gfx/sb_kh_full.tga
+data/gfx/sb_slowmo.tga
+data/gfx/sb_str.tga
+data/gfx/winner.tga
+
+data/gfx/hud/sb_invinc.tga
+data/gfx/hud/sb_kh_blue.tga
+data/gfx/hud/sb_kh_pink.tga
+data/gfx/hud/sb_kh_red.tga
+data/gfx/hud/sb_kh_yellow.tga
+data/gfx/hud/sb_str.tga
+data/gfx/hud/menu/*/background.tga
+data/gfx/hud/menu/*/background_I*.tga
+data/gfx/hud/menu/*/skinpreview.jpg
+
+data/models/misc/chatbubble.spr_0.tga
+
+data/textures/desertfactory_documents/note02.tga
+data/textures/desertfactory_documents/writing02.tga
+
+data/textures/final_rage/lamp2_*.tga
+
+data/textures/flags/*
+
+data/textures/stralenex1/slimepit_ad-3_glow*.jpg
+
+data/textures/tznex01/*
+
+h2. Sounds
+
+data/sound/announcer/default/welcome.ogg
+
+data/sound/tutorial/10-at_corp_switch.ogg

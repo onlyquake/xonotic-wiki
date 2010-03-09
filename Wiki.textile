@@ -10,3 +10,4 @@ This is a wiki / development system where we can gather information for the futu
 Misc
 * How to get an animated mesh from [[Blender to DPM]]
 * [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
+* [[IRC]] channels

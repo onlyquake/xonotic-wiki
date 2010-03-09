@@ -1,9 +1,11 @@
 h1. Xonotic Wiki
 
-This is a wiki / development system where we can gather information for the future of this project.  
+This is a wiki / development system where we can gather information for the future of this project.
+
+* [[Pr|Public-Relations]] 
 * Check out our [[plan|Game Plan So Far]] 
 * and notes from brainstorming [[names|ideas for names]]
 * Here is the [[Irclog|IRC Log]] (warning: it's very long)
 
 Misc
-* How to get a animated mesh from [[blender to dpm]]
+* How to get an animated mesh from [[Blender to DPM]]

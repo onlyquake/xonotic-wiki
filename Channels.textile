@@ -7,6 +7,12 @@ h2. On Quakenet
 #xonotic.editing
 #xonotic.pickup
 
+h3. Country specific channels
+
+#xonotic.au
+#xonotic.de
+#xonotic.fr
+
 h2. On FreeNode
 
 #xonotic this is a channel for the game developers. Non-development subjects should be directed to the main Xonotic channel on QuakeNet

@@ -1,6 +1,6 @@
 {{toc}}
 
-h1. ORGANIZATION
+h1. Organization
 
 * 3-6 leaders at the top
 ** board or committee of community members who act as liaisons between developers, players, leaders and other communities to help make sure the most important information is getting to the leaders
@@ -29,7 +29,7 @@ h1. ORGANIZATION
 <div0> of course, the competitive players ALSO do not want overly strong violence, as it blocks the view :P
 </pre>
 
-h1. CODE CLEANUP
+h1. Code Clean-up
 
 <pre>
 <div0> but basically, the goal should NOT be stripping the game to "what I like"
@@ -40,11 +40,11 @@ h1. CODE CLEANUP
 <div0> anyway, as for rerwrite... shpuld be no goal for next release
 </pre>
 
-h1. DOCUMENTATION
+h1. Documentation
 
 Can we start using http://www.methods.co.nz/asciidoc/ for documentation?
 
-h1. MAPS
+h1. Maps
 
 * aggressor, 
 * aggressor_ctf (with fixes and testing) -- possible expand? it's currently only good for ~2v2-3v3
@@ -67,26 +67,26 @@ h1. MAPS
 * Vociferous? (I'd happily finish the map asap)
 * Fortress resurrection? (needs finishing of lighting up)
 
-h1. WEBSITE
+h1. Website
 
 We're going to be incorporating features from all of the community sites into a proper "core" site.
 
-Using Wordpress MU as the main site, we can use mybb as a forum system and bridge it to wordpress.  Alternatively we can look into use buddy press and dropping a forum system.
+Using WordPress MU as the main site, We can use MyBB as a forum system and bridge it to WordPress.  Alternatively we can look into use BuddyPress and dropping a forum system.
 
 * News
 * Tournament system (likely need to be homegrown)
-* Clan management (likely need to be homegrown.. maybe integrate with mu or buddypress somehow)
-* Proper WIKI (instead of OUNS) -- is the dev wiki good enough or do we want a user based on as well?
-* Pic hosting like pics.nexuizninja.com -- can be integrated into wordpress with nextgen gallery + nextgen public upload, I think we can fork this plugin to do more, i.e. video gallery, and more as well. Will need to dedicate resources to this
+* Clan management (likely need to be homegrown, maybe integrate with MU or BuddyPress somehow)
+* Proper WIKI (instead of OUNS) -- is the dev wiki good enough or do we want a user based one as well?
+* Pic hosting like pics.nexuizninja.com -- can be integrated into WordPress with nextgen gallery + nextgen public upload, I think we can fork this plugin to do more, i.e. video gallery, and more as well. Will need to dedicate resources to this
 * Realtime server list (should be easy to make a plugin for)
 * Mumble interface (will need to talk to dokujisan about details on this but should be easy enough to make a plugin for)
 * cvar/cmd list search
 * keyboard binds
 
-h1. CHAT
+h1. Chat
 
-Official Mumble server
-Possibly using a different network other than quakenet
+An official Mumble server
+Possibly using a different network other than Quakenet
 
 <pre>
 <Dokujisan> for my other project I'm involved with, Getty was showing me a way to have #nexuiz on multiple networks and have them all connect to each other through a bot
@@ -96,14 +96,14 @@ Possibly using a different network other than quakenet
 <Dokujisan> between the various networks
 </pre>
 
-h1. GAMEPLAY BALANCE
+h1. Gameplay Balance
 
 <FruitieX> div0: I would also vote for sv_maxspeed 320 and sv_maxairspeed 320
 <FruitieX> so to sum it all up: current physicsNoQWBunny.cfg + sv_airaccel_sideways_friction -1 + sv_maxspeed 320 + sv_maxairspeed 320
 <FruitieX> tZork: that is a slightly different physics config that div0 has been working on
 <FruitieX> Dokujisan: more physics stuff to note that's really fun: sv_doublejump 1, sv_jump_speedcap_max 1, sv_jumpspeedcap_max_disable_on_ramps 1
 
-h1. PLAYER MODELS
+h1. Player Models
 
 http://www.alientrap.org/forum/viewtopic.php?f=2&t=6051
 http://www.alientrap.org/forum/viewtopic.php?f=2&t=5997
@@ -119,11 +119,11 @@ http://alientrap.org/forum/viewtopic.php?p=69763#p69763
 <tZork> but with the blender smd thing working, its way more likely ppl can do open models.
 </pre>
 
-h1. SOUNDS
+h1. Sounds
 
 http://www.nullgaming.com/stuff/tenshihan-nexuiz.v6.6.pk3.zip
 
-h1. TRAINING/TEACHING
+h1. Training and Teaching
 
 There will be two types of training servers
 - Dojo: with a special Dojo map that walks players through the various basics and intermediate details of the game
@@ -134,14 +134,13 @@ div0 suggested that we can build this interaction into the game and the server s
 
 The Dojo servers would also be on the server choosing screen in an obvious place.
 
-h1. NEW MENU SKIN
+h1. New Menu Skin
 
 http://www.alientrap.org/forum/viewtopic.php?f=2&t=5998
 
-with some refining and get these sources files to -z- to remix for a the website design
+with some refining and get these sources files to -z- to remix for the website design
 
-
-h1. STYLE DIRECTION
+h1. Style Direction
 
 <pre>
 <}-z-{> regarding artwork, I think we should gather a list of wants/needs/likes/dislikes
@@ -168,22 +167,22 @@ player model with armor that deliberately looks like bunny ears)
 <Morphed_> i think that perfect style for nexuiz is this http://hirez.http.internapcdn.net/hirez/images/photos/downloads/GAWallpaper_1440X1080.jpg
 </pre>
 
-h1. BULLET POINTS
+h1. Bullet Points
 
-1. structure for the "management" so there are like 3-5 leaders and not just 1. Leaders will make "big" decisions for the game.
-2. some sort of comittee setup underneath the leadership to make "most" decisions for the game.
-3. Use of a central user auth system that protects privacy but also allows for extra features like stats
+1. structure for the "management" so there are like 3-6 leaders and not just one leader making "big" decisions for the game
+2. some sort of committee setup underneath the leadership to make "most" decisions for the game
+3. use of a central user auth system that protects privacy but also allows for extra features like stats
 4. we're picking a new set of maps to be included with the game....with some fixes and makeovers
-5. New player models
-7. The website will include all of the features that should have been in the nexuiz.com website.... like all of the nexuizninjaz.com features
+5. new player models
+7. the Xenotic website will include all of the features that should have been in the nexuiz.com website.... like all of the nexuizninjaz.com features
 8. we will work on gameplay balance again, but this time with proper testing and feedback loop
-9. There will be emphasis on organizing projects and recruiting people for work on these projects
-10. We haven't picked a name yet. We're going to take some time with this
-11. There will be an effort for some cleanup of the game code
-12. More frequent releases.
+9. there will be emphasis on organizing projects and recruiting people for work on these projects
+10. we haven't picked a final name yet, we're going to take some time with this
+11. there will be an effort for some clean-up of the game code
+12. more frequent releases
 
 
-h1. SERVER RESOURCES
+h1. Server resources
 
 * -z- VPS in Washington DC for test builds, and test server
 * -z- california shared hosting for development site
@@ -194,9 +193,9 @@ h1. SERVER RESOURCES
 * git repository can be hosted by icculus
 * Aussienexers offer up all of their servers to whatever we need for that region
 
-h1. ROLES / SKILLS
+h1. Roles and Skills
 
-h2. Game development
+h2. Game Development
 
 aurix
 blub (CSQC)
@@ -239,7 +238,6 @@ merlijn
 MrBougo
 Rabs
 
-
 h2. Mappers
 
 Clueless Newbie
@@ -281,7 +279,7 @@ Oblivion
 Soulkeeper
 Unknown/Alphagod
 
-h2. Music/Sounds
+h2. Music and Sounds
 
 Tenshihan? - already sent in a soundpack :)
 chooksta

@@ -96,7 +96,7 @@ Until recently, the founders of the Xonotic[link] project have been Nexuiz[link]
 
 On March 3rd, 2010, IllFonic announced[AT link] their acquisition of a commercial, closed-source license for Nexuiz and its game engine, together with rights to the game's name.
 
-Following their announcement, a large portion of the community joined together to create Xonotic[link] to continue development under a new name and with a better development process. We firmly believe that under the existing circumstances this is the only way that allows the project to remain free, open-source and community-based.
+This unexpected development severed the trust between the Nexuiz community and the maintainer, AlienTrap[link], who used its status to sell the game to IllFonic. When it became clear that the deal is finalized, a large portion of the community joined together to create Xonotic[link] and continue development under a new name. We firmly believe that under the existing circumstances this is the only way that allows the project to remain free, open-source and community-based.
 
 While being a direct successor to Nexuiz functionality-wise, the Xonotic[link] project is a rethink and reorganization of how a community creates an open source video game and organizes the services around it. It will be run by a small team of volunteers with no one in total control. All significant decisions will be made by an elected body of six people.
 

@@ -1,15 +1,34 @@
 h1. Website
 
+{{>toc}}
+
 An integrated wordpress and mybb system.
 
-h2. wordpress
+h2. Wordpress
 
-h3. Plugins
+h3. Plugins & Features
 
-http://www.tevine.com/projects/voteitup/
+* http://www.tevine.com/projects/voteitup/
 
-http://wordpress.org/extend/plugins/tdo-mini-forms/ -- look into this
+* http://wordpress.org/extend/plugins/tdo-mini-forms/ -- look into this
+
+* Gallery with public and user upload
+
+* Map Repository
+
+* User Surveys/Polls
+
+h2. MyBB
+
+h3. Plugins & Features
 
 h2. Goals
 
-Use the same theme for wordpress and mybb
+* Create a theme for Wordpress and MyBB to share
+
+h2. Needed
+
+h3. Art 
+
+* Splash image for the login / waiting screen on the forum
+* Website design

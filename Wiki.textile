@@ -11,3 +11,4 @@ Misc
 * How to get an animated mesh from [[Blender to DPM]]
 * [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
 * [[IRC]] channels
+* [[Roadmap to v1]]

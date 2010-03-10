@@ -1,7 +1,15 @@
 h1. Website
 
-h2. Plugins
+An integrated wordpress and mybb system.
+
+h2. wordpress
+
+h3. Plugins
 
 http://www.tevine.com/projects/voteitup/
 
 http://wordpress.org/extend/plugins/tdo-mini-forms/ -- look into this
+
+h2. Goals
+
+Use the same theme for wordpress and mybb

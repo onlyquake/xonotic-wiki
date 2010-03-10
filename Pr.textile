@@ -118,6 +118,6 @@ While we don't have a specific timeline for the first release under the new titl
 #xonotic.editing - content development
 #xonotic.pickup - match finding (still in works)
 
-We look forward to creating a game that everyone will enjoy and appreciate everyone's support.
+We look forward to creating a game that everyone will enjoy. Your support is much appreciated.
 
 The Xonotic team.

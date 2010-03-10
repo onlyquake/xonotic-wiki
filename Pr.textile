@@ -122,6 +122,6 @@ While we don't have a specific timeline for the first release under the new titl
 #xonotic on irc.quakenet.org - general discussion
 #xonotic on irc.freenode.org - development discussion
 
-We look forward to creating a game that everyone will enjoy. Your support is much appreciated.
+We look forward to creating a game that everyone can feel a part of. Your support is much appreciated.
 
 The Xonotic team.

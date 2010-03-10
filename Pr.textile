@@ -105,11 +105,11 @@ The major technical change is the transition of development to the Git version c
 
 Without getting into much detail, a few other mentionable changes in planning are:
 
-Missing project changes:
+Project Changes:
 # better attention to marketing and public relations
 # a more defined artistic direction
 
-Missing game changes:
+Game Changes:
 # new set of player models
 # new set of sounds
 # default maps will get a makeover

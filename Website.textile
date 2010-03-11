@@ -75,7 +75,7 @@ h3. Xonotic - Map Releases
 h3. Xonotic - Map Reviews
 
 Community reviews of maps (both official and user-made).
-_Comment: This is likely to be confused with the Map Releases section. Do we want to keep this section?_
+_Comment: This is likely to be confused with the Map Releases section. Do we want to keep this section? (this section is the least active on AT forum)_
 
 h3. Xonotic - Server Administration
 
@@ -85,4 +85,5 @@ h3. Xonotic - Competition
 * Clan League
 * 1v1 Matches
 * 2v2 Matches
+* CTF Matches
 * Tournaments

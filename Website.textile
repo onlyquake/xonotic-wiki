@@ -32,3 +32,46 @@ h3. Art
 
 * Splash image for the login / waiting screen on the forum
 * Website design
+
+h2. Forum structure
+
+h3. General
+
+Post anything on anything here
+	
+h3. Xonotic - News
+
+Comment on the news and view past news 
+	
+h3. Xonotic - Editing
+
+Post anything to do with editing Xonotic here. 
+Whether its problems you've had, questions, or if you just want to show off your work.
+
+h3. Xonotic - Contests
+
+Mapping, modding contests, FOTM, and more.
+
+h3. Xonotic - Gameplay
+
+Discuss Xonotic gameplay here.
+
+h3. Xonotic - Performance Tips
+
+Tips on how to tweak Xonotic for the best performance
+
+h3. Xonotic - Development
+
+Developer discussion of experimental fixes, changes, and improvements.
+
+h3. Xonotic - Map Releases
+
+
+h3. Xonotic - Support
+
+(Locked section, with sticky thread which points people to dev.xonotic.org "How to report bugs")
+
+h3. Xonotic - Map Reviews TBD
+
+Community reviews of maps (both official and user-made).
+_Comment: This is likely to be confused with the Map Releases section. Do we want to keep this section?_

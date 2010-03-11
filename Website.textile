@@ -37,12 +37,16 @@ h2. Forum structure
 
 h3. General
 
-Post anything on anything here
+Post anything about anything here
 	
 h3. Xonotic - News
 
 Comment on the news and view past news 
 	
+h3. Xonotic - Help & Troubleshooting
+
+h3. Xonotic - Bug Report
+
 h3. Xonotic - Editing
 
 Post anything to do with editing Xonotic here. 
@@ -56,9 +60,9 @@ h3. Xonotic - Gameplay
 
 Discuss Xonotic gameplay here.
 
-h3. Xonotic - Performance Tips
+h3. Xonotic - Configuration Tips
 
-Tips on how to tweak Xonotic for the best performance
+Tips on how to tweak Xonotic for the best performance, gameplay, etc
 
 h3. Xonotic - Development
 
@@ -66,12 +70,19 @@ Developer discussion of experimental fixes, changes, and improvements.
 
 h3. Xonotic - Map Releases
 
-
-h3. Xonotic - Support
-
 (Locked section, with sticky thread which points people to dev.xonotic.org "How to report bugs")
 
-h3. Xonotic - Map Reviews TBD
+h3. Xonotic - Map Reviews
 
 Community reviews of maps (both official and user-made).
 _Comment: This is likely to be confused with the Map Releases section. Do we want to keep this section?_
+
+h3. Xonotic - Server Administration
+
+h3. Xonotic - Competition
+
+* Clan Discussion
+* Clan League
+* 1v1 Matches
+* 2v2 Matches
+* Tournaments

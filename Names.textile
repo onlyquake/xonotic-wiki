@@ -429,6 +429,16 @@ Suggested Names
 http://dev.cankill.us/projects/notnexuiz/wiki/Names
 </add.names.here>
  
+
+Why do you think it would be a good idea?
+Neuxiom: Portmanteau of New and Axiom, pronoucable, has only 1 hit on Google, and uses most of the letters from Nexuiz, thus enhancing recognition. difficult to pronounce Logical truncation of it is "Neux", which is ambiguous when pronounced (Nukes vs Neux)
+It's suppose to be pronoucned as French, but NewX also works Neu-ee-om? Neu-ecks I mean the full name. Alone I'd pronounce Neux as in veux, but inside "Neuxiom" I'd use a hard X. (Nooks-ee-om is also possible). That's intended, it's a combination of New Axiom into one word
+Itoma: In Japanese it means "free, free time, and to wave goodbye" Also, simple.
+Xonotic: Sounds badass, and low hits on google. and very unique... it's like aquatic but some space-alien type of origin.
+Akion: Hehh, it's C.Brutail's other nickname, it can't be anything but cool :D no, seriously, it's just considered good by others, I strongly dislike it... however...
+Akionix: Sounds fine, easy to pronounce, and only 33 hits from google
+
+
 Does not meet criteria: Akion (25000 hits), Itoma (639,000 hits), kenryoku (60,600 hits), pulse (65,500,000 hits), crux (5,980,000 hits, is also a noun, Linux distro), Xenatic (33,600 hits), Maven (10,200,000 hits, it is english word and means expert ), Xenoty (5,140 hits), Nexotic (9,710 hits), Yennu (17,600 hits)
  
 Does meet 1000 hits criteria:

@@ -39,7 +39,7 @@ h3. General
 
 Post anything about anything here
 	
-h3. Xonotic - News
+h3. Xonotic - News & Announcements
 
 Comment on the news and view past news 
 	

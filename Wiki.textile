@@ -8,7 +8,12 @@ This is a wiki / development system where we can gather information for the futu
 * Here is the [[Irclog|IRC Log]] (warning: it's very long)
 
 Misc
-* How to get an animated mesh from [[Blender to DPM]]
 * [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
 * [[IRC]] channels
 * [[Roadmap to v1]]
+
+Media 
+* How to get an animated mesh from [[Blender to DPM]]
+
+Tech
+* We could potentially use "IQM":http://lee.fov120.com/iqm/ (needs testing!)

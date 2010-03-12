@@ -124,3 +124,33 @@ While we don't have a specific timeline for the first release under the new titl
 We look forward to creating a game that everyone can feel a part of. Your support is much appreciated.
 
 The Xonotic team.
+
+h1. v4, edited by merlijn
+
+Xonotic is a completely free (GPL) game, which runs on all mayor platforms including: Microsoft Windows, Mac OSX and Linux. It is not a new project, but it attempts to pick up where the Nexuiz project came to a halt. Due to recent events we felt the need to start with a clean slate, which will benefit everyone involved. Xonotic will stay true to the values we have grown to love about Nexuiz, namely high quality graphics and very fast gameplay.
+
+On March 3rd, 2010, game development company IllFonic[link] announced that they had acquired a commercial, closed-source license for Nexuiz[link], its engine (darkplaces[link]) and the rights to the games name and domain from Alientrap.  Much to the surprise of everyone who considered themselves part of Alientrap, only Lee Vermeulen (Nexuiz's original creator) was 'Alientrap' in this deal.  After exhausting all options for compromise with Lee and IllFonic, including an open letter from the community[link], it became clear that the deal had been finalized and the trust in leadership was gone.  A large portion of the community, including several major Nexuiz developers and contributors, joined together to continue development under a new name, to preserve freedoms and better distribute power for such decisions.
+
+While functionality-wise being a direct successor to Nexuiz, the Xonotic[link] project is a rethink and reorganization of how a community creates an open source video game and organizes the services around it. The idea is to bring game development and design under the community control and streamline the contribution process.  A major organizational structure change is that decisions affecting the game at large will be made by an elected group of three to six people, XSG (Xonotic Steering Group), with no single person maintaining total control.
+
+Without getting into much detail, a few other mentionable changes in planning are:
+
+Project Changes:
+# use of git versioning system instead of svn
+# better attention to marketing and public relations
+# a more defined artistic direction
+
+Game Changes:
+# new set of player models
+# new set of sounds
+# default maps will get a makeover
+# new names for some weapons and gamemodes, especially ones using the "nex" prefix
+
+While we don't have a specific timeline for the first release under the new title, you can track the progress and updates here, the new website[link] and on IRC:
+
+#xonotic on irc.quakenet.org - general discussion
+#xonotic on irc.freenode.org - development discussion
+
+We look forward to creating a game that everyone can feel a part of. You are very much welcome to help in any way you can, please contact us to discuss your ideas.
+
+The Xonotic team.

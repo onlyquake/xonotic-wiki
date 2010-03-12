@@ -1,8 +1,78 @@
+
+
+
+
+
+
+
 h1. Xonotic compatibility pack
 
 The following images and sounds have Nexuiz branding and 'n' logos or are associated with the Nexuiz game. They need to be changed ASAP.
 
-Some of these items may be deleted. If the they are (and not replaced), and are map-time data (like shader or textures) they need to go into the Nexuiz compatibility package.
+Some of these items may be deleted. If they are (and not replaced), and are map-time data (like shader or textures) they need to go into the Nexuiz compatibility package.
+
+h1. Xonotic compatibility pack 0.2
+
+h2. Images and Shaders
+
+data/gfx/loading.tga - needs a new logo
+data/gfx/sb_energy.tga - *not used*, kanji image
+data/gfx/sb_invinc.tga - *not used*, purple neon kanji image
+data/gfx/sb_kh_full.tga - *not used*, keyhunt key
+data/gfx/sb_kh_outline.tga - *not used*, keyhunt key
+data/gfx/sb_slowmo.tga - *not used*, kanji symbol
+data/gfx/sb_str.tga - *not used*, blue 'n' logo with a black background
+data/gfx/winner.tga - used by the campaign, black 'n' logo
+
+data/gfx/hud/sb_invinc.tga - purple neon kanji image
+data/gfx/hud/sb_kh_blue.tga - keyhunt key
+data/gfx/hud/sb_kh_pink.tga - keyhunt key
+data/gfx/hud/sb_kh_red.tga - keyhunt key
+data/gfx/hud/sb_kh_yellow.tga - keyhunt key
+data/gfx/hud/sb_str.tga - blue neon 'n' logo
+
+data/gfx/hud/menu/*/background.tga
+data/gfx/hud/menu/*/background_I*.tga
+data/gfx/hud/menu/*/skinpreview.jpg
+
+
+data/models/ctf/flags.md3 - the new ctf flag by ai, blue 'n' inside 2 spinnig gears, 'n' logo on end of innershaft
+data/models/ctf/radiant/flag_blue_radiant.md3 - ?
+data/models/ctf/radiant/flag_red_radiant.md3 - ?
+
+data/models/final_rage/lamp2.md3 - the texture has a 'n' logo
+
+data/models/misc/chatbubble.spr_0.tga - says GNU, GUN, NEX or NXE
+
+data/scripts/flags.shader - needs an alpha fix
+data/scripts/stralenex1.shader - dispays a panel with nexuiz
+
+data/textures/desertfactory_documents/note02.tga - mentions nexuiz
+
+data/textures/final_rage/lamp2*.tga - has a 'n' logo
+
+data/textures/flags/* - flag has a big n logo, other tga's have glowing blue n and 
+
+data/textures/stralenex1/slimepit_ad-3_glow*.jpg - says nexuiz
+
+data/textures/tznex01/* - stained glass has a blue or red 'n' logo
+
+mediasource/graphics/chatbubble.svg - NEX, NXE
+
+
+h2. Sounds
+
+data/sound/announcer/default/welcome.ogg - welcome to nexuiz
+
+data/sound/tutorial/10-at_corp_switch.ogg - mentions AT Corp
+
+
+h2. Text References
+
+data/nexuiz-credits.txt - remove some of the names!
+
+
+h1. Xonotic compatibility pack 0.1
 
 h2. Images
 
@@ -19,6 +89,7 @@ data/gfx/hud/sb_kh_pink.tga
 data/gfx/hud/sb_kh_red.tga
 data/gfx/hud/sb_kh_yellow.tga
 data/gfx/hud/sb_str.tga
+
 data/gfx/hud/menu/*/background.tga
 data/gfx/hud/menu/*/background_I*.tga
 data/gfx/hud/menu/*/skinpreview.jpg
@@ -27,9 +98,13 @@ data/models/misc/chatbubble.spr_0.tga
 
 data/textures/desertfactory_documents/note02.tga
 data/textures/desertfactory_documents/writing02.tga
+
 data/textures/flags/*
+
 data/textures/final_rage/lamp2_*.tga
+
 data/textures/stralenex1/slimepit_ad-3_glow*.jpg
+
 data/textures/tznex01/*
 
 h2. Sounds
@@ -37,8 +112,3 @@ h2. Sounds
 data/sound/announcer/default/welcome.ogg
 
 data/sound/tutorial/10-at_corp_switch.ogg
-
-
-h2. Text References
-
-[needed]

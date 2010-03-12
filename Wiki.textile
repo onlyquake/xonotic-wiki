@@ -12,7 +12,8 @@ Misc
 * [[IRC]] channels
 * [[Roadmap to v1]]
 
-Media 
+Art & Media 
+* [[Concept Art]]
 * How to get an animated mesh from [[Blender to DPM]]
 
 Tech

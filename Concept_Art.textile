@@ -2,7 +2,7 @@ h1. Concept Art
 
 h2. Logos and Emblems
 
-!http://dev.xonotic.org/attachments/8/xonotic_phoenix-1c.png!
-http://dev.xonotic.org/attachments/9/xonotic_phoenix-1c.svg
+!http://dev.xonotic.org/attachments/10/xonotic_phoenix-1c.png!
+http://dev.xonotic.org/attachments/11/xonotic_phoenix-1c.svg
 
 Phoenix 1b Concept by -z-

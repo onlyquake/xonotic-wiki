@@ -4,7 +4,6 @@
 
 
 
-
 h1. Xonotic compatibility pack
 
 The following images and sounds have Nexuiz branding and 'n' logos or are associated with the Nexuiz game. They need to be changed ASAP.
@@ -13,7 +12,7 @@ Some of these items may be deleted. If they are (and not replaced), and are map-
 
 h1. Xonotic compatibility pack 0.2
 
-h2. Images and Shaders
+h2. Images, Models and Shaders
 
 data/gfx/loading.tga - needs a new logo
 data/gfx/sb_energy.tga - *not used*, kanji image
@@ -39,6 +38,9 @@ data/gfx/hud/menu/*/skinpreview.jpg
 data/models/ctf/flags.md3 - the new ctf flag by ai, blue 'n' inside 2 spinnig gears, 'n' logo on end of innershaft
 data/models/ctf/radiant/flag_blue_radiant.md3 - ?
 data/models/ctf/radiant/flag_red_radiant.md3 - ?
+
+data/models/items/g_invincible.md3 - kanji
+data/models/items/g_strength.md3 - n
 
 data/models/final_rage/lamp2.md3 - the texture has a 'n' logo
 

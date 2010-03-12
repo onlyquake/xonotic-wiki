@@ -127,7 +127,7 @@ The Xonotic team.
 
 h1. v4, edited by merlijn
 
-Xonotic is a completely free (GPL) game, which runs on all mayor platforms including: Microsoft Windows, Mac OSX and Linux. It is not a new project, but it attempts to pick up where the Nexuiz project came to a halt. Due to recent events we felt the need to start with a clean slate, which will benefit everyone involved. Xonotic will stay true to the values we have grown to love about Nexuiz, namely high quality graphics and very fast gameplay.
+*Xonotic is a completely free (GPL) game, which runs on all mayor platforms including: Microsoft Windows, Mac OSX and Linux. It is not a new project, but it attempts to pick up where the Nexuiz project came to a halt. Due to recent events we felt the need to start with a clean slate, which will benefit everyone involved. Xonotic will stay true to the values we have grown to love about Nexuiz, namely high quality graphics and very fast gameplay.*
 
 On March 3rd, 2010, game development company IllFonic[link] announced that they had acquired a commercial, closed-source license for Nexuiz[link], its engine (darkplaces[link]) and the rights to the games name and domain from Alientrap.  Much to the surprise of everyone who considered themselves part of Alientrap, only Lee Vermeulen (Nexuiz's original creator) was 'Alientrap' in this deal.  After exhausting all options for compromise with Lee and IllFonic, including an open letter from the community[link], it became clear that the deal had been finalized and the trust in leadership was gone.  A large portion of the community, including several major Nexuiz developers and contributors, joined together to continue development under a new name, to preserve freedoms and better distribute power for such decisions.
 

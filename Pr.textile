@@ -87,7 +87,7 @@ h2. Summary
 # We want to keep an active flow of information among the team members and the managers
 # We look forward to creating a game that everyone will enjoy
 
-h2. Details or topics we will not mention in this announcement
+h2. Details or topics we will not mention in our announcement
 
 (better to spread out to future announcements)
 # Central user system

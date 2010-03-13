@@ -1,9 +1,28 @@
 h1. Public Relations
 
-Our first announcement of this project is coming immediately after illfonic first announces their Nexuiz game at GDC http://www.gdconf.com
-Their announcement could happen anytime during that conference, which is held March 9th - 13th.
+Our first announcement of this project is coming sometime after illfonic first unveils their Nexuiz game at GDC http://www.gdconf.com
+which is held March 9th - 13th.
 
-Here, we will organize the ideas behind our first project announcement.
+h2. Some supporting requirements before we make this announcement.
+
+* Setup IRC channels
+* Finish initial logo
+* Prepare website with at least 
+** a simple frontpage placeholder 
+** and a forum for answering questions
+* Setup twitter and facebook pages
+
+h2. This announcement will be pushed out through the following channels
+
+* through "HELP" system on popular Nexuiz servers, like Simba in Europe and HOCTF/HODM in US
+* Slashdot, digg, reddit and other social news sites
+* Nexuiz IRC channels and private messaging
+* Alientrap forum
+* Email or PM to key individuals who left Nexuiz long ago (Perhaps using AT or NN forum private messaging)
+
+While our official project announcement is going to be very neutral, the Slashdot/digg/reddit posts will reflect more of the community's overall impression of the illfonic issue.
+
+h2. Goals
 
 The main goal for this introductory announcement is to state *1) our reasons* and *2) our plans*, but we will focus more on our plans. This announcement shouldn't focus on finger-pointing. Rather, it should focus on our own values and the goals that we plan to accomplish with this new game. We will have to touch upon the *broken trust* that stemmed from decisions made behind closed doors. But our main goal for this announcement is to make our intentions clear, and, of course, to unveil the new name. We want to begin filling up our IRC channels and our website.
 

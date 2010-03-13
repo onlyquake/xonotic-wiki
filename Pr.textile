@@ -84,7 +84,7 @@ h2. Summary
 
 # We appreciate everyone's support
 # We will try to be open and supportive with new potential contributors (as opposed to "I'm too 1337 for you" attitude)
-# We want to keep an active flow of information among the team members and the managers
+# We want to keep an active flow of information among the team members
 # We look forward to creating a game that everyone will enjoy
 
 h2. Details or topics we will not mention in our announcement

@@ -11,6 +11,9 @@ h2. Some supporting requirements before we make this announcement.
 ** a simple frontpage placeholder 
 ** and a forum for answering questions
 * Setup twitter and facebook pages
+* a FAQ page focused on the fork
+** we'll add entries to it as we go
+** we'll refer people to this whenever we can
 
 h2. This announcement will be pushed out through the following channels
 

@@ -17,13 +17,13 @@ h2. Some supporting requirements before we make this announcement.
 
 h2. This announcement will be pushed out through the following channels
 
-* through "HELP" system on popular Nexuiz servers, like Simba in Europe and HOCTF/HODM in US
+* Through "HELP" system on popular Nexuiz servers, like Simba in Europe and HOCTF/HODM in US
 * Slashdot, digg, reddit and other social news sites
 * Nexuiz IRC channels and private messaging
 * Alientrap forum
 * Email or PM to key individuals who left Nexuiz long ago (Perhaps using AT or NN forum private messaging)
 
-While our official project announcement is going to be very neutral, the Slashdot/digg/reddit posts will reflect more of the community's overall impression of the illfonic issue.
+While our official project announcement is going to be very neutral, the Slashdot/digg/reddit posts will reflect more of the community's overall impression of the Illfonic issue.
 
 h2. Goals
 
@@ -38,46 +38,54 @@ h2. Words we will try to not use, or use limitedly:
 
 h2. What is going on?
 
-# a new game formed from the major contributors of Nexuiz GPL
-# the name of the game is Xonotic
-# the website is xonotic.org
-# irc channel is #xonotic on quakenet
+# A new game formed from the major contributors of Nexuiz GPL
+# The name of the game is Xonotic
+# The website is xonotic.org
+# IRC channel is #xonotic on quakenet
+# Development IRC channel is #xonotic @ freenode
 
 h2. Reasons
 
-# trust issues
-# a fresh start
-# focus on our values
+# Trust issues
+# A fresh start
+# Focus on our values
 
 h2. Project changes
 
-# restructure project leadership for more balance
-# improved project organization
-# more community focus
-# better attention to marketing and public relations
-# a more defined artistic direction
-# more emphasis on recruiting and communicating with new contributors to the project
+# Restructure project leadership for more balance
+# Improved project organization
+# More focus on the community 
+# Better management of marketing and public relations
+# A more defined artistic direction
+# More emphasis on recruiting and communicating with new contributors to the project
 
 h2. What will change in the game?
 
-# new set of player models
-# new set of sounds
-# default maps will get a makeover
-# new names for some weapons and gamemodes, especially ones using the "nex" prefix
+# New set of player models
+# New player animations
+# New set of sounds
+# Default maps will get a makeover
+# New names for some weapons and game modes
+# Improved bot AI system
+# Increased quality and detail of textures
 
 h2. Timeline
 
-# we can't give a timeline
-# instead, we will invite people to our IRC channels and to our website to keep updated
+# We can't give a timeline at this moment but we will try to produce our first release as soon as we can 
+# Instead, we will invite people to our IRC channels and to our website to keep updated
 
 h2. The name
 
-# some reasons why we chose the name
+# Uniqueness
+# Most voted by the team
+# Other reasons about why we chose the name
 
 h2. Summary
 
 # We appreciate everyone's support
-# We look forward to creating a game that everyone will enjoy.
+# We will try to be open and supportive with new potential contributors (as opposed to "I'm too 1337 for you" attitude)
+# We want to keep an active flow of information among the team members and the managers
+# We look forward to creating a game that everyone will enjoy
 
 h2. Details or topics we will not mention in this announcement
 

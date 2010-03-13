@@ -33,7 +33,7 @@ h3. Art
 * Splash image for the login / waiting screen on the forum
 * Website design
 
-h2. SSO (Single Sign On) Ideas 
+h2. SSO (Single Sign On) 
 
 (psychcf) After talking with z, here's what we know we want to do:
 * Have a centralized authentication system using LDAP

@@ -48,12 +48,14 @@ h1. Maps
 
 * aggressor, 
 * aggressor_ctf (with fixes and testing) -- possible expand? it's currently only good for ~2v2-3v3
+* courtfun? (shameless plug from me, SavageX). Reuses some content for desertfactory.
 * dance? (with some fixes)
 * desertfactory
 * eggandbacon (makeover)
 * egyptronex? (with some fixes?)
 * final_rage
 * gasolinepowered (makeover in progress)
+* greatwall_whatever?
 * Hotgrounds (needs some modelled cave-love)
 * killall_organic (with gameplay fixes or some parts totally redone)
 * lavaflag? (makeover)

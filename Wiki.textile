@@ -11,6 +11,7 @@ Misc
 * [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
 * [[IRC]] channels
 * [[Roadmap to v1]]
+* [[Website Planning]]
 
 Art & Media 
 * [[Concept Art]]

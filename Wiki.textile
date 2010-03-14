@@ -6,9 +6,10 @@ h2. Project
 
 * [[Pr|Public-Relations]] 
 * Our public [[Announcement]] drafts
-* Check out our [[plan|Game Plan So Far]] 
-* and notes from brainstorming [[names|ideas for names]]
+* Check out our [[plan|Project Plan So Far]] 
+* Notes from brainstorming [[names|ideas for names]]
 * Here is the [[Irclog|IRC Log]] (warning: it's very long)
+* New names for weapons [[NamesWeapons|discussion]]
 
 h2. Misc
 

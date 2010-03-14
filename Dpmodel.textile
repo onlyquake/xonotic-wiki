@@ -43,4 +43,4 @@ I think that comments explained it all quite well :)
 
 you run dpmodel.exe configfile.txt
 
-and that all
+and that's all

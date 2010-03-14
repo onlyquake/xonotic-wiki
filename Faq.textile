@@ -1,0 +1,75 @@
+h1. Ideas for the Xonotic announcement FAQ
+
+
+h2. What started the split from Nexuiz?
+
+Vermeulen (the one who started Nexuiz and the development group, Alientrap) decided to license the code of Nexuiz and the Darkplaces engine to a new game development company named Illfonic. Illfonic was to create a new game on the PS3 gaming console. Illfonic decided to use the name "Nexiz" for their game, and Vermeulen allowed them the use the Nexuiz.com domain for their game. The artwork and game code from this console game is not going to be contributed to the original Nexuiz project (now referred to as "Nexuiz GPL"). 
+
+Most of the Nexuiz contributors responded to this deal negatively, feeling that it was an example of Mushroom Management (link), which is generally not compatible with open source projects. This deal took place over the span of a year, and was done without any discussion with the major contributors/developers of nexuiz, the exception  being LordHavoc, one of the original Nexuiz developers, who worked on porting the game engine (Darkplaces) to PS3.
+
+Most Nexuiz contributors consider this a takeover of the name "Nexuiz" where the original Nexuiz (Nexuiz GPL) will eventually end up as an footnote next to the new game of Nexuiz.
+
+h2. What started the split from Nexuiz?
+
+h2. Was a compromise attempted?
+
+Yes, many in the Nexuiz community tried for compromises [link], some ideas included having Illfonic contribute some artwork and/or gamecode back to Nexuiz GPL and for them to use a suffix on their name, like "Nexuiz Reloaded" or a similar name. Illfonic did not go for these compromises. Many of the Nexuiz contributors were already disappointed in the management decisions of Alientrap and felt that compromises with Illfonic would not change that.
+
+h2. Is Illfonic going to release a Nexuiz PC edition?
+
+That is a question you will have to ask Illfonic. This FAQ is intended to answer questions directly about the Xonotic project.
+
+h2. How will the management of Xonotic differ from Alientrap/Nexuiz GPL?
+
+From the very start, we all discussed organizing the Xonotic Team with a handful of caretakers to make decisions on big/difficult issues for the game, and a committee underneath with community contributors who make decisions on most issues. The caretakers will also act to keep the project on track and maintain organization. All decisions will be made with input of the committee. The names of the caretakers are: 
+
+* DivVerent [GER] : Lead developer
+* -z- [US] : Lead web developer, Server admin
+* Dokujisan [US] : Community director, Server admin
+* tZork [SWE] : Developer, Server admin, Mapper, Modeler
+* mand1nga [ARG] : Developer
+* merlijn [HOL] : Server admin
+* Morphed [POL] : Modeler, Developer
+
+h2. Do you despise Vermuelen, LordHavoc or Illfonic?
+
+*No!* Without the past work of Vermuelen and LordHavoc, we would not have the game that we enjoy today. We wish them the best of luck in their endeavors. We hope Illfonic's Nexuiz on PS3 is successful. We simply had a difference of opinion on project management and the result is going to be very positive; We're forming a game project that matches what we wanted out of Nexuiz all along.
+
+h2. When will the first release arrive?
+
+We don't have a deadline (even a vague one) set for that. We are working out which features and changes we want in the game, and which of those we would want in our first release.
+
+h2. How and why did you choose the name?
+
+Brainstorming of the name started on day 1 of  our discussions, and the process took about 4-5 days.
+
+We had about 30 key community members onboard at the time of the name choosing. We all submitted ideas and voted on the best names. Some names were ruled out because of domain availability and name-conflicts with other software projects or companies in the software industry. Some names were ruled out because of how common they were in Google searches. Xonotic was a unique name with an available .com/.net/.org and google search results were almost none.
+
+h2. How and why did you choose the logo?
+
+The logo design process took about a week, with a handful of people contributing designs, and constantly adjusting those designs based on feedback.
+
+The phoenix image of the logo is obviously refers to  "rising from the ashes". 
+
+Another aspect of the logo is the center ring, which has some similarities to the Quake logo; it has a fatter bottom edge and thinner top edge, though quake didn't use a complete ring shape. This is intended as a pay of respect to the Quake origins of the game, as the Darkplaces engine was originally based on the Quake 1 engine. 
+
+h2. Is Xonotic going to continue with Nexuiz version numbers, or start with a version 1.0?
+
+We will reset the version numbering to v1.0. We may release a v0.9 to start, with a plan for features that would go into a v1.0
+
+h2. What is going to be different between Xonotic and the current Nexuiz GPL?
+
+* New player models
+* New set of default maps
+* New sounds and music
+* Some maps are getting a makeover
+* Some weapons and gamemodes will get renamed (especially anything with "Nex" in the name)
+* Some weapon models may change
+
+h2. Will gameplay change at all? (Physics, etc)
+
+We will likely tweak this overtime, but not likely for our first release. We like the basics of Nexiuz gameplay, but things could be improved.
+
+h2. Are you forking Darkplaces (the game engine)
+
+We don't intend to do this. If we have any changes that we need to submit to Darkplaces, we're optimistic that those changes will be accepted as long as it improves the engine. If we end up having changes to Darkplaces rejected, then we may have to revisit this question.

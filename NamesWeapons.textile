@@ -1,0 +1,36 @@
+h1. New names for weapons
+
+Suggest your names below each weapon
+
+h3. Laser
+
+Pulse, Pulse Gun
+
+h3. Shotgun
+
+Do we want to rename this?
+
+h3. Machinegun
+
+Do we want to rename this?
+
+h3. Mortar
+
+Grenade Launcher
+
+h3. Plasma Gun
+
+
+h3. Crylink
+
+h3. Hagar
+
+h3. Nexgun
+
+h3. Rocket Launcher
+
+h3. Minstanex
+
+h3. HLAC
+
+h3. Portal Gun

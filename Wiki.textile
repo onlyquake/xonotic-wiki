@@ -4,6 +4,7 @@ This is a wiki / development system where we can gather information for the futu
 
 h2. Project
 
+* [[Faq|Frequently Asked Questions]] 
 * [[Pr|Public-Relations]] 
 * Our public [[Announcement]] drafts
 * Check out our [[plan|Project Plan]] so far

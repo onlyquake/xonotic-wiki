@@ -25,6 +25,7 @@ h2. Art & Media
 * [[Concept Art]]
 * How to get an animated mesh from [[Blender to DPM]]
 * We could potentially use "IQM":http://lee.fov120.com/iqm/ (needs testing!)
+* [[Player Model Spec]]
 
 h2. References
 

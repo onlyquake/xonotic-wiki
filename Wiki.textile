@@ -21,8 +21,14 @@ h2. Art & Media
 
 * [[Concept Art]]
 * How to get an animated mesh from [[Blender to DPM]]
+* We could potentially use "IQM":http://lee.fov120.com/iqm/ (needs testing!)
 
-h2. Technology
+h2. References
 
 * [[Introduction to QuakeC]]
-* We could potentially use "IQM":http://lee.fov120.com/iqm/ (needs testing!)
+* [[democapture|Capturing video clips and using the demo camera]]
+* [[Textures|Textures know-how]]
+* [[Weapons|Weapons know-how]]
+* [[Polycounts|Polygon count]] on Weapons and Models
+* [[framegroups|.framegroups]] file (allow self playing animations) know-how 
+* [[dpmodel|How to compile dpm models]]

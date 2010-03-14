@@ -15,7 +15,7 @@ h2. Misc
 
 * [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
 * [[IRC]] channels
-* [[Roadmap to v1]]
+* "Roadmap to v1":http://dev.xonotic.org/versions/show/3
 * [[Website]] Plannning
 
 h2. Art & Media 

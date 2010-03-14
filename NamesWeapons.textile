@@ -29,6 +29,8 @@ h3. Nexgun
 
 h3. Rocket Launcher
 
+Devastator
+
 h3. Minstanex
 
 h3. HLAC

@@ -2,21 +2,27 @@ h1. Xonotic Wiki
 
 This is a wiki / development system where we can gather information for the future of this project.
 
+h2. Project
+
 * [[Pr|Public-Relations]] 
 * Our public [[Announcement]] drafts
 * Check out our [[plan|Game Plan So Far]] 
 * and notes from brainstorming [[names|ideas for names]]
 * Here is the [[Irclog|IRC Log]] (warning: it's very long)
 
-Misc
+h2. Misc
+
 * [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
 * [[IRC]] channels
 * [[Roadmap to v1]]
 * [[Website]] Plannning
 
-Art & Media 
+h2. Art & Media 
+
 * [[Concept Art]]
 * How to get an animated mesh from [[Blender to DPM]]
 
-Tech
+h2. Technology
+
+* [[Introduction to QuakeC]]
 * We could potentially use "IQM":http://lee.fov120.com/iqm/ (needs testing!)

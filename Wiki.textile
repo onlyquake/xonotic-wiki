@@ -31,3 +31,4 @@ h2. References
 * [[Polycounts|Polygon count]] on Weapons and Models
 * [[framegroups|.framegroups]] file (allow self playing animations) know-how 
 * [[dpmodel|How to compile dpm models]]
+* "Q3A Shader Manual":http://toolz.nexuizninjaz.com/shader/

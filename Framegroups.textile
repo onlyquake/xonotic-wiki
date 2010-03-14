@@ -1,0 +1,24 @@
+h1. .framegroups
+
+This file is needed to make md3 or dpm model play some animations in Xonotic
+
+
+you name it <modelname.extension>.framegroups
+
+for model dog.dpm you will name it dog.dpm.framegroups
+
+inside you have definitions of animations
+each line is one animation
+
+syntax:
+<start frame> <frame count> <fps> <loop/noloop>
+
+for example 
+1 100 30 1 
+means 100 frame animation that start at frame 1, plays at 30 frames per second and it loops for ever :)
+
+if you make 1 looping animation and place model on map as misc_gamemodel it will be animated
+
+for coders:
+to play such self playing animation you just use self.frame=1 to play 1st animation, self.frame=2 to play 2nd animation, etc
+if its not looping it will just stop at last frame and stay there until you run other animation

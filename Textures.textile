@@ -1,0 +1,39 @@
+h1. Textures in Xonotic
+
+There are 2 material systems in Xonotic that can work together
+
+First is just based by texture name, it reads texture suffix
+
+> texturename.tga
+> > diffuse texture
+
+> texturename_norm.tga
+> > normal map
+> > > Xonotic uses tangent space normal map with inverted Y channel (OpenGL style)
+
+> > > you can put height map in normal maps alpha channel and it will be used when offset or relief mapping is on
+
+> texturename_bump.tga
+> > bump map
+> > > normal map have higher priority and it will overwrite bump map
+
+> > > its wise to convert your bump map to normal map, because that way you can have higher roughness since height of each bump map is limited by cvar
+
+> texturename_gloss
+> > specular, shininess strength
+> > > it can use colour 
+> texturename_glow
+> > fullbright map or self-illumination map or Incadesence map or how know how else its called :)
+> > > this textures specify areas that will always have 100% lighting, they will be very bright and will glow in the dark
+
+> texturename_pants
+> > primary colour 
+> > > this one tells what part of texture will use custom colour
+
+> > > make it grayscale and leave same area 100% black in diffuse texture
+
+> texturename_shirt
+> > secondary color
+
+Second material system is simplified Quake 3™ shader system 
+the only difference is that you can use only 1 pass

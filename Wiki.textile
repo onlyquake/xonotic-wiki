@@ -28,7 +28,6 @@ h2. References
 * [[Introduction to QuakeC]]
 * [[democapture|Capturing video clips and using the demo camera]]
 * [[Textures|Textures know-how]]
-* [[Weapons|Weapons know-how]]
 * [[Polycounts|Polygon count]] on Weapons and Models
 * [[framegroups|.framegroups]] file (allow self playing animations) know-how 
 * [[dpmodel|How to compile dpm models]]

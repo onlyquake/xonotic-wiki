@@ -26,12 +26,12 @@ From the very start, we all discussed organizing the Xonotic Team with a handful
 * Dokujisan [US] : Community director, Server admin
 * tZork [SWE] : Developer, Server admin, Mapper, Modeler
 * mand1nga [ARG] : Developer
-* merlijn [HOL] : Server admin
+* merlijn [HOL] : Developer, Server admin
 * Morphed [POL] : Modeler, Developer
 
-h2. Do you despise Vermuelen, LordHavoc or Illfonic?
+h2. Do you despise Vermeulen, LordHavoc or Illfonic?
 
-*No!* Without the past work of Vermuelen and LordHavoc, we would not have the game that we enjoy today. We wish them the best of luck in their endeavors. We hope Illfonic's Nexuiz on PS3 is successful. We simply had a difference of opinion on project management and the result is going to be very positive; We're forming a game project that matches what we wanted out of Nexuiz all along.
+*No!* Without the past work of Vermeulen and LordHavoc, we would not have the game that we enjoy today. We wish them the best of luck in their endeavors. We hope Illfonic's Nexuiz on PS3 is successful. We simply had a difference of opinion on project management and the result is going to be very positive; We're forming a game project that matches what we wanted out of Nexuiz all along.
 
 h2. When will the first release arrive?
 

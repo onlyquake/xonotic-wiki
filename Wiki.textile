@@ -10,6 +10,8 @@ h2. Project
 * Notes from brainstorming [[names|ideas for names]]
 * Here is the [[Irclog|IRC Log]] (warning: it's very long)
 * New names for weapons [[NamesWeapons|discussion]]
+* [[Organizational Structure]] (still being defined)
+
 
 h2. Misc
 

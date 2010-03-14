@@ -1,0 +1,542 @@
+h1. QuakeC
+
+{{>toc}}
+
+h2. Article TODO
+
+* fix formatting
+* expand explanations
+
+h2. About QuakeC
+
+QuakeC is a very simplified dialect of the well-known C programming language, as used by Quake. Xonotic uses the FTEQCC dialect of QuakeC, so only this one will be described (as well as some common extensions among Quake engines).
+
+h2. Example code
+
+To see what QuakeC looks like, here is an example:
+
+<pre><code class="c">
+  // needed declarations:
+  float vlen(vector v) = #12;
+  entity nextent(entity e) = #47;
+  .string classname;
+  .vector origin;
+  // ...
+  entity findchain(.string fld, string match)
+  {
+    entity first, prev;
+    entity e;
+    first = prev = world;
+    for(e = world; (e = nextent(e)); ++e)
+      if(e.fld == match)
+      {
+        e.chain = world;
+        if(prev)
+          prev.chain = e;
+        else
+          first = e;
+        prev = e;
+      }
+    return first;
+  }
+  // ...
+  entity findnearestspawn(vector v)
+  {
+    entity nearest;
+    entity e;
+    for(e = findchain(classname, "info_player_deathmatch"); e; e = e.chain)
+      if(!nearest)
+        nearest = e;
+      else if(vlen(e.origin - v) < vlen(nearest.origin - v))
+        nearest = e;
+    return nearest;
+  }
+</code></pre>
+(Note: _findchain_ is implemented in QuakeC for demonstration purposes only so one can see how to build a linked list, as this function is already built in to the engine and can be used directly)
+
+h2. Other resources
+
+Here is a forum on Inside3D where you can read more about QuakeC and ask questions.
+* QuakeC Forum on Inside3D: http://forums.inside3d.com/viewforum.php?f=2
+* QC Tutorial for Absolute Beginners: http://forums.inside3d.com/viewtopic.php?t=1286
+
+For available functions in QuakeC, look in the following places:
+
+* The Quakery: http://quakery.quakedev.com/qwiki/index.php/List_of_builtin_functions
+* Xonotic source: "builtins.qh":http://svn.icculus.org/Xonotic/trunk/data/qcsrc/server/builtins.qh?view=markup for Quake functions, "extensions.qh":http://svn.icculus.org/Xonotic/trunk/data/qcsrc/server/extensions.qh?view=markup for DarkPlaces extensions.
+
+
+h1. Variables
+
+h2. Declaring
+
+To declare a variable, the syntax is the same as in C:
+
+  float i;
+
+However, variables cannot be initialized in their declaration for historical reasons, and trying to do so would define a constant.
+
+Whenever a variable declaration could be interpreted as something else by the compiler, the _var_ keyword helps disambiguating. For example,
+
+  float(float a, float b) myfunc;
+
+is an old-style function declaration, while
+
+  var float(float a, float b) myfunc;
+
+declares a variable of function type. An alternate and often more readable way to disambiguate variable declarations is using a _typedef_:
+
+  typedef float(float, float) myfunc_t;
+  myfunc_t myfunc;
+
+h2. Scope
+
+A variable declared in the global scope has global scope, and is visible starting from its declaration to the end of the code. The order the code is read in by the compiler is defined in the file %%progs.src%%.
+
+A variable declared inside a function has function scope, and is visible starting from its declaration to the end of the function (**not** to the end of the block).
+
+Some variables are declared in "sys.qh":http://svn.icculus.org/Xonotic/trunk/data/qcsrc/server/sys.qh?view=markup. Their declarations or names should never be changed, as they have to match the order and names of the variables in the file file "progdefs.h":http://svn.icculus.org/twilight/trunk/darkplaces/progdefs.h?view=markup of the engine exactly, or the code won't load. The special markers _end_sys_globals_ and _end_sys_fields_ are placed to denote the end of this shared declaration section.
+
+h1. Types
+
+Quake only knows four elementary data types: the basic types _float_, _vector_, _string_, and the object type _entity_. Also, there is a very special type of types, _fields_, and of course _functions_. FTEQCC also adds _arrays_, although these are slow and a bit buggy. Note that there are no pointers!
+
+h2. float
+
+This is the basic numeric type in QuakeC. It represents the standard 32bit floating point type as known from C. It has 23 bits of mantissa, 8 bits of exponent, and one sign bit. The numeric range goes from about 1.175e-38 to about 3.403e+38, and the number of significant decimal digits is about six.
+
+As float has 23 bits of mantissa, it can also be used to safely represent integers in the range from -16777216 to 16777216. 16777217 is the first integer _float_ can not represent.
+
+Common functions for _float_ are especially _ceil_, _floor_ (working just like in C, rounding up/down to the next integer), and _random_, which yields a random number _r_ with _0 %%<=%% r < 1_.
+
+h2. vector
+
+This type is basically three floats together. By declaring a _vector v_, you also create three floats _v_x_, _v_y_ and _v_z_ (note the underscore) that contain the components of the vector.
+
+Vectors can be used with the usual mathematical operators in the usual way used in mathematics. For example, _vector + vector_ simply returns the sum of the vectors, and _vector * float_ scales the vector by the given factor. Note however that dividing a vector by a float is NOT supported, one has to use //vector * (1 / float)// instead. Multiplying two vectors yields their dot product of type float.
+
+Common functions to be used on vectors are _vlen_ (vector length), _normalize_ (vector divided by its length, i.e. a unit vector).
+
+Vector literals are written like '1 0 0'.
+
+**COMPILER BUG:** always use //vector = vector * float_ instead of _vector *= float//, as the latter creates incorrect code.
+
+h2. string
+
+A _string_ in QuakeC is an immutable reference to a null-terminated character string stored in the engine. It is not possible to change a character in a string, but there are various functions to create new strings:
+
+_ftos_ and _vtos_ convert _floats_ and _vectors_ to strings. Their inverses are, of course, _stof_ and _stov_, which parse a _string_ into a _float_ or a _vector_.
+
+_strcat_ concatenates 2 to 8 strings together, as in //strcat("a", "b", "c") == "abc"//
+
+_strstrofs(haystack, needle, offset)_ searches for an occurence of one string in another, as in //strstrofs("haystack", "ac", 0) == 5_. The offset defines from which starting position to search, and the return value is _-1_ if no match is found. The offset returned is _0_-based, and to search in the whole string, a start offset of _0// would be used.
+
+_substring(string, startpos, length)_ returns part of a string. The offset is _0_-based here, too.
+
+Note that there are different kinds of _strings_, regarding memory management:
+* Temporary strings are strings returned by built-in string handling functions such as _substring_, _strcat_. They last only for the duration of the function call from the engine. That means it is safe to return a temporary string in a function you wrote, but not to store them in global variables or objects as their storage will be overwritten soon.
+* Allocated strings are strings that are explicitly allocated. They are returned by _strzone_ and persist until they are freed (using _strunzone_). Note that _strzone_ does not change the string given as a parameter, but returns the newly allocated string and keeps the passed temporary string the same way! That means:
+** To allocate a string, do for example //myglobal = strzone(strcat("hello ", "world"));//
+** To free the string when it is no longer needed, do: //strunzone(myglobal);//
+* Engine owned strings, such as _netname_. These should be treated just like temporary strings: if you want to keep them in your own variables, _strzone_ them.
+* Constant strings. A string literal like //"foo"_ gets permanent storage assigned by the compiler. There is no need to _strzone// such strings.
+* The null string. A global uninitialized _string_ variable has the special property that is is usually treated like the constant, empty, string //""// (so using it does not constitute an error), but it is the only string that evaluates to FALSE in an if expression (but not in the ! operator - in boolean context, the string "" counts as FALSE too). As this is a useful property, Xonotic code declares such a string variable of the name _string_null_. That means that the following patterns are commonly used for allocating strings:
+** Assigning to a global string variable: //if(myglobal) strunzone(myglobal); myglobal = strzone(...);//
+** Freeing the global string variable: //if(myglobal) strunzone(myglobal); myglobal = string_null;//
+** Checking if a global string value has been set: //if(myglobal) { value has been set; } else { string has not yet been set; }//
+
+h2. entity
+
+The main object type in QuakeC is _entity_, a reference to an engine internal object. An _entity_ can be imagined as a huge struct, containing many _fields_. This is the only object type in the language. However, _fields_ can be added to the _entity_ type by the following syntax:
+
+//.float myfield;//
+
+and then all objects _e_ get a field that can be accessed like in _e.myfield_.
+
+The special entity _world_ also doubles as the _null_ reference. It can not be written to other than in the _spawnfunc_worldspawn_ function that is run when the map is loaded, and is the only entity value that counts as _false_ in an _if_ expression. Thus, functions that return _entities_ tend to return _world_ to indicate failure (e.g. _find_ returns _world_ to indicate no more entity can be found).
+
+If a field has not been set, it gets the usual zero value of the type when the object is created (i.e. _0_ for _float_, _string_null_ for _string_, //'0 0 0'_ for _vector_, and _world_ for _entity//).
+
+h2. fields
+
+A reference to such a field can be stored too, in a field variable. It is declared and used like
+<pre>
+  .float myfield;
+  // ...
+  // and in some function:
+  var .float myfieldvar;
+  myfieldvar = myfield;
+  e.myfieldvar = 42;
+</pre>Field variables can be used as function parameters too - in that case you leave the _var_ keyword out, as it is not needed for disambiguation.
+
+h2. functions
+
+Functions work just like in C:
+<pre>
+  float sum3(float a, float b, float c)
+  {
+    return a + b + c;
+  }</pre>
+
+However, the syntax to declare function pointers is simplified:
+<pre>
+  typedef float(float, float, float) op3func_t;
+  var float(float a, float b, float c) f;
+  op3func_t g;
+  f = sum3;
+  g = f;
+  print(ftos(g(1, 2, 3)), "\n"); // prints 6</pre>
+
+Also note that the _var_ keyword is used again to disambiguate from a global function declaration.
+
+In original QuakeC by Id Software, this simplified function pointer syntax also was the only way to define functions (you may still encounter this in Xonotic code in a few places):
+
+<pre>
+  float(float a, float b) sum2 = {
+    return a + b;
+  }</pre>
+
+A special kind of functions are built-in functions (defined by the engine). These are imported using so-called built-in numbers, with a syntax like
+<pre>
+  string strcat(string a, string b, ...) = #115;
+</pre>
+h2. void
+
+Just like in C, the _void_ type is a special placeholder type to declare that a function returns nothing. However, unlike in C, it is possible to declare variables of this type, although the only purpose of this is to declare a variable name without allocating space for it. The only occasion where this is used is the special _end_sys_globals_ and _end_sys_fields_ marker variables.
+
+h2. arrays
+
+As the QuakeC virtual machine provides no pointers or similar ways to handle arrays, array support is added by FTEQCC and very limited. Arrays can only be global, must have a fixed size (not dynamically allocated), and are a bit buggy and slow. Almost as great as in FORTRAN, except they can't be multidimensional either!
+
+You declare arrays like in C:
+<pre>
+  #define MAX_ASSASSINS 16
+  entity assassins[MAX_ASSASSINS];
+  #define BTREE_MAX_CHILDREN 5
+  .entity btree_child[BTREE_MAX_CHILDREN];
+  #define MAX_FLOATFIELDS 3
+  var .float myfloatfields[MAX_FLOATFIELDS];
+</pre>
+The former is a global array of entities and can be used the usual way:
+<pre>
+  assassins[self.assassin_index] = self;
+</pre>
+The middle one is a global array of (allocated and constant) entity fields and **not** a field of array type (which does not exist), so its usage looks a bit strange:
+
+  for(i = 0; i < BTREE_MAX_CHILDREN; ++i)
+    self.(btree_child[i]) = world;
+
+Note that this works:
+
+  var .entity indexfield;
+  indexfield = btree_child[i];
+  self.indexfield = world;
+
+The latter one is a global array of (assignable) entity field variables, and looks very similar:
+
+  myfloatfields[2] = health;
+  self.(myfloatfields[2]) = 0;
+  // equivalent to self.health = 0;
+
+Do not use arrays when you do not need to - using both arrays and function calls in the same expression can get messed up (**COMPILER BUG**), and arrays are slowly emulated using functions _ArrayGet*myfloatfields_ and _ArraySet*myfloatfields_ the compiler generates that internally do a binary search for the array index.
+
+h1. Peculiar language constructs
+
+This section deals with language constructs in FTEQCC that are not similar to anything in other languages.
+
+h2. if not
+
+There is a second way to do a negated _if_:
+
+  if not(expression)
+    ...
+
+It compiles to slightly more efficient code than
+
+  if(!expression)
+    ...
+
+and has the notable difference that
+
+  if not("")
+    ...
+
+will not execute (as //""_ counts as true in an _if// expression), but
+
+  if(!"")
+    ...
+
+will execute (as both //""_ and _string_null// is false when boolean operators are used on it)..
+
+
+h1. Common patterns
+
+Some patterns in code that are often encountered in Xonotic are listed here, in no particular order.
+
+h2. Classes in Quake
+
+The usual way to handle classes in Quake is using _fields_, function pointers and the special property _classname_.
+
+But first, let's look at how the engine creates entities when the map is loaded.
+
+Assume you have the following declarations in your code:
+
+  entity self;
+  .string classname;
+  .vector origin;
+  .float height;
+
+and the engine encounters the entity
+
+  {
+  "classname" "func_bobbing"
+  "height" "128"
+  "origin" "0 32 -64"
+  }
+
+then it will, during loading the map, behave as if the following QuakeC code was executed:
+
+  self = spawn();
+  self.classname = "func_bobbing";
+  self.height = 128;
+  self.origin = '0 32 -64';
+  spawnfunc_func_bobbing();
+
+We learn from this:
+  * The special global _entity_ variable _self_ is used when "methods" of an object are called, like - in this case - the "constructor" or spawn function _spawnfunc_func_bobbing_.
+  * Before calling the spawn function, the engine sets the mapper specified fields to the values. String values can be treated by the QC code as if they are constant strings, that means there is no need to _strzone_ them.
+  * Spawn functions always have the _spawnfunc__ name prefix and take no arguments.
+  * The _string_ field _classname_ always contains the name of the entity class when it was created by the engine.
+  * As the engine uses this pattern when loading maps and this can't be changed, it makes very much sense to follow this pattern for all entities, even for internal use. Especially making sure _classname_ is set to a sensible value is very helpful.
+
+Methods are represented as fields of function type:
+
+  .void() think;
+
+and are assigned to the function to be called in the spawn function, like:
+
+  void func_bobbing_think()
+  {
+    // lots of stuff
+  }
+
+  void spawnfunc_func_bobbing()
+  {
+    // ... even more stuff ...
+    self.think = func_bobbing_think;
+  }
+
+To call a method of the same object, you would use
+
+  self.think();
+
+but to call a method of another object, you first have to set _self_ to that other object, but you typically need to restore _self_ to its previous value when done:
+
+  entity oldself;
+  // ...
+  oldself = self;
+  self.think();
+  self = oldself;
+
+h2. Think functions
+
+A very common entry point to QuakeC functions are so-called think functions.
+
+They use the following declarations:
+
+  .void() think;
+  .float nextthink;
+
+If _nextthink_ is not zero, the object gets an attached timer: as soon as _time_ reaches _nextthink_, the _think_ method is called with _self_ set to the object. Before that, _nextthink_ is set to zero. So a typical use is a periodic timer, like this:
+
+  void func_awesome_think()
+  {
+    bprint("I am awesome!\n");
+    self.nextthink = time + 2;
+  }
+
+  void spawnfunc_func_awesome()
+  {
+    // ...
+    self.think = func_awesome_think;
+    self.nextthink = time + 2;
+  }
+
+h2. Find loops
+
+One common way to loop through entities is the find loop. It works by calling a built-in function like
+
+  entity find(entity start, .string field, string match) = #18;
+
+repeatedly. This function is defined as follows:
+
+  * if _start_ is _world_, the first entity _e_ with //e.field == match// is returned
+  * otherwise, the entity _e_ **after** _start_ in the entity order with //e.field == match// is returned
+  * if no such entity exists, _world_ is returned
+
+It can be used to enumerate all entities of a given type, for example //"info_player_deathmatch"//:
+
+  entity e;
+  for(e = world; (e = find(e, classname, "info_player_deathmatch")); )
+    print("Spawn point found at ", vtos(e.origin), "\n");
+
+There are many other functions that can be used in find loops, for example _findfloat_, _findflags_, _findentity_.
+
+Note that the function _findradius_ is misnamed and is not used as part of a find loop, but instead sets up a linked list of the entities found.
+
+h2. Linked lists
+
+An alternate way to loop through a set of entities is a linked list. I assume you are already familiar with the concept, so I'll skip information about how to manage them.
+
+It is however noteworthy that some built-in functions create such linked lists using the _entity_ field _chain_ as list pointer. Some of these functions are the aforementioned _findradius_, and _findchain_, _findchainfloat_, _findchainflags_ and _findchainentity_.
+
+A loop like the following could be used with these:
+
+  entity e;
+  for(e = findchain(classname, "info_player_deathmatch"); e; e = e.chain)
+    print("Spawn point found at ", vtos(e.origin), "\n");
+
+The main advantage of linked lists however is that you can keep them in memory by using other fields than _chain_ for storing their pointers. That way you can avoid having to search all entities over and over again (which is what _find_ does internally) when you commonly need to work with the same type of entities.
+
+h2. Error handling
+
+Error handling is virtually not existent in Quake C code. There is no way to throw and handle exceptions.
+
+However, built-in functions like _fopen_ return _-1_ on error.
+
+To report an error condition, the following means are open to you:
+  * Use the _print_ function to spam it to the console. Hopefully someone will read that something went wrong. After that, possibly use _remove_ to delete the entity that caused the error (but make sure there are no leftover references to it!).
+  * Use the _error_ function to abort the program code and report a fatal error with a backtrace showing how it came to it.
+  * Use the _objerror_ function to abort spawning an entity (i.e. removing it again). This also prints an error message, and the entity that caused the error will not exist in game. Do not forget to _return_ from the spawn function directly after calling _objerror_!
+
+h2. target and targetname
+
+In the map editor, entities can be connected by assigning a name to them in the _target_ field of the targeting entity and the _targetname_ field of the targeted entity.
+
+To QuakeC, these are just strings - to actually use the connection, one would use a find loop:
+
+  entity oldself;
+  oldself = self;
+  for(self = world; (self = find(self, targetname, oldself.target)); )
+    self.use();
+  self = oldself;
+
+
+h2. the enemy field and its friends
+
+As the find loop for _target_ and _targetname_ causes the engine to loop through all entities and compare their _targetname_ field, it may make sense to do this only once when the map is loaded.
+
+For this, a common pattern is using the pre-defined _enemy_ field to store the target of an entity.
+
+However, this can't be done during spawning of the entities yet, as the order in which entities are loaded is defined by the map editor and tends to be random. So instead, one should do that at a later time, for example when the entity is first used, in a think function, or - the preferred way in the Xonotic code base - in an _InitializeEntity_ function:
+
+  void teleport_findtarget()
+  {
+    // ...
+    self.enemy = find(world, targetname, self.target);
+    if(!self.enemy)
+      // some error handling...
+    // ...
+  }
+
+  void spawnfunc_trigger_teleport()
+  {
+    // ...
+    InitializeEntity(self, teleport_findtarget, INITPRIO_FINDTARGET);
+    // ...
+  }
+
+_InitializeEntity_ functions are guaranteed to be executed at the beginning of the next frame, before the _think_ functions are run, and are run in an order according to their priorities (the _INITPRIO__ constants).
+
+h2. if-chains
+
+With default compile options (i.e. if the option _-flo_ is not passed to the compiler), boolean expressions are evaluated fully. This means that in
+
+  if(!flag && SomeComplexFunction(self))
+    ...
+
+_SomeCompexFunction_ is always evaluated, even if _flag_ is true. To avoid this, one can use:
+
+  if(!flag)
+  if(SomeComplexFunction(self))
+    ...
+
+h2. Tracing
+
+
+h1. Pitfalls, compiler bugs
+
+h2. complex operators
+
+Do not count on the modifying and reading operators like //+=_ or _++// to always work. Using them in simple cases like
+
+  a += 42;
+  for(i = 0; i < n; ++i)
+    ...
+
+is generally safe, but complex constructs like
+
+  self.enemy.frags += self.value--;
+
+are doomed. Instead, split up such expressions into simpler steps:
+
+  self.enemy.frags = self.enemy.frags + self.value;
+  self.value -= 1;
+
+The compiler warning **RETURN VALUE ALREADY IN USE** is a clear indicator that an expression was too complex for it to deal with it correctly. If you encounter the warning, do make sure you change the code to no longer cause it, as the generated code **will** be incorrect then.
+
+Also, do not use the //+=_ like operators on _vector_s, as they are known to create incorrect code and only operate on the _x// component of the vector.
+
+h2. functions vs arrays
+
+Mixing function calls with array dereferencing, or doing more than one array dereferencing in the same expression, is known to create incorrect code. Avoid constructs like
+
+  print(ftos(floatarray[i]), " --> ", stringarray[i], anotherstringarray[i], "\n");
+
+as the array dereferencings and the ftos return value are likely to overwrite each other. Instead, simplify it:
+
+  float f;
+  string s, s2;
+  // ...
+  f = floatarray[i];
+  s = stringarray[i];
+  s2 = anotherstringarray[i];
+  print(ftos(f), " --> ", s, s2, "\n");
+
+h2. vectoangles does not match makevectors
+
+The pitch angle is inverted between these two functions. You have to negate the pitch (i.e. the _x_ component of the vector representing the euler angles) to make it fit the other function.
+
+As a rule of thumb, _vectoangles_ returns angles as stored in the _angles_ field (used to rotate entities for display), while _makevectors_ expects angles as stored in the _v_angle_ field (used to transmit the direction the player is aiming). There is about just as much good reason in this as there is for 1:1 patch cables, just deal with it.
+
+h1. Entry points
+
+The server-side code calls the following entry points of the QuakeC code:
+
+  * _void ClientDisconnect()_: called when a player leaves the server. Do not forget to _strunzone_ all _strings_ stored in the player entity here, and do not forget to clear all references to the player!
+  * _void SV_Shutdown()_: called when the map changes or the server is quit. A good place to store persistent data like the database of race records.
+  * _void SV_ChangeTeam(float newteam)_: called when a player changes his team. Can be used to disallow team changes, or to clear the player's scores.
+  * _void ClientKill()_: called when the player uses the "kill" console command to suicide.
+  * _void RestoreGame()_: called directly after loading a save game. Useful to, for example, load the databases from disk again.
+  * _void ClientConnect()_: called as soon as a client connected, has downloaded everything, and is ready to play. The typical place to initialize the player entity.
+  * _void PutClientInServer()_: called when the client requests to spawn. Typically puts the player somewhere on the map and lets him play.
+  * _.float SendEntity(entity to, float sendflags)_: called when the engine requires a CSQC networked entity to send itself to a client, referenced by _to_. Should write some data to _MSG_ENTITY_. _FALSE_ can be returned to make the entity not send. See EXT_CSQC for information on this.
+  * _void URI_Get_Callback(...)_:
+  * _void GameCommand(string command)_: called when the "sv_cmd" console command is used, which is commonly used to add server console commands to the game. It should somehow handle the command, and print results to the server console.
+  * _void SV_OnEntityNoSpawnFunction()_: called when there is no matching spawn function for an entity. Just ignore this...
+  * _void SV_OnEntityPreSpawnFunction_: called before even looking for the spawn function, so you can even change its classname in there. If it remove()s the entity, the spawn function will not be looked for.
+  * _void SV_OnEntityPostSpawnFunction_: called ONLY after its spawn function or SV_OnEntityNoSpawnFunction was called, and skipped if the entity got removed by either.
+  * _void SetNewParms()_:
+  * _void SetChangeParms()_: 
+  * _.float customizeentityforclient()_: called for an entity before it is going to be sent to the player specified by _other_. Useful to change properties of the entity right before sending, e.g. to make an entity appear only to some players, or to make it have a different appearance to different players.
+  * _.void touch()_: called when two entities touch; the other entity can be found in _other_. It is of course called two times (the second time with _self_ and _other_ reversed).
+  * _.void contentstransition()_:
+  * _.void think()_: described above, basically a timer function.
+  * _.void blocked()_: called when a _MOVETYPE_PUSH_ entity is blocked by another entity. Typically does either nothing, reverse the direction of the door moving, or kills the player who dares to step in the way of the Mighty Crusher Door.
+  * _.void movetypesteplandevent()_: called when a player hits the floor.
+  * _.void PlayerPreThink()_: called before a player runs his physics. As a special exception, _frametime_ is set to 0 if this is called for a client-side prediction frame, as it still will get called for server frames.
+  * _.void PlayerPreThink()_: called after a player runs his physics. As a special exception, _frametime_ is set to 0 if this is called for a client-side prediction frame, as it still will get called for server frames.
+  * _void StartFrame()_: called at the beginning of each server frame, before anything else is done.
+  * _void EndFrame()_: called at the end of each server frame, just before waiting until the next frame is due.
+  * _void SV_PlayerPhysics()_: allows to replace the player physics by your own code. The movement the player requests can be found in the _vector_ field _movement_, and the currently pressed buttons are in various fields whose names are aliased to the _BUTTON__ macros.
+  * _void SV_ParseClientCommand(string command)_: handles commands sent by the client to the server using "cmd ...". Unhandled commands can be passed to the built-in function _clientcommand_ to execute the normal engine behaviour.

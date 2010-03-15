@@ -13,7 +13,7 @@ It should also be noted that IllFonic's code may be in violation of the GPL as m
 
 h2. Was a compromise attempted?
 
-Yes, many in the Nexuiz community tried to reach a compromise [link], such as having Illfonic contribute some artwork and/or gamecode back to Nexuiz GPL and for them to use a derivative name for their project, e.g. "Nexuiz Reloaded". Illfonic flatly refused all such suggestions. This, along with the clear stance that Alientrap has taken on this issue, has made it clear that no compromise could be reached.
+Yes, many in the Nexuiz community tried to reach a compromise [link], such as having Illfonic contribute some artwork and/or gamecode back to Nexuiz GPL and for them to use a derivative name for their project, e.g. "Nexuiz Reloaded". Illfonic flatly refused all such suggestions. This, along with the clear stance that Alientrap has taken on this issue, made it clear that no compromise could be reached.
 
 h2. Is Illfonic going to release a Nexuiz PC edition?
 

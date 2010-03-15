@@ -57,12 +57,16 @@ We will reset the version numbering to v1.0. We may release a v0.9 to start, wit
 
 h2. What is going to be different between Xonotic and the current Nexuiz GPL?
 
+* A more unified and consistent art direction
 * New player models and animations
 * New set of default maps, some of them will get a makeover
 * New sounds and music
 * New stronger bot AI
 * Low quality textures will be dropped and replaced with higher quality ones
 * Some weapon models may be changed
+* More frequent releases
+* Global player stats tracking system, supporting anonymous player as well
+* So much more ...
 
 h2. Will gameplay change at all? (Physics, etc)
 

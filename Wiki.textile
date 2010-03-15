@@ -28,6 +28,7 @@ h2. Art & Media
 ** "Dokujisan":http://www.nullgaming.com/stuff/x/
 ** "Spaceman":http://leela.org.uk/xonotic/index.htm
 ** Morphed "1":http://img688.imageshack.us/img688/2221/xonoticlogo9.jpg "2":http://img708.imageshack.us/img708/8302/xonoticlogo8.jpg "3":http://www.morphed.planetnexuiz.com/xonotich264v3.mp4
+** MirceaKitsune "1-blue":http://dev.xonotic.org/attachments/download/17/logo_idea_5.jpg "1-orange":http://dev.xonotic.org/attachments/download/18/logo_idea_7.jpg "1-source":http://dev.xonotic.org/attachments/download/19/xonotic_logo1_mirceakitsune.psd
 * How to get an animated mesh from [[Blender to DPM]]
 * We could potentially use "IQM":http://lee.fov120.com/iqm/ (needs testing!)
 * [[Player Model Spec]]

@@ -8,7 +8,8 @@ Pulse, Pulse Gun
 
 h3. Shotgun
 
-Do we want to rename this?
+Do we want to rename this? 
+Maybe rename as super shotgun and make it separate.
 
 h3. Machinegun
 

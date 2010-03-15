@@ -33,11 +33,12 @@ h2. Community/Project Management
 
 Dokujisan
 -z-
+C.Brutail
 
 h2. Moderators
 
 -z-
-CubeOwl
+C.Brutail
 dokujisan
 esteel
 Grasshopper
@@ -50,7 +51,7 @@ h2. Mappers
 
 Clueless Newbie
 cortez666
-CubeOwl
+C.Brutail
 cuinnton
 Diabolik
 djsupport
@@ -107,12 +108,12 @@ jscinoz
 Kadaverjack
 Willis
 
-h2. Nexuiz Admins
+h2. Server Admins
 
 -z-
 aurix
 bones_was_here
-CubeOwl
+C.Brutail
 Dokujisan
 esteel
 FruitieX

@@ -88,3 +88,36 @@ While we don't have a specific timeline for the first release under the new titl
 We look forward to creating a game that everyone can feel a part of. You are very much welcome to help in any way you can, please contact us to discuss your ideas.
 
 The Xonotic team.
+
+h1. v5, edited by Dokujisan
+
+We would like to formally announce the arrival of a new free-software (GPL) game project called *Xonotic*. Xonotic is a fast-paced, first-person shooter that runs on Microsoft Windows, Mac OSX and Linux. This project is a derivative of the *Nexuiz project*[link], which has recently undergone some troublesome changes[link] that has left many of the core contributors feeling the project has been mishandled[link]. As a result, we felt the need to organize this departure to start with a clean slate. 
+
+*Xonotic*[link] will place focus on the things we love about Nexuiz, but also extend our goals to become the game that many thought Nexuiz should have been.
+
+While functionality-wise being a direct successor to Nexuiz, the *Xonotic*[link] project is a rethink and reorganization of how a community creates an open source video game and organizes the services around it. The idea is to bring game development and design under community control and improve the contribution process. The organizational structure will make sure that no single person ever maintains total control of the project.
+
+Some of the plans so far include:
+
+*Project Changes:*
+# use of GIT versioning system instead of SVN
+# better attention to marketing and public relations
+# a more defined artistic direction
+# more emphasis on recruiting
+# better organization of contributors
+# more focus on community activities (tournaments, contests, etc)
+
+*Game Changes:*
+# new set of player models
+# new set of sounds
+# new music
+# default maps will get a makeover
+# new names for weapons and gamemodes (especially ones using the "nex" prefix)
+
+While we don't have a specific timeline for the first release under the new title, you can track the progress and updates on our website[link], on twitter[link], facebook[link] and in IRC: #xonotic on irc.quakenet.org
+
+Before you visit us in IRC, please visit our FAQ page[link] for more detailed information about this project.
+
+We look forward to creating a game that everyone can feel a part of. You are very much welcome to help in any way you can. We appreciate all of your support.
+
+The Xonotic team.

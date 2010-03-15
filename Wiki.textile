@@ -12,7 +12,7 @@ h2. Project
 * Here is the [[Irclog|IRC Log]] (warning: it's very long)
 * New names for weapons [[NamesWeapons|discussion]]
 * [[Organizational Structure]] (still being defined)
-* [[Team Xonotic members]] Who we are, and what do we do
+* [[Roles|Roles and Skills]] of contributing community members
 
 h2. Misc
 

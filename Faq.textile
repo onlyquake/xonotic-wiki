@@ -72,6 +72,6 @@ h2. Will gameplay change at all? (Physics, etc)
 
 We will likely tweak this overtime, but not likely for our first release. We like the basics of Nexiuz gameplay, but things could be improved.
 
-h2. Are you forking Darkplaces (the game engine)
+h2. Are you forking Darkplaces? (the game engine)
 
 We don't intend to do this. If we have any changes that we need to submit to Darkplaces, we're optimistic that those changes will be accepted as long as it improves the engine. If we end up having changes to Darkplaces rejected, then we may have to revisit this question.

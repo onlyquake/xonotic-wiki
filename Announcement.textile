@@ -121,3 +121,44 @@ Before you visit us in IRC, please visit our FAQ page[link] for more detailed in
 We look forward to creating a game that everyone can feel a part of. You are very much welcome to help in any way you can. We appreciate all of your support.
 
 The Xonotic team.
+
+
+
+h1. v6 edited by Xeno
+
+All too often the paths that lie ahead of us lead us to crossroads which we had not foreseen. The Nexuiz [link] community recently arrived at such a crossroad [link] and after much discussion many of us have decided that it was time for a fresh start in a new direction, a direction which stays true to all that which has taken us so far while eliminating that which has held us back. This new direction will focus on the momentum of our community and reforge the project around it
+
+It is therefore with great pleasure that we formally announce the birth of Xonotic [link], a free (GPL), fast-paced first-person shooter and spiritual successor to Nexuiz. Xonotic is a rethink of the Nexuiz project which recognizes that the community around it is its principle driving force and which will restructure itself to respect that. In particular this means that there will be no single person with total control over the project. In additon to the sharper focus on the community, Xonotic will also pursue a clearer agenda which includes the following:
+
+# a more defined artistic direction
+# better organization of contributors
+# more emphasis on recruiting
+# more focus on community activities (tournaments, contests, etc)
+# use of GIT versioning control instead of SVN
+# better attention to marketing and public relations
+
+
+This agenda will lead to the following game changes in the short term:
+
+# new set of player models
+# new set of sounds
+# new music
+# makeover of default maps
+# new names for weapons and gamemodes
+
+
+We do not yet have a fixed timeline but work is well underway and we hope to have a release ready soon. You can track our progress, receive updates and contact us via our website[link], twitter[link], facebook[link] and IRC (#xonotic on irc.quakenet.org).
+
+More detailed information about this project is available in our FAQ [link]
+
+
+
+The Xonotic team.
+
+
+> h1. Notes
+
+> # This is just a first draft
+> # Perhaps add a passage about who the Xonotic team is (Nexuiz developers, contributors, etc) and an open invitation to for others to get involved.
+> # I've re-ordered the project changes to place emphasis on the community focus and artistic direction of the project. Most users couldn't care less about the VCS or general PR but will be excited about a new artistic direction and more contributions.
+> # Maybe change "birth" to "launch".

@@ -35,6 +35,8 @@ Devastator
 
 h3. Minstanex
 
+Gauss Rifle, Rail Gun, Minsta Gun
+
 h3. HLAC
 
 h3. Portal Gun

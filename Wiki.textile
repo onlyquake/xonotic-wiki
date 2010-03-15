@@ -25,7 +25,7 @@ h2. Art & Media
 
 * Logo proposals
 ** -z- [[Concept Art]]
-** "Dokujizan":http://www.nullgaming.com/stuff/x/
+** "Dokujisan":http://www.nullgaming.com/stuff/x/
 ** "Spaceman":http://leela.org.uk/xonotic/index.htm
 ** Morphed "1":http://img688.imageshack.us/img688/2221/xonoticlogo9.jpg "2":http://img708.imageshack.us/img708/8302/xonoticlogo8.jpg "3":http://www.morphed.planetnexuiz.com/xonotich264v3.mp4
 * How to get an animated mesh from [[Blender to DPM]]

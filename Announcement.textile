@@ -149,7 +149,7 @@ This agenda will lead to the following game changes in the short term:
 
 We do not yet have a fixed timeline but work is well underway and we hope to have a release ready soon. You can track our progress, receive updates and contact us via our website[link], twitter[link], facebook[link] and IRC (#xonotic on irc.quakenet.org).
 
-More detailed information about this project is available in our FAQ [link]
+More detailed information about the project is available in our FAQ [link]
 
 
 

@@ -38,3 +38,5 @@ h3. Minstanex
 h3. HLAC
 
 h3. Portal Gun
+
+h3. Fireball Gun

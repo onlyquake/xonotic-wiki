@@ -34,6 +34,7 @@ h2. Community/Project Management
 Dokujisan
 -z-
 C.Brutail
+mand1nga
 
 h2. Moderators
 
@@ -125,3 +126,8 @@ merlijn
 MrBougo
 pavlvs
 rabs
+
+h2. Release engineering
+
+divVerent
+mand1nga

@@ -19,9 +19,9 @@ h3. Mortar
 
 Grenade Launcher
 
-h3. Plasma Gun
+h3. Electro
 
-Isn't it called Electro?
+Plasma gun
 
 h3. Crylink
 
@@ -40,3 +40,5 @@ h3. HLAC
 h3. Portal Gun
 
 h3. Fireball Gun
+
+h3. Rifle

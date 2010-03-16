@@ -43,7 +43,7 @@ h2. References
 * [[dpmodel|How to compile dpm models]]
 * "Q3A Shader Manual":http://toolz.nexuizninjaz.com/shader/
 
-h1. Editing
+h2. Editing
 
 In this section you'll find lots of helpfull information about editing Xonotic in general, let that be coding, texturing, modelling, mapping, creating sound and music etc.
 

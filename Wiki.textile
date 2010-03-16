@@ -51,4 +51,4 @@ In this section you'll find lots of helpfull information about editing Xonotic i
 * [[2d art]]
 * [[Modelling]]
 * [[Mapping]]
-* [Sound FX and music]]
+* [[Sound FX and music]]

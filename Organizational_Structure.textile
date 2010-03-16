@@ -24,4 +24,8 @@ h2. Process of elections
 
 needs explanation (both of the leaders and community members). How long do board members serve?
 
+h2. Ownership of contributions
+
+Maybe we should have some explicit definition stating that any community contributions belong to those who contributed it, not by the project leaders. The only thing is that this may lead to problems when making decisions that effect the whole project (eg license change or something). 
+
 THIS PAGE IS IN PROGRESS

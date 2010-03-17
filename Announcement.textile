@@ -134,7 +134,7 @@ It is therefore with great pleasure that we formally announce the birth of *"Xon
 # better organization of contributors
 # more emphasis on recruiting
 # more focus on community activities (tournaments, contests, etc)
-# use of GIT versioning control instead of SVN
+# use of Git versioning control instead of SVN
 # better attention to marketing and public relations
 
 

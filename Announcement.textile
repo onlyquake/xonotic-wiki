@@ -126,9 +126,9 @@ The Xonotic team.
 
 h1. v6 edited by Xeno
 
-The Nexuiz [link] community recently arrived at a difficult crossroad [link] and after much discussion many of us have decided that it was time for a fresh start in a new direction, a direction which stays true to all that which has taken us so far while eliminating that which has held us back. This new direction will focus on the momentum of our community and reforge the project around it.
+The *"Nexuiz":http://alientrap.org/nexuiz* community recently arrived at a difficult *"crossroad":http://alientrap.org/forum/viewtopic.php?f=1&t=6043* and after much discussion, many of us have decided that it was time for a fresh start in a new direction, a direction which stays true to all that which has taken us so far while eliminating that which has held us back. This new direction will focus on the momentum of our community and reforge the project around it.
 
-It is therefore with great pleasure that we formally announce the birth of Xonotic [link], a free (GPL), fast-paced first-person shooter and direct successor to Nexuiz. Xonotic is a rethink of the Nexuiz project which recognizes that the community around it is its principle driving force and which will restructure itself to respect that. In particular this means that there will be no single person with total control over the project. In additon to the sharper focus on the community, Xonotic will also pursue a clearer agenda which includes the following:
+It is therefore with great pleasure that we formally announce the birth of *"Xonotic":http://xonotic.org*, a free (GPL), fast-paced first-person shooter and direct successor to Nexuiz. Xonotic is a rethink of the Nexuiz project which recognizes that the community around it is its principle driving force and which will restructure itself to respect that. In particular this means that there will be no single person with total control over the project. In additon to the sharper focus on the community, Xonotic will also pursue a clearer agenda which includes the following:
 
 # a more defined artistic direction
 # better organization of contributors
@@ -147,9 +147,9 @@ This agenda will lead to the following game changes in the short term:
 # new names for weapons and gamemodes
 
 
-We do not yet have a fixed timeline but work is well underway and we hope to have a release ready soon. You can track our progress, receive updates and contact us via our website[link], twitter[link], facebook[link] and IRC (#xonotic on irc.quakenet.org).
+We do not yet have a fixed timeline but work is well underway and we hope to have a release ready soon. You can track our progress, receive updates and contact us via our *"website":http://xonotic.org*, *"twitter":http://twitter.com/xonotic*, *"facebook":http://facebook.com/xonotic* and IRC (#xonotic on irc.quakenet.org).
 
-More detailed information about the project is available in our FAQ [link]
+More detailed information about the project is available in *"our FAQ":http://xonotic.org/faq*
 
 
 

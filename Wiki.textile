@@ -33,6 +33,9 @@ h2. Art & Media
 * We could potentially use "IQM":http://lee.fov120.com/iqm/ (needs testing!)
 * [[Player Model Spec]]
 
+* [[Music]]
+* [[Sounds]]
+
 h2. References
 
 * [[Introduction to QuakeC]]

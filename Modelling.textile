@@ -1,6 +1,6 @@
 h1. Modeling
 > h2. Blender when exporting to iqm
-> > h3. Example files
+> > h3. Needed/Example files
 > > > * //Will be added
 > > h3. Before You Start
 > > > * use the bbox.blend in order to see the size that your model should be. Iqm exporter scale function untested.

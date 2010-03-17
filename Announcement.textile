@@ -61,11 +61,11 @@ The Xonotic team.
 
 h1. v4, edited by merlijn
 
-*Xonotic is a free software (GPL) game project, which runs on Microsoft Windows, Mac OSX and Linux. It is not a new project, but it attempts to pick up where the Nexuiz project came to a halt. Due to recent events we felt the need to start with a clean slate, which will benefit everyone involved. Xonotic will stay true to the values we have grown to love about Nexuiz, namely high quality graphics and very fast gameplay.*
+*"Xonotic":http://xonotic.org is a free software (GPL) game project, which runs on Microsoft Windows, Mac OSX and Linux. It is not a new project, but it attempts to pick up where the "Nexuiz project":http://alientrap.org/nexuiz came to a halt. Due to recent events, we felt the need to start with a clean slate which will benefit everyone involved. Xonotic will stay true to the values we have grown to love about Nexuiz, namely high quality graphics and very fast gameplay.*
 
-On March 3rd, 2010, game development company IllFonic[link] announced that they had acquired a commercial, closed-source license for Nexuiz[link], its engine (darkplaces[link]) and the rights to the games name and domain from Alientrap.  Much to the surprise of everyone who considered themselves part of Alientrap, only Lee Vermeulen (Nexuiz's original creator) was 'Alientrap' in this deal.  After exhausting all options for compromise with Lee and IllFonic, including an open letter from the community[link], it became clear that the deal had been finalized and the trust in leadership was gone.  A large portion of the community, including several major Nexuiz developers and contributors, joined together to continue development under a new name, to preserve freedoms and better distribute power for such decisions.
+On March 3rd, 2010, game development company *"IllFonic":http://illfonic.com* announced that they had acquired a commercial, closed-source license for *"Nexuiz":http://alientrap.org/nexuiz*, its engine ("darkplaces":http://icculus.org/twilight/darkplaces/) and the rights to the games name and domain from Alientrap.  Much to the surprise of everyone who considered themselves part of Alientrap, only Lee Vermeulen (Nexuiz's original creator) was 'Alientrap' in this deal.  After exhausting all options for compromise with Lee and IllFonic, including an open letter from the community *[link no longer exists]*, it became clear that the deal had been finalized and the trust in leadership was gone.  A large portion of the community, including several major Nexuiz developers and contributors, joined together to continue development under a new name, to preserve freedoms and better distribute power for such decisions.
 
-While functionality-wise being a direct successor to Nexuiz, the Xonotic[link] project is a rethink and reorganization of how a community creates an open source video game and organizes the services around it. The idea is to bring game development and design under the community control and streamline the contribution process.  A major organizational structure change is that decisions affecting the game at large will be made by an elected group of three to six people, XSG (Xonotic Steering Group), with no single person maintaining total control.
+While functionality-wise being a direct successor to Nexuiz, the *"Xonotic project":http://xonotic.org* is a rethink and reorganization of how a community creates an open source video game and organizes the services around it. The idea is to bring game development and design under the community control and streamline the contribution process.  A major organizational structure change is that decisions affecting the game at large will be made by an elected group of three to six people, XSG (Xonotic Steering Group), with no single person maintaining total control.
 
 Without getting into much detail, a few other mentionable changes in planning are:
 
@@ -91,11 +91,11 @@ The Xonotic team.
 
 h1. v5, edited by Dokujisan
 
-We would like to formally announce the arrival of a new free-software (GPL) game project called *Xonotic*. Xonotic is a fast-paced, first-person shooter that runs on Microsoft Windows, Mac OSX and Linux. This project is a derivative of the *Nexuiz project*[link], which has recently undergone some troublesome changes[link] that has left many of the core contributors feeling the project has been mishandled[link]. As a result, we felt the need to organize this departure to start with a clean slate. 
+We would like to formally announce the arrival of a new free-software (GPL) game project called *"Xonotic":http://xonotic.org*. Xonotic is a fast-paced, first-person shooter that runs on Microsoft Windows, Mac OSX and Linux. This project is a derivative of the *"Nexuiz project":http://alientrap.org/nexuiz* , which has recently undergone some troublesome *"changes":http://dev.xonotic.org/projects/xonotic/wiki/Faq#What-prompted-the-split-from-Nexuiz* that has left many of the core contributors feeling the project has been *"mishandled":http://alientrap.org/forum/viewtopic.php?f=1&t=6043*. As a result, we felt the need to organize a departure to start with a clean slate. 
 
-*Xonotic*[link] will place focus on the things we love about Nexuiz, but also extend our goals to become the game that many thought Nexuiz should have been.
+*"Xonotic":http://xonotic.org* will place focus on the things we love about Nexuiz, but also extend our goals to become the game that many thought Nexuiz should have been.
 
-While functionality-wise being a direct successor to Nexuiz, the *Xonotic*[link] project is a rethink and reorganization of how a community creates an open source video game and organizes the services around it. The idea is to bring game development and design under community control and improve the contribution process. The organizational structure will make sure that no single person ever maintains total control of the project.
+While functionality-wise being a direct successor to Nexuiz, the *"Xonotic":http://xonotic.org* project is a rethink and reorganization of how a community creates an open source video game and organizes the services around it. The idea is to bring game development and design under community control and improve the contribution process. The organizational structure will make sure that no single person ever maintains total control of the project.
 
 Some of the plans so far include:
 
@@ -114,9 +114,9 @@ Some of the plans so far include:
 # default maps will get a makeover
 # new names for weapons and gamemodes (especially ones using the "nex" prefix)
 
-While we don't have a specific timeline for the first release under the new title, you can track the progress and updates on our website[link], on twitter[link], facebook[link] and in IRC: #xonotic on irc.quakenet.org
+While we don't have a specific timeline for the first release under the new title, you can track the progress and updates on *"our website":http://xonotic.org*, on *"twitter":http://twitter.com/xonotic* , *"facebook":http://facebook.com/xonotic* and in IRC: #xonotic on irc.quakenet.org
 
-Before you visit us in IRC, please visit our FAQ page[link] for more detailed information about this project.
+Before you visit us in IRC, please visit our *"FAQ Page":http://xonotic.org/faq* for more detailed information about this project.
 
 We look forward to creating a game that everyone can feel a part of. You are very much welcome to help in any way you can. We appreciate all of your support.
 

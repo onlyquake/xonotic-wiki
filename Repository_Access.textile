@@ -14,7 +14,7 @@ sh all-update.sh
 
 After that, you have a working checkout of the repository.
 
-h2. Getting write access
+h3. Getting write access
 
 To apply for write access, make an issue of type "Support" in the category "Repository" and attach your public SSH key to it.
 
@@ -32,3 +32,7 @@ If you already have a checkout, you would do:
 git config remote.origin.url ssh://xonotic@git.xonotic.org/xonotic.git
 sh all-update.sh
 </code>
+
+h2. Windows
+
+TODO info for TortoiseGit

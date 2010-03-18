@@ -12,6 +12,8 @@ cd xonotic
 sh all-update.sh
 </code>
 
+After that, you have a working checkout of the repository.
+
 h2. Getting write access
 
 To apply for write access, make an issue of type "Support" in the category "Repository" and attach your public SSH key to it.

@@ -33,6 +33,8 @@ git config remote.origin.url ssh://xonotic@git.xonotic.org/xonotic.git
 sh all-update.sh
 </code>
 
+After that, you can write to the reposiotry using the usual git commands (commit, push).
+
 h2. Windows
 
 TODO info for TortoiseGit

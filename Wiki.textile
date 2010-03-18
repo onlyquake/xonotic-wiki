@@ -13,6 +13,7 @@ h2. Project
 * New names for weapons [[NamesWeapons|discussion]]
 * [[Organizational Structure]] (still being defined)
 * [[Roles|Roles and Skills]] of contributing community members
+* [[Repository Access]]
 
 h2. Misc
 

@@ -9,7 +9,7 @@ First, you install git using your favorite package manager. Then:
 <pre>
 git clone git://git.xonotic.org/xonotic/xonotic.git
 cd xonotic
-sh all-update.sh
+./all update
 </pre>
 
 After that, you have a working checkout of the repository.
@@ -23,14 +23,14 @@ To cleanly check out then, you would do:
 <pre>
 git clone ssh://xonotic@git.xonotic.org/xonotic.git
 cd xonotic
-sh all-update.sh
+./all update
 </pre>
 
 If you already have a checkout, you would do:
 
 <pre>
 git config remote.origin.url ssh://xonotic@git.xonotic.org/xonotic.git
-sh all-update.sh
+./all update
 </pre>
 
 After that, you can write to the reposiotry using the usual git commands (commit, push).

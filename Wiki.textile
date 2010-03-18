@@ -8,6 +8,7 @@ h2. Project
 * [[Pr|Public-Relations]] 
 * Our public [[Announcement]] drafts
 * Check out our [[plan|Project Plan]] so far
+** [[Before Announcement|Actions to do]] before the announcement
 * Notes from brainstorming [[names|ideas for names]]
 * Here is the [[Irclog|IRC Log]] (warning: it's very long)
 * New names for weapons [[NamesWeapons|discussion]]

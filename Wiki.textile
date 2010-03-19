@@ -7,6 +7,8 @@ h2. Project
 * [[Faq|Frequently Asked Questions]] 
 * [[Pr|Public-Relations]] 
 * Our public [[Announcement]] drafts
+* [[Announcement vote]]
+* [[Announcement vote results]]
 * Check out our [[plan|Project Plan]] so far
 ** [[Before Announcement|Actions to do]] before the announcement
 * Notes from brainstorming [[names|ideas for names]]

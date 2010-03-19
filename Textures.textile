@@ -2,38 +2,49 @@ h1. Textures in Xonotic
 
 There are 2 material systems in Xonotic that can work together
 
-First is just based by texture name, it reads texture suffix
+h2. System one
 
-> texturename.tga
-> > diffuse texture
+First is based by texture name, it reads texture suffix
 
-> texturename_norm.tga
-> > normal map
-> > > Xonotic uses tangent space normal map with inverted Y channel (OpenGL style)
+*Diffuse texture*
+* *filename*: texturename.tga
+* The diffuse texture, not much to say.
 
-> > > you can put height map in normal maps alpha channel and it will be used when offset or relief mapping is on
+*Normal map* 
+* *filename*: texturename_norm.tga
+* Xonotic uses OpenGL style tangent space normal map. (Inverted Y/green channel)
+* You can put height map in normal maps alpha channel and it will be used when offset or relief mapping is on.
 
-> texturename_bump.tga
-> > bump map
-> > > normal map have higher priority and it will overwrite bump map
+*Alpha channel*
+* *filename*: texturename / texturename_norm in 32bit (tga). Alpha channel is loaded from image file.
+* *filename*: texturename_alpha.jpg *note ONLY works with jpg at the moment*
 
-> > > its wise to convert your bump map to normal map, because that way you can have higher roughness since height of each bump map is limited by cvar
 
-> texturename_gloss
-> > specular, shininess strength
-> > > it can use colour 
-> texturename_glow
-> > fullbright map or self-illumination map or Incadesence map or how know how else its called :)
-> > > this textures specify areas that will always have 100% lighting, they will be very bright and will glow in the dark
+*Bump map*
+* *filename*: texturename_bump.tga
+* Normal map have higher priority and it will overwrite bump map
+* Its wise to convert your bump map to a normal map, because that way you can have higher roughness since height of all bump map is limited by cvar
 
-> texturename_pants
-> > primary colour 
-> > > this one tells what part of texture will use custom colour
+*Specular, shininess strength*
+* *filename*: texturename_gloss
+* Can use colour 
 
-> > > make it grayscale and leave same area 100% black in diffuse texture
+*Fullbright map / self-illumination map*
+* *filename*: texturename_glow
+* This textures specify areas that will always render shadeless, they will be very bright and will glow in the dark.
 
-> texturename_shirt
-> > secondary color
+*Custom / Team colour*
+* *filename*: texturename_pants
+* Primary colour 
+* This one tells what part of texture will use custom colour. 
+* Make it grayscale and leave same area 100% black in diffuse texture.
 
-Second material system is simplified Quake 3™ shader system 
-the only difference is that you can use only 1 pass
+* *filename*: texturename_shirt
+* Same as texturename_pants, for secondary colour.
+
+h2. System two
+
+Second material system is simplified Quake 3™ shader system.
+The main difference is that you can use only 1 pass, with a few exceptions:
+* Lightmap pass is allowed 
+* Blend shaders are allowed (blending two diffuse textures + lightmap). Same syntax as in quake3.

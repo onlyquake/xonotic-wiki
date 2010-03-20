@@ -72,6 +72,15 @@ Pushes your changes.. The script will ask you what to push, etc..
 ./all checkout
 </pre>
 
+h3. Further git information
+
+About tracking remote branches:
+
+http://www.gitready.com/beginner/2009/03/09/remote-tracking-branches.html
+
+A tutorial for SVN users:
+
+http://git-scm.org/course/svn.html
 
 h2. Windows
 

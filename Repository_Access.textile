@@ -44,7 +44,7 @@ h2. Windows
 
 TODO info for TortoiseGit
 
-h3. Working with the helper script all
+h3. Working with the helper script "all"
 
 To make working with the repo a little easier there's a little helper script (it's called all, as mentioned in above clone commands). It supports the following commands:
 

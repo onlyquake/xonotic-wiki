@@ -53,7 +53,7 @@ To make working with the repo a little easier there's a little helper script (it
 
 The normal workflow for working on a contribution is the following:
 
-n4. 1. Get up to date
+h4. 1. Get up to date
 
 <pre>./all update</pre>
 

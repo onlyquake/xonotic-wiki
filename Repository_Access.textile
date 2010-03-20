@@ -18,6 +18,7 @@ h3. Getting write access
 
 A condition for write (push) access is that you agree that any code or data you push will be licensed under the General Public License, version 2, with or without the "or any later version" clause. In case the directory the changes apply to contains a LICENSE or COPYING file indicating another license, your pushed code has to be dual licensed appropriately. Subdirectories currently having a dual license:
 * data/qcsrc/warpzonelib - dual licensed as "GPLv2 or later" or MIT license.
+In case code you pushed was not written by you, it is your responsibility to ensure proper licensing.
 
 To apply for write access, make an issue of type "Support" in the category "Repository" and attach your public SSH key to it.
 

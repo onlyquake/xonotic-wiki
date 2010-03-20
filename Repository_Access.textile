@@ -53,25 +53,25 @@ To make working with the repo a little easier there's a little helper script (it
 
 The normal workflow for working on a contribution is the following:
 
-1. Get up to date
+n4. 1. Get up to date
 
 <pre>./all update</pre>
 
 This makes sure you are up to date. And should lessen the merging horror that might ensue when you try to push..
 
-2. Create a branch
+h4. 2. Create a branch
 
 <pre>./all branch <your branch name here></pre>
 
 Then work on your changes, commit locally, etc, until you are happy..
 
-3. Push changes to the main repo
+h4. 3. Push changes to the main repo
 
 <pre>./all push</pre>
 
 This asks you what to push, etc.. This might fail, if in the meantime someone else has worked on the same branch. You will need to use git merge manually for the time being to resolve possible conflicts..
 
-4. Go back to 1.
+h4. 4. Go back to 1.
 
 
 h2. Windows

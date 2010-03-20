@@ -40,10 +40,6 @@ git config remote.origin.url ssh://xonotic@git.xonotic.org/xonotic.git
 
 After that, you can write to the reposiotry using the usual git commands (commit, push).
 
-h2. Windows
-
-TODO info for TortoiseGit
-
 h3. Working with the helper script "all"
 
 To make working with the repo a little easier there's a little helper script (it's called all, as mentioned in above clone commands). It supports the following commands:
@@ -66,3 +62,8 @@ Then work on your changes, commit locally, etc, until you are happy..
 ./all push
 
 This asks you what to push, etc.. This might fail, if in the meantime someone else has worked on the same branch. You will need to use git merge manually for the time being to resolve possible conflicts..
+
+
+h2. Windows
+
+TODO info for TortoiseGit

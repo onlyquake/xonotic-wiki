@@ -42,22 +42,31 @@ After that, you can write to the reposiotry using the usual git commands (commit
 
 h3. Working with the helper script "all"
 
-TODO: Work on this to actually not be wrong!
-
 To make working with the repo a little easier there's a little helper script (it's called all, as mentioned in above clone commands). It supports the following commands:
 
 <pre>
 ./all update
 </pre>
 
+This command updates all the xonotic repositories.
+
 <pre>
 ./all branch
 </pre>
 
+Lists the branches you are currrently on, in the respective repositories
+
+<pre>
+./all branches
+</pre>
+
+Lists all the branches known for all the respective repositories
 
 <pre>
 ./all push
 </pre>
+
+Pushes your changes.. The script will ask you what to push, etc..
 
 <pre>
 ./all checkout

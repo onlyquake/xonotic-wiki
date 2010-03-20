@@ -48,33 +48,20 @@ To make working with the repo a little easier there's a little helper script (it
 
 <pre>
 ./all update
-./all branch
-./all push
-./all checkout
 </pre>
 
-The normal workflow for working on a contribution is the following:
-
-h4. 1. Get up to date
-
-<pre>./all update</pre>
-
-This makes sure you are up to date. And should lessen the merging horror that might ensue when you try to push..
-
-h4. 2. Create a branch
-
-<pre>./all branch <your branch name here></pre>
-
-Then work on your changes, commit locally, etc, until you are happy..
-
-h4. 3. Push changes to the main repo
-
-<pre>./all push</pre>
-
-This asks you what to push, etc. Then if you want to get your changes from your branch into the master branch you will have to ask for someone with write access to merge your changes to master..
+<pre>
+./all branch
+</pre>
 
 
-h4. 4. Go back to 1.
+<pre>
+./all push
+</pre>
+
+<pre>
+./all checkout
+</pre>
 
 
 h2. Windows

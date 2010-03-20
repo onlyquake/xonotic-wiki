@@ -43,3 +43,26 @@ After that, you can write to the reposiotry using the usual git commands (commit
 h2. Windows
 
 TODO info for TortoiseGit
+
+h3. Working with the helper script all
+
+To make working with the repo a little easier there's a little helper script (it's called all, as mentioned in above clone commands). It supports the following commands:
+
+./all update
+./all branch
+./all push
+./all checkout
+
+The normal workflow for working on a contribution is the following:
+
+./all update
+
+This makes sure you are up to date
+
+./all branch <your branch name here>
+
+Then work on your changes, commit locally, etc, until you are happy..
+
+./all push
+
+This asks you what to push, etc..

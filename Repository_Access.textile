@@ -65,4 +65,4 @@ Then work on your changes, commit locally, etc, until you are happy..
 
 ./all push
 
-This asks you what to push, etc..
+This asks you what to push, etc.. This might fail, if in the meantime someone else has worked on the same branch. You will need to use git merge manually for the time being to resolve possible conflicts..

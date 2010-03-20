@@ -29,6 +29,8 @@ h3. Hagar
 
 h3. Nexgun
 
+Nox?
+
 h3. Rocket Launcher
 
 Devastator

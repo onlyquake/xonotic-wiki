@@ -42,6 +42,8 @@ After that, you can write to the reposiotry using the usual git commands (commit
 
 h3. Working with the helper script "all"
 
+TODO: Work on this to actually not be wrong!
+
 To make working with the repo a little easier there's a little helper script (it's called all, as mentioned in above clone commands). It supports the following commands:
 
 <pre>
@@ -69,7 +71,8 @@ h4. 3. Push changes to the main repo
 
 <pre>./all push</pre>
 
-This asks you what to push, etc.. This might fail, if in the meantime someone else has worked on the same branch. You will need to use git merge manually for the time being to resolve possible conflicts..
+This asks you what to push, etc. Then if you want to get your changes from your branch into the master branch you will have to ask for someone with write access to merge your changes to master..
+
 
 h4. 4. Go back to 1.
 

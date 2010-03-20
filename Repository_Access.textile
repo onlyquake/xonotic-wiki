@@ -51,17 +51,19 @@ To make working with the repo a little easier there's a little helper script (it
 
 The normal workflow for working on a contribution is the following:
 
-./all update
+1. ./all update
 
 This makes sure you are up to date
 
-./all branch <your branch name here>
+2. ./all branch <your branch name here>
 
 Then work on your changes, commit locally, etc, until you are happy..
 
-./all push
+3. ./all push
 
 This asks you what to push, etc.. This might fail, if in the meantime someone else has worked on the same branch. You will need to use git merge manually for the time being to resolve possible conflicts..
+
+4. Go back to 1.
 
 
 h2. Windows

@@ -3,6 +3,22 @@ h1. Git
 h2. After cloning the repository.
 
 After you cloned the repository (using <code>git clone <url></code>) you are ready to start creating a branch to start working.
+Please check [[Repository Access]] to make sure you checked out *all* of the repositories. <code>data/</code> for example resides in its own repo.
+
+h2. "did i fuck up or is data/ of git.xonotic.org/xonotic/xonotic.git acctualy empty?"
+
+The game content can be divided into several distinct parts, like the <code>data/</code> directory, and some of its subdirectories. This is why there are several repositories, and a helper script to fetch and update them all. This is described in [[Repository Access]] under "Working with the helper script ./all"
+
+The current structure looks as follows:
+|_.Directory|_.Repository|
+|<code>/</code>|git.xonotic.org/xonotic.git|
+|<code>/darkplaces</code>|git.xonotic.org/darkplaces.git|
+|<code>/data/xonotic-data.pk3dir</code>|git.xonotic.org/xonotic-data.pk3dir.git|
+|<code>/data/xonotic-maps.pk3dir</code>|git.xonotic.org/xonotic-maps.pk3dir.git|
+|<code>/data/xonotic-music.pk3dir</code>|git.xonotic.org/xonotic-music.pk3dir.git|
+
+One way to get a <code>data/</code> folder which can actually be used to play the game is to use symlinks (windows users aren't that lucky).
+By symlinking the <code>xonotic-maps.pk3dir/</code> and <code>xonotic-music.pk3dir/</code> directories into the <code>xonotic-data.pk3dir/</code> directory using the names <code>maps</code> and <code>music</code>.
 
 h3. Creating a new branch:
 

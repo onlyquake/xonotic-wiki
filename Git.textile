@@ -17,8 +17,7 @@ The current structure looks as follows:
 |<code>/data/xonotic-maps.pk3dir</code>|git.xonotic.org/xonotic-maps.pk3dir.git|
 |<code>/data/xonotic-music.pk3dir</code>|git.xonotic.org/xonotic-music.pk3dir.git|
 
-One way to get a <code>data/</code> folder which can actually be used to play the game is to use symlinks (windows users aren't that lucky).
-By symlinking the <code>xonotic-maps.pk3dir/</code> and <code>xonotic-music.pk3dir/</code> directories into the <code>xonotic-data.pk3dir/</code> directory using the names <code>maps</code> and <code>music</code>.
+You can still use the <code>data/</code> directory as base for the game since darkplaces now supports <code>.pk3dir</code> directories natively.
 
 h3. Creating a new branch:
 

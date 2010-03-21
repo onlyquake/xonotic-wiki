@@ -9,7 +9,7 @@ h2. Project
 * Our public [[Announcement]] drafts
 ** [[Announcement vote]]
 ** [[Announcement vote results|Vote results]]
-** [[Announcement script|In-game announcement script by MirceaKitsune]]
+** [[Announcement script|In-game announcement script]]
 * Check out our [[plan|Project Plan]] so far
 ** [[Before Announcement|Actions to do]] before the announcement
 * Notes from brainstorming [[names|ideas for names]]

@@ -90,7 +90,7 @@ Info for TortoiseGit / msysgit:
 
 To get a GIT clone using mysysgit and Tortoise GIT, do the following:
 
-- Go to the folder where you intend to clone, right click and choose Git Clone from the context menu. Clone the repository from git://git.xonotic.org/xonotic/ and wait for everything to download.
+- Go to the folder where you intend to clone, right click and choose Git Clone from the context menu. Clone the repository from git://git.xonotic.org/xonotic/xonotic.git and wait for everything to download.
 
 - Once the first step is ready, open a command prompt or git bash and browse to the root folder of your clone. Write "./all update" as described above to get the separate data repos. After that you have a working GIT clone.
 

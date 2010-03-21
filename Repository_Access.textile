@@ -86,4 +86,24 @@ http://git-scm.org/course/svn.html
 
 h2. Windows
 
-TODO info for TortoiseGit
+Info for TortoiseGit / msysgit:
+
+To get a GIT clone using mysysgit and Tortoise GIT, do the following:
+
+- Go to the folder where you intend to clone, right click and choose Git Clone from the context menu. Clone the repository from git://git.xonotic.org/xonotic/ and wait for everything to download.
+
+- Once the first step is ready, open a command prompt or git bash and browse to the root folder of your clone. Write "./all update" as described above to get the separate data repos. After that you have a working GIT clone.
+
+To write your own changes to the Xonotic git, do the following:
+
+- You must first have a putty SSH key, containing your private key. To generate one use "puttygen":http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html which creates a ppk file. Choose SSH-2 RSA format and once the key has been generated save it as a private key.
+
+- Make sure the public key is accepted on the GIT server (see getting access above). To find it, open the generated key in a text editor and read the "public-lines".
+
+- Open the Settings menu of Tortoise GIT (right click anywhere in the folder you are setting this for) and go to Git -> Remote. Select "origin" for remote, "ssh://xonotic@git.xonotic.org/xonotic-data.pk3dir.git" for URL (data.pk3dir is the example for the "data" branch, each pk3dir is separate!) and for Putty Key browse and select the key file previously mentioned.
+
+- In order to make a new branch, right click somewhere and choose Create Branch from the Tortoise GIT context menu. This will create a local branch you can do anything with. Once you locally committed your changes to your branch, select Push to upload or update the branch on the GIT server. From the Push window, choose your local branch for Local, leave Remote empty, and select origin for Destination.
+
+NOTE 1: Before creating your local branch and committing to it, make sure you've configured your user settings from Settings -> Git - > Config (such as your name which will display in the logs).
+
+NOTE 2: Try naming your branch myname/mychange for each patch. For instance, if your name is Alex and the change you are committing is a menu fix, use something like alex/menufix.

@@ -25,6 +25,7 @@ h2. Misc
 * [[IRC]] channels
 * "Roadmap to v1":http://dev.xonotic.org/versions/show/3
 * [[Website]] Plannning
+* [[Forbidden mail providers]]
 
 h2. Art & Media 
 

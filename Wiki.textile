@@ -48,17 +48,24 @@ h2. Art & Media
 
 h2. References
 
-* [[Introduction to QuakeC]]
-* [[democapture|Capturing video clips and using the demo camera]]
-* [[Textures|Textures know-how]]
-* [[Polycounts|Polygon count]] on Weapons and Models
-* [[framegroups|.framegroups]] file (allow self playing animations) know-how 
-* [[dpmodel|How to compile dpm models]]
-* "Q3A Shader Manual":http://toolz.nexuizninjaz.com/shader/
+* Programming
+** [[Introduction to QuakeC]]
+** "DarkPlaces Wiki":http://dpwiki.slipgateconstruct.com/
+
+* Modeling
+** [[Textures|Textures know-how]]
+** [[Polycounts|Polygon count]] on Weapons and Models
+** [[framegroups|.framegroups]] file (allow self playing animations) know-how 
+** [[dpmodel|How to compile dpm models]]
+** "Q3A Shader Manual":http://toolz.nexuizninjaz.com/shader/
+
+* Configuration
+** [[democapture|Capturing video clips and using the demo camera]]
+
 
 h2. Editing
 
-In this section you'll find lots of helpfull information about editing Xonotic in general, let that be coding, texturing, modeling, mapping, creating sound and music etc.
+In this section you'll find lots of helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping, creating sound and music etc.
 
 * [[Coding]] QuakeC, CSQC
 * [[2d art]]

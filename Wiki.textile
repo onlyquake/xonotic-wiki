@@ -57,8 +57,7 @@ h2. References
 ** "Q3A Shader Manual":http://toolz.nexuizninjaz.com/shader/
 ** How to get an animated mesh from [[Blender to DPM]]
 ** "Inter-Quake Model (IQM) Format":http://lee.fov120.com/iqm/
-* [[Player Model Spec]]
-
+** [[Player Model Spec]]
 
 * Configuration
 ** [[democapture|Capturing video clips and using the demo camera]]

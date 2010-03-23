@@ -1,9 +1,24 @@
 h1. Maps Makeover
 
-h2. Affected maps
-
 h2. Main goals
+
+* Remove references to Nexuiz
+* Increase the quality of current maps
+* Preserve backwards compatibility? _(lets discuss about this)_
 
 h2. Ideas
 
+TBD
+
+h2. Affected maps
+
+* soylent _sev_
+
+h2. What is needed
+
+* Define the set of map that we want to work with
+* What could be the impact of the textures upgrade on this project?
+
 h2. What to avoid
+
+* Utilization of same textures for many maps

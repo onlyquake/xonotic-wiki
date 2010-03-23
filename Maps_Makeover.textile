@@ -13,6 +13,9 @@ TBD
 h2. Affected maps
 
 * soylent _sev_
+* dance _FruitieX_
+* space elevator (formerly known as gasolinepowered) _FruitieX_
+* stormkeep2 and aggressor (probably only retexturing) _FruitieX_
 
 h2. What is needed
 

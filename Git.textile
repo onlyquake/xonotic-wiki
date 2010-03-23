@@ -16,6 +16,7 @@ The current structure looks as follows:
 |<code>/data/xonotic-data.pk3dir</code>|git.xonotic.org/xonotic-data.pk3dir.git|
 |<code>/data/xonotic-maps.pk3dir</code>|git.xonotic.org/xonotic-maps.pk3dir.git|
 |<code>/data/xonotic-music.pk3dir</code>|git.xonotic.org/xonotic-music.pk3dir.git|
+|<code>/data/xonotic-nexcompat.pk3dir</code>|git.xonotic.org/xonotic-nexcompat.pk3dir.git|
 
 You can still use the <code>data/</code> directory as base for the game since darkplaces now supports <code>.pk3dir</code> directories natively.
 

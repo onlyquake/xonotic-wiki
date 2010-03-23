@@ -36,13 +36,9 @@ h2. Art & Media
 ** Morphed "1":http://img688.imageshack.us/img688/2221/xonoticlogo9.jpg "2":http://img708.imageshack.us/img708/8302/xonoticlogo8.jpg "3":http://www.morphed.planetnexuiz.com/xonotich264v3.mp4
 ** MirceaKitsune "1b":http://dev.xonotic.org/attachments/download/17/logo_idea_5.jpg "1o":http://dev.xonotic.org/attachments/download/18/logo_idea_7.jpg "2b":http://dev.xonotic.org/attachments/download/20/logo_idea_8.jpg "2o":http://dev.xonotic.org/attachments/download/21/logo_idea_9.jpg "3b":http://dev.xonotic.org/attachments/download/23/logo_idea_10.jpg "3o":http://dev.xonotic.org/attachments/download/24/logo_idea_11.jpg "1-2-3src":http://dev.xonotic.org/attachments/download/22/xonotic_logo1_mirceakitsune_v2.psd
 ** "XenoTheBlind":http://xeno.planetnexuiz.com/xeno/xonotic_logo_basic_svg_26.svg
-* [[Logo vote]]
-* [[Logo vote results]]
-
-* How to get an animated mesh from [[Blender to DPM]]
-* We could potentially use "IQM":http://lee.fov120.com/iqm/ (needs testing!)
-* [[Player Model Spec]]
-
+** _[[Logo vote]]_
+** _[[Logo vote results]]_
+* [[Maps Makeover]]
 * [[Music]]
 * [[Sounds]]
 
@@ -59,6 +55,10 @@ h2. References
 ** [[framegroups|.framegroups]] file (allow self playing animations) know-how 
 ** [[dpmodel|How to compile dpm models]]
 ** "Q3A Shader Manual":http://toolz.nexuizninjaz.com/shader/
+** How to get an animated mesh from [[Blender to DPM]]
+** "Inter-Quake Model (IQM) Format":http://lee.fov120.com/iqm/
+* [[Player Model Spec]]
+
 
 * Configuration
 ** [[democapture|Capturing video clips and using the demo camera]]

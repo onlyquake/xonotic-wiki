@@ -3,13 +3,13 @@ h1. Ideas for the Xonotic announcement FAQ
 
 h2. What prompted the split from Nexuiz?
 
-Lee Vermeulen, the Nexuiz project founder, decided to license the Nexuiz code, including the Darkplaces engine, to a new game development company named Illfonic so that they could develop a closed-source version for the PS3. As part of this deal, IllFonic acquired the rights to use the name Nexuiz along with the domain nexuiz.com, and are under no obligation to contribute code back to the open-source Nexuiz project (and have stated that they have no intention of doing so).
+Lee Vermeulen, the Nexuiz project founder, decided to license the Nexuiz code, including the Darkplaces engine, to a new game development company named Illfonic so that they could develop a closed-source version for the PS3. As part of this deal, IllFonic acquired the rights to use the name Nexuiz along with the domain nexuiz.com, and are under no obligation to contribute code back to the open-source Nexuiz project. UPDATE: Lately, there had been promises about parts of the game code and engine contributions.
 
 When this was announced, the response from the Nexuiz community was overwhelming negative, even from the development team and main contributors. Vermeulen had not actively participated in the project for several years and all development has been done by the community. Most members have expressed a sense of betrayal and cited the project as an example of Mushroom Management [http://en.wikipedia.org/wiki/Mushroom_management]. Vermeulen essentially cashed in on the hard work of others and sold the code, name and reputation that they had built up over years without him.
 
 Despite attempts to reason with IllFonic [link], they have refused to change the name of their project to a derivative name even though they have directly stated that their "version" of Nexuiz is a completely different game [link]. The hijacking of the Nexuiz project by its absentee founder and IllFonic made it clear that it had no future as it stood and thus the community left to found Xonotic.
 
-It should also be noted that IllFonic's code may be in violation of the GPL as most contributors to the Nexuiz codebase have not relicensed their work for inclusion in a closed-source project. This has been another source of outrage for many.
+It should also be noted that IllFonic's code might be in violation of the GPL as most contributors to the Nexuiz codebase have not relicensed their work for inclusion in a closed-source project. This has been another source of outrage for many. This finally led to Illfonic changing plans, and instead licensing the Nexuiz 1.0 code, which Alientrap does have a relicensing right on.
 
 h2. Was a compromise attempted?
 
@@ -17,7 +17,7 @@ Yes, many in the Nexuiz community tried to reach a compromise [link], such as ha
 
 h2. Is Illfonic going to release a Nexuiz PC edition?
 
-That is a question you will have to ask Illfonic. This FAQ is intended to answer questions directly about the Xonotic project.
+According to a previous statement from Illfonic [link], there will be no Nexuiz PC edition by Illfonic.
 
 h2. How will the management of Xonotic differ from Alientrap/Nexuiz GPL?
 
@@ -77,3 +77,5 @@ We will likely tweak this overtime, but not likely for our first release. We lik
 h2. Are you forking Darkplaces? (the game engine)
 
 We don't intend to do this. If we have any changes that we need to submit to Darkplaces, we're optimistic that those changes will be accepted as long as it improves the engine. If we end up having changes to Darkplaces rejected, then we may have to revisit this question.
+
+However, a stable branch of DarkPlaces for use by Xonotic releases will be maintained by us.

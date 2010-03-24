@@ -58,6 +58,7 @@ h2. References
 ** Tutorials "1":http://www.cgtextures.com/content.php?action=tutorials
 ** "Recovering detailed normals from photo textures":http://www.cgtextures.com/content.php?action=tutorial&name=normalmap
 ** "Hard Surface Texture Painting":http://forums.cgsociety.org/showthread.php?t=373024
+** Some "tips":http://forums.xonotic.org/showthread.php?tid=63&pid=445#pid445 by _FruitieX_
 
 * Configuration
 ** [[democapture|Capturing video clips and using the demo camera]]

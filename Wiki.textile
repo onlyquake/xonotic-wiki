@@ -70,11 +70,11 @@ In this section you'll find lots of helpful information about editing Xonotic in
 
 * [[Coding]] QuakeC, CSQC
 * [[2d art]]
-* [[Modelling]]
+* [[Modeling]]
 * [[Mapping]]
 * [[Sound FX and music]]
 * [[Git]]
 
 h2. Misc
 
-* [[Forbidden dissposable e-mail providers]]
+* [[Forbidden disposable e-mail providers]]

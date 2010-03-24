@@ -11,21 +11,16 @@ h2. Project
 ** [[Announcement vote results|Vote results]]
 ** [[Announcement script|In-game announcement script]]
 * Check out our [[plan|Project Plan]] so far
-** [[Before Announcement|Actions to do]] before the announcement
 * Notes from brainstorming [[names|ideas for names]]
 * Here is the [[Irclog|IRC Log]] (warning: it's very long)
 * New names for weapons [[NamesWeapons|discussion]]
 * [[Organizational Structure]] (still being defined)
 * [[Roles|Roles and Skills]] of contributing community members
 * [[Repository Access]]
-
-h2. Misc
-
 * [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
 * [[IRC]] channels
-* "Roadmap to v1":http://dev.xonotic.org/versions/show/3
 * [[Website]] Plannning
-* [[Forbidden dissposable e-mail providers]]
+* "Roadmap to v1":http://dev.xonotic.org/versions/show/3
 
 h2. Art & Media 
 
@@ -59,6 +54,11 @@ h2. References
 ** "Inter-Quake Model (IQM) Format":http://lee.fov120.com/iqm/
 ** [[Player Model Spec]]
 
+* Texturing
+** Tutorials "1":http://www.cgtextures.com/content.php?action=tutorials
+** "Recovering detailed normals from photo textures":http://www.cgtextures.com/content.php?action=tutorial&name=normalmap
+** "Hard Surface Texture Painting":http://forums.cgsociety.org/showthread.php?t=373024
+
 * Configuration
 ** [[democapture|Capturing video clips and using the demo camera]]
 
@@ -73,3 +73,7 @@ In this section you'll find lots of helpful information about editing Xonotic in
 * [[Mapping]]
 * [[Sound FX and music]]
 * [[Git]]
+
+h2. Misc
+
+* [[Forbidden dissposable e-mail providers]]

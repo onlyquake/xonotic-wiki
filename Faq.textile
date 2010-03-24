@@ -3,7 +3,7 @@ h1. Ideas for the Xonotic announcement FAQ
 
 h2. What prompted the split from Nexuiz?
 
-Lee Vermeulen, the Nexuiz project founder, decided to license the Nexuiz code, including the Darkplaces engine, to a new game development company named Illfonic so that they could develop a closed-source version for the PS3. As part of this deal, IllFonic acquired the rights to use the name Nexuiz along with the domain nexuiz.com, and are under no obligation to contribute code back to the open-source Nexuiz project. UPDATE: Lately, there had been promises about parts of the game code and engine contributions.
+Lee Vermeulen, the Nexuiz project founder, decided to license the Nexuiz code, including the Darkplaces engine, to a new game development company named Illfonic so that they could develop a closed-source version for the PS3. As part of this deal, IllFonic acquired the rights to use the name Nexuiz along with the domain nexuiz.com, and are under no obligation to contribute code back to the open-source Nexuiz project. UPDATE: Lately, there had been promises about parts of the game code, and some recent engine changes have surfaced to be changes actually done in contract for Illfonic.
 
 When this was announced, the response from the Nexuiz community was overwhelming negative, even from the development team and main contributors. Vermeulen had not actively participated in the project for several years and all development has been done by the community. Most members have expressed a sense of betrayal and cited the project as an example of Mushroom Management [http://en.wikipedia.org/wiki/Mushroom_management]. Vermeulen essentially cashed in on the hard work of others and sold the code, name and reputation that they had built up over years without him.
 

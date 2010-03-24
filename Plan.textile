@@ -170,6 +170,8 @@ player model with armor that deliberately looks like bunny ears)
 <Morphed_> i think that perfect style for nexuiz is this http://hirez.http.internapcdn.net/hirez/images/photos/downloads/GAWallpaper_1440X1080.jpg
 </pre>
 
+Forum discussion here: http://forums.xonotic.org/showthread.php?tid=81
+
 h1. Bullet Points
 
 1. structure for the "management" so there are like 3-6 leaders and not just one leader making "big" decisions for the game
@@ -195,3 +197,4 @@ h1. Server resources
 * merlijn can add more servers if needed, FruitieX can admin the "Pro" servers he might be hosting (ex-nexrun)
 * git repository can be hosted by icculus
 * Aussienexers offer up all of their servers to whatever we need for that region
+* Samual offers his VPS as another possible server if needed

@@ -20,6 +20,7 @@ h2. Affected maps
 * dance _FruitieX_
 * space elevator (formerly known as gasolinepowered) _FruitieX_ & Cuinnton
 * stormkeep2 and aggressor (probably only retexturing) _FruitieX_
+* Space CTF aka cbctf1 C.Brutail, Morphed and tZork
 
 h2. What is needed
 

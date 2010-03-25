@@ -43,6 +43,7 @@ h2. References
 ** [[Introduction to QuakeC]]
 ** "DarkPlaces Wiki":http://dpwiki.slipgateconstruct.com/
 ** "QuakeC Specifications v1.0":http://www.gamers.org/dEngine/quake/spec/quake-spec34/qc-menu.htm
+** "QuakeC tutorials":http://www.inside3d.com/tutorials.php at inside3d.com
 
 * Modeling
 ** [[Textures|Textures know-how]]

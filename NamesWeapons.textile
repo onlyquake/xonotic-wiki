@@ -22,6 +22,7 @@ Grenade Launcher
 h3. Electro
 
 Plasma gun
+Perhaps would be too confusing with previous Nexgun due to the fact that it's a plasma rifle.
 
 h3. Crylink
 

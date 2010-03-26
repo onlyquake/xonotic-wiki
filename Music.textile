@@ -1,0 +1,28 @@
+
+h1. Music
+
+People interested in contributing music:
+* ProfessorKliq
+* T00lbox (electric guitar)
+
+*ProjektGhost* has a friend named *Professor Kliq* who is a musician willing to make music for Xonotic.
+He said he wants to make some *fast-paced* music and he is willing to provide whatever license we need for it.
+
+Some examples of his past fast/energetic tracks
+
+*Japanese Synthesizer* and *Dirtiest* are good examples
+http://www.professorkliq.com/guns.html
+
+*tenshihan* has said he is excited to collaborate with him by providing sound effects to mix in with the music.
+
+
+h1. Sounds
+
+tenshihan has already started to create new sounds for Xonotic.
+
+His first batch of sounds are here
+http://www.nullgaming.com/stuff/tenshihan-nexuiz.v6.6.pk3.zip
+
+He is *very* excited to work on this new game with us.
+
+He and his wife are working on new female and male player sounds right now, including a "Welcome to Xonotic" intro.

@@ -1,0 +1,44 @@
+h1. Community development
+
+Dokujisan is forming a group called the XCT or Xonotic Community Team
+This will be made up of a group of select people from each regional community (North america, Europe, Australia.
+(later South America and maybe Southeast Asia if we can build those regional communities as well)
+
+The purpose of XCT is to help plan and execute tasks related to community activity, such as building up clan activity and managing tournaments.
+
+Dokujisan is the community director of Xonotic and his main role is to help establish the organization of community activities.
+The activity that stems from the efforts of XCT won't be based on Dokujisan's decisions alone. The planning will be done in a group fashion.
+Of course, the activities decide by those in XCT need to be okay with the rest of *Team Xonotic*.
+
+So far, we have the following XCT members. These groups will group and change overtime.
+
+h2. North America
+* Dokujisan
+* Nifrek
+* PCLizard
+* Darthsparty
+* Agamalama
+
+h2. Europe
+* Kojn
+* SinSniper
+* thyr4ne
+
+h2. Australia
+* Hew
+* rabs
+
+
+h1. Main elements of Xonotic community development
+
+The following will have more detail added soon. For now, here is an overview
+
+# Build interest from active players in clan activity
+# Establish "Batcave" like servers for pickup matches and training
+# Utilize the #xonotic.pickup channel for regular pickup matches
+# Plan tournaments
+# Create bootcamp training system for helping newcomers to jump to intermediate skill level quickly
+# Constant effort to communicate to with players on public servers to generate interest in clan activity, pickup matches and tournaments
+
+
+ 

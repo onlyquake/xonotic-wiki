@@ -34,8 +34,8 @@ h2. Art & Media
 ** _[[Logo vote]]_
 ** _[[Logo vote results]]_
 * [[Maps Makeover]]
-* [[Music]]
-* [[Sounds]]
+* [[2d art]]
+* [[Sound FX and music]]
 
 h2. References
 
@@ -70,10 +70,8 @@ h2. Editing
 In this section you'll find lots of helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping, creating sound and music etc.
 
 * [[Coding]] QuakeC, CSQC
-* [[2d art]]
 * [[Modeling]]
 * [[Mapping]]
-* [[Sound FX and music]]
 * [[Git]]
 
 h2. Misc

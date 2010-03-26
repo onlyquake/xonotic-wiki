@@ -21,6 +21,7 @@ h2. Project
 * [[IRC]] channels
 * [[Website]] Plannning
 * "Roadmap to v1":http://dev.xonotic.org/versions/show/3
+* [[Community development]] planning
 
 h2. Art & Media 
 

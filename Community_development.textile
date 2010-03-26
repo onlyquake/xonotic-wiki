@@ -2,7 +2,6 @@ h1. Community development
 
 Dokujisan is forming a group called the XCT or Xonotic Community Team
 This will be made up of a group of select people from each regional community (North america, Europe, Australia.
-(later South America and maybe Southeast Asia if we can build those regional communities as well)
 
 The purpose of XCT is to help plan and execute tasks related to community activity, such as building up clan activity and managing tournaments.
 
@@ -27,6 +26,14 @@ h2. Europe
 h2. Australia
 * Hew
 * rabs
+
+h2. Latin America
+* mand1nga
+* iR3ul
+* Kita
+
+h2. Southeast Asia
+* to-be-deteremined
 
 
 h1. Main elements of Xonotic community development

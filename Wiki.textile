@@ -67,7 +67,7 @@ h2. References
 
 h2. Editing
 
-In this section you'll find lots of helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping, creating sound and music etc.
+In this section you'll find lots of helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping
 
 * [[Coding]] QuakeC, CSQC
 * [[Modeling]]

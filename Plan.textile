@@ -52,7 +52,7 @@ h1. Maps
 * dance? (with some fixes)
 * desertfactory
 * eggandbacon (makeover)
-* egyptronex? (with some fixes?)
+* egyptronex? (with some fixes?) (maybe make hydronexb4 prettier?)
 * final_rage
 * gasolinepowered (makeover in progress)
 * greatwall_whatever?

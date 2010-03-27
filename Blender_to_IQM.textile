@@ -2,7 +2,7 @@ h1. Blender to IQM
 > h2. Blender when exporting to iqm
 > > h3. Needed/Example files
 > > > * // Will be added
-> > > * // boundingbox.blend for stand and crouch
+> > > * Bounding Box for Stand and Crouch: http://dev.xonotic.org/attachments/download/33/bbox_crouch_stand.zip
 > > > * // umbra example files
 > > > * // link to exporter
 > > h3. Before You Start

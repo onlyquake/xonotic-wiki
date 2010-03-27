@@ -33,7 +33,7 @@ h2. Latin America
 * Kita
 
 h2. Southeast Asia
-* to-be-deteremined
+* to-be-determined
 
 
 h1. Main elements of Xonotic community development

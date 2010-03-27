@@ -63,10 +63,10 @@ Lists the branches you are currrently on, in the respective repositories
 Lists all the branches known for all the respective repositories
 
 <pre>
-./all push
+./all compile
 </pre>
 
-Pushes your changes.. The script will ask you what to push, etc..
+Compiles the game given that you have the required libs installed
 
 <pre>
 ./all checkout

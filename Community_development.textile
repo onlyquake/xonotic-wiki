@@ -23,6 +23,8 @@ h2. Europe
 * SinSniper
 * thyr4ne
 
+> I suggest to split Europe into two parts (central+north+west) and east(Russia, Ukraine - those are too big) (~~Alien)
+
 h2. Australia
 * Hew
 * rabs

@@ -37,6 +37,9 @@ h2. Latin America
 h2. Southeast Asia
 * to-be-determined
 
+h2. Russian
+* to-be-determined
+
 
 h1. Main elements of Xonotic community development
 

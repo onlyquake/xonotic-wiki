@@ -1,17 +1,12 @@
-
 h1. Music
 
 People interested in contributing music:
-* ProfessorKliq
-* T00lbox (electric guitar)
+* ProfessorKliq  http://professorkliq.com/guns.html (Japanese Synthesizer* and *Dirtiest* are good examples)
+* michaelb http://forums.xonotic.org/showthread.php?tid=42&pid=145#pid145
+* T00lbox http://drop.io/praetoolbox
+* Kay http://forums.xonotic.org/showthread.php?tid=153&pid=1407#pid1407
 
-*ProjektGhost* has a friend named *Professor Kliq* who is a musician willing to make music for Xonotic.
-He said he wants to make some *fast-paced* music and he is willing to provide whatever license we need for it.
-
-Some examples of his past fast/energetic tracks
-
-*Japanese Synthesizer* and *Dirtiest* are good examples
-http://www.professorkliq.com/guns.html
+ProfessorKliq has said he's willing to work with tenshihan and michaelb for an orchestral + Techno sort of style.
 
 *tenshihan* has said he is excited to collaborate with him by providing sound effects to mix in with the music.
 

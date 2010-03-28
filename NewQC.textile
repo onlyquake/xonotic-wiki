@@ -59,3 +59,21 @@ float myfunc() final
     return 3;
 }
 </pre>
+
+h2. Variadic parameters
+
+Another "enhancement" is the possibility to have functions with variadic parameter lists. However, the only way to sanely access them (until pointers are allowed) is via a recursive way.
+Here's an example that assumes float parameters and prints them one after the other:
+<pre>void printfloats(float count, float first, ...)
+{
+    if (count <= 0) // if there are no parameters, return
+        return;
+    if (count == 1) { // If there's one parameter, print it, plus a new-line
+        print(strcat(ftos(first), "\n"));
+        return;
+    }
+    // Otherwise we have multiple parameters left, so print the float, and add a comma
+    print(strcat(ftos(first), ", "));
+    myprint(count-1, ...);
+}</pre>
+So <code>myprint(4, 1, 2, 3, 4)</code> would print <code>"1, 2, 3, 4\n"</code>

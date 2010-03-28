@@ -5,7 +5,7 @@ It is possible that at some point we decide to switch QC-compiler which requires
 h2. Clean syntax:
 
 In fteqcc there are some ambiguities regarding fieldpointers, function pointers, and field-return-types etc.
-A clean syntax is needed, *SUGGESTIONS ARE WELCOME*, my(blub's) current suggestion is (currently not complete):
+A clean syntax is needed, *SUGGESTIONS ARE WELCOME*, my(blub's) current suggestion is:
 
 |_.definition|_.meaning|
 |<code>float foo(void)</code>|     function|

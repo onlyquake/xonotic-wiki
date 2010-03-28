@@ -1,0 +1,53 @@
+h1. New QC Syntax
+
+It is possible that at some point we decide to switch QC-compiler which requires some changes to the code.
+
+h2. Clean syntax:
+
+In fteqcc there are some ambiguities regarding fieldpointers, function pointers, and field-return-types etc.
+A clean syntax is needed, *SUGGESTIONS ARE WELCOME*, my(blub's) current suggestion is:
+
+|_.definition|_.meaning|
+|<code>float foo(void)</code>|    function|
+|<code>float foo*(void)</code>|   function pointer|
+|<code>.float foo(void)</code>|	  member: method|
+|<code>.float foo*(void)</code>|  member: function pointer|
+|<code>..float foo(void)</code>|  member: method returning .float|
+|<code>..float foo*(void)</code>| member: function pointer returning .float|
+|<code>.*float</code>|            fieldpointer|
+|<code>.*float foo(void)</code>|  fieldpointer: method returning float|
+|<code>.*float foo*(void)</code>| fieldpointer: function pointer returning float|
+|<code>.*.float foo(void)</code>| fieldpointer: method returning .float|
+|<code>.*.float foo*(void)</code>|fieldpointer: function pointer returning .float|
+
+Additionally, at places where the definition of members or global functions is not allowed, they will be treated like fieldpointers.
+So inside parameterlists or a functionbody the list is as follows:
+
+|_.definition|_.meaning|
+|<code>float foo(void)</code>|   *function pointer*|
+|<code>float foo*(void)</code>|   function pointer|
+|<code>.float foo(void)</code>|	 *fieldpointer: method returning float*|
+|<code>.float foo*(void)</code>| *fieldpointer: function pointer returning float*|
+|<code>..float foo(void)</code>| *fieldpointer: method returning .float*|
+|<code>..float foo*(void)</code>|*fieldpointer: function pointer returning .float*|
+|<code>.*float</code>|            fieldpointer|
+|<code>.*float foo(void)</code>|  fieldpointer: method returning float|
+|<code>.*float foo*(void)</code>| fieldpointer: function pointer returning float|
+|<code>.*.float foo(void)</code>| fieldpointer: method returning .float|
+|<code>.*.float foo*(void)</code>|fieldpointer: function pointer returning .float|
+
+h2. Function definitions:
+
+The old-style QC way of defining functions will not be supported, so
+<pre>void(float x) something = { ... }</pre>
+becomes
+<pre>void something(float x) { ... }</pre>
+which is the most common way to define functions in the xonotic code already anyway.
+
+h2. Constants:
+
+From now on, the code
+<pre>float x = 3</pre>
+does what the first instinct tells you: it creates a global with the initial value 3. Contrary to old QC, where it created a constant.
+To create a constant use:
+<pre>const float x = 3</pre>

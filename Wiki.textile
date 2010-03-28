@@ -67,6 +67,9 @@ h2. References
 * Configuration
 ** [[democapture|Capturing video clips and using the demo camera]]
 
+* Mapping
+** "Map naming convention":http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330
+
 
 h2. Editing
 

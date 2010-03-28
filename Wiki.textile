@@ -25,6 +25,7 @@ h2. Project
 
 h2. Art & Media 
 
+* [[Artistic Style]]
 * Logo proposals
 ** -z- [[Concept Art]]
 ** "Dokujisan":http://www.nullgaming.com/stuff/x/

@@ -8,7 +8,7 @@ In fteqcc there are some ambiguities regarding fieldpointers, function pointers,
 A clean syntax is needed, *SUGGESTIONS ARE WELCOME*, my(blub's) current suggestion is:
 
 |_.definition|_.meaning|
-|<code>float foo(void)</code>|     function|
+|<code>float foo(void)</code>|     *function pointer*|
 |<code>float foo*(void)</code>|    function pointer|
 |<code>.float foo(void)</code>|	   member: method/function pointer|
 |<code>..float foo(void)</code>|/2. member: method/function pointer returning .float|

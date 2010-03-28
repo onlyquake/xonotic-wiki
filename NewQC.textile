@@ -19,17 +19,6 @@ A clean syntax is needed, *SUGGESTIONS ARE WELCOME*, my(blub's) current suggesti
 |<code>.*.float foo(void)</code>|  fieldpointer: method/function pointer returning .float|
 
 
-|_.definition|_.meaning|
-|<code>float foo(void)</code>|     function|
-|<code>float foo*(void)</code>|    function pointer|
-|<code>.float foo(void)</code>|	   member: method/function pointer|
-|<code>..float foo(void)</code>| member: method/function pointer returning .float|
-|<code>..*float .foo(void)</code>| Member function returning pointer to float field
-|<code>.*float foo*(void)</code>|  function pointer returning .float|
-|<code>.*float</code>|             fieldpointer|
-|<code>.*float foo(void)</code>|   fieldpointer: method/function pointer|
-|<code>.*.float foo(void)</code>|  fieldpointer: method/function pointer returning .float|
-
 Additionally, at places where the definition of members or global functions is not allowed, they will be treated like fieldpointers.
 So inside parameterlists or a functionbody the list is as follows:
 

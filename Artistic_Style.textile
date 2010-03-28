@@ -7,8 +7,8 @@ If you *do* decide to add images, use thumbnails!
 
 h2. Discussion
 
-To avoid having billions of wiki-edits, discussion can be done in the forum.
-Please discuss the keywords added here on the forum, or ask any questions about the artistic style.
+To avoid having billions of wiki-edits, discussion can be done in the forum (or IRC).
+Please discuss the keywords added here on the forum/IRC, or ask any questions about the artistic style.
 When you create a new thread, feel free to link to it from here.
 
 * Some guidelines and discussion: http://forums.xonotic.org/showthread.php?tid=81

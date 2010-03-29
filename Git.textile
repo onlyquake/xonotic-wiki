@@ -18,6 +18,8 @@ The current structure looks as follows:
 |<code>/data/xonotic-music.pk3dir</code>|git://git.xonotic.org/xonotic/xonotic-music.pk3dir.git|
 |<code>/data/xonotic-nexcompat.pk3dir</code>|git://git.xonotic.org/xonotic/xonotic-nexcompat.pk3dir.git|
 
+When using the ssh protocol, the xonotic/ directory is skipped, so it's just: git.xonotic.org/xonotic.git
+
 You can still use the <code>data/</code> directory as base for the game since darkplaces now supports <code>.pk3dir</code> directories natively.
 
 h3. Creating a new branch:

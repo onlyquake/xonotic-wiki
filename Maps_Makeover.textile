@@ -19,6 +19,7 @@ h2. Affected maps
 * soylent _sev_
 * dance _FruitieX_
 * space elevator (formerly known as gasolinepowered) _FruitieX_ & Cuinnton
+* castles (formerly known as dm_castle) _FruitieX_ & Cuinnton
 * stormkeep2 and aggressor (probably only retexturing) _FruitieX_
 * Space CTF aka cbctf1 C.Brutail, Morphed and tZork
 

@@ -71,6 +71,7 @@ People already in clans
 * [LDB]C.Brutal {X} {b}
 * [saxnbower] DIESCHOR
 * [unconnected]{GM}BizzyBeaver.de
+* [unconnected]Critic
 * ceMentic.kojn
 * ceMantic.kyre
 * ceMantic.Lo
@@ -79,6 +80,7 @@ People already in clans
 * [affro]ai
 * [affro]FruitieX
 * [affro]Morfar
+* [BOT]Mirio
 
 h3. Prospects
  
@@ -96,6 +98,8 @@ Public players who play regularly and are intermediate level or higher
 * SURO
 * IqpI
 * Omom
+* r3drum
+* Parp
 
 h3. Other, less known clans to contact
 

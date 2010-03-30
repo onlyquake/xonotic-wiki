@@ -72,6 +72,18 @@ Compiles the game given that you have the required libs installed
 ./all checkout
 </pre>
 
+<pre>
+./all run xonotic
+</pre>
+
+Starts the xonotic client
+
+<pre>
+./all run dedicated xonotic
+</pre>
+
+Starts a xonotic dedicated server
+
 h3. Further git information
 
 About tracking remote branches:

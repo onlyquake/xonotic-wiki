@@ -60,13 +60,13 @@ h2. Europe
 h3. Clan mambers
 
 People already in clans
-* accident
-* akoppet
-* atheros
-* naryl
-* L29Ah
-* lda17h
-* waterlaz
+* [sh]accident
+* [sh]akoppet
+* [sh]atheros
+* [sh]naryl
+* [sh]L29Ah
+* [sh]lda17h
+* [sh]waterlaz
 
 h3. Prospects
  

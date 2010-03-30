@@ -72,6 +72,8 @@ Compiles the game given that you have the required libs installed
 ./all checkout
 </pre>
 
+Who knows?
+
 <pre>
 ./all run xonotic
 </pre>

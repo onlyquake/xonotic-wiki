@@ -51,4 +51,16 @@ The following will have more detail added soon. For now, here is an overview
 # Constant effort to communicate to with players on public servers to generate interest in clan activity, pickup matches and tournaments
 
 
+h1. Community lists
+
+We will use these lists to help with the steps of building community activity
+
+h2. Europe
+
+h3. Clan mambers
+
+People already in clans
+
+h3. Prospects
  
+Public players who play regularly and are intermediate level or higher

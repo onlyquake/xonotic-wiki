@@ -56,6 +56,13 @@ h1. Community lists
 We will use these lists to help with the steps of building community activity
 
 h2. Europe
+* accident
+* akoppet
+* atheros
+* naryl
+* L29Ah
+* lda17h
+* waterlaz
 
 h3. Clan mambers
 

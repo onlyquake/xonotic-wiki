@@ -58,6 +58,8 @@ We will use these lists to help with the steps of building community activity
 h2. Europe
 
 h3. Clan mambers
+
+People already in clans
 * accident
 * akoppet
 * atheros
@@ -65,8 +67,6 @@ h3. Clan mambers
 * L29Ah
 * lda17h
 * waterlaz
-
-People already in clans
 
 h3. Prospects
  

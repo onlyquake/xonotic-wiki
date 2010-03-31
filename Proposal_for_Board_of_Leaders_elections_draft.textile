@@ -13,57 +13,38 @@ h2. Art department
 * Lead mapper
 * Lead modeler
 
-Art department is responsible for keeping an unified look of the game, working with other artists, informing them how their creations can go in-game, setting "need to be done" taks, supervising the quality of maps which go into base and main Xonotic maps repositories, providing artists with texture and prop sets and other art related activities.
+Art department is responsible for keeping an unified look of the game, working with other artists, informing them how their creations can go in-game, setting "need to be done" tasks for other artists, supervising the quality of maps which go into base and main Xonotic maps repositories, providing artists with texture and prop sets and other art related activities.
 
 h2. Audio department
 
 * Lead music designer
 * Lead sound designer
 
-Audio department is responsible for keeping an unified audio and visual experience, creating/finding new audio content which would be used by the game, creating guidelines for other audio artists and  
+Audio department is responsible for keeping an unified audio and visual experience, creating/finding new audio content which would be used by the game, creating guidelines for other audio artists, setting "need to be done" tasks for other artists and other audio related activities.
 
 h2. Code department
 
 * Lead code developer
 * Lead quality assurance engineer
 
-Responsibilities goes here...
+Code department is responsible for creating and maintaining game codebase, assuring that code is free of bugs before release is made, working with other code developers, setting "need to be done" coding tasks and other coding related activities.  
 
 h2. Public relationships department
 
 * Lead community manager
 * Lead web designer
 
-Responsibilities goes here...
+Public relationships department is responsible for keeping community informed about news happening in Xonotic world, advertising the game in mass media, organizing community activities such as tournaments and other events, gathering community opinions about the game and informing about those other developers, organizing fund raising campaigns to speed up project development and doing other project related activities.  
 
-Major gameplay or whole Xonotic project related decisions should be made only by ALL LEADERS CONSENSUS (basically, that means anyone from the leaders has a VETO vote).
+Major Xonotic project related decisions should be made only by ALL LEADERS CONSENSUS (basically, that means anyone from the leaders has a VETO vote).
 
-h2. What is each leader responsible for:
+h2. Groups appointed by the Bord of Leaders
 
-* Leader Coder:
-  creating coding goals, for all coding related issues and organizing other code developers
+Board of Leaders can create other groups on demand with some special purpose. Examples of such groups are:
 
-* Leader Modeler and art designer:
-  creating modelling goals, for all modeling related issues and organizing other modeling developers, creating and maintaining of common Xonotic models repository
-
-* Leader Music and sounds designer
-  creating  goals, for all modeling related issues and organizing other modeling developers, creating and maintaining of common Xonotic models repository
-
-* Leader Community manager
-  community development groups, public relationship, mass media, clan activities, tournaments, informing other leaders what players community needs or wants
-
-* Leader Web architect
-  maintaining Xonotic web site and integrating related web projects, both with Leader Community manager working on common projects
-
-* Leader Mapper
-  maintaining texture repository in a working state, responsible that only quality maps reach base or main Xonotic maps repository
-
-h2. Groups appointed by the leaders:
-
-Quality Assurance group
-Tracker maintaining group
-Documentation group
-Other which leaders think would be good
+* Quality assurance group
+* Tracker and wiki maintaining group
+* Documentation group
 
 h2. Election process
 

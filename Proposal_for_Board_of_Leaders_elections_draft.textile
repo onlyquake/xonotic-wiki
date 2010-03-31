@@ -10,24 +10,31 @@ Board of Leaders are responsible for fostering and foreseeing growth of Xonotic.
 
 h2. Art department
 
-* Lead Mapper
-* Lead Modeler and art designer
+* Lead mapper
+* Lead modeler
+
+Art department is responsible for keeping an unified look of the game, working with other artists, informing them how their creations can go in-game, setting "need to be done" taks, supervising the quality of maps which go into base and main Xonotic maps repositories, providing artists with texture and prop sets and other art related activities.
 
 h2. Audio department
 
-* Lead Music designer
-* Lead Sounds designer
+* Lead music designer
+* Lead sound designer
+
+Audio department is responsible for keeping an unified audio and visual experience, creating/finding new audio content which would be used by the game, creating guidelines for other audio artists and  
 
 h2. Code department
 
-* Lead Game designer
-* Lead Quality Assurance engineer
+* Lead code developer
+* Lead quality assurance engineer
+
+Responsibilities goes here...
 
 h2. Public relationships department
 
-* Leader Community manager
-* Leader Web architect
+* Lead community manager
+* Lead web designer
 
+Responsibilities goes here...
 
 Major gameplay or whole Xonotic project related decisions should be made only by ALL LEADERS CONSENSUS (basically, that means anyone from the leaders has a VETO vote).
 

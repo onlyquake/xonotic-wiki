@@ -1,0 +1,56 @@
+h1. Proposal for Board of Leaders elections draft
+
+Board of Leaders consists of 6 members, who responsible for fostering and foreseeing growth of Xonotic. Leaders should listen to community wishes and set the project goals in accordance what they think is the best way to the project. They also accept or reject content into the main Xonotic repository, which are they responsible for (be it code, art, maps, models, music, documentation) and strive to make Xonotic unified, unique and attractive. They also seek ways to get public attention and funds for development. They also responsible for proper working of Xonotic web site, code repository and other materials. Each leader is responsible for working with his specialty developers and explaining the goals that should be done and how to achieve that (e.g. modeling leaders has a list of all volunteering modelers and helps them understanding how to other parts of the game relate to models and what could be done). Therefore, I propose that there would be 6 leaders which should take positions of:
+
+* Leader Coder
+* Leader Modeler and art designer
+* Leader Music and sounds designer
+* Leader Community manager
+* Leader Web architect
+* Leader Mapper
+
+Major gameplay or whole Xonotic project related decisions should be made only by ALL LEADERS CONSENSUS (basically, that means anyone from the leaders has a VETO vote).
+
+h2. What is each leader responsible for:
+
+* Leader Coder:
+  creating coding goals, for all coding related issues and organizing other code developers
+
+* Leader Modeler and art designer:
+  creating modelling goals, for all modeling related issues and organizing other modeling developers, creating and maintaining of common Xonotic models repository
+
+* Leader Music and sounds designer
+  creating  goals, for all modeling related issues and organizing other modeling developers, creating and maintaining of common Xonotic models repository
+
+* Leader Community manager
+  community development groups, public relationship, mass media, clan activities, tournaments, informing other leaders what players community needs or wants
+
+* Leader Web architect
+  maintaining Xonotic web site and integrating related web projects, both with Leader Community manager working on common projects
+
+* Leader Mapper
+  maintaining texture repository in a working state, responsible that only quality maps reach base or main Xonotic maps repository
+
+h2. Groups appointed by the leaders:
+
+Quality Assurance group
+Tracker maintaining group
+Documentation group
+Other which leaders think would be good
+
+h2. Election process
+
+Voting is done by all those who are registered at development tracker at dev.xonotic.org Those supposedly are community members who help game development and have clues how inner game development is going on. Leaders are elected for 2 year terms and can be reelected again after their service time finished. If somebody leaves the board during the service time, new elections are made and elected person serves the remaining time until new elections.
+Votes are counted using Borda Count method: http://en.wikipedia.org/wiki/Borda_count
+
+For example, in an election for a leader position with 6 candidates, the rankings are scored as follows: 
+rank  points
+ 1______6 
+ 2______5 
+ 3______4 
+ 4______3 
+ 5______2 
+ 6______1 
+ none___0 
+Thus, refusing to rank someone denies them any points at all. Of course each rank can be assigned to at most one candidate.
+Candidate with the highest point total is elected to the board to fill the position he was elected for.

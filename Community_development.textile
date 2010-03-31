@@ -15,7 +15,7 @@ h2. North America
 * Dokujisan
 * Nifrek
 * PCLizard
-* Darthsparty
+* DarthSparty
 * Agamalama
 
 h2. Europe

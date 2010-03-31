@@ -22,6 +22,7 @@ h2. Europe
 * Kojn
 * SinSniper
 * thyr4ne
+* atheros
 
 h2. Australia
 * Hew
@@ -81,13 +82,14 @@ People already in clans
 * [affro]FruitieX
 * [affro]Morfar
 * [BOT]Mirio
+* [4ux.info]Terrorism
 
 h3. Prospects
  
 Public players who play regularly and are intermediate level or higher
 * s0rk
 * thyr4ne
-* microbat
+* macrobat
 * Halogene
 * your errors
 * r3ddi
@@ -103,6 +105,8 @@ Public players who play regularly and are intermediate level or higher
 * Acciless
 * Stillz
 * Maidenbeast
+* kiwi
+* BeteNoire
 
 h3. Other, less known clans to contact
 
@@ -112,7 +116,8 @@ Clans I know nothing about other than they sometimes appear in game :)
 * [DSC]
 * [pNp]
 * [PK]
-* [SB]
+* [DTG] -> Hypnosekroete
+* [LoC]
 
 h2. Australia/New Zealand
 

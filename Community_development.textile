@@ -63,7 +63,7 @@ h3. Clan members
 * f10: DarthSparty, Aport, Face, Calx, Blackmushroom, Kamar, Nixter, Phryg
 * MiT: PCLizard, Ares, Ghost, MadSkillz, Panzer, Om3ddr4g0n
 * Talionis (//T): Agama, AnnKittyKat, Scorpion, Surb, Claysm, Jean-Luc, Ulysses
-* Lunetist [+]: MaKR, Erusavion, Quadratic
+* Lunetist [+]: MaKR, Erusavion, Quadratic, Liquid-Sin
 * optimal [o]: Dokujisan
 
 

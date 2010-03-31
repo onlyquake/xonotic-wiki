@@ -16,7 +16,7 @@ h2. North America
 * Nifrek
 * PCLizard
 * DarthSparty
-* Agamalama
+* Agama
 
 h2. Europe
 * Kojn
@@ -59,6 +59,7 @@ We will use these lists to help with the steps of building community activity
 h2. North American
 
 h3. Clan members
+h1
 * f10: DarthSparty, Aport, Face, Calx, Blackmushroom, Kamar, Nixter, Phryg
 * MiT: PCLizard, Ares, Ghost, MadSkillz, Panzer, Om3ddr4g0n
 * Talionis (//T):Agama, AnnKittyKat, Scorpion, Surb, Claysm, Jean-Luc, Ulysses

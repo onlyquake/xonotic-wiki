@@ -1,13 +1,33 @@
 h1. Proposal for Board of Leaders elections draft
 
-Board of Leaders consists of 6 members, who responsible for fostering and foreseeing growth of Xonotic. Leaders should listen to community wishes and set the project goals in accordance what they think is the best way to the project. They also accept or reject content into the main Xonotic repository, which are they responsible for (be it code, art, maps, models, music, documentation) and strive to make Xonotic unified, unique and attractive. They also seek ways to get public attention and funds for development. They also responsible for proper working of Xonotic web site, code repository and other materials. Each leader is responsible for working with his specialty developers and explaining the goals that should be done and how to achieve that (e.g. modeling leaders has a list of all volunteering modelers and helps them understanding how to other parts of the game relate to models and what could be done). Therefore, I propose that there would be 6 leaders which should take positions of:
+Board of Leaders consists of 8 members, who are split to 4 departments by 2:
+# Art department
+# Audio department
+# Code department
+# Public relations department
 
-* Leader Coder
-* Leader Modeler and art designer
-* Leader Music and sounds designer
+Board of Leaders are responsible for fostering and foreseeing growth of Xonotic. Leaders should listen to community wishes and set the project goals in accordance what they think is the best way to the project. They also accept or reject content into the main Xonotic repository, which are they responsible for (be it code, art, maps, models, music, documentation) and strive to make Xonotic unified, unique and attractive. They also seek ways to get public attention and funds for development. They also responsible for proper working of Xonotic web site, code repository and other materials. Each leader is responsible for working with his specialty developers and explaining the goals that should be done and how to achieve that (e.g. modeling leaders has a list of all volunteering modelers and helps them understanding how to other parts of the game relate to models and what could be done). 
+
+h2. Art department
+
+* Lead Mapper
+* Lead Modeler and art designer
+
+h2. Audio department
+
+* Lead Music designer
+* Lead Sounds designer
+
+h2. Code department
+
+* Lead Game designer
+* Lead Quality Assurance engineer
+
+h2. Public relationships department
+
 * Leader Community manager
 * Leader Web architect
-* Leader Mapper
+
 
 Major gameplay or whole Xonotic project related decisions should be made only by ALL LEADERS CONSENSUS (basically, that means anyone from the leaders has a VETO vote).
 

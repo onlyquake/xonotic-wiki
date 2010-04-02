@@ -60,7 +60,9 @@ float myfunc() final
 }
 </pre>
 
-h2. Variadic parameters
+h2. Variadic parameters (do not use yet)
+
+(This might get changed to be more flexible so do not rely on this syntax...)
 
 Another "enhancement" is the possibility to have functions with variadic parameter lists. However, the only way to sanely access them (until pointers are allowed) is via a recursive way.
 Here's an example that assumes float parameters and prints them one after the other:

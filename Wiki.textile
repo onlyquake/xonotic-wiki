@@ -36,6 +36,7 @@ h2. Art & Media
 ** _[[Logo vote]]_
 ** _[[Logo vote results]]_
 * [[Maps Makeover]]
+* [[Weapons Makeover]]
 * [[2d art]]
 * [[Sound FX and music]]
 

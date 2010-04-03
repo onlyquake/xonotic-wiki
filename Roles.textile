@@ -13,6 +13,7 @@ Green Marine
 Kadaverjack
 lda17h
 mand1nga
+merlijn
 Samual
 Spaceman
 tZork
@@ -35,6 +36,7 @@ Dokujisan
 -z-
 C.Brutail
 mand1nga
+merlijn
 tZork
 
 h2. Moderators
@@ -109,6 +111,7 @@ jayvee
 john galt
 jscinoz
 Kadaverjack
+merlijn
 Willis
 
 h2. Server Admins

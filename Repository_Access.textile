@@ -12,6 +12,8 @@ cd xonotic
 ./all update
 </pre>
 
+The git:// protocol uses port 9418, which may be a problem if you're behind a strict firewall. You may instead use the clone url http://git.xonotic.org/xonotic/xonotic.git however using the git protocol directly is preferred for performance reasons.
+
 After that, you have a working checkout of the repository.
 
 h3. Getting write access

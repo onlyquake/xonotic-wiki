@@ -34,3 +34,10 @@ Tenshihan has already started to create new sounds for Xonotic.
 His first batch of sounds are here http://www.nullgaming.com/stuff/tenshihan-nexuiz.v6.6.pk3.zip
 He is *very* excited to work on this new game with us.
 He and his wife are working on new female and male player sounds right now, including a "Welcome to Xonotic" intro.
+
+h1. References
+
+* Licensing
+** Our [[Legal]] wiki page
+* Tools
+* Howto's

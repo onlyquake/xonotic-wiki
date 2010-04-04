@@ -1,23 +1,36 @@
 h1. Music
 
+h2. Guidelines
+
+Discussion about the kind of music we want, a set of broad rules that artists/contributors should have in mind.
+
+_TBD_
+
+h2. Contributions
+
 People interested in contributing music:
-* ProfessorKliq  http://professorkliq.com/guns.html (Japanese Synthesizer* and *Dirtiest* are good examples)
-* michaelb http://forums.xonotic.org/showthread.php?tid=42&pid=145#pid145
-* T00lbox http://drop.io/praetoolbox
-* Kay http://forums.xonotic.org/showthread.php?tid=153&pid=1407#pid1407
-
-ProfessorKliq has said he's willing to work with tenshihan and michaelb for an orchestral + Techno sort of style.
-
-*tenshihan* has said he is excited to collaborate with him by providing sound effects to mix in with the music.
-
+* ProfessorKliq  
+** http://professorkliq.com/guns.html (_Japanese Synthesizer_ and _Dirtiest_ are good examples)
+** He's willing to work with _Tenshihan_ and _michaelb_ for an orchestral + Techno sort of style.
+* michaelb 
+** http://forums.xonotic.org/showthread.php?tid=42&pid=145#pid145
+* T00lbox
+** http://drop.io/praetoolbox
+* Kay 
+** http://forums.xonotic.org/showthread.php?tid=153&pid=1407#pid1407
 
 h1. Sounds
 
-tenshihan has already started to create new sounds for Xonotic.
+h2. Guidelines
 
-His first batch of sounds are here
-http://www.nullgaming.com/stuff/tenshihan-nexuiz.v6.6.pk3.zip
+Discussion about the kind of sound effects we want, a set of broad rules that artists/contributors should have in mind.
 
+
+h2. Contributions
+
+h3. Tenshihan
+
+Tenshihan has already started to create new sounds for Xonotic.
+His first batch of sounds are here http://www.nullgaming.com/stuff/tenshihan-nexuiz.v6.6.pk3.zip
 He is *very* excited to work on this new game with us.
-
 He and his wife are working on new female and male player sounds right now, including a "Welcome to Xonotic" intro.

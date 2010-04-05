@@ -13,21 +13,25 @@ Since we have many forms of contributions, they will be split up into some main 
 
 h3. Code
 
-All code must be GPL v2.
+All code must be GPL v2. You may opt to use the "or any later version" clause, or dual license your code with another license - all we need is that _one_ license the code is available under be the GPL v2. Most code in the game however is not dual licensed.
 
 h3. Artwork
 
-For artwork it is commonly accepted to not provide sources, as it can be argued that an image is its own preferred editable format. However we do encourage sharing your project files if applicable, this could include source images and layer information. Which program you used to create these does not matter for legal purposes, as you are legally the owner of the work you created with this software. Some programs (in shareware mode) may however restrict you from relicensing the work and/or distributing project files.
+In the common case that you perform further edits on your artwork on basis of the last saved image version, the image is its own preferred editable format and thus the source.
 
-You may also reuse the work of others, provided that this work is licensed under a GPL compatible license. This includes commonly used CC-BY (note that ShareAlike and NonCommercial are NOT compatible), the Artistic License and the MIT License.
+However, in case you keep other project files (like layered image versions), these are the source you are asked to provide.
+
+Which program you used to create these does not matter for legal purposes, as you are legally the owner of the work you created with this software. Some programs (in shareware mode, e.g. Terragen) may however restrict you from relicensing the work and/or distributing project files. Read their license agreement for further information.
+
+You may also reuse the work of others, provided that this work is licensed under a license that allows you to freely relicense your work under the GPL. This includes commonly used CC-BY (note that ShareAlike and NonCommercial are NOT compatible), the Artistic License and the MIT License.
 
 h3. Audio
 
-It is required to provide sources for any audio files to be included, what your source is largely varies on the way you created this audio. If you created or edited your work in a computer program, you must provide the project files and any samples you used. The samples themselves MAY be licensed under the CC-BY license, which does not require you to share the sources you used to create the sample. This means that you can use commercial programs to create a sample and include proprietary synths and effects, as the sample you create will be your work and you may choose to license it in every way you see fit.
+It is required to provide sources for any audio files to be included. What your source is largely varies on the way you created this audio. If you created or edited your work in a computer program, you must provide the project files and any samples you used. The samples themselves may also be licensed under the CC-BY or CC-Sampling+ license, which by themselves do not require you to share the sources you used to create the sample. This means that you can use commercial programs to create a sample and include proprietary synths and effects, as the sample you create will be your work and you may choose to license it in every way you see fit. Especially: there is absolutely nothing wrong with using, for example, expensive VSTi plugins for your work, as long as you still share the project file containing the settings for that VSTi plugin. Even if the music is composed on a totally obscure platform (e.g. Mac OS 9, or Amiga), there is nothing wrong with providing whatever is the native format of that application (e.g. as a floppy disk image).
 
-If you created the music in another way, let's say you just played it on the piano and recorded it, it may be unclear what your 'source' is. Commonly a musical score would be accepted, or if you completely improvised it may be accepted without any source at all. Generally many programs can export the musical score or provide a midi format. This makes it easier for others to work on what you created. If you're unclear what your source is, ask yourself "What would I use if I wanted to modify it?", the answer is likely to be accepted as source.
+If you created the music in another way, let's say you just played it on the piano and recorded it, it may be unclear what your 'source' is. Commonly a musical score would be accepted, or if you completely improvised it may be accepted without any source at all. Generally many programs can export the musical score or provide a midi format. This makes it easier for others to work on what you created, and would be nice to be provided additionally to any project files. If you're unclear what your source is, ask yourself "What would I use if I wanted to modify it?", the answer is likely to be accepted as source.
 
-You may also reuse samples created by others, +as long as they are licensed under the GPL, CC-BY, Artistic License or the MIT License+ (note that ShareAlike and NonCommercial are NOT compatible). _(Provide a list of known legal resources here)._
+You may also reuse samples created by others, +as long as they are licensed under the GPL, CC-BY, CC-Sampling+, Artistic License or the MIT License+ (note that ShareAlike and NonCommercial are NOT compatible). _(Provide a list of known legal resources here)._
 
 h2. Xonotic name
 

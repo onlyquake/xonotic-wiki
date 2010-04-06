@@ -40,4 +40,9 @@ h1. References
 * Licensing
 ** Our [[Legal]] wiki page
 * Tools
+** OpenMPT http://www.lpchip.com/modplug
+** LMMS http://www.lmms.sourceforge.net
+** Ardour http://www.ardour.org
+** Rosegarden http://www.rosegardenmusic.com/
+
 * Howto's

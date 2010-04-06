@@ -1,39 +1,57 @@
 h1. Music
 
-h2. Guidelines
+{{toc}}
 
-Discussion about the kind of music we want, a set of broad rules that artists/contributors should have in mind.
+h2. Requeriments
 
-_TBD_
+* Vorbis OGG 192kbps
+* GPL v2 compatible _(for more information see our [[legal]] page)_
+* 10MB Maximum
+* Preferably with matching ending and beginnig _(so the song can loop smoothly)_
 
-h2. Contributions
+h2. Music Style
 
-People interested in contributing music:
-* ProfessorKliq  
-** http://professorkliq.com/guns.html (_Japanese Synthesizer_ and _Dirtiest_ are good examples)
-** He's willing to work with _Tenshihan_ and _michaelb_ for an orchestral + Techno sort of style.
-* michaelb 
-** http://forums.xonotic.org/showthread.php?tid=42&pid=145#pid145
-* T00lbox
-** http://drop.io/praetoolbox
-* Kay 
-** http://forums.xonotic.org/showthread.php?tid=153&pid=1407#pid1407
+h3. Overview
 
-h1. Sounds
+While we don't want to tie us to a specific genre, the music must match the visuals of the game. As it is being discussed on "this thread":http://forums.xonotic.org/showthread.php?tid=81 seems that we are about to use a futuristic ambient for the game, so its more than likely that the kind of music that we want will fit within the Electronic genre.
 
-h2. Guidelines
+h3. Track duration
 
-Discussion about the kind of sound effects we want, a set of broad rules that artists/contributors should have in mind.
+Currently most contributions come in the format of a regular cd track, that is 3, 4 or 5 minutes long. This is currently an issue because the duration of most matches is about 15-20 minutes, that means that one listens to the very same track many times in row, which is kind of boring. For this reason we would like to have longer tracks, as long as this is possible for artists. However tracks longer than 10 or 15 minutes are not advisable as that will increase dramatically the size of the release package. Note that this is a file size size constraint, not a duration one, tracks that are more easily compressed can have a longer duration.
 
+h3. Matching start and ending
 
-h2. Contributions
+In spite of having longer tracks its more than likely that a track gets played at two or more times during a match, for this is important that the end and beginning of the track can be matched without disruptions, giving a sense of continuity.
 
-h3. Tenshihan
+h3. Complexity
 
-Tenshihan has already started to create new sounds for Xonotic.
-His first batch of sounds are here http://www.nullgaming.com/stuff/tenshihan-nexuiz.v6.6.pk3.zip
-He is *very* excited to work on this new game with us.
-He and his wife are working on new female and male player sounds right now, including a "Welcome to Xonotic" intro.
+As this game is extremely fast we don't want to have overly complex tracks at the point of being distracting or that one can't even understand while playing (e.g. a mad breakbeat tune)
+
+h3. Variations
+
+Furthermore this game is based a lot on listening, as a way to know if a shot hit or not, or if there is someone nearby picking up items, etc. For this reason we want to avoid abrupt variations in the volume of tracks and/or the abuse of very high pitched sounds.
+
+h3. Suggested Genres
+
+Electronica, Drum and bass, House, Jungle, 8 bit, Fake bit, Techno, Hybrid, ambient, Experimental
+
+h3. Moods
+
+* Wanted "moods":http://allmusic.com/cg/amg.dll?p=amg&sql=75:
+** Intense, Trippy, Energetic, Cerebral, Hypnotic, Playful, Ominous, Ambitious, Fast
+* Unwanted moods
+** Dramatic, Complex, Clinical, Visceral
+
+h3. Reference tracks
+
+Following tracks could be taken as a reference of the style that we want
+
+"Forgotten Tides":http://www.jamendo.com/en/track/145959
+"Foregone Destruction":http://www.youtube.com/watch?v=yNrI6N2jQCk&feature=related
+"Skyward Fire":http://www.youtube.com/watch?v=2bFUNKg0mzg&feature=related
+"Botpack 9":http://www.youtube.com/watch?v=6gwdsQDwAb8&feature=related
+"Stairs":http://blkrbt.googlepages.com/stairs.ogg
+"Rabble Rouser":http://www.youtube.com/watch?v=ki71pm8yDKI&hd=1
 
 h1. References
 

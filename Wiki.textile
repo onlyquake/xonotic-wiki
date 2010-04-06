@@ -40,6 +40,7 @@ h2. Art & Media
 * [[Weapons Makeover]]
 * [[2d art]]
 * [[Sound FX and music]]
+* [[Legal|Licensing / Legal]]
 
 h2. References
 

@@ -37,9 +37,9 @@ Electronica, Drum and bass, House, Jungle, 8 bit, Fake bit, Techno, Hybrid, ambi
 
 h3. Moods
 
-* Wanted "moods":http://allmusic.com/cg/amg.dll?p=amg&sql=75:
+* Wanted
 ** Intense, Trippy, Energetic, Cerebral, Hypnotic, Playful, Ominous, Ambitious, Fast
-* Unwanted moods
+* Unwanted 
 ** Dramatic, Complex, Clinical, Visceral
 
 h3. Reference tracks

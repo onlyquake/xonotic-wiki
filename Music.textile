@@ -7,7 +7,7 @@ h2. Requeriments
 * Vorbis OGG 192kbps
 * GPL v2 compatible _(for more information see our [[legal]] page)_
 * 10MB Maximum
-* Preferably with matching ending and beginnig _(so the song can loop smoothly)_
+* Preferably with matching ending and beginning _(so the track loops smoothly)_
 
 h2. Music Style
 

@@ -53,7 +53,7 @@ Following tracks could be taken as a reference of the style that we want
 "Stairs":http://blkrbt.googlepages.com/stairs.ogg
 "Rabble Rouser":http://www.youtube.com/watch?v=ki71pm8yDKI&hd=1
 
-h1. References
+h2. References
 
 * Licensing
 ** Our [[Legal]] wiki page

@@ -44,5 +44,6 @@ h1. References
 ** LMMS http://www.lmms.sourceforge.net
 ** Ardour http://www.ardour.org
 ** Rosegarden http://www.rosegardenmusic.com/
+** http://linux-sound.org/
 
 * Howto's

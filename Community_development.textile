@@ -65,7 +65,7 @@ h3. Clan members
 * Talionis (//T): Agama, AnnKittyKat, Scorpion, Surb, Claysm, Jean-Luc, Ulysses
 * Lunetist [+]: MaKR, Erusavion, Quadratic, Liquid-Sin
 * optimal [o]: Dokujisan
-
+* Machine Vision [mv]: klon, /dev/null, Peanut, lex
 
 h2. Europe
 

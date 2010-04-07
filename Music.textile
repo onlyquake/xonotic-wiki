@@ -57,6 +57,7 @@ h2. References
 
 * Licensing
 ** Our [[Legal]] wiki page
+** http://wiki.creativecommons.org/GarageBand
 * Tools
 ** OpenMPT http://www.lpchip.com/modplug
 ** LMMS http://www.lmms.sourceforge.net

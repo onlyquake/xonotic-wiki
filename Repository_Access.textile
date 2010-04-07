@@ -1,3 +1,5 @@
+{{>toc}}
+
 h1. Repository Access
 
 The repository is accessed using git.

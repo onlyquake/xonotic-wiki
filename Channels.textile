@@ -2,28 +2,28 @@ h1. IRC channels
 
 h2. On Quakenet
 
-#xonotic
-#xonotic.admins
-#xonotic.editing
-#xonotic.pickup
+#xonotic - General purpose channel
+#xonotic.admins - Channel for server admins
+#xonotic.editing - Channel for mapmakers, modelers, texturers, etc.
+#xonotic.pickup - Pickup channel
 
 h3. Country specific channels
 
-#xonotic.au
-#xonotic.de
-#xonotic.fr
+#xonotic.au - Xonotic Australia
+#xonotic.de - Xonotic Germany
+#xonotic.fr - Xonotic France
 
 h3. Clan channels
 
-#pb.xonotic the home of The Peace Brothers
+#pb.xonotic - Peace Brothers
 
 h3. Server channels
 
-#xon.simba [NL] Simba CTF
+#xon.simba - Simba CTF
 
 h2. On FreeNode
 
-#xonotic this is a channel for the game developers. Non-development subjects should be directed to the main Xonotic channel on QuakeNet
+#xonotic - Game developer channel. Non-development subjects should be directed to the main Xonotic channel on QuakeNet.
 
 h1. IRC
 

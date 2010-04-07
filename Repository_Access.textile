@@ -6,7 +6,7 @@ The repository is accessed using git.
 
 h2. Linux/OS X:
 
-First, you install git using your favorite package manager. Then:
+First, you install git using your favorite package manager. Then, do the following to download and compile (execute the first line only to download)::
 
 <pre>
 git clone git://git.xonotic.org/xonotic/xonotic.git

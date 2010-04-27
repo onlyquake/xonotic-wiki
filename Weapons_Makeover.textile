@@ -1,1 +1,17 @@
 h1. Weapons Makeover
+
+
+h2. New Weapon Proposals:
+
+I would like to see some defensive weapons. These weapons are designed primarily with ctf and carnage in mind.My playing style in ctf is attack, shoot the disorient and capture the flag. In many cases disorienting players is a much more efficient way to attack a base. Leaving them with 30hp, can often be better offense then killing, them unless there on your tail. Saying that I would like to propose a secondary weapon to the laser.
+
+Weapon 1:"Nanobot Coordinator Gun"
+Rough Synopsis - A weapons that has only defensive functions. It could go many ways but here are my thoughts which would add a very interesting dimension to game play.
+
+
+Primary Fire: Consumes amour to give temporary shielding from energy attacks, rendering the nex and electo, ect useless when shot. Maybe weapon push still effects the player. But would be very useful agents camping, sort of an anti camping weapon. I personally like it when players camp because there is always a way around it. If you had this weapon you could charge right into them before they get whatever other weapon they had.
+
+Secondary Fire: 
+
+
+Weapon 2:"Power Fist"

@@ -64,6 +64,8 @@ h2. References
 ** Ardour http://www.ardour.org
 ** Rosegarden http://www.rosegardenmusic.com/
 ** http://linux-sound.org/
+* Sound banks
+** "The Free Sound Project":http://www.freesound.org/tagsViewSingle.php?id=99
 
 h2. Howto's
 

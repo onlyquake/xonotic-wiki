@@ -4,7 +4,7 @@ h1. Music
 
 h2. Requeriments
 
-* Vorbis OGG -q4 or above (-q7 or above preferred)
+* Vorbis OGG -q4 or above (-q7 or above preferred), or a format good enough for being able to be converted to that (e.g. FLAC, WAV)
 * GPL v2 compatible _(for more information see our [[legal]] page)_
 * about 3 to 10 minutes
 * Preferably with matching ending and beginning _(so the track loops smoothly)_

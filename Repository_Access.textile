@@ -77,10 +77,10 @@ Lists all the branches known for all the respective repositories
 Compiles the game given that you have the required libs installed
 
 <pre>
-./all checkout
+./all checkout BRANCH
 </pre>
 
-Who knows?
+Switch to that branch in all repositories where its available
 
 <pre>
 ./all run xonotic

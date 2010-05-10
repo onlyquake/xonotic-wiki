@@ -22,11 +22,6 @@ The git:// protocol uses port 9418, which may be a problem if you're behind a st
 
 After that, you have a working checkout of the repository.
 
-h3. Ubuntu Dependencies
-<pre>
-sudo apt-get install build-essential xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl1.2-dev libsdl-image1.2-dev libclalsadrv-dev libasound2-dev libxext-dev libsdl1.2debian-pulseaudio
-</pre>
-
 h2. Getting write access
 
 A condition for write (push) access is that you agree that any code or data you push will be licensed under the General Public License, version 2, with or without the "or any later version" clause. In case the directory the changes apply to contains a LICENSE or COPYING file indicating another license, your pushed code has to be dual licensed appropriately. Subdirectories currently having a dual license:

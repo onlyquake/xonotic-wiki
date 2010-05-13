@@ -4,7 +4,7 @@ Suggest your names below each weapon
 
 h3. Laser
 
-Pulse, Pulse Gun
+Pulse, Pulse Gun, Blaster
 
 h3. Shotgun
 
@@ -30,7 +30,9 @@ h3. Hagar
 
 h3. Nexgun
 
-Nox?
+If projectile has no mass - gluon rifle, photon rifle, photon cannon
+
+If projectile has mass - Gauss Rifle, Rail Gun, Mass Driver
 
 h3. Rocket Launcher
 
@@ -38,13 +40,17 @@ Devastator
 
 h3. Minstanex
 
-Gauss Rifle, Rail Gun, Minsta Gun
+Gauss Rifle, Rail Gun, Mass Driver, Minsta Gun
 
 h3. HLAC
+
+Laser Cannon
 
 h3. Portal Gun
 
 h3. Fireball Gun
+
+Phoenix 
 
 h3. Rifle
 

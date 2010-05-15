@@ -38,7 +38,8 @@ This is the list of pre-selected tracks that we have so far. Artist names are or
 |"Total Meltdown":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_TOTAL_MELTDOWN.ogg|
 |"Total Meltdown v2":http://soundcloud.com/sc0rp/total-meltdown-v-2|
 |"Dusk On Planet Dust":http://soundcloud.com/sc0rp/dusk-on-planet-dust|
-
+|/2."toolbox":http://drop.io/praetoolbox|"Iron Bear, The Warrior of Heldenbord":http://drop.io/praetoolbox/asset/iron-bear-the-warrior-of-heldenbord-mp3|
+|"Iron Bear 2 Dec 13th adjusted":http://drop.io/praetoolbox/asset/iron-bear-2-dec-13th-adjusted-mp3|
 
 
 h2. Potential contributors

@@ -5,15 +5,18 @@ h2. Contributions
 This is the list of pre-selected tracks that we have so far. Artist names are ordered alphabetically. 
 
 |_.Artists|_.Tracks|
-|/4."Chooksta":http://forums.xonotic.org/member.php?action=profile&uid=44
-Country: AU|http://chookstamusic.com/songs/fisheyzemaster.mp3|
+|/5."blkrbt":http://soundcloud.com/blkrbt|"Quiet":http://blkrbt.googlepages.com/nexuiz_quiet.ogg|
+|"Traveler":http://blkrbt.googlepages.com/nexuiz_traveler.ogg|
+|"Nine Six":http://blkrbt.googlepages.com/ninesix.ogg|
+|"Stairs":http://blkrbt.googlepages.com/stairs.ogg|
+|"Variable":http://blkrbt.googlepages.com/nexuiz_variable.ogg|
+|/4."Chooksta":http://forums.xonotic.org/member.php?action=profile&uid=44|http://chookstamusic.com/songs/fisheyzemaster.mp3|
 |http://chookstamusic.com/songs/prideroar.mp3|
 |http://chookstamusic.com/songs/rumble_drum.mp3|
 |http://chookstamusic.com/songs/wooookiiie2.mp3|
 |/2."Jenetik":http://forums.xonotic.org/member.php?action=profile&uid=320|"Suttle":http://www.jenetik.com/music/Jenetik_-_Suttle.mp3|
 |"Ambience":http://www.jenetik.com/music/Jenetik_-_Ambience.mp3|
-|/15."SC0RP":http://soundcloud.com/sc0rp
-Country: UK|"Xonotic Theme Tune v2":http://soundcloud.com/sc0rp/xonotic-theme-tune-v-2|
+|/15."SC0RP":http://soundcloud.com/sc0rp|"Xonotic Theme Tune v2":http://soundcloud.com/sc0rp/xonotic-theme-tune-v-2|
 |"Electrolosis":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_ELECTROLOSIS.ogg|
 |"In A Dream":http://soundcloud.com/sc0rp/in-a-dream|
 |"Inner Peace":http://soundcloud.com/sc0rp/inner-peace|

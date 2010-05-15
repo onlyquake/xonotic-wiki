@@ -16,6 +16,13 @@ This is the list of pre-selected tracks that we have so far. Artist names are or
 |http://chookstamusic.com/songs/wooookiiie2.mp3|
 |/2."Jenetik":http://forums.xonotic.org/member.php?action=profile&uid=320|"Suttle":http://www.jenetik.com/music/Jenetik_-_Suttle.mp3|
 |"Ambience":http://www.jenetik.com/music/Jenetik_-_Ambience.mp3|
+|/7."michaelb":http://michaelb.org/|"Forgotten Tides":http://www.jamendo.com/en/track/145959|
+|"Symmetry":http://www.jamendo.com/en/track/145611
+|"Twenty Six Hundred":http://www.jamendo.com/en/track/145612
+|"Alive":http://www.jamendo.com/en/track/145559|
+|"Unexpected Incident":http://www.jamendo.com/en/track/145616|
+|"Controlled decay":http://www.jamendo.com/en/track/145567|
+|"Battle Sequence":http://michaelb.org/music/music/symphonic/michaelb-battle_sequence.mp3|
 |/15."SC0RP":http://soundcloud.com/sc0rp|"Xonotic Theme Tune v2":http://soundcloud.com/sc0rp/xonotic-theme-tune-v-2|
 |"Electrolosis":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_ELECTROLOSIS.ogg|
 |"In A Dream":http://soundcloud.com/sc0rp/in-a-dream|

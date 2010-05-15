@@ -3,7 +3,12 @@ h1. Music contributions
 h2. Contributions
 
 
-|_.Artist|_.Track|
+|_.Artists|_.Tracks|
+|/4."Chooksta":http://forums.xonotic.org/member.php?action=profile&uid=44
+Country: AU|http://chookstamusic.com/songs/fisheyzemaster.mp3|
+|http://chookstamusic.com/songs/prideroar.mp3|
+|http://chookstamusic.com/songs/rumble_drum.mp3|
+|http://chookstamusic.com/songs/wooookiiie2.mp3|
 |/15."SC0RP":http://soundcloud.com/sc0rp
 Country: UK|"Xonotic Theme Tune v2":http://soundcloud.com/sc0rp/xonotic-theme-tune-v-2|
 |"Electrolosis":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_ELECTROLOSIS.ogg|
@@ -20,6 +25,7 @@ Country: UK|"Xonotic Theme Tune v2":http://soundcloud.com/sc0rp/xonotic-theme-tu
 |"Total Meltdown":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_TOTAL_MELTDOWN.ogg|
 |"Total Meltdown v2":http://soundcloud.com/sc0rp/total-meltdown-v-2|
 |"Dusk On Planet Dust":http://soundcloud.com/sc0rp/dusk-on-planet-dust|
+
 
 
 h2. Potential contributors

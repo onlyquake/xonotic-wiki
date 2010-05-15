@@ -3,6 +3,24 @@ h1. Music contributions
 h2. Contributions
 
 
+|_.Artist|_.Track|
+|/15."SC0RP":http://soundcloud.com/sc0rp
+Country: UK|"Xonotic Theme Tune v2":http://soundcloud.com/sc0rp/xonotic-theme-tune-v-2|
+|"Electrolosis":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_ELECTROLOSIS.ogg|
+|"In A Dream":http://soundcloud.com/sc0rp/in-a-dream|
+|"Inner Peace":http://soundcloud.com/sc0rp/inner-peace|
+|"Meltdown":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_MELTDOWN.ogg|
+|"Neon":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_NEON.ogg|
+|"Northern Lights":http://soundcloud.com/sc0rp/northern-lights-7|
+|"Out There":http://soundcloud.com/sc0rp/out-there|
+|"The Laws Of Physics":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_THE_LAWS_OF_PHYSICS.ogg|
+|"The Maths":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_THE_MATHS.ogg|
+|"The Maths Remix":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_THE_MATHS_REMIX.ogg|
+|"The Wall":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_THE_WALL.ogg|
+|"Total Meltdown":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_TOTAL_MELTDOWN.ogg|
+|"Total Meltdown v2":http://soundcloud.com/sc0rp/total-meltdown-v-2|
+|"Dusk On Planet Dust":http://soundcloud.com/sc0rp/dusk-on-planet-dust|
+
 
 h2. Potential contributors
 

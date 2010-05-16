@@ -57,7 +57,7 @@ h2. Maps
 |Stormkeep2|DM|Closed|NA|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|
 |EvilspaceRemake|DM|Space|NA|Evilspace||Cortez666|IN PROGRESS|NA|
 |GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|
-|Space|CTF|Space|NA|cbctf1|C. Brutail|IN PROGRESS|NA|
+|Space|CTF|Space|NA|cbctf1||C. Brutail|IN PROGRESS|NA|
 
 h2. Vehicles
 

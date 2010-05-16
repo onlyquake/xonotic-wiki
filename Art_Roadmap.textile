@@ -53,6 +53,12 @@ h2. Maps
 |Stormkeep2|DM||NA|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|
 |EvilspaceRemake|DM|Space|NA|Evilspace||Cortez666|IN PROGRESS|NA|
 
+h2. Vehicles
+|_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
+|Raptor|
+|SpiderBot|
+|Racer|
+
 h1. 2D Art Roadmap
 
 h2. Textures

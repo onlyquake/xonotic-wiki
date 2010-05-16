@@ -11,10 +11,39 @@ h2. Player Models
 h2. Weapon Models
 
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
+|Tuba|
+|Laser|
+|Shotgun|
+|MachineGun|
+|Rifle|
+|Mortar|
+|Electro|
+|Crylink|
+|Nex|
+|MinstaNex|
+|Hagar|
+|RocketLauncher|
+|Seeker|
+|Fireball|
+|Porto|
+|HookGun|
+
 
 h2. Items/Pickups
 
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
+|10 Armor|
+|25 Armor|
+|50 Armor|
+|100 Armor|
+|10 Health|
+|25 Health|
+|50 Health|
+|100 Health|
+|Strength|
+|Shield|
+
+
 
 h2. Maps
 

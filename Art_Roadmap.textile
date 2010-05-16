@@ -1,17 +1,33 @@
-h1. 3D/2D Art Roadmap
+h1. 3D Art Roadmap
 
 h2. Player Models
 
-|_.Name|_.Species|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
-|Umbra|Human|Humanoid|NA|NA|Done|IN PROGRESS|Improve animations, Merge pants to glow| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/umbraplayermodel|
-|Pyria|Human|Humanoid|NA|NA|Done|IN PROGRESS|Improve animtaions, Merge pants to glow| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/pyriaplayermodel|
-|Ignis|Human|Humanoid|NA|NA|Done|Done|Fix/improve animations| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/ignisplayermodel|
-|Gak|Alien|Humanoid|NA|NA|Done|IN PROGRESS|Textures/Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|
+|_.Name|_.Species|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.Animations|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
+|Umbra|Human|Humanoid|NA|NA|Done|IN PROGRESS|Fix duckwalk|Improve animations, Merge pants to glow| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/umbraplayermodel|
+|Pyria|Human|Humanoid|NA|NA|Done|IN PROGRESS|Fix duckwalk|Improve animtaions, Merge pants to glow| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/pyriaplayermodel|
+|Ignis(3 versions)|Human|Humanoid|NA|NA|Done|Done|Fix most|Fix/improve animations| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/ignisplayermodel|
+|Gak|Alien|Humanoid|NA|NA|Done|IN PROGRESS|None|Textures/Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|
 
 h2. Weapon Models
 
+|_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
+
 h2. Items/Pickups
+
+|_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
 
 h2. Maps
 
+|_.Name|_.Gametype|_.Style|_.Thread(s)|_.Concept|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
+|Space Elevator|CTF|Space|NA|GasolinePowered||FruitieX, Cuinnton|IN PROGRESS|NA|
+|Dance(rename possibly)|CTF|Space|NA|Dance|FruitieX|IN PROGRESS|fruitiex/dance|
+|Stormkeep2|DM||NA|Stormkeep|FruitieX|IN PROGRESS|fruitiex/stormkeep2|
+|EvilspaceRemake|DM|Space|NA|Evilspace|Cortez666|IN PROGRESS|NA|
+
+h1. 2D Art Roadmap
+
 h2. Textures
+
+h2. Game Graphics
+
+h2. Web Design/PR

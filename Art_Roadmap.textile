@@ -15,11 +15,11 @@ h2. Weapon Models
 |Laser|\9=.NOT ASSIGNED|
 |Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|
 |MachineGun|\9=.NOT ASSIGNED|
-|Rifle|NA|NA|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
+|Rifle|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
 |Mortar|\9=.NOT ASSIGNED|
 |Electro|\9=.NOT ASSIGNED|
 |Crylink|\9=.NOT ASSIGNED|
-|Nex|NA|NA|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
+|Nex|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
 |MinstaNex|\9=.NOT ASSIGNED|
 |Hagar|\9=.NOT ASSIGNED|
 |RocketLauncher|NA|NA|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
@@ -36,16 +36,16 @@ h2. Items/Pickups
 |25 Armor|NA|NA|Double Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
 |50 Armor|NA|NA|Armor|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
 |100 Armor|NA|NA|Armor w/ Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
-|10 Health|
-|25 Health|
-|50 Health|
-|100 Health|
-|Strength|
-|Shield|
-|RocketAmmo|
-|BulletAmmo|
-|ShotgunAmmo|
-|PlasmaAmmo|
+|10 Health|\9=.NOT ASSIGNED|
+|25 Health|\9=.NOT ASSIGNED|
+|50 Health|\9=.NOT ASSIGNED|
+|100 Health|\9=.NOT ASSIGNED|
+|Strength|\9=.NOT ASSIGNED|
+|Shield|\9=.NOT ASSIGNED|
+|RocketAmmo|\9=.NOT ASSIGNED|
+|BulletAmmo|\9=.NOT ASSIGNED|
+|ShotgunAmmo|\9=.NOT ASSIGNED|
+|PlasmaAmmo|\9=.NOT ASSIGNED|
 
 
 

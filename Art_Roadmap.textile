@@ -56,14 +56,15 @@ h2. Maps
 |Dance(rename possibly)|CTF|Space|NA|Dance||FruitieX|IN PROGRESS|fruitiex/dance|
 |Stormkeep2|DM|Closed|NA|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|
 |EvilspaceRemake|DM|Space|NA|Evilspace||Cortez666|IN PROGRESS|NA|
-|GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|NA|
+|GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|
+|Space|CTF|Space|NA|cbctf1|C. Brutail|IN PROGRESS|NA|
 
 h2. Vehicles
 
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
-|Raptor|
-|SpiderBot|
-|Racer|
+|Raptor|Chopper|NA|NA|COMPLETED|COMPLETED|NA|Yoda Almighty, Obilvion|COMPLETED|MASTER|
+|SpiderBot|Spider Movement|NA|NA|COMPLETED|COMPLETED|NA|Morphed|COMPLETED|MASTER|
+|Racer|Fast paced racer|NA|NA|COMPLETED|COMPLETED|NA|Morphed|COMPLETED|MASTER|
 
 h1. 2D Art Roadmap
 

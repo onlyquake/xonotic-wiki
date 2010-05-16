@@ -1,4 +1,4 @@
-h1. Art Roadmap
+h1. 3D/2D Art Roadmap
 
 h2. Player Models
 
@@ -7,3 +7,11 @@ h2. Player Models
 |Pyria|Human|Humanoid|NA|NA|Done|Done|Improve animtaions| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/pyriaplayermodel|
 |Ignis|Human|Humanoid|NA|NA|Done|Done|Fix/improve animations| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/ignisplayermodel|
 |Gak|Alien|Humanoid|NA|NA|Done|IN PROGRESS|Textures/Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|
+
+h2. Weapon Models
+
+h2. Items/Pickups
+
+h2. Maps
+
+h2. Textures

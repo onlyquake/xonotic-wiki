@@ -1,6 +1,6 @@
 h1. Art Roadmap
 |\3=.Player Models|
 |_.Name|_.Species|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|
-|Umbra|Artur Pirozhkov|/2.Users|
+|Umbra|Human|Humanoid|NA|NA|Done|Done|Fix animations| Oblivion, tZork, DiaboliK| IN PROGRESS|
 |2|Vasya Rogov|
 |3|John Smith|Admin|

@@ -73,6 +73,12 @@ h1. 2D Art Roadmap
 
 h2. Textures
 
+|_.Name|_.Style|_.Thread(s)|_.Concept|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
+|trak4x||NA|trak4|NA|trak, tZork|COMPLETED|MASTER|
+|trak5x||NA|trak5|NA|trak, tZork|COMPLETED|MASTER|
+|eXx|Rusty Metal|NA|eX|NA|Original Artist(unsure),tZork|COMPLETED|MASTER|
+|facility114|Clean Futuristic|http://forums.xonotic.org/showthread.php?tid=337&highlight=facility114|NA|NA|Oblivion|COMPLETED|MASTER|
+
 h2. Game Graphics
 
 h2. Web Design/PR

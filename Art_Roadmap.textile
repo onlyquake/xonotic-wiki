@@ -13,7 +13,7 @@ h2. Weapon Models
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
 |Tuba|
 |Laser|
-|Shotgun|
+|Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon|Done|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|
 |MachineGun|
 |Rifle|
 |Mortar|

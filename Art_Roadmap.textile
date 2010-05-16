@@ -20,9 +20,9 @@ h2. Maps
 
 |_.Name|_.Gametype|_.Style|_.Thread(s)|_.Concept|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
 |Space Elevator|CTF|Space|NA|GasolinePowered||FruitieX, Cuinnton|IN PROGRESS|NA|
-|Dance(rename possibly)|CTF|Space|NA|Dance|FruitieX|IN PROGRESS|fruitiex/dance|
-|Stormkeep2|DM||NA|Stormkeep|FruitieX|IN PROGRESS|fruitiex/stormkeep2|
-|EvilspaceRemake|DM|Space|NA|Evilspace|Cortez666|IN PROGRESS|NA|
+|Dance(rename possibly)|CTF|Space|NA|Dance||FruitieX|IN PROGRESS|fruitiex/dance|
+|Stormkeep2|DM||NA|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|
+|EvilspaceRemake|DM|Space|NA|Evilspace||Cortez666|IN PROGRESS|NA|
 
 h1. 2D Art Roadmap
 

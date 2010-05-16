@@ -22,7 +22,7 @@ h2. Weapon Models
 |Nex|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
 |MinstaNex|\9=.NOT ASSIGNED|
 |Hagar|\9=.NOT ASSIGNED|
-|RocketLauncher|NA|NA|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
+|RocketLauncher|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
 |Seeker|\9=.NOT ASSIGNED|
 |Fireball|\9=.NOT ASSIGNED|
 |Porto|\9=.NOT ASSIGNED|

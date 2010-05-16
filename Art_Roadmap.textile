@@ -1,6 +1,7 @@
 h1. Art Roadmap
 |\3=.Player Models|
-|_.Name|_.Species|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|
-|Umbra|Human|Humanoid|NA|NA|Done|Done|Fix animations| Oblivion, tZork, DiaboliK| IN PROGRESS|
-|2|Vasya Rogov|
-|3|John Smith|Admin|
+|_.Name|_.Species|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
+|Umbra|Human|Humanoid|NA|NA|Done|Done|Improve animations| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/umbraplayermodel|
+|Pyria|Human|Humanoid|NA|NA|Done|Done|Improve animtaions| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/pyriaplayermodel|
+|Ignis|Human|Humanoid|NA|NA|Done|Done|Fix/improve animations| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/ignisplayermodel|
+|Gak|Alien|Humanoid|NA|NA|Done|IN PROGRESS|Textures/Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|

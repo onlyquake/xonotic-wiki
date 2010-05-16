@@ -32,10 +32,10 @@ h2. Weapon Models
 h2. Items/Pickups
 
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
-|10 Armor|
-|25 Armor|
-|50 Armor|
-|100 Armor|
+|10 Armor|NA|NA|Shoulder Pad|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
+|25 Armor|NA|NA|Double Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
+|50 Armor|NA|NA|Armor|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
+|100 Armor|NA|NA|Armor w/ Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
 |10 Health|
 |25 Health|
 |50 Health|
@@ -58,6 +58,7 @@ h2. Maps
 |EvilspaceRemake|DM|Space|NA|Evilspace||Cortez666|IN PROGRESS|NA|
 
 h2. Vehicles
+
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
 |Raptor|
 |SpiderBot|

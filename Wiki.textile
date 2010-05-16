@@ -25,6 +25,7 @@ h2. Project
 
 h2. Art & Media 
 
+* [[Art Roadmap]]
 * [[Artistic Style]]
 * Logo proposals
 ** -z- [[Concept Art]]

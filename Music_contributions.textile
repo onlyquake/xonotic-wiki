@@ -2,7 +2,7 @@ h1. Music contributions
 
 h2. Contributions
 
-This is the list of pre-selected tracks that we have so far. Artist names are ordered alphabetically. 
+This is the list of pre-selected tracks that we have so far _(work in progress)_. Artist names are ordered alphabetically.
 
 |_.Artists|_.Tracks|
 |/5."blkrbt":http://soundcloud.com/blkrbt|"Quiet":http://blkrbt.googlepages.com/nexuiz_quiet.ogg|

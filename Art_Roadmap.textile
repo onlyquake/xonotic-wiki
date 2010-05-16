@@ -57,10 +57,10 @@ h2. Maps
 |Condenser|CTF|Closed|http://dev.xonotic.org/issues/57|Castles||FruitieX, Cuinnton|IN PROGRESS|NA|
 |Stormkeep2|DM|Closed|http://dev.xonotic.org/issues/12|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|
 |Evilspace2|DM|Space|http://dev.xonotic.org/issues/43|Evilspace||Cortez666|IN PROGRESS|NA|
-|Downer2|DM|Space|NA|Downer||Cortez666|IN PROGRESS|NA|
+|Downer2|DM|Space|http://forums.xonotic.org/showthread.php?tid=334&highlight=downer|Downer||Cortez666|IN PROGRESS|NA|
 |Toxic2|DM|Closed|NA|Toxic||Cuinnton|IN PROGRESS|NA|
 |GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|
-|Space|CTF|Space|NA|cbctf1||C. Brutail|IN PROGRESS|NA|
+|Space|CTF|Space|http://dev.xonotic.org/issues/18|cbctf1||C. Brutail|IN PROGRESS|NA|
 
 h2. Vehicles
 

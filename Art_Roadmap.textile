@@ -54,8 +54,10 @@ h2. Maps
 |_.Name|_.Gametype|_.Style|_.Thread(s)|_.Concept|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
 |Space Elevator|CTF|Space|NA|GasolinePowered||FruitieX, Cuinnton|IN PROGRESS|NA|
 |Dance(rename possibly)|CTF|Space|NA|Dance||FruitieX|IN PROGRESS|fruitiex/dance|
+|Condenser|CTF|Closed|NA|Castles||FruitieX, Cuinnton|IN PROGRESS|NA|
 |Stormkeep2|DM|Closed|NA|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|
-|EvilspaceRemake|DM|Space|NA|Evilspace||Cortez666|IN PROGRESS|NA|
+|Evilspace2|DM|Space|NA|Evilspace||Cortez666|IN PROGRESS|NA|
+|Toxic2|DM|Closed|NA|Toxic||Cuinnton|IN PROGRESS|NA|
 |GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|
 |Space|CTF|Space|NA|cbctf1||C. Brutail|IN PROGRESS|NA|
 

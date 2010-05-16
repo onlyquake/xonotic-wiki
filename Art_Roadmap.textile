@@ -11,22 +11,22 @@ h2. Player Models
 h2. Weapon Models
 
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
-|Tuba|
-|Laser|
+|Tuba|\9=.NOT ASSIGNED|
+|Laser|\9=.NOT ASSIGNED|
 |Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|
-|MachineGun|
+|MachineGun|\9=.NOT ASSIGNED|
 |Rifle|NA|NA|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
-|Mortar|
-|Electro|
-|Crylink|
+|Mortar|\9=.NOT ASSIGNED|
+|Electro|\9=.NOT ASSIGNED|
+|Crylink|\9=.NOT ASSIGNED|
 |Nex|NA|NA|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
-|MinstaNex|
-|Hagar|
+|MinstaNex|\9=.NOT ASSIGNED|
+|Hagar|\9=.NOT ASSIGNED|
 |RocketLauncher|NA|NA|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
-|Seeker|
-|Fireball|
-|Porto|
-|HookGun|
+|Seeker|\9=.NOT ASSIGNED|
+|Fireball|\9=.NOT ASSIGNED|
+|Porto|\9=.NOT ASSIGNED|
+|HookGun|\9=.NOT ASSIGNED|
 
 
 h2. Items/Pickups

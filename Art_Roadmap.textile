@@ -3,17 +3,17 @@ h1. 3D Art Roadmap
 h2. Player Models
 
 |_.Name|_.Species|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.Animations|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
-|Umbra|Human|Humanoid|NA|NA|Done|IN PROGRESS|Fix duckwalk|Improve animations, Merge pants to glow| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/umbraplayermodel|
-|Pyria|Human|Humanoid|NA|NA|Done|IN PROGRESS|Fix duckwalk|Improve animtaions, Merge pants to glow| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/pyriaplayermodel|
-|Ignis(3 versions)|Human|Humanoid|NA|NA|Done|Done|Fix most|Fix/improve animations| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/ignisplayermodel|
-|Gak|Alien|Humanoid|NA|NA|Done|IN PROGRESS|None|Textures/Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|
+|Umbra|Human|Humanoid|NA|NA|COMPLETED|IN PROGRESS|Fix duckwalk|Improve animations, Merge pants to glow| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/umbraplayermodel|
+|Pyria|Human|Humanoid|NA|NA|COMPLETED|IN PROGRESS|Fix duckwalk|Improve animtaions, Merge pants to glow| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/pyriaplayermodel|
+|Ignis(3 versions)|Human|Humanoid|NA|NA|COMPLETED|COMPLETED|Fix most|Fix/improve animations| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/ignisplayermodel|
+|Gak|Alien|Humanoid|NA|NA|COMPLETED|IN PROGRESS|None|Textures/Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|
 
 h2. Weapon Models
 
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
 |Tuba|
 |Laser|
-|Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon|Done|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|
+|Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|
 |MachineGun|
 |Rifle|
 |Mortar|

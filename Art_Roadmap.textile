@@ -1,6 +1,7 @@
 h1. Art Roadmap
 
 h2. Player Models
+
 |_.Name|_.Species|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
 |Umbra|Human|Humanoid|NA|NA|Done|Done|Improve animations| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/umbraplayermodel|
 |Pyria|Human|Humanoid|NA|NA|Done|Done|Improve animtaions| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/pyriaplayermodel|

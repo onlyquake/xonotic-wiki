@@ -42,6 +42,10 @@ h2. Items/Pickups
 |100 Health|
 |Strength|
 |Shield|
+|RocketAmmo|
+|BulletAmmo|
+|ShotgunAmmo|
+|PlasmaAmmo|
 
 
 

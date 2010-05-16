@@ -15,14 +15,14 @@ h2. Weapon Models
 |Laser|
 |Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|
 |MachineGun|
-|Rifle|
+|Rifle|NA|NA|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
 |Mortar|
 |Electro|
 |Crylink|
-|Nex|
+|Nex|NA|NA|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
 |MinstaNex|
 |Hagar|
-|RocketLauncher|
+|RocketLauncher|NA|NA|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
 |Seeker|
 |Fireball|
 |Porto|

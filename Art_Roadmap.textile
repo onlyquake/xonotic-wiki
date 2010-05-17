@@ -110,7 +110,7 @@ h2. Game Graphics
 |Shield Icon|NA|NA|NA|NA|Not Assigned|Not Assigned|NA|
 |Voting Screen|NA|NA|NA|NA|Sev|COMPLETED|MASTER|
 |Health Icon|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
-|Armor Icon|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
+|Armor Icon|NA|NA|NA|NA|Morphed|IN PROGRESS|NA|
 |Flag Icons|NA|NA|NA|NA|-z-|COMPLETED|MASTER|
 |Keyhunt Icons|NA|NA|NA|NA|-z-|COMPLETED|MASTER|
 |Race Awards|NA|NA|NA|NA|Sev|COMPLETED|MASTER|

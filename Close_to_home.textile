@@ -1,5 +1,9 @@
 h1. Close to home
 
+h2. Background
+*Date: Mid to Late second millennium AD
+*Region: Local Interstellar Cloud, distance inhibited by space travel technology. Antimatter drives offer speeds up to 82% of the speed of light. http://en.wikipedia.org/wiki/Local_Interstellar_Cloud
+
 h2. Factions
 
 |_.Name|_.Native Color|_.Species|_.Place of Origin|_.Background|_.Advantages|_.Disadvantage|_.Player Models|

@@ -15,14 +15,14 @@ h2. Weapon Models
 |Laser|\9=.NOT ASSIGNED|
 |Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon, (possibly fireball with the reintroduction of TAG seeker)|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|
 |MachineGun|\9=.NOT ASSIGNED|
-|Rifle|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
+|Rifle|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|
 |Mortar|\9=.NOT ASSIGNED|
 |Electro|\9=.NOT ASSIGNED|
 |Crylink|\9=.NOT ASSIGNED|
-|Nex|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
+|Nex|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|
 |MinstaNex|\9=.NOT ASSIGNED|
 |Hagar|\9=.NOT ASSIGNED|
-|RocketLauncher|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty, Oblivion(maybe?)|IN PROGRESS|NA|
+|RocketLauncher|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|
 |Seeker|\9=.NOT ASSIGNED|
 |Fireball|\9=.NOT ASSIGNED|
 |Porto|\9=.NOT ASSIGNED|

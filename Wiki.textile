@@ -27,9 +27,7 @@ h2. Art & Media
 
 * [[Art Roadmap]]
 * [[Artistic Style]]
-* Story Theme Proposals
-** [[Close to home]]
-* Logo Proposals
+* [[Logo|Xonotic Logo]]
 ** -z- [[Concept Art]]
 ** "Dokujisan":http://www.nullgaming.com/stuff/x/
 *** "Source for current official logo":http://www.nullgaming.com/stuff/x/source
@@ -47,6 +45,8 @@ h2. Art & Media
 * [[Sound FX]]
 ** [[Sound FX contributions]]
 * [[Legal|Licensing / Legal]]
+* Story Theme Proposals
+** [[Close to home]]
 
 h2. References
 

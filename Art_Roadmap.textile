@@ -13,7 +13,7 @@ h2. Weapon Models
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
 |Tuba|\9=.NOT ASSIGNED|
 |Laser|\9=.NOT ASSIGNED|
-|Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|
+|Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon, (possibly fireball with the reintroduction of TAG seeker)|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|
 |MachineGun|\9=.NOT ASSIGNED|
 |Rifle|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|Yoda_Almighty|IN PROGRESS|NA|
 |Mortar|\9=.NOT ASSIGNED|
@@ -33,7 +33,7 @@ h2. Items/Pickups
 
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
 |10 Armor|NA|NA|Shoulder Pad|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
-|25 Armor|NA|NA|Double Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
+|25 Armor|NA|NA|Double Shoulder Pads (Shin Pads?)|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
 |50 Armor|NA|NA|Armor|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
 |100 Armor|NA|NA|Armor w/ Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
 |10 Health|\9=.NOT ASSIGNED|

@@ -96,4 +96,23 @@ h2. Textures
 
 h2. Game Graphics
 
+|_.Name|_.Style|_.Thread(s)|_.Concept|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
+|HUD Dock|Grunge|NA|NA|NA|-z-|COMPLETED|MASTER|
+|Scoreboard Background|Grunge|NA|NA|NA|-z-|COMPLETED|MASTER|
+|Accuracy Background|Grunge|NA|NA|NA|-z-|COMPLETED|MASTER|
+|Shotgun Ammo|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
+|Bullets Ammo|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
+|Rockets Ammo|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
+|Plasma Ammo|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
+|Weapon Icons|NA|NA|NA|NA|Not sure|COMPLETED|MASTER|
+|HUD Border WickedX|NA|NA|NA|NA|Sev|COMPLETED|fruitiex/newpanelhud|
+|Strength Icon|NA|NA|NA|NA|Not Assigned|Not Assigned|NA|
+|Shield Icon|NA|NA|NA|NA|Not Assigned|Not Assigned|NA|
+|Voting Screen|NA|NA|NA|NA|Sev|COMPLETED|MASTER|
+|Health Icon|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
+|Armor Icon|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
+|Flag Icons|NA|NA|NA|NA|-z-|COMPLETED|MASTER|
+|Keyhunt Icons|NA|NA|NA|NA|-z-|COMPLETED|MASTER|
+|Race Awards|NA|NA|NA|NA|Sev|COMPLETED|MASTER|
+
 h2. Web Design/PR

@@ -27,7 +27,9 @@ h2. Art & Media
 
 * [[Art Roadmap]]
 * [[Artistic Style]]
-* Logo proposals
+* Story Theme Proposals
+** [[Close to home]]
+* Logo Proposals
 ** -z- [[Concept Art]]
 ** "Dokujisan":http://www.nullgaming.com/stuff/x/
 *** "Source for current official logo":http://www.nullgaming.com/stuff/x/source

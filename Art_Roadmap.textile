@@ -115,4 +115,16 @@ h2. Game Graphics
 |Keyhunt Icons|NA|NA|NA|NA|-z-|COMPLETED|MASTER|
 |Race Awards|NA|NA|NA|NA|Sev|COMPLETED|MASTER|
 
+h2. Logo and Collateral
+
+|_.Name|_.Description|_.Thread(s)|_.TODO|_.Artist(s)|_.Status|
+|Logo Refinement|The current logo is a little rough around the edges and needs more available source, problems identified more in depth in [thread 442]|http://forums.xonotic.org/showthread.php?tid=442|NA|NA|-z-, others?|In Progress|
+|Icon|This can be argued to fall under the logo refinement but we need a standard size icon set in various color and black and white|NA|NA|-z-, others?|In Progress|
+
 h2. Web Design/PR
+
+|_.Name|_.Description|_.Thread(s)|_.TODO|_.Artist(s)|_.Status|
+|Website Design|Branch across both mainsite and forum to give a consistant feel|NA|NA|-z- (others welcome)|In progress - refining the basic themes to segway us into a more serious overhaul|
+|Mainsite Template Slicing|Branch across both mainsite and forum to give a consistant feel|NA|NA|-z-|In progress - refining the basic themes to segway us into a more serious overhaul|
+|Forum Template Slicing|Branch across both mainsite and forum to give a consistant feel|NA|NA|-z-|In progress - refining the basic themes to segway us into a more serious overhaul|
+|Standard Size Web Banners|provide all the popular blog / myspace / facebook sized advertisments and add them to a page as a media toolkot|NA|NA|NA|NA|

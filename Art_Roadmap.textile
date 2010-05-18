@@ -13,16 +13,16 @@ h2. Weapon Models
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
 |Tuba|\9=.NOT ASSIGNED|HIGH|
 |Laser|\9=.NOT ASSIGNED|HIGH|
-|Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon, (possibly fireball with the reintroduction of TAG seeker)|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|MEDIUM|
+|Shotgun|NA|"1":http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon, (possibly fireball with the reintroduction of TAG seeker)|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|MEDIUM|
 |MachineGun|\9=.NOT ASSIGNED|LOW|
-|Rifle|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|MEDIUM|
+|Rifle|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|MEDIUM|
 |Mortar|\9=.NOT ASSIGNED|LOW|
 |Electro|\9=.NOT ASSIGNED|LOW|
 |Crylink|\9=.NOT ASSIGNED|LOW|
-|Nex|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|HIGH|
+|Nex|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|HIGH|
 |MinstaNex|\9=.NOT ASSIGNED|LOW|
 |Hagar|\9=.NOT ASSIGNED|LOW|
-|RocketLauncher|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|MEDIUM|
+|RocketLauncher|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|MEDIUM|
 |Seeker|\9=.NOT ASSIGNED|HIGH|
 |Fireball|\9=.NOT ASSIGNED|HIGH|
 |Porto|\9=.NOT ASSIGNED|LOW|
@@ -53,15 +53,15 @@ h2. Items/Pickups
 h2. Maps
 
 |_.Name|_.Gametype|_.Style|_.Thread(s)/Link(s)|_.Concept|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
-|Space Elevator|CTF|Space|http://dev.xonotic.org/issues/10|GasolinePowered||FruitieX, Cuinnton|IN PROGRESS|NA|HIGH|
-|Dance(rename possibly)|CTF|Space|http://dev.xonotic.org/issues/11|Dance||FruitieX|IN PROGRESS|fruitiex/dance|HIGH|
-|Condenser|CTF|Closed|http://dev.xonotic.org/issues/57|Castles||FruitieX, Cuinnton|IN PROGRESS|NA|HIGH|
-|Stormkeep2|DM|Closed|http://dev.xonotic.org/issues/12|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|HIGH|
-|Evilspace2|DM|Space|http://dev.xonotic.org/issues/43|Evilspace||Cortez666|IN PROGRESS|NA|HIGH|
-|Downer2|DM|Closed|http://forums.xonotic.org/showthread.php?tid=334&highlight=downer|Downer||Cortez666|IN PROGRESS|NA|HIGH|
+|Space Elevator|CTF|Space|"1":http://dev.xonotic.org/issues/10|GasolinePowered||FruitieX, Cuinnton|IN PROGRESS|NA|HIGH|
+|Dance(rename possibly)|CTF|Space|"1":http://dev.xonotic.org/issues/11|Dance||FruitieX|IN PROGRESS|fruitiex/dance|HIGH|
+|Condenser|CTF|Closed|"1":http://dev.xonotic.org/issues/57|Castles||FruitieX, Cuinnton|IN PROGRESS|NA|HIGH|
+|Stormkeep2|DM|Closed|"1":http://dev.xonotic.org/issues/12|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|HIGH|
+|Evilspace2|DM|Space|"1":http://dev.xonotic.org/issues/43|Evilspace||Cortez666|IN PROGRESS|NA|HIGH|
+|Downer2|DM|Closed|"1":http://forums.xonotic.org/showthread.php?tid=334&highlight=downer|Downer||Cortez666|IN PROGRESS|NA|HIGH|
 |Toxic2|DM|Closed|NA|Toxic||Cuinnton|IN PROGRESS|NA|HIGH|
 |GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|HIGH|
-|Space|CTF|Space|http://dev.xonotic.org/issues/18|cbctf1||C. Brutail|IN PROGRESS|NA|HIGH|
+|Space|CTF|Space|"1":http://dev.xonotic.org/issues/18|cbctf1||C. Brutail|IN PROGRESS|NA|HIGH|
 
 h2. Vehicles
 
@@ -93,7 +93,7 @@ h2. Textures
 |trak4x|Brick, walls, tiles|NA|trak4|NA|trak, tZork|COMPLETED|MASTER|
 |trak5x|Black futuristic|NA|trak5|NA|trak, tZork|COMPLETED|MASTER|
 |eXx|Rusty Metal|NA|eX|NA|Original Artist(unsure),tZork|COMPLETED|MASTER|
-|facility114|White clean Futuristic|http://forums.xonotic.org/showthread.php?tid=337&highlight=facility114|NA|NA|Oblivion|COMPLETED|MASTER|
+|facility114|White clean Futuristic|"1":http://forums.xonotic.org/showthread.php?tid=337&highlight=facility114|NA|NA|Oblivion|COMPLETED|MASTER|
 |techpanels|Rusty metal|NA|NA|Add gloss and two or three more textures|theShadow|IN PROGRESS|NA|
 |untitled|NA|NA|NA|Make textures|nifrek|IN PROGRESS|NA|
 

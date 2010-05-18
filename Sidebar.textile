@@ -1,8 +1,11 @@
 h3. Quick Resources
 
-[[TrackerWorkflow|Tracker Workflow]]
-[[QuakeC|QuakeC]]
-
+[[Repository Access]]
+[[Faq|Frequently Asked Questions]]
+[[QuakeC]]
+[[Git]]
+[[Art Roadmap]]
+[[Logo|Xonotic Logo]]
 
 h3. Recently Changed Pages
 

@@ -14,19 +14,19 @@ h2. Weapon Models
 |Tuba|\9=.NOT ASSIGNED|{{div_start_tag(a5,red)}}HIGH{{div_end_tag}}|
 |Laser|\9=.NOT ASSIGNED|{{div_start_tag(a6,red)}}HIGH{{div_end_tag}}|
 |Shotgun|NA|"1":http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon, (possibly fireball with the reintroduction of TAG seeker)|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|{{div_start_tag(a7,yellow)}}MEDIUM{{div_end_tag}}|
-|MachineGun|\9=.NOT ASSIGNED|{{div_start_tag(1,green)}}LOW{{div_end_tag}}|
-|Rifle|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|MEDIUM|
-|Mortar|\9=.NOT ASSIGNED|LOW|
-|Electro|\9=.NOT ASSIGNED|LOW|
-|Crylink|\9=.NOT ASSIGNED|LOW|
-|Nex|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|HIGH|
-|MinstaNex|\9=.NOT ASSIGNED|LOW|
-|Hagar|\9=.NOT ASSIGNED|LOW|
-|RocketLauncher|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|MEDIUM|
-|Seeker|\9=.NOT ASSIGNED|HIGH|
-|Fireball|\9=.NOT ASSIGNED|HIGH|
-|Porto|\9=.NOT ASSIGNED|LOW|
-|HookGun|\9=.NOT ASSIGNED|LOW|
+|MachineGun|\9=.NOT ASSIGNED|{{div_start_tag(a7,green)}}LOW{{div_end_tag}}|
+|Rifle|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|{{div_start_tag(a9,yellow)}}MEDIUM{{div_end_tag}}|
+|Mortar|\9=.NOT ASSIGNED|{{div_start_tag(a10,green)}}LOW{{div_end_tag}}|
+|Electro|\9=.NOT ASSIGNED|{{div_start_tag(a11,green)}}LOW{{div_end_tag}}|
+|Crylink|\9=.NOT ASSIGNED|{{div_start_tag(a12,green)}}LOW{{div_end_tag}}|
+|Nex|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|{{div_start_tag(a13,red)}}HIGH{{div_end_tag}}|
+|MinstaNex|\9=.NOT ASSIGNED|{{div_start_tag(a14,green)}}LOW{{div_end_tag}}|
+|Hagar|\9=.NOT ASSIGNED|{{div_start_tag(a15,green)}}LOW{{div_end_tag}}|
+|RocketLauncher|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|{{div_start_tag(a16,yellow)}}MEDIUM{{div_end_tag}}|
+|Seeker|\9=.NOT ASSIGNED|{{div_start_tag(a17,red)}}HIGH{{div_end_tag}}|
+|Fireball|\9=.NOT ASSIGNED|{{div_start_tag(a18,red)}}HIGH{{div_end_tag}}|
+|Porto|\9=.NOT ASSIGNED|{{div_start_tag(a19,green)}}LOW{{div_end_tag}}|
+|HookGun|\9=.NOT ASSIGNED|{{div_start_tag(a20,green)}}LOW{{div_end_tag}}|
 
 
 h2. Items/Pickups

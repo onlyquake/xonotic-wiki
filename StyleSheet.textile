@@ -4,7 +4,7 @@ font-weight: bold;
 }
 
 .yellow {
-color: #ffff00 !important;
+color: #ded010 !important;
 font-weight: bold;
 }
 

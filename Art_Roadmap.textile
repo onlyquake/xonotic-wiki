@@ -94,6 +94,7 @@ h2. Textures
 |eXx|Rusty Metal|NA|eX|NA|Original Artist(unsure),tZork|COMPLETED|MASTER|
 |facility114|White clean Futuristic|http://forums.xonotic.org/showthread.php?tid=337&highlight=facility114|NA|NA|Oblivion|COMPLETED|MASTER|
 |techpanels|Rusty metal|NA|NA|Add gloss and two or three more textures|theShadow|IN PROGRESS|NA|
+|untitled|NA|NA|NA|Make textures|nifrek|IN PROGRESS|NA|
 
 h2. Game Graphics
 

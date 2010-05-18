@@ -1,0 +1,9 @@
+h3. Quick Resources
+
+[[TrackerWorkflow|Tracker Workflow]]
+[[QuakeC|QuakeC]]
+
+
+h3. Recently Changed Pages
+
+{{recent}}

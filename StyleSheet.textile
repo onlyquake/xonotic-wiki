@@ -1,0 +1,14 @@
+.red p{
+color: #ff0000;
+font-weight: bold;
+}
+
+.yellow p{
+color: #ffff00;
+font-weight: bold;
+}
+
+.green p{
+color: #008800;
+font-weight: bold;
+}

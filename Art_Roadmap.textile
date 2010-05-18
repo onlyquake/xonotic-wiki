@@ -121,7 +121,7 @@ h2. Game Graphics
 h2. Logo and Collateral
 
 |_.Name|_.Description|_.Thread(s)|_.TODO|_.Artist(s)|_.Status|
-|Logo Refinement|The current logo is a little rough around the edges and needs more available source, problems identified more in depth in [thread 442]|http://forums.xonotic.org/showthread.php?tid=442|NA|-z-, others?|In Progress|
+|Logo Refinement|The current logo is a little rough around the edges and needs more available source, problems identified more in depth in [thread 442]|"1":http://forums.xonotic.org/showthread.php?tid=442|NA|-z-, others?|In Progress|
 |Icon|This can be argued to fall under the logo refinement but we need a standard size icon set in various color and black and white|NA|NA|-z-, others?|In Progress|
 
 h2. Web Design/PR

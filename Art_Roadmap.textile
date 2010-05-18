@@ -2,65 +2,66 @@ h1. 3D Art Roadmap
 
 h2. Player Models
 
-|_.Name|_.Species|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.Animations|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
-|Umbra|Human|Humanoid|NA|NA|COMPLETED|IN PROGRESS|Fix duckwalk|Improve animations, Merge pants to glow| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/umbraplayermodel|
-|Pyria|Human|Humanoid|NA|NA|COMPLETED|IN PROGRESS|Fix duckwalk|Improve animtaions, Merge pants to glow| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/pyriaplayermodel|
-|Ignis(3 versions)|Human|Humanoid|NA|NA|COMPLETED|COMPLETED|Fix most|Fix/improve animations| Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/ignisplayermodel|
-|Gak|Alien|Humanoid|NA|NA|COMPLETED|IN PROGRESS|None|Textures/Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|
+|_.Name|_.Species|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.Animations|_.LOD1|_.LOD2|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
+|Umbra|Human|Humanoid|NA|NA|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Improve animations, Merge pants to glow|Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/umbraplayermodel|HIGH|
+|Pyria|Human|Humanoid|NA|NA|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Improve animtaions, Merge pants to glow|Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/pyriaplayermodel|HIGH|
+|Ignis(3 versions)|Human|Humanoid|NA|NA|COMPLETED|COMPLETED|Fix most|INCOMPLETE|INCOMPLETE|Fix/improve animations|Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/ignisplayermodel|HIGH|
+|Gak|Alien|Humanoid|NA|NA|COMPLETED|IN PROGRESS|None|INCOMPLETE|INCOMPLETE|Textures/Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|HIGH|
 
 h2. Weapon Models
 
-|_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
-|Tuba|\9=.NOT ASSIGNED|
-|Laser|\9=.NOT ASSIGNED|
-|Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon, (possibly fireball with the reintroduction of TAG seeker)|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|
-|MachineGun|\9=.NOT ASSIGNED|
-|Rifle|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|
-|Mortar|\9=.NOT ASSIGNED|
-|Electro|\9=.NOT ASSIGNED|
-|Crylink|\9=.NOT ASSIGNED|
-|Nex|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|
-|MinstaNex|\9=.NOT ASSIGNED|
-|Hagar|\9=.NOT ASSIGNED|
-|RocketLauncher|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|
-|Seeker|\9=.NOT ASSIGNED|
-|Fireball|\9=.NOT ASSIGNED|
-|Porto|\9=.NOT ASSIGNED|
-|HookGun|\9=.NOT ASSIGNED|
+|_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
+|Tuba|\9=.NOT ASSIGNED|HIGH|
+|Laser|\9=.NOT ASSIGNED|HIGH|
+|Shotgun|NA|http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon, (possibly fireball with the reintroduction of TAG seeker)|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|MEDIUM|
+|MachineGun|\9=.NOT ASSIGNED|LOW|
+|Rifle|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|MEDIUM|
+|Mortar|\9=.NOT ASSIGNED|LOW|
+|Electro|\9=.NOT ASSIGNED|LOW|
+|Crylink|\9=.NOT ASSIGNED|LOW|
+|Nex|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|HIGH|
+|MinstaNex|\9=.NOT ASSIGNED|LOW|
+|Hagar|\9=.NOT ASSIGNED|LOW|
+|RocketLauncher|NA|http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|MEDIUM|
+|Seeker|\9=.NOT ASSIGNED|HIGH|
+|Fireball|\9=.NOT ASSIGNED|HIGH|
+|Porto|\9=.NOT ASSIGNED|LOW|
+|HookGun|\9=.NOT ASSIGNED|LOW|
 
 
 h2. Items/Pickups
 
-|_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
-|10 Armor|NA|NA|Shoulder Pad|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
-|25 Armor|NA|NA|Double Shoulder Pads (Shin Pads?)|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
-|50 Armor|NA|NA|Armor|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
-|100 Armor|NA|NA|Armor w/ Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|
-|10 Health|\9=.NOT ASSIGNED|
-|25 Health|\9=.NOT ASSIGNED|
-|50 Health|\9=.NOT ASSIGNED|
-|100 Health|\9=.NOT ASSIGNED|
-|Strength|\9=.NOT ASSIGNED|
-|Shield|\9=.NOT ASSIGNED|
-|RocketAmmo|\9=.NOT ASSIGNED|
-|BulletAmmo|\9=.NOT ASSIGNED|
-|ShotgunAmmo|\9=.NOT ASSIGNED|
-|PlasmaAmmo|\9=.NOT ASSIGNED|
+|_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
+|10 Armor|NA|NA|Shoulder Pad|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
+|25 Armor|NA|NA|Double Shoulder Pads (Shin Pads?)|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
+|50 Armor|NA|NA|Armor|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
+|100 Armor|NA|NA|Armor w/ Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
+|10 Health|\9=.NOT ASSIGNED|HIGH|
+|25 Health|\9=.NOT ASSIGNED|HIGH|
+|50 Health|\9=.NOT ASSIGNED|HIGH|
+|100 Health|\9=.NOT ASSIGNED|HIGH|
+|Strength|\9=.NOT ASSIGNED|HIGH|
+|Shield|\9=.NOT ASSIGNED|HIGH|
+|RocketAmmo|\9=.NOT ASSIGNED|HIGH|
+|BulletAmmo|\9=.NOT ASSIGNED|HIGH|
+|ShotgunAmmo|\9=.NOT ASSIGNED|HIGH|
+|PlasmaAmmo|\9=.NOT ASSIGNED|HIGH|
+|CTF Flag|\9=.NOT ASSIGNED|HIGH|
 
 
 
 h2. Maps
 
-|_.Name|_.Gametype|_.Style|_.Thread(s)/Link(s)|_.Concept|_.TODO|_.Artist(s)|_.Status|_.Git Branch|
-|Space Elevator|CTF|Space|http://dev.xonotic.org/issues/10|GasolinePowered||FruitieX, Cuinnton|IN PROGRESS|NA|
-|Dance(rename possibly)|CTF|Space|http://dev.xonotic.org/issues/11|Dance||FruitieX|IN PROGRESS|fruitiex/dance|
-|Condenser|CTF|Closed|http://dev.xonotic.org/issues/57|Castles||FruitieX, Cuinnton|IN PROGRESS|NA|
-|Stormkeep2|DM|Closed|http://dev.xonotic.org/issues/12|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|
-|Evilspace2|DM|Space|http://dev.xonotic.org/issues/43|Evilspace||Cortez666|IN PROGRESS|NA|
-|Downer2|DM|Closed|http://forums.xonotic.org/showthread.php?tid=334&highlight=downer|Downer||Cortez666|IN PROGRESS|NA|
-|Toxic2|DM|Closed|NA|Toxic||Cuinnton|IN PROGRESS|NA|
-|GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|
-|Space|CTF|Space|http://dev.xonotic.org/issues/18|cbctf1||C. Brutail|IN PROGRESS|NA|
+|_.Name|_.Gametype|_.Style|_.Thread(s)/Link(s)|_.Concept|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
+|Space Elevator|CTF|Space|http://dev.xonotic.org/issues/10|GasolinePowered||FruitieX, Cuinnton|IN PROGRESS|NA|HIGH|
+|Dance(rename possibly)|CTF|Space|http://dev.xonotic.org/issues/11|Dance||FruitieX|IN PROGRESS|fruitiex/dance|HIGH|
+|Condenser|CTF|Closed|http://dev.xonotic.org/issues/57|Castles||FruitieX, Cuinnton|IN PROGRESS|NA|HIGH|
+|Stormkeep2|DM|Closed|http://dev.xonotic.org/issues/12|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|HIGH|
+|Evilspace2|DM|Space|http://dev.xonotic.org/issues/43|Evilspace||Cortez666|IN PROGRESS|NA|HIGH|
+|Downer2|DM|Closed|http://forums.xonotic.org/showthread.php?tid=334&highlight=downer|Downer||Cortez666|IN PROGRESS|NA|HIGH|
+|Toxic2|DM|Closed|NA|Toxic||Cuinnton|IN PROGRESS|NA|HIGH|
+|GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|HIGH|
+|Space|CTF|Space|http://dev.xonotic.org/issues/18|cbctf1||C. Brutail|IN PROGRESS|NA|HIGH|
 
 h2. Vehicles
 

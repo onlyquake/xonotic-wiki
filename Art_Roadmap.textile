@@ -23,8 +23,8 @@ h2. Weapon Models
 |MinstaNex|\9=.NOT ASSIGNED|{{div_start_tag(a14,green)}}LOW{{div_end_tag}}|
 |Hagar|\9=.NOT ASSIGNED|{{div_start_tag(a15,green)}}LOW{{div_end_tag}}|
 |RocketLauncher|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|{{div_start_tag(a16,yellow)}}MEDIUM{{div_end_tag}}|
-|Seeker|\9=.NOT ASSIGNED|{{div_start_tag(a17,red)}}HIGH{{div_end_tag}}|
-|Fireball|\9=.NOT ASSIGNED|{{div_start_tag(a18,red)}}HIGH{{div_end_tag}}|
+|Seeker|||LJFHutch|IN PROGRESS|INCOMPLETE|Mesh and Textures|LJFHutch, theShadow|IN PROGRESS|NA|{{div_start_tag(a17,red)}}HIGH{{div_end_tag}}|
+|Fireball|||LJFHutch|INCOMPLETE|INCOMPLETE|Mesh and Textures|LJFHutch|IN PROGRESS|NA|{{div_start_tag(a18,red)}}HIGH{{div_end_tag}}|
 |Porto|\9=.NOT ASSIGNED|{{div_start_tag(a19,green)}}LOW{{div_end_tag}}|
 |HookGun|\9=.NOT ASSIGNED|{{div_start_tag(a20,green)}}LOW{{div_end_tag}}|
 

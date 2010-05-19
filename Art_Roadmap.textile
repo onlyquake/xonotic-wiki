@@ -3,9 +3,9 @@ h1. 3D Art Roadmap
 h2. Player Models
 
 |_.Name|_.Species|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.Animations|_.LOD1|_.LOD2|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
-|Umbra|Human|Humanoid|"1":http://dev.xonotic.org/issues/25|NA|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Improve animations, Merge pants to glow|Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/umbraplayermodel|{{div_start_tag(a1,red)}}HIGH{{div_end_tag}}|
-|Pyria|Human|Humanoid|NA|NA|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Improve animtaions, Merge pants to glow|Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/pyriaplayermodel|{{div_start_tag(a2,red)}}HIGH{{div_end_tag}}|
-|Ignis(3 versions)|Human|Humanoid|"1":http://dev.xonotic.org/issues/39|NA|COMPLETED|COMPLETED|Fix most|INCOMPLETE|INCOMPLETE|Fix/improve animations|Oblivion, tZork, DiaboliK|IN PROGRESS|diabolik/ignisplayermodel|{{div_start_tag(a3,red)}}HIGH{{div_end_tag}}|
+|Umbra|Human|Humanoid|"1":http://dev.xonotic.org/issues/25|NA|COMPLETED|IN PROGRESS|COMPLETED|INCOMPLETE|INCOMPLETE|Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/umbraplayermodel|{{div_start_tag(a1,red)}}HIGH{{div_end_tag}}|
+|Pyria|Human|Humanoid|NA|NA|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Improve animtaions, Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/pyriaplayermodel|{{div_start_tag(a2,red)}}HIGH{{div_end_tag}}|
+|Ignis(3 versions)|Human|Humanoid|"1":http://dev.xonotic.org/issues/39|NA|COMPLETED|COMPLETED|Fix most|INCOMPLETE|INCOMPLETE|Fix/improve animations|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/ignisplayermodel|{{div_start_tag(a3,red)}}HIGH{{div_end_tag}}|
 |Gak|Alien|Humanoid|NA|NA|COMPLETED|IN PROGRESS|None|INCOMPLETE|INCOMPLETE|Textures/Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
 
 h2. Weapon Models

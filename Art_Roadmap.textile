@@ -6,7 +6,7 @@ h2. Player Models
 |Umbra|Human|Humanoid|"1":http://dev.xonotic.org/issues/25|NA|COMPLETED|IN PROGRESS|COMPLETED|INCOMPLETE|INCOMPLETE|Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/umbraplayermodel|{{div_start_tag(a1,red)}}HIGH{{div_end_tag}}|
 |Pyria|Human|Humanoid|NA|NA|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Improve animtaions, Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/pyriaplayermodel|{{div_start_tag(a2,red)}}HIGH{{div_end_tag}}|
 |Ignis(3 versions)|Human|Humanoid|"1":http://dev.xonotic.org/issues/39|NA|COMPLETED|COMPLETED|COMPLETED|IN PROGRESS|IN PROGRESS|LODs|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/ignisplayermodel|{{div_start_tag(a3,red)}}HIGH{{div_end_tag}}|
-|Gak|Alien|Humanoid|NA|NA|COMPLETED|IN PROGRESS|None|INCOMPLETE|INCOMPLETE|Textures/Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|Gak|Alien|Humanoid|NA|NA|COMPLETED|IN PROGRESS|IN PROGRESS|INCOMPLETE|INCOMPLETE|Textures/Animations|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
 
 h2. Weapon Models
 

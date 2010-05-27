@@ -58,7 +58,7 @@ h2. Maps
 |Condenser|CTF|Closed|"1":http://dev.xonotic.org/issues/57|Castles||FruitieX, Cuinnton|IN PROGRESS|NA|HIGH|
 |Stormkeep2|DM|Closed|"1":http://dev.xonotic.org/issues/12|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|HIGH|
 |Evilspace2|DM|Space|"1":http://dev.xonotic.org/issues/43|Evilspace||Cortez666|IN PROGRESS|NA|HIGH|
-|Downer2|DM|Closed|"1":http://forums.xonotic.org/showthread.php?tid=334&highlight=downer|Downer||Cortez666|IN PROGRESS|NA|HIGH|
+|Downer2|DM|Closed|"1":http://forums.xonotic.org/showthread.php?tid=334&highlight=downer|Downer||Cortez666|DONE|NA|---|
 |Toxic2|DM|Closed|NA|Toxic||Cuinnton|IN PROGRESS|NA|HIGH|
 |GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|HIGH|
 |Space|CTF|Space|"1":http://dev.xonotic.org/issues/18|cbctf1||C. Brutail|IN PROGRESS|NA|HIGH|

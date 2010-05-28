@@ -2,30 +2,30 @@ h1. 3D Art Roadmap
 
 h2. Player Models
 
-|_.Name|_.Species|_.Style|_.Thread(s)|_.Mesh|_.Textures|_.Animations|_.LOD1|_.LOD2|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
-|Umbra|Human|Humanoid|"1":http://dev.xonotic.org/issues/25 "2":http://www.alientrap.org/forum/viewtopic.php?f=2&t=6051|COMPLETED|IN PROGRESS|COMPLETED|INCOMPLETE|INCOMPLETE|Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/umbraplayermodel|{{div_start_tag(a1,red)}}HIGH{{div_end_tag}}|
-|Pyria|Human|Humanoid|"1":http://www.alientrap.org/forum/viewtopic.php?f=2&t=6088&p=76962&hilit=pyria#p76962|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Improve animtaions, Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/pyriaplayermodel|{{div_start_tag(a2,red)}}HIGH{{div_end_tag}}|
-|Ignis(3 versions)|Human|Humanoid|"1":http://dev.xonotic.org/issues/39 "2":http://forums.xonotic.org//showthread.php?tid=498 "3":http://forums.xonotic.org//showthread.php?tid=500|COMPLETED|COMPLETED|COMPLETED|IN PROGRESS|IN PROGRESS|LODs|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/ignisplayermodel|{{div_start_tag(a3,red)}}HIGH{{div_end_tag}}|
-|Gak|Alien|Humanoid|"1":http://forums.xonotic.org//showthread.php?tid=497 "2":http://www.alientrap.org/forum/viewtopic.php?f=2&t=5997|COMPLETED|IN PROGRESS|IN PROGRESS|INCOMPLETE|INCOMPLETE|Textures/Animations|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
-|N51|Robot|Humanoid|"1":http://alientrap.org/forum/viewtopic.php?p=69763#p69763|COMPLETED|COMPLETED|IN PROGRESS|INCOMPLETE|INCOMPLETE|Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|{{div_start_tag(a9,yellow)}}MEDIUM{{div_end_tag}}|
+|_.Name|_.Species|_.Thread(s)|_.Mesh|_.Textures|_.Animations|_.LOD1|_.LOD2|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
+|Umbra|Human|"1":http://dev.xonotic.org/issues/25 "2":http://www.alientrap.org/forum/viewtopic.php?f=2&t=6051|COMPLETED|IN PROGRESS|COMPLETED|INCOMPLETE|INCOMPLETE|Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/umbraplayermodel|{{div_start_tag(a1,red)}}HIGH{{div_end_tag}}|
+|Pyria|Human|"1":http://www.alientrap.org/forum/viewtopic.php?f=2&t=6088&p=76962&hilit=pyria#p76962|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Improve animtaions, Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/pyriaplayermodel|{{div_start_tag(a2,red)}}HIGH{{div_end_tag}}|
+|Ignis(3 versions)|Human|"1":http://dev.xonotic.org/issues/39 "2":http://forums.xonotic.org//showthread.php?tid=498 "3":http://forums.xonotic.org//showthread.php?tid=500|COMPLETED|COMPLETED|COMPLETED|IN PROGRESS|IN PROGRESS|LODs|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/ignisplayermodel|{{div_start_tag(a3,red)}}HIGH{{div_end_tag}}|
+|Gak|Alien|"1":http://forums.xonotic.org//showthread.php?tid=497 "2":http://www.alientrap.org/forum/viewtopic.php?f=2&t=5997|COMPLETED|IN PROGRESS|IN PROGRESS|INCOMPLETE|INCOMPLETE|Textures/Animations|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|N51|Robot|"1":http://alientrap.org/forum/viewtopic.php?p=69763#p69763|COMPLETED|COMPLETED|IN PROGRESS|INCOMPLETE|INCOMPLETE|Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|{{div_start_tag(a9,yellow)}}MEDIUM{{div_end_tag}}|
 
 
 
 h2. Weapon Models
 
-|_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
+|_.Name|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
 |Tuba|\9=.NOT ASSIGNED|{{div_start_tag(a5,red)}}HIGH{{div_end_tag}}|
 |Laser|\9=.NOT ASSIGNED|{{div_start_tag(a6,red)}}HIGH{{div_end_tag}}|
-|Shotgun|NA|"1":http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon, (possibly fireball with the reintroduction of TAG seeker)|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|{{div_start_tag(a7,yellow)}}MEDIUM{{div_end_tag}}|
+|Shotgun|"1":http://forums.xonotic.org/showthread.php?tid=54|Shotgun Cannon, (possibly fireball with the reintroduction of TAG seeker)|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|{{div_start_tag(a7,yellow)}}MEDIUM{{div_end_tag}}|
 |MachineGun|\9=.NOT ASSIGNED|{{div_start_tag(a7,green)}}LOW{{div_end_tag}}|
-|Rifle|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|{{div_start_tag(a9,yellow)}}MEDIUM{{div_end_tag}}|
+|Rifle|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|{{div_start_tag(a9,yellow)}}MEDIUM{{div_end_tag}}|
 |Mortar|\9=.NOT ASSIGNED|{{div_start_tag(a10,green)}}LOW{{div_end_tag}}|
 |Electro|\9=.NOT ASSIGNED|{{div_start_tag(a11,green)}}LOW{{div_end_tag}}|
 |Crylink|\9=.NOT ASSIGNED|{{div_start_tag(a12,green)}}LOW{{div_end_tag}}|
-|Nex|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|{{div_start_tag(a13,red)}}HIGH{{div_end_tag}}|
+|Nex|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|{{div_start_tag(a13,red)}}HIGH{{div_end_tag}}|
 |MinstaNex|\9=.NOT ASSIGNED|{{div_start_tag(a14,green)}}LOW{{div_end_tag}}|
 |Hagar|\9=.NOT ASSIGNED|{{div_start_tag(a15,green)}}LOW{{div_end_tag}}|
-|RocketLauncher|NA|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|{{div_start_tag(a16,yellow)}}MEDIUM{{div_end_tag}}|
+|RocketLauncher|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|{{div_start_tag(a16,yellow)}}MEDIUM{{div_end_tag}}|
 |Seeker|||LJFHutch|IN PROGRESS|INCOMPLETE|Mesh and Textures|LJFHutch, theShadow|IN PROGRESS|NA|{{div_start_tag(a17,red)}}HIGH{{div_end_tag}}|
 |Fireball|||LJFHutch|INCOMPLETE|INCOMPLETE|Mesh and Textures|LJFHutch|IN PROGRESS|NA|{{div_start_tag(a18,red)}}HIGH{{div_end_tag}}|
 |Porto|\9=.NOT ASSIGNED|{{div_start_tag(a19,green)}}LOW{{div_end_tag}}|

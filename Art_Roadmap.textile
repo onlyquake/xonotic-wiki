@@ -3,7 +3,7 @@ h1. 3D Art Roadmap
 h2. Player Models
 
 |_.Name|_.Species|_.Style|_.Thread(s)|_.Mesh|_.Textures|_.Animations|_.LOD1|_.LOD2|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
-|Umbra|Human|Humanoid|"1":http://dev.xonotic.org/issues/25|COMPLETED|IN PROGRESS|COMPLETED|INCOMPLETE|INCOMPLETE|Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/umbraplayermodel|{{div_start_tag(a1,red)}}HIGH{{div_end_tag}}|
+|Umbra|Human|Humanoid|"1":http://dev.xonotic.org/issues/25 "2":http://www.alientrap.org/forum/viewtopic.php?f=2&t=6051|COMPLETED|IN PROGRESS|COMPLETED|INCOMPLETE|INCOMPLETE|Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/umbraplayermodel|{{div_start_tag(a1,red)}}HIGH{{div_end_tag}}|
 |Pyria|Human|Humanoid|"1":http://www.alientrap.org/forum/viewtopic.php?f=2&t=6088&p=76962&hilit=pyria#p76962|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Improve animtaions, Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/pyriaplayermodel|{{div_start_tag(a2,red)}}HIGH{{div_end_tag}}|
 |Ignis(3 versions)|Human|Humanoid|"1":http://dev.xonotic.org/issues/39 "2":http://forums.xonotic.org//showthread.php?tid=498 "3":http://forums.xonotic.org//showthread.php?tid=500|COMPLETED|COMPLETED|COMPLETED|IN PROGRESS|IN PROGRESS|LODs|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/ignisplayermodel|{{div_start_tag(a3,red)}}HIGH{{div_end_tag}}|
 |Gak|Alien|Humanoid|"1":http://forums.xonotic.org//showthread.php?tid=497 "2":http://www.alientrap.org/forum/viewtopic.php?f=2&t=5997|COMPLETED|IN PROGRESS|IN PROGRESS|INCOMPLETE|INCOMPLETE|Textures/Animations|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
@@ -35,36 +35,36 @@ h2. Weapon Models
 h2. Items/Pickups
 
 |_.Name|_.Style|_.Thread(s)|_.Concept|_.Mesh|_.Textures|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
-|10 Armor|NA|NA|Shoulder Pad|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
-|25 Armor|NA|NA|Double Shoulder Pads (Shin Pads?)|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
-|50 Armor|NA|NA|Armor|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
-|100 Armor|NA|NA|Armor w/ Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
-|10 Health|\9=.NOT ASSIGNED|HIGH|
-|25 Health|\9=.NOT ASSIGNED|HIGH|
-|50 Health|\9=.NOT ASSIGNED|HIGH|
-|100 Health|\9=.NOT ASSIGNED|HIGH|
-|Strength|\9=.NOT ASSIGNED|HIGH|
-|Shield|\9=.NOT ASSIGNED|HIGH|
-|RocketAmmo|\9=.NOT ASSIGNED|HIGH|
-|BulletAmmo|\9=.NOT ASSIGNED|HIGH|
-|ShotgunAmmo|\9=.NOT ASSIGNED|HIGH|
-|PlasmaAmmo|\9=.NOT ASSIGNED|HIGH|
-|CTF Flag|\9=.NOT ASSIGNED|HIGH|
+|10 Armor|NA|NA|Shoulder Pad|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|25 Armor|NA|NA|Double Shoulder Pads (Shin Pads?)|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|50 Armor|NA|NA|Armor|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|100 Armor|NA|NA|Armor w/ Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|10 Health|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|25 Health|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|50 Health|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|100 Health|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|Strength|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|Shield|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|RocketAmmo|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|BulletAmmo|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|ShotgunAmmo|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|PlasmaAmmo|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|CTF Flag|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
 
 
 
 h2. Maps
 
 |_.Name|_.Gametype|_.Style|_.Thread(s)/Link(s)|_.Concept|_.TODO|_.Artist(s)|_.Status|_.Git Branch|_.Priority|
-|Space Elevator|CTF|Space|"1":http://dev.xonotic.org/issues/10|GasolinePowered||FruitieX, Cuinnton|IN PROGRESS|NA|HIGH|
-|Dance(rename possibly)|CTF|Space|"1":http://dev.xonotic.org/issues/11|Dance||FruitieX|IN PROGRESS|fruitiex/dance|HIGH|
-|Condenser|CTF|Closed|"1":http://dev.xonotic.org/issues/57|Castles||FruitieX, Cuinnton|IN PROGRESS|NA|HIGH|
-|Stormkeep2|DM|Closed|"1":http://dev.xonotic.org/issues/12|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|HIGH|
-|Evilspace2|DM|Space|"1":http://dev.xonotic.org/issues/43|Evilspace||Cortez666|IN PROGRESS|NA|HIGH|
+|Space Elevator|CTF|Space|"1":http://dev.xonotic.org/issues/10|GasolinePowered||FruitieX, Cuinnton|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|Dance(rename possibly)|CTF|Space|"1":http://dev.xonotic.org/issues/11|Dance||FruitieX|IN PROGRESS|fruitiex/dance|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|Condenser|CTF|Closed|"1":http://dev.xonotic.org/issues/57|Castles||FruitieX, Cuinnton|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|Stormkeep2|DM|Closed|"1":http://dev.xonotic.org/issues/12|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|Evilspace2|DM|Space|"1":http://dev.xonotic.org/issues/43|Evilspace||Cortez666|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
 |Downer2|DM|Closed|"1":http://forums.xonotic.org/showthread.php?tid=334&highlight=downer|Downer||Cortez666|DONE|NA|---|
-|Toxic2|DM|Closed|NA|Toxic||Cuinnton|IN PROGRESS|NA|HIGH|
-|GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|HIGH|
-|Space|CTF|Space|"1":http://dev.xonotic.org/issues/18|cbctf1||C. Brutail|IN PROGRESS|NA|HIGH|
+|Toxic2|DM|Closed|NA|Toxic||Cuinnton|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|Space|CTF|Space|"1":http://dev.xonotic.org/issues/18|cbctf1||C. Brutail|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
 
 h2. Vehicles
 

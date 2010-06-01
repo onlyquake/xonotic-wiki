@@ -68,6 +68,7 @@ h2. Links
 ** http://linux-sound.org/
 * Sound banks
 ** "The Free Sound Project":http://www.freesound.org/tagsViewSingle.php?id=99
+** http://ccmixter.org/
 
 h2. Howto's
 

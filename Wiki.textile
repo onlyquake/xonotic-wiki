@@ -77,4 +77,5 @@ In this section you will find helpful information about editing Xonotic in gener
 h2. References
 
 * [[Git]]
+* "Redmine Wiki formatting":http://www.redmine.org/wiki/1/RedmineTextFormatting
 * [[Forbidden disposable e-mail providers]]

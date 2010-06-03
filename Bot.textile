@@ -1,6 +1,7 @@
 h1. Bot
 
 h2. General behaviour
+
 h3. Goals
 
 h2. Pathfinding

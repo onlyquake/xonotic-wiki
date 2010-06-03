@@ -24,13 +24,13 @@ h2. Project
 * [[Website]] Plannning
 * "Roadmap to v1":http://dev.xonotic.org/versions/show/3
 * [[Community development]] planning
+* [[Legal|Licensing / Legal]]
 
 h2. Art & Media 
 
 * [[Art Roadmap]]
 * [[Artistic Style]]
 * [[Logo|Xonotic Logo]]
-* [[Mapper resources]]
 * [[Maps Makeover]]
 * [[Weapons Makeover]]
 * [[2d art]]
@@ -38,19 +38,21 @@ h2. Art & Media
 ** [[Music contributions]]
 * [[Sound FX]]
 ** [[Sound FX contributions]]
-* [[Legal|Licensing / Legal]]
-* Story Theme Proposals
+* Story Themes
 ** [[Close to home]]
 
-h2. References
+h2. Editing
+
+In this section you will find helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping, etc
 
 * Programming
 ** [[Introduction to QuakeC]]
 ** "DarkPlaces Wiki":http://dpwiki.slipgateconstruct.com/
 ** "QuakeC Specifications v1.0":http://www.gamers.org/dEngine/quake/spec/quake-spec34/qc-menu.htm
 ** "QuakeC tutorials":http://www.inside3d.com/tutorials.php at inside3d.com
+** [[NewQC]] - Possible changes regarding QC (compiler, syntax, ...)
 
-* Modeling
+* [[Modeling]]
 ** [[Textures|Textures know-how]]
 ** [[Polycounts|Polygon count]] on Weapons and Models
 ** [[framegroups|.framegroups]] file (allow self playing animations) know-how 
@@ -69,21 +71,14 @@ h2. References
 
 * Configuration
 ** [[democapture|Capturing video clips and using the demo camera]]
+** [[Git]]
 
-* Mapping
+* [[Mapping]]
+** [[Mapper resources]]
 ** "Map naming convention":http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330
 
 
-h2. Editing
+h2. References
 
-In this section you'll find lots of helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping
-
-* [[Coding]] [[QuakeC]], CSQC
-* [[NewQC]] - possible changes regarding QC (compiler, syntax, ...)
-* [[Modeling]]
-* [[Mapping]]
 * [[Git]]
-
-h2. Misc
-
 * [[Forbidden disposable e-mail providers]]

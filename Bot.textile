@@ -1,0 +1,18 @@
+h1. Bot
+
+h2. Pathfinding
+
+
+h2. Navigation
+
+
+h2. Reasoning
+
+
+h2. Talking
+
+
+h2. Misc
+
+
+h2. Links

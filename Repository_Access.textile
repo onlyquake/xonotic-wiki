@@ -4,11 +4,13 @@ h1. Repository Access
 
 Xonotic uses several GIT repositories. There's a helperscript in the main repository to aid in checking out all relevant repositories and help you building and running Xonotic.
 The repository also contains several branches next to the stable "master" branch. So if you're interested in the progress of a certain feature, or want to help or create a new one, checkout the appropriate branches.
-For information on how to obtain write access, skip down to the [[Repository Access#Getting write access|Getting write access]]" section.
+For information on how to obtain write access, skip down to the "[[Repository Access#Getting write access|Getting write access]]" section.
 
 For more information about git we have a [[Git]] page on the wiki [[Git|here]].
 
-h2. Linux/OS X:
+h2. Cloning the repository and compiling
+
+h3. Linux/OS X
 
 First, you install git using your favorite package manager. Then, do the following to download and compile (execute the first line only to download)::
 
@@ -23,40 +25,54 @@ The git:// protocol uses port 9418, which may be a problem if you're behind a st
 After that, you have a working checkout of the repository.
 
 Ubuntu Dependencies:
+
 <pre>
 sudo apt-get install build-essential xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl1.2-dev libsdl-image1.2-dev libclalsadrv-dev libasound2-dev libxext-dev libsdl1.2debian-pulseaudio
 </pre>
 
 
-h2. Getting write access
+h3. Windows
+
+To get a GIT clone using mysysgit and Tortoise GIT, do the following:
+* Go to the folder where you intend to clone, right click and choose Git Clone from the context menu. Clone the repository from git://git.xonotic.org/xonotic/xonotic.git and wait for everything to download.
+* Once the first step is ready, open a command prompt or git bash and browse to the root folder of your clone. Write "./all update" as described above to get the separate data repos. After that you have a working GIT clone.
+
+To compile, you will need mingw and msys (1.0.11 should be good enough, follow [[http://www.mingw.org/wiki/msys|this guide]]).
+You should set the path to the "bin" directory of msysgit inside your PATH environment variable. There are plenties of information on how to do this depending on your Windows version, just google it.
+
+Then, *from the msys shell*, cd into the xonotic git clone and run
+
+<pre>
+CC=gcc ./all compile
+</pre>
+
+If that works, you can then run xonotic (still from msys) using
+
+<pre>
+./all run
+</pre>
+
+h2. Contributing and getting write access
 
 A condition for write (push) access is that you agree that any code or data you push will be licensed under the General Public License, version 2, with or without the "or any later version" clause. In case the directory the changes apply to contains a LICENSE or COPYING file indicating another license, your pushed code has to be dual licensed appropriately. Subdirectories currently having a dual license:
 * data/qcsrc/warpzonelib - dual licensed as "GPLv2 or later" or MIT license.
-
 In case code you pushed was not written by you, it is your responsibility to ensure proper licensing.
 
-To apply for write access, make an issue of type "Support" in the category "Repository" and attach your public SSH key to it.
+To apply for write access, make an issue of type "Support" in the category "Repository" and attach your public SSH key to it. (Windows users: see the Windows section below for more on SSH keys)
 
-To cleanly check out then, you would do:
+h3. Linux/OS X
 
-<pre>
-git clone ssh://xonotic@git.xonotic.org/xonotic.git
-cd xonotic
-./all update
-</pre>
-
-If you already have a checkout, you would do:
+Get a checkout (see above), and do:
 
 <pre>
 git config remote.origin.url ssh://xonotic@git.xonotic.org/xonotic.git
 ./all update
 </pre>
 
-After that, you can write to the reposiotry using the usual git commands (commit, push).
+After that, you can write to the repository using the usual git commands (commit, push).
 
-h2. Working with the helper script "all"
-
-To make working with the repo a little easier there's a little helper script (it's called all, as mentioned in above clone commands). It supports the following commands:
+Alternatively, you can use the helper script "all".
+It supports the following commands:
 
 <pre>
 ./all update
@@ -100,38 +116,27 @@ Starts the xonotic client
 
 Starts a xonotic dedicated server
 
+
+h3. Windows
+
+To write your own changes to the Xonotic git, do the following:
+* You must first have a putty SSH key, containing your private key. To generate one use "puttygen" : http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html which creates a ppk file. Choose SSH-2 RSA format and once the key has been generated save it as a private key.
+* Make sure the public key is accepted on the GIT server. To find it, open the generated key in a text editor and read the "public-lines".
+* Open the Settings menu of Tortoise GIT (right click anywhere in the folder you are setting this for) and go to Git -> Remote. Select "origin" for remote, "ssh://xonotic@git.xonotic.org/xonotic-data.pk3dir.git" for URL (data.pk3dir is the example for the "data" branch, each pk3dir is separate!) and for Putty Key browse and select the key file previously mentioned.
+* In order to make a new branch, right click somewhere and choose Create Branch from the Tortoise GIT context menu. This will create a local branch you can do anything with. Once you locally committed your changes to your branch, select Push to upload or update the branch on the GIT server. From the Push window, choose your local branch for Local, leave Remote empty, and select origin for Destination.
+
+
+h2. General contributor guidelines
+
+# Before creating your local branch and committing to it, make sure you've configured your user settings such as your name which will display in the logs (in TortoiseGIT: Settings -> Git - > Config).
+# Try naming your branch myname/mychange for each patch. For instance, if your name is Alex and the change you are committing is a menu fix, use something like alex/menufix.
+
 h2. Further git information
 
 About tracking remote branches:
-
 http://www.gitready.com/beginner/2009/03/09/remote-tracking-branches.html
 
 This wiki's [[Git]] page.
 
 A tutorial for SVN users:
-
 http://git-scm.org/course/svn.html
-
-h2. Windows
-
-Info for TortoiseGit / msysgit:
-
-To get a GIT clone using mysysgit and Tortoise GIT, do the following:
-
-- Go to the folder where you intend to clone, right click and choose Git Clone from the context menu. Clone the repository from git://git.xonotic.org/xonotic/xonotic.git and wait for everything to download.
-
-- Once the first step is ready, open a command prompt or git bash and browse to the root folder of your clone. Write "./all update" as described above to get the separate data repos. After that you have a working GIT clone.
-
-To write your own changes to the Xonotic git, do the following:
-
-- You must first have a putty SSH key, containing your private key. To generate one use "puttygen":http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html which creates a ppk file. Choose SSH-2 RSA format and once the key has been generated save it as a private key.
-
-- Make sure the public key is accepted on the GIT server (see getting access above). To find it, open the generated key in a text editor and read the "public-lines".
-
-- Open the Settings menu of Tortoise GIT (right click anywhere in the folder you are setting this for) and go to Git -> Remote. Select "origin" for remote, "ssh://xonotic@git.xonotic.org/xonotic-data.pk3dir.git" for URL (data.pk3dir is the example for the "data" branch, each pk3dir is separate!) and for Putty Key browse and select the key file previously mentioned.
-
-- In order to make a new branch, right click somewhere and choose Create Branch from the Tortoise GIT context menu. This will create a local branch you can do anything with. Once you locally committed your changes to your branch, select Push to upload or update the branch on the GIT server. From the Push window, choose your local branch for Local, leave Remote empty, and select origin for Destination.
-
-NOTE 1: Before creating your local branch and committing to it, make sure you've configured your user settings from Settings -> Git - > Config (such as your name which will display in the logs).
-
-NOTE 2: Try naming your branch myname/mychange for each patch. For instance, if your name is Alex and the change you are committing is a menu fix, use something like alex/menufix.

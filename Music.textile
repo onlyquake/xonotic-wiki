@@ -69,6 +69,8 @@ h2. Links
 * Sound banks
 ** "The Free Sound Project":http://www.freesound.org/tagsViewSingle.php?id=99
 ** http://ccmixter.org/
+** http://freepats.zenvoid.org/olpc-sounds/
+*** http://lopho.org/xonotic/olpc_sound_samples_v2.torrent
 
 h2. Howto's
 

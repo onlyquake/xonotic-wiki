@@ -10,7 +10,7 @@ For more information about git we have a [[Git]] page on the wiki [[Git|here]].
 
 h2. Cloning the repository and compiling
 
-h3. Linux/OS X
+h3. Linux
 
 First, you install git using your favorite package manager. Then, do the following to download and compile (execute the first line only to download)::
 
@@ -51,6 +51,12 @@ If that works, you can then run xonotic (still from msys) using
 <pre>
 ./all run
 </pre>
+
+h3. Mac OSX
+
+You must first install XCode which comes on your installation DVD or can be downloaded from the Apple website. This package provides tools like git and gcc, which are needed for successful checkout and compilation of xonotic. You should also install the SDL framework according to their readme, available from http://www.libsdl.org/download-1.2.php
+
+When you have done this, you can follow the Linux instructions above.
 
 h2. Contributing and getting write access
 

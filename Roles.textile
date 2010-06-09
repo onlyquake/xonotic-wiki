@@ -26,14 +26,15 @@ Dokujisan
 jayvee
 killquick
 MickRip
+PlasmaSheep
 Psychcf
 SoulKeeper
 tZork
 
 h2. Community/Project Management
 
-Dokujisan
 -z-
+Dokujisan
 C.Brutail
 mand1nga
 merlijn
@@ -43,7 +44,7 @@ h2. Moderators
 
 -z-
 C.Brutail
-dokujisan
+Dokujisan
 esteel
 Grasshopper
 Hew
@@ -95,11 +96,11 @@ Unknown/Alphagod
 
 h2. Music and Sounds
 
-Tenshihan? - already sent in a soundpack :)
 chooksta
 JulianaStein
 MickRip
 toolbox
+Tenshihan? - already sent in a soundpack :)
 
 h2. Linux SysAdmins
 

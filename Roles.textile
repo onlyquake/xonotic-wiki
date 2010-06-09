@@ -94,6 +94,10 @@ Oblivion
 Soulkeeper
 Unknown/Alphagod
 
+h3. Vector artists
+
+PlasmaSheep
+
 h2. Music and Sounds
 
 chooksta

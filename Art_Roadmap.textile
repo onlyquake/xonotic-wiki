@@ -6,9 +6,10 @@ h2. Player Models
 |Umbra|Human|"1":http://dev.xonotic.org/issues/25 "2":http://www.alientrap.org/forum/viewtopic.php?f=2&t=6051|COMPLETED|IN PROGRESS|COMPLETED|INCOMPLETE|INCOMPLETE|Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/umbraplayermodel|{{div_start_tag(a1,red)}}HIGH{{div_end_tag}}|
 |Pyria|Human|"1":http://www.alientrap.org/forum/viewtopic.php?f=2&t=6088&p=76962&hilit=pyria#p76962|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Animations, Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/pyriaplayermodel|{{div_start_tag(a2,red)}}HIGH{{div_end_tag}}|
 |Ignis(3 versions)|Human|"1":http://dev.xonotic.org/issues/39 "2":http://forums.xonotic.org//showthread.php?tid=498 "3":http://forums.xonotic.org//showthread.php?tid=500|COMPLETED|COMPLETED|COMPLETED|IN PROGRESS|IN PROGRESS|LODs|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/ignisplayermodel|{{div_start_tag(a3,red)}}HIGH{{div_end_tag}}|
-|Gak|Alien|"1":http://forums.xonotic.org//showthread.php?tid=497 "2":http://www.alientrap.org/forum/viewtopic.php?f=2&t=5997|COMPLETED|IN PROGRESS|IN PROGRESS|INCOMPLETE|INCOMPLETE|Textures/Animations|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|Gak(3 versions)|Alien|"1":http://forums.xonotic.org//showthread.php?tid=497 "2":http://www.alientrap.org/forum/viewtopic.php?f=2&t=5997|COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
 |N151|Robot|"1":http://alientrap.org/forum/viewtopic.php?p=69763#p69763|COMPLETED|COMPLETED|IN PROGRESS|INCOMPLETE|INCOMPLETE|Animations|Oblivion, tZork, DiaboliK|IN PROGRESS|NA|{{div_start_tag(a9,yellow)}}MEDIUM{{div_end_tag}}|
-
+|Erebus|Cyborg||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
+|Nyx|Cyborg||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
 
 
 h2. Weapon Models

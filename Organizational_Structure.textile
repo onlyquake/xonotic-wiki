@@ -1,31 +1,97 @@
-h1. Organizational Structure
+h1. Introduction
 
-This organizational structure of this project is based on distributed power to avoid any single person making a decision without consulting the community.  Major decisions will be made by the 3-6 appointed leaders who have expertise in a specific area of the game but can also discuss all areas of the game/community.  Below the leaders serves a committee who exist to act as a liaison to project leaders on specific areas to make sure the leaders are getting the fullest picture they can.
+Behind the scenes a lot has been going on in the organization of the Xonotic project. If you're watching the "xonotic git":http://git.xonotic.org, "forums":http://forums.xonotic.org, "dev tracker":http://dev.xonotic.org, "image hosting site":http://img.xonotic.org, #xonotic on irc.quakenet.org / irc.freenode.org then you probably have an idea of who has been contributing but there has been no clear definition to the public on leadership roles.
 
-Please bear with us while we continue to define the team and review nominees.
+Through forum discussions and IRC chats, the core team has designed an organizational structure and appointed key individuals to positions. In the system design, we've tried to keep the hierarchy as low as possible. Xonotic is free open-source software and we're interested in evolving together with freedoms in tact but too much freedom in system design can lead to nothing getting accomplished. This is why we've appointed the following list of people to guide the direction of the project and ensure the quality of the experience.
 
-h2. Leaders
+h1. Core Team
+The Core team consists of 6 members who discuss and vote on large project changes. This international group of leaders is a classic group of collaborators who above all else, will try and do what's best for the game and community.
+ 
+* "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4
+* "-z-":http://forums.xonotic.org/member.php?action=profile&uid=1
+* "merlijn":http://forums.xonotic.org/member.php?action=profile&uid=34
+* "morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
+* "mand1nga":http://forums.xonotic.org/member.php?action=profile&uid=13
+* "tZork":http://forums.xonotic.org/member.php?action=profile&uid=39
 
-* divVerent [ Lead Developer ]
-* Dokujisan [ Lead Community Director ]
-* -z- [ Lead Web Architect ]
-* tZork [ ... ]
-* merlijn [ Server admin ]
-* mand1nga [ Developer ]
-* Morphed [ ... ]
 
-h2. Committee
+h1. Coordinators
 
-Key contributors within the community
-With good amount of knowledge about the game
-Perhaps 30-40 members
+Coordinators are here to guide contributors, provide information both in and outside their area of expertise and act as liasons to the core team to ensure the most important information doesn't go overlooked. Coordinators will be the people to ask questions to regarding their subjects. If you're feeling lost, contact these people, their names are linked to their forum accounts.
 
-h2. Process of elections
+h2. Art
 
-needs explanation (both of the leaders and community members). How long do board members serve? How are they elected?
+* "Diabolik/Dib":http://forums.xonotic.org/member.php?action=profile&uid=14
 
-h2. Ownership of contributions
 
-Maybe we should have some explicit definition stating that any community contributions belong to those who contributed it, not by the project leaders. The only thing is that this may lead to problems when making decisions that effect the whole project (eg license change or something). 
+h2. 2D Art/Web
 
-THIS PAGE IS IN PROGRESS
+* "-z-":http://forums.xonotic.org/member.php?action=profile&uid=1 (Web/Game)
+* "FrutieX":http://forums.xonotic.org/member.php?action=profile&uid=29 (Game/Web)
+
+
+h2. 3D Art
+
+* "morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
+
+
+h2. Map Design
+
+* "FrutieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+
+
+h2. Music/Sound FX
+
+* "mand1nga":http://forums.xonotic.org/member.php?action=profile&uid=13
+* "merlijn":http://forums.xonotic.org/member.php?action=profile&uid=34
+
+
+h2. Engine Code
+
+* "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4
+
+h2. Game Code
+
+* "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4
+* "FrutieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+* "tZork":http://forums.xonotic.org/member.php?action=profile&uid=39
+
+
+h2. Marketing/PR
+
+* "-z-":http://forums.xonotic.org/member.php?action=profile&uid=1
+* "mand1nga":http://forums.xonotic.org/member.php?action=profile&uid=13
+
+
+h2. Legal
+
+* "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4
+* "merlijn":http://forums.xonotic.org/member.php?action=profile&uid=34
+
+
+*Note:* Many of the core members are serving double roles as coordinators. This is not a considered a conflict of interests in decision making because these members are largely filling the role until someone else who fits the description can fill it.
+
+These coordination positions are time-consuming roles that require dedication, knowledge of the area and sharpened communication skills. If you believe you can be of assistance in this area, you may contact the team at admin@xonotic.org. Don't forget, you can still contribute in other ways without the responsibilities of a coordinator. 
+
+
+h1. Other Contributors and Supporters
+ 
+See the "dev tracker":http://dev.xonotic.org/xonotic for the most up-to-date list of contributors.
+
+
+h2. Needed Positions
+
+
+h3. Community Coordinator
+To help organize and guide the growth of the community / street team.
+
+h3. Writers
+To write articles about xonotic and related things.
+
+h3. Ruby Developers
+To customize redmine for the project needs.
+
+h3. PHP Developers
+To write MyBB plugins for the project's needs.
+
+Apply on the "forum":http://forums.xonotic.org/showthread.php?tid=604 or contact Team Xonotic at admin@xonotic.org

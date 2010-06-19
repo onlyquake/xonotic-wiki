@@ -5,6 +5,7 @@ Behind the scenes a lot has been going on in the organization of the Xonotic pro
 Through forum discussions and IRC chats, the core team has designed an organizational structure and appointed key individuals to positions. In the system design, we've tried to keep the hierarchy as low as possible. Xonotic is free open-source software and we're interested in evolving together with freedoms in tact but too much freedom in system design can lead to nothing getting accomplished. This is why we've appointed the following list of people to guide the direction of the project and ensure the quality of the experience.
 
 h1. Core Team
+
 The Core team consists of 6 members who discuss and vote on large project changes. This international group of leaders is a classic group of collaborators who above all else, will try and do what's best for the game and community.
  
 * "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4
@@ -83,15 +84,19 @@ h2. Needed Positions
 
 
 h3. Community Coordinator
+
 To help organize and guide the growth of the community / street team.
 
 h3. Writers
+
 To write articles about xonotic and related things.
 
 h3. Ruby Developers
+
 To customize redmine for the project needs.
 
 h3. PHP Developers
+
 To write MyBB plugins for the project's needs.
 
 Apply on the "forum":http://forums.xonotic.org/showthread.php?tid=604 or contact Team Xonotic at admin@xonotic.org

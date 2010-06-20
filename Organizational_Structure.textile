@@ -1,4 +1,4 @@
-{{toc}}
+{{>toc}}
 
 h1. Core Team
 
@@ -71,7 +71,7 @@ h2. Legal
 These coordination positions are time-consuming roles that require dedication, knowledge of the area and sharpened communication skills. If you believe you can be of assistance in this area, you may contact the team at admin@xonotic.org. Don't forget, you can still contribute in other ways without the responsibilities of a coordinator. 
 
 
-h1. Other Contributors and Supporters
+h1. Other Contributors
  
 See the "dev tracker":http://dev.xonotic.org/xonotic for the most up-to-date list of contributors.
 

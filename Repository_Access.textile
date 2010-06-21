@@ -37,7 +37,7 @@ To get a GIT clone using mysysgit and Tortoise GIT, do the following:
 * Go to the folder where you intend to clone, right click and choose Git Clone from the context menu. Clone the repository from git://git.xonotic.org/xonotic/xonotic.git and wait for everything to download.
 * Once the first step is ready, open a command prompt or git bash and browse to the root folder of your clone. Write "./all update" as described above to get the separate data repos. After that you have a working GIT clone.
 
-To compile, you will need mingw and msys (1.0.11 should be good enough, follow [[http://www.mingw.org/wiki/msys|this guide]]).
+To compile, you will need mingw and msys (1.0.11 should be good enough, follow "this guide":http://www.mingw.org/wiki/msys).
 You should set the path to the "bin" directory of msysgit inside your PATH environment variable. There are plenties of information on how to do this depending on your Windows version, just google it.
 
 Then, *from the msys shell*, cd into the xonotic git clone and run

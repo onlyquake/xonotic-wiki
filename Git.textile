@@ -70,7 +70,6 @@ Some useful commands:
 * To commit ALL changed files (without adding new files): <pre>git commit -a</pre> or again: <pre>git commit -am "message"</pre>
 
 In git all your changes are local. This includes your commits! If you want your branch to be updated on the remote repository, you have to push it.
-*Note:* Pushing requires commit rights to the repository. You may ask divVerent or merlijn for these rights, but do not bother them unless you have an ssh key you would can show them.
 
 * Usually, you can push your changes doing: <pre>git push me/feature1</pre>
 * If your branch is not a tracking branch: <pre>git push origin me/feature1</pre> or if you have an older git version you may have to do <pre>git push origin me/feature1:refs/heads/me/feature1</pre>

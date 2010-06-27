@@ -1,0 +1,28 @@
+h1. CTF - Capture the flag
+
+
+There are a three basic types of level layouts with each with their advantages and disadvantages. A variety of map layouts tend to be the to be the most preferably to play. 
+
+h2. Rectangular
+
+Linear maps with usually with a base area for each team and a middle area connecting them
+
+*Levels*: Gasoline powered, mentalspace, hydro, facing worlds
+*Advantages*: Teammate positions on map are apparent, with attacker defender and roamer clearly defined. Fastest way to base is also apparent, while any detour leads to health and items. Great for new players. Stalemates are easily resolved due to no real hiding place for flag carrier unless oppositions defense is high.
+*Disadvantages*: Very easy to defend which results in camping, often making predictable game play.
+
+h2. S Shaped
+
+A non linear map with a few detours and alternative routs to base. The most balanced level layout which offers best both worlds.
+
+*Levels*: dm_castle, Dance
+*Advantages*: Camping does not offer defense of the entire base so more offensive strategies must be used, leading to more dynamic game play. Positions are still apparent, making team organization easy
+*Disadvantages*: Harder for new players due to more complicated routes to flags, slowing game play. Although laser walling resolves this problem.
+
+h2. Ant farm
+
+Many different paths to base, often tunnel like. Much attention must be given to the mini-map and and teammate communication.
+
+*Levels*: Mikectf, moonstone
+*Advantages*: Interesting game play, making confrontation with the enemy less frequent, bringing the game back to capture the flag. Deference is a little harder unless spawn points are in base.
+*Disadvantages*: Carrier is easily hidden. Often resulting in a stalemates which slows game play. Players have to work all positions on the field to be successful. Game becomes very "chase to flag carrier through the tunnels"

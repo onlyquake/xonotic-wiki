@@ -59,7 +59,7 @@ if [ $MSYSTEM == MINGW32 ]; then
   export PATH=".:/usr/local/bin:/mingw/bin:/bin:$PATH"
 </pre>
 
-Alternatively, you can get the modified profile file in the attachments of this page.
+Alternatively, you can get the modified profile file in the attachments at the bottom of this page.
 
 h2. Compiling and running the game
 

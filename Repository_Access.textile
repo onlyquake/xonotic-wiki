@@ -33,24 +33,7 @@ sudo apt-get install build-essential xserver-xorg-dev x11proto-xf86dri-dev x11pr
 
 h3. Windows
 
-To get a GIT clone using mysysgit and Tortoise GIT, do the following:
-* Go to the folder where you intend to clone, right click and choose Git Clone from the context menu. Clone the repository from git://git.xonotic.org/xonotic/xonotic.git and wait for everything to download.
-* Once the first step is ready, open a command prompt or git bash and browse to the root folder of your clone. Write "./all update" as described above to get the separate data repos. After that you have a working GIT clone.
-
-To compile, you will need mingw and msys (1.0.11 should be good enough, follow "this guide":http://www.mingw.org/wiki/msys).
-You should set the path to the "bin" directory of msysgit inside your PATH environment variable. There are plenties of information on how to do this depending on your Windows version, just google it.
-
-Then, *from the msys shell*, cd into the xonotic git clone and run
-
-<pre>
-CC=gcc ./all compile
-</pre>
-
-If that works, you can then run xonotic (still from msys) using
-
-<pre>
-./all run
-</pre>
+See [[Compiling in Windows]]
 
 h3. Mac OSX
 

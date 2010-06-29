@@ -46,10 +46,11 @@ h2. Items/Pickups
 |100 Health|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
 |Strength|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
 |Shield|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
-|RocketAmmo|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
-|BulletAmmo|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
-|ShotgunAmmo|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
-|PlasmaAmmo|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|RocketAmmo|Futuristic|NA|"1":http://img37.imageshack.us/img37/5294/20100612xonoticammo2roc.jpg|IN PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|BulletAmmo|Futuristic|NA|"1":http://img145.imageshack.us/img145/1856/20100612xonoticammo2bul.jpg|IN PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|ShellAmmo|Futuristic|NA|"1":http://img99.imageshack.us/img99/4475/20100612xonoticammo2she.jpg|IN PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|PlasmaAmmo|Futuristic|NA|"1":http://img541.imageshack.us/img541/7389/20100612xonoticammo2cel.jpg "2":http://img6.imageshack.us/img6/7389/20100612xonoticammo2cel.jpg|IN PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
+|FuelAmmo|Futuristic|NA|"1":http://img37.imageshack.us/img37/1849/20100612xonoticammo2fue.jpg|IN PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
 |CTF Flag|\9=.NOT ASSIGNED|{{div_start_tag(a4,red)}}HIGH{{div_end_tag}}|
 
 

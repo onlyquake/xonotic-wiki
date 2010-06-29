@@ -1,0 +1,58 @@
+h1. Tech Conglomerate
+Date: Future
+Region: Milky Way Galaxy (?)
+
+h2. Story outline
+
+* Massive business conglomerate(s) that manufactures arms, vehicles, ammo
+** Could be several or could be one
+** Supply/finance intragalactic warfare (constant struggle kept up)
+** If several, they could all specialize and deal to all factions or make the same things and deal to everyone (they are allied in secret, support different factions)
+*** If they specialize, factions possibly arms from all corporations, thinking they are tricking them, yet all corporations knowingly sell to the same factions
+*** Split could be based on type of wares (guns, vehicles) or types of guns (ammo types, and a separate company for vehicles) 
+** Logos present on ammo, gun, vehicle models (playermodels have faction emblems)
+** Sole weapon manufacturer(s) in the galaxy
+*** Owns entire planets dedicated to manufacturing and deploying arms
+*** When a faction attempts to break free and manufacture arms, the company engages a kill switch in those faction's arms and/or bombs their factories (with raptors) (galactic space mafia)
+
+* Intragalactic war
+** Neverending
+** Involves several (likely four?) factions
+** Going on for ages
+** Whenever faction tries to make peace, business conglomerate puts them in line (batch of faulty weapons, etc.)
+
+h2. Player's role
+
+Both campaigns could be included, could be billed as "separate timelines" or something of the sort.
+
+h3. Underdog
+
+* Player is  member of resistance movement which has stolen lots of equipment and formed an attack team
+** Fights through several campaigns to bring down each company individually (or just one if one company)
+** If each company specializes, they use whatever they specialize in extensively
+** Taking place on company controlled planets/important communication/manufacturing centers?
+
+h3. Oppressor
+
+* Player is a member of a team formed to extinguish all resistance movements
+** Access to lots of arms and ammo and vehicles (for open maps)
+** Given a serial number (randomly generated?) and a clean model (Erebus/Nyx?)
+** Fights resistance in contested planets/factories/communication centers
+** Player's squadron is shared between the companies and employed wherever resistance crops up
+*** If companies specialize, player is equipped with whatever the company specializes first and foremost (however, they may take weapons from downed resistance members)
+
+h2. Multiplayer explanation
+
+* Multiplayer is a combat simulator
+** Don't necessarily need to explain if the company or resistance operates the simulator
+** Easily explains respawning, etc.
+
+h2. Factions
+
+* Factions do not particularly matter as they do not necessarily have to figure in the campaign
+** Could be brutes employed by the corporation(s) to stop the player in the "Underdog" campaign
+*** As player progresses in the campaign, they see less of the factional player models (everyone else) and more company player models (erebus/nyx?)
+** However, player could also specify factional allegiance (resistance is a "pacifist" movement, so factions put aside differences)
+** Not sure how they can figure in the "Oppressor" campaign (redshirts killed quickly in the beginning of some battles?)
+* Factions may be adopted from the [[Close to Home]] scenario or invented anew
+** Only difference between factions is player models

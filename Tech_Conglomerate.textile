@@ -47,6 +47,8 @@ h2. Multiplayer explanation
 * Multiplayer is a combat simulator
 ** Don't necessarily need to explain if the company or resistance operates the simulator
 ** Easily explains respawning, etc.
+** Red could be resurgents, blue could be company guards, yellow and pink some two factions
+** All four colors could be different factions, this allows for a totally different perspective in story mode
 
 h2. Factions
 

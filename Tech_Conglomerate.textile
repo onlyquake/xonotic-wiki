@@ -29,7 +29,8 @@ h2. Story outline
 
 h2. Player's role
 
-Both campaigns could be included, could be billed as "separate timelines" or something of the sort.
+Both of the below campaigns could be included in the game, could be billed as "separate timelines" or something of the sort.
+Or, game could ship without story mode and they could be offered as auxiliary .pk3 files (possibly fetchable from in-game?)
 
 h3. Underdog
 

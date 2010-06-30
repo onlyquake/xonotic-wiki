@@ -7,20 +7,25 @@ h2. Story outline
 
 * Massive business conglomerate(s) that manufactures arms, vehicles, ammo
 ** Could be several or could be one
-** Supply/finance intragalactic warfare (constant struggle kept up)
-** If several, they could all specialize and deal to all factions or make the same things and deal to everyone (they are allied in secret, support different factions)
-*** If they specialize, factions possibly arms from all corporations, thinking they are tricking them, yet all corporations knowingly sell to the same factions
-*** Split could be based on type of wares (guns, vehicles) or types of guns (ammo types, and a separate company for vehicles) 
-** Logos present on ammo, gun, vehicle models (playermodels have faction emblems)
-** Sole weapon manufacturer(s) in the galaxy
+*** Specialize and each deals to all factions
+**** Factions buy arms from all companies, believing that they are tricking/deceiving the companies, but companies know this and continue to sell weapons
+**** Split could be based on type of wares (guns, vehicles) or types of guns (ammo types, and a separate company for vehicles) 
+*** Or they all make the same things and deal to specific factions
+*** Companies allied in secret
+** Logos present on ammo, gun, vehicle models (playermodels have faction emblems) - if several companies logos are placed on objects accordingly
+** Sole weapon/ammo/vehicle manufacturer(s) in the galaxy
 *** Owns entire planets dedicated to manufacturing and deploying arms
-*** When a faction attempts to break free and manufacture arms, the company engages a kill switch in those faction's arms and/or bombs their factories (with raptors) (galactic space mafia)
+*** When a faction attempts to break free and manufacture arms, the company engages a kill switch in those faction's arms and/or bombs their factories (with raptors, perhaps) (galactic space mafia)
 
 * Intragalactic war
 ** Neverending
-** Involves several (likely four?) factions
+** Involves several (likely four, for four teams?) factions
 ** Going on for ages
-** Whenever faction tries to make peace, business conglomerate puts them in line (batch of faulty weapons, etc.)
+** Whenever faction tries to make peace, business conglomerate puts them in line (batch of faulty weapons, assassinations, etc.)
+** Corporation(s) supply this war with arms
+*** Why? The factions can only buy arms from them, so they (the corporation[s]) win no matter which faction gains the upper hand
+*** Sometimes they intervene when a faction gets too close to victory over another (the war is similar to 1984's "perpetual war":http://en.wikipedia.org/wiki/Nineteen_Eighty-Four#Political_geography - lots of constant fighting and small territorial acquisitions, yet no faction can be defeated and no faction ever loses control over its "heartland")
+*** Factions are pawns and mostly do not realize they are being played (the few powerful people who do are quickly removed)
 
 h2. Player's role
 
@@ -28,16 +33,19 @@ Both campaigns could be included, could be billed as "separate timelines" or som
 
 h3. Underdog
 
-* Player is  member of resistance movement which has stolen lots of equipment and formed an attack team
-** Fights through several campaigns to bring down each company individually (or just one if one company)
-** If each company specializes, they use whatever they specialize in extensively
+* Player is  member of resistance movement ("pacifists") which has stolen lots of equipment (guns, ammo, perhaps vehicles) and formed an attack team
+** Fights through several campaigns to bring down each company individually (or just one campaign if one company)
+** If each company specializes, the company's soldiers use whatever weapons the company specializes in extensively
 ** Taking place on company controlled planets/important communication/manufacturing centers?
+** Player is equipped with some rudimentary weapons (laser, shotgun, hagar perhaps), however, player can take weapons from downed corporate soldiers
+*** Ammo may or may not be scattered around the maps
+** Death means level failed
 
 h3. Oppressor
 
 * Player is a member of a team formed to extinguish all resistance movements
 ** Access to lots of arms and ammo and vehicles (for open maps)
-** Given a serial number (randomly generated?) and a clean model (Erebus/Nyx?)
+** Given a serial number (randomly generated?) and a clean, strong-looking model (Erebus/Nyx?)
 ** Fights resistance in contested planets/factories/communication centers
 ** Player's squadron is shared between the companies and employed wherever resistance crops up
 *** If companies specialize, player is equipped with whatever the company specializes first and foremost (however, they may take weapons from downed resistance members)
@@ -48,7 +56,13 @@ h2. Multiplayer explanation
 ** Don't necessarily need to explain if the company or resistance operates the simulator
 ** Easily explains respawning, etc.
 ** Red could be resurgents, blue could be company guards, yellow and pink some two factions
-** All four colors could be different factions, this allows for a totally different perspective in story mode
+** Or, all four colors could be different factions, this allows for a totally different perspective in story mode
+** Maps specially designed to make participants in the simulation move unconventionally (not just walk and jump, laserjump, laserclimb, bunnyjump) and allow testing of new tactics against the "enemy" (however, who the enemy is is not specified, left to the player's imagination) 
+
+* Multiplayer could be several battles between the four factions
+** Arms, etc. provided by the companies on the maps
+** Maps are stations around the galaxy of some importance
+*** Important to account for wide variation of skyboxes - some are space stations, other are terrestrial stations
 
 h2. Factions
 
@@ -57,5 +71,6 @@ h2. Factions
 *** As player progresses in the campaign, they see less of the factional player models (everyone else) and more company player models (erebus/nyx?)
 ** However, player could also specify factional allegiance (resistance is a "pacifist" movement, so factions put aside differences)
 ** Not sure how they can figure in the "Oppressor" campaign (redshirts killed quickly in the beginning of some battles?)
+
 * Factions may be adopted from the [[Close to Home]] scenario or invented anew
 ** Only difference between factions is player models

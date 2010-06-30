@@ -13,7 +13,7 @@ Linear maps with usually with a base area for each team and a middle area connec
 
 h2. S Shaped
 
-A non linear map with a few detours and alternative routs to base. The most balanced level layout which offers best both worlds.
+A non linear map with a few detours and alternative routes to base. The most balanced level layout which offers best both worlds.
 
 *Levels*: dm_castle, Dance
 *Advantages*: Camping does not offer defense of the entire base so more offensive strategies must be used, leading to more dynamic game play. Positions are still apparent, making team organization easy

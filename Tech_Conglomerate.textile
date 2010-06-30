@@ -32,6 +32,8 @@ h2. Player's role
 Both of the below campaigns could be included in the game, could be billed as "separate timelines" or something of the sort.
 Or, game could ship without story mode and they could be offered as auxiliary .pk3 files (possibly fetchable from in-game?)
 
+Or, far better to have the campaign be perspectives of the same fight - with each campaign ending favorably for the player. The Oppressor campaign is unlocked after the Underdog campaign.
+
 h3. Underdog
 
 * Player is  member of resistance movement ("pacifists") which has stolen lots of equipment (guns, ammo, perhaps vehicles) and formed an attack team
@@ -40,7 +42,9 @@ h3. Underdog
 ** Taking place on company controlled planets/important communication/manufacturing centers?
 ** Player is equipped with some rudimentary weapons (laser, shotgun, hagar perhaps), however, player can take weapons from downed corporate soldiers
 *** Ammo may or may not be scattered around the maps
-** Death means level failed
+** Death means level failed.
+** Missions could involve retrieval of items, hacking computers (perhaps just getting to a certain point and holding it, as a sort of "hacking puzzle" would be difficult to implement), destroying targets (ONS style), getting to specific places (traversing a map), surviving certain attacks, saving certain allies, etc, when dictated by the story.
+*** Initial missions could be raids on corporate warehouses, where the goal is to get into a warehouse (kill the guards) outside, avoid tripping alarm systems, get some weapons/ammo and get out.
 
 h3. Oppressor
 

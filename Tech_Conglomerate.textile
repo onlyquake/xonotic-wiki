@@ -1,7 +1,7 @@
 h1. Tech Conglomerate
 
 Date: Future
-Region: Milky Way Galaxy (?)
+Region: Andromeda Galaxy
 
 h2. Story outline
 
@@ -16,6 +16,7 @@ h2. Story outline
 ** Sole weapon/ammo/vehicle manufacturer(s) in the galaxy
 *** Owns entire planets dedicated to manufacturing and deploying arms
 *** When a faction attempts to break free and manufacture arms, the company engages a kill switch in those faction's arms and/or bombs their factories (with raptors, perhaps) (galactic space mafia)
+*** Has people installed in factional governments that always support the costly war
 
 * Intragalactic war
 ** Neverending
@@ -26,6 +27,12 @@ h2. Story outline
 *** Why? The factions can only buy arms from them, so they (the corporation[s]) win no matter which faction gains the upper hand
 *** Sometimes they intervene when a faction gets too close to victory over another (the war is similar to 1984's "perpetual war":http://en.wikipedia.org/wiki/Nineteen_Eighty-Four#Political_geography - lots of constant fighting and small territorial acquisitions, yet no faction can be defeated and no faction ever loses control over its "heartland")
 *** Factions are pawns and mostly do not realize they are being played (the few powerful people who do are quickly removed)
+
+* Weak Faction
+** A faction that has little land nor manpower relative to the other factions
+** However, this faction has its people installed at the top of the tech companies
+** They deal arms to everyone and embezzle money off the top
+** Sustain relatively little casualties due to the fact that they "fight smarter, not harder" - they have superior equipment to the other factions, and an unlimited supply of it (whereas the other factions receive limited supplies).
 
 h2. Player's role
 

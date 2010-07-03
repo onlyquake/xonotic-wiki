@@ -59,6 +59,11 @@ if [ $MSYSTEM == MINGW32 ]; then
   export PATH=".:/usr/local/bin:/mingw/bin:/bin:$PATH"
 </pre>
 
+*NOTE*: If you're using a 64-bit Windows, it is possible that Git was installed in c:\Program Files (x86)\Git. The inserted line in the profile file should then be:
+<pre>
+PATH="/c/Program Files (x86)/Git/bin:$PATH"
+</pre>
+
 Alternatively, you can get the modified profile file in the attachments at the bottom of this page.
 
 h2. Compiling and running the game

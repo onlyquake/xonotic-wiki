@@ -101,10 +101,12 @@ Possibly using a different network other than Quakenet
 
 h1. Gameplay Balance
 
+<pre>
 <FruitieX> div0: I would also vote for sv_maxspeed 320 and sv_maxairspeed 320
 <FruitieX> so to sum it all up: current physicsNoQWBunny.cfg + sv_airaccel_sideways_friction -1 + sv_maxspeed 320 + sv_maxairspeed 320
 <FruitieX> tZork: that is a slightly different physics config that div0 has been working on
 <FruitieX> Dokujisan: more physics stuff to note that's really fun: sv_doublejump 1, sv_jump_speedcap_max 1, sv_jumpspeedcap_max_disable_on_ramps 1
+</pre>
 
 h1. Player Models
 

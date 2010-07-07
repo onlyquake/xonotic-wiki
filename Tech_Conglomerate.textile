@@ -2,6 +2,7 @@ h1. Tech Conglomerate
 
 Date: Future
 Region: Andromeda Galaxy
+Current WIP script available "here":https://www.dropbox.com/s/ge0q9sc9n8ekh3y/script.pdf
 
 h2. Story outline
 

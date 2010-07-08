@@ -12,8 +12,8 @@ Real time lights are added and modified using the following console commands, ac
 |r_editlights_cursordistance|maximum distance of cursor from eye|
 |r_editlights_cursorpushback|push back cursor this far from surface|
 |r_editlights_cursorpushoff|push cursor off surface this far|
-|r_editlights_cursorgrid |snap cursor to grid of this size
-|r_editlights_quakelightsizescale |imported quake light entity size scaling 
+|r_editlights_cursorgrid |snap cursor to grid of this size|
+|r_editlights_quakelightsizescale |imported quake light entity size scaling |
 |\2=.Commands|
 |r_editlights_help |this help|
 |r_editlights_clear |remove all lights|
@@ -25,7 +25,7 @@ Real time lights are added and modified using the following console commands, ac
 |r_editlights_toggleshadow |toggles on/off selected light’s shadow property|
 |r_editlights_importlightentitiesfrommap |reload light entities|
 |r_editlights_importlightsfile |reload .light file (produced by hlight)|
-|\2.=Edit commands (given as arguments to r_editlights_edit|
+|\2=.Edit commands (given as arguments to r_editlights_edit|
 |origin x y z |set light location|
 |originx x|set x component of light location|
 |originy y|set y component of light location|

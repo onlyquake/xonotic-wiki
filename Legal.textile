@@ -1,5 +1,7 @@
 h1. Legal
 
+{{>toc}}
+
 h2. GPL
 
 Xonotic and everything that comes with our releases is licensed under the "GNU General Public Licence v2":http://www.gnu.org/licenses/gpl-2.0.html. We are bound to this license because the original Quake1 engine was released under the GPL, and we cannot relicense large portions of the game as not all of the contributors can be reached.

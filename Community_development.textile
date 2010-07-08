@@ -1,5 +1,7 @@
 h1. Community development
 
+{{>toc}}
+
 Dokujisan is forming a group called the XCT or Xonotic Community Team
 This will be made up of a group of select people from each regional community (North america, Europe, Australia.
 
@@ -12,6 +14,7 @@ Of course, the activities decide by those in XCT need to be okay with the rest o
 So far, we have the following XCT members. These groups will group and change overtime.
 
 h2. North America
+
 * Dokujisan
 * Nifrek
 * PCLizard
@@ -19,24 +22,29 @@ h2. North America
 * Agama
 
 h2. Europe
+
 * Kojn
 * SinSniper
 * thyr4ne
 * atheros
 
 h2. Australia
+
 * Hew
 * rabs
 
 h2. Latin America
+
 * mand1nga
 * iR3ul
 * Kita
 
 h2. Southeast Asia
+
 * to-be-determined
 
 h2. Russian
+
 * to-be-determined
 
 

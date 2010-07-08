@@ -17,7 +17,7 @@ h2. Game-type specific mapping
 
 * [[Deathmatch]] - Free for all
 * [[Team deathmatch]] - I got your covered, mate.
-* [[CTF - Capture the flag]] I got the flag, I GOT THE FLAG!!!
+* [[CTF - Capture the flag]] - I got the flag, I GOT THE FLAG!!!
 * [[Domination]] - Divide et impera
 * [[Onslaught]] - Now with vehicles!
 

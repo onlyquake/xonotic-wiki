@@ -1,4 +1,4 @@
-{{toc}}
+{{>toc}}
 
 h1. Organization
 

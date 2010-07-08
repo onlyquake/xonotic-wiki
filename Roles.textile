@@ -1,5 +1,7 @@
 h1. Roles and Skills
 
+{{>toc}}
+
 This page provides an overview of many of the roles/skills of contributing community members.
 
 h2. Game Development

@@ -1,5 +1,7 @@
 h1. IRC channels
 
+{{>toc}}
+
 h2. On Quakenet
 
 #xonotic - General purpose channel

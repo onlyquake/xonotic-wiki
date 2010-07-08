@@ -1,6 +1,6 @@
-{{>toc}}
-
 h1. Core Team
+
+{{>toc}}
 
 The Core team consists of 6 members who discuss and vote on large project changes. This international group of leaders is a classic group of collaborators who above all else, will try and do what's best for the game and community.
  

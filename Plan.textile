@@ -7,8 +7,8 @@ h1. Organization
 * "big" decisions (like whole new gameplay balance) should be approved by ALL leaders, who stand personally for the community
 * nobody will be able AT ALL to sell/relicense the project :P
 
-<pre>
-<div0> as for organization, I suggest:
+
+bq. <div0> as for organization, I suggest:
 <div0> - three "leaders" who should come from different backgrounds
 <div0> - otherwise, freedom should reign among the community
 <div0> - "big" decisions (like whole new gameplay balance) should be approved by ALL leaders, who stand personally for the community
@@ -27,18 +27,16 @@ h1. Organization
 <div0> art wise it's a bit more difficult, as there can be many opinions what is good and what is not
 <div0> there, I'd only like to avoid bad taste (like, pr0n, or TOO strong displays of violence - after all, the game is meant to be PLAYed, and is not a virtual torture chamber)
 <div0> of course, the competitive players ALSO do not want overly strong violence, as it blocks the view :P
-</pre>
+
 
 h1. Code Clean-up
 
-<pre>
-<div0> but basically, the goal should NOT be stripping the game to "what I like"
+bq. <div0> but basically, the goal should NOT be stripping the game to "what I like"
 <div0> and also NOT reimplementing it
 <div0> but JUST reorganizing the code
 <div0> not silently removing stuff
 <div0> what NEEDS cleanup, is teamplay.qc, player death handling, player spawn handling, player think
 <div0> anyway, as for rerwrite... shpuld be no goal for next release
-</pre>
 
 h1. Documentation
 
@@ -91,22 +89,18 @@ h1. Chat
 An official Mumble server
 Possibly using a different network other than Quakenet
 
-<pre>
-<Dokujisan> for my other project I'm involved with, Getty was showing me a way to have #nexuiz on multiple networks and have them all connect to each other through a bot
+bq. <Dokujisan> for my other project I'm involved with, Getty was showing me a way to have #nexuiz on multiple networks and have them all connect to each other through a bot
 <Dokujisan> so we would have our own IRC network
 <Dokujisan> and #battlecube channels on quakenet and other networks and they would all echo to/from our network
 <Dokujisan> there would be a bot that echos what is typed
 <Dokujisan> between the various networks
-</pre>
 
 h1. Gameplay Balance
 
-<pre>
-<FruitieX> div0: I would also vote for sv_maxspeed 320 and sv_maxairspeed 320
+bq. <FruitieX> div0: I would also vote for sv_maxspeed 320 and sv_maxairspeed 320
 <FruitieX> so to sum it all up: current physicsNoQWBunny.cfg + sv_airaccel_sideways_friction -1 + sv_maxspeed 320 + sv_maxairspeed 320
 <FruitieX> tZork: that is a slightly different physics config that div0 has been working on
 <FruitieX> Dokujisan: more physics stuff to note that's really fun: sv_doublejump 1, sv_jump_speedcap_max 1, sv_jumpspeedcap_max_disable_on_ramps 1
-</pre>
 
 h1. Player Models
 
@@ -114,15 +108,13 @@ http://www.alientrap.org/forum/viewtopic.php?f=2&t=6051
 http://www.alientrap.org/forum/viewtopic.php?f=2&t=5997
 http://alientrap.org/forum/viewtopic.php?p=69763#p69763
 
-<pre>
-<tZork> Dokujisan: Oblivion, Morphed, DibTop and me all knows a bit abt assorted sobjects arround it.
+bq. <tZork> Dokujisan: Oblivion, Morphed, DibTop and me all knows a bit abt assorted sobjects arround it.
 <tZork> i managed to export animated smd's from blender yesterday
 <tZork> and turn to dpm
 <tZork> Dokujisan: yes the artist toolchain of darkpalces is bad
 <Dokujisan> tZork: perhaps we need to generate some documentation on "what we know" about player model technical details
 <Spaceman> I second that idea
 <tZork> but with the blender smd thing working, its way more likely ppl can do open models.
-</pre>
 
 h1. Sounds
 
@@ -147,13 +139,10 @@ with some refining and get these sources files to -z- to remix for the website d
 
 h1. Style Direction
 
-<pre>
-<}-z-{> regarding artwork, I think we should gather a list of wants/needs/likes/dislikes
+bq. <}-z-{> regarding artwork, I think we should gather a list of wants/needs/likes/dislikes
 <}-z-{> to give other artists direction when they are looking to contribute
-</pre>
 
-<pre>
-<Oblivion> i woudl like to put forward a suggestion of basing nexuiz' art on treating it as if it was a galactic sport. 
+bq. <Oblivion> i woudl like to put forward a suggestion of basing nexuiz' art on treating it as if it was a galactic sport. 
 think Rollerball. With enough emphasis given on balance (no hard to see or hard to hit models) and bright colors 
 (that can be adjusted per clan), possibly adding another color mask in addition to the shirt/pants divide?
 <Oblivion> for things like stripes or markings. so that even in team based games where colors are mandated 
@@ -166,11 +155,9 @@ one from the other because the first has a green diagonal stripe while the other
 <Oblivion> also a bit more cyberpunk direction rather than aliens (which was never implemented properly). that 
 means humans and bots, but all humanoid and of the same sizes. and a bit less serious. (i'm actually planning a 
 player model with armor that deliberately looks like bunny ears)
-</pre>
 
-<pre>
-<Morphed_> i think that perfect style for nexuiz is this http://hirez.http.internapcdn.net/hirez/images/photos/downloads/GAWallpaper_1440X1080.jpg
-</pre>
+bq. <Morphed_> i think that perfect style for nexuiz is this http://hirez.http.internapcdn.net/hirez/images/photos/downloads/GAWallpaper_1440X1080.jpg
+
 
 Forum discussion here: http://forums.xonotic.org/showthread.php?tid=81
 

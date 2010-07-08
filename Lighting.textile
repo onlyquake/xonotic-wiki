@@ -58,4 +58,6 @@ Real time lights are added and modified using the following console commands, ac
 
 The most important commands to remember are r_editlights, r_editlights_edit (color, realtimemode and radius arguments), and of course, r_editlights_save. You will not see your light and its effects in real time if you do not execute r_editlights_realtimemode 1 while having selected the light.
 
+It is important to note that rtlights can put a serious drain on computers due to the way they work, and they should be used sparingly (don't make an rtlight on every radiosity light, generally). However, they can easily be disabled from the client-side if a user's machine cannot handle them.
+
 h2. Radiosity lights

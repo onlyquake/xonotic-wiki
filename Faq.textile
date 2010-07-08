@@ -1,5 +1,6 @@
 h1. Ideas for the Xonotic announcement FAQ
 
+{{TOC}}
 
 h2. What prompted the split from Nexuiz?
 

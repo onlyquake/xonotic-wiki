@@ -6,9 +6,9 @@ The following images and sounds have Nexuiz branding and 'n' logos or are associ
 
 Some of these items may be deleted. If they are (and not replaced), and are map-time data (like shader or textures) they need to go into the Nexuiz compatibility package.
 
-h1. Xonotic compatibility pack 0.5
+h2. Xonotic compatibility pack 0.5
 
-h2. Images, Models and Shaders
+h3. Images, Models and Shaders
 
 data/gfx/loading.tga - needs a new logo
 data/gfx/conback.tga - needs a new logo
@@ -127,17 +127,17 @@ data/textures/tznex01/stained_glass_nexlogo_red.tga - stained glass has a red 'n
 
 mediasource/graphics/chatbubble.svg - NEX, NXE
 
-h2. Sounds
+h3. Sounds
 
 data/sound/announcer/default/welcome.ogg - welcome to nexuiz
 
-h2. Text References
+h3. Text References
 
 data/nexuiz-credits.txt - remove some of the names!
 
-h1. Xonotic compatibility pack 0.4
+h2. Xonotic compatibility pack 0.4
 
-h2. Images, Models and Shaders
+h3. Images, Models and Shaders
 
 data/gfx/loading.tga - needs a new logo
 data/gfx/conback.tga - needs a new logo
@@ -236,18 +236,18 @@ data/textures/tznex01/stained_glass_nexlogo_red.tga - stained glass has a red 'n
 mediasource/graphics/chatbubble.svg - NEX, NXE
 
 
-h2. Sounds
+h3. Sounds
 
 data/sound/announcer/default/welcome.ogg - welcome to nexuiz
 
-h2. Text References
+h3. Text References
 
 data/nexuiz-credits.txt - remove some of the names!
 
 
-h1. Xonotic compatibility pack 0.3
+h2. Xonotic compatibility pack 0.3
 
-h2. Images, Models and Shaders
+h3. Images, Models and Shaders
 
 data/gfx/loading.tga - needs a new logo
 data/gfx/sb_energy.tga - *not used*, kanji image
@@ -328,18 +328,18 @@ data/textures/tznex01/stained_glass_nexlogo_red.tga - stained glass has a red 'n
 mediasource/graphics/chatbubble.svg - NEX, NXE
 
 
-h2. Sounds
+h3. Sounds
 
 data/sound/announcer/default/welcome.ogg - welcome to nexuiz
 
-h2. Text References
+h3. Text References
 
 data/nexuiz-credits.txt - remove some of the names!
 
 
-h1. Xonotic compatibility pack 0.2
+h2. Xonotic compatibility pack 0.2
 
-h2. Images, Models and Shaders
+h3. Images, Models and Shaders
 
 data/gfx/loading.tga - needs a new logo
 data/gfx/sb_energy.tga - *not used*, kanji image
@@ -389,21 +389,21 @@ data/textures/tznex01/* - stained glass has a blue or red 'n' logo
 mediasource/graphics/chatbubble.svg - NEX, NXE
 
 
-h2. Sounds
+h3. Sounds
 
 data/sound/announcer/default/welcome.ogg - welcome to nexuiz
 
 data/sound/tutorial/10-at_corp_switch.ogg - mentions AT Corp
 
 
-h2. Text References
+h3. Text References
 
 data/nexuiz-credits.txt - remove some of the names!
 
 
-h1. Xonotic compatibility pack 0.1
+h2. Xonotic compatibility pack 0.1
 
-h2. Images
+h3. Images
 
 data/gfx/loading.tga
 data/gfx/sb_energy.tga
@@ -436,7 +436,7 @@ data/textures/stralenex1/slimepit_ad-3_glow*.jpg
 
 data/textures/tznex01/*
 
-h2. Sounds
+h3. Sounds
 
 data/sound/announcer/default/welcome.ogg
 

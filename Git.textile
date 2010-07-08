@@ -1,6 +1,6 @@
-{{>toc}}
-
 h1. Git
+
+{{>toc}}
 
 h2. After cloning the repository
 

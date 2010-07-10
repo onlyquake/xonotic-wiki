@@ -37,7 +37,7 @@ See [[Compiling in Windows]]
 
 h3. Mac OSX
 
-You must first install XCode which comes on your installation DVD or can be downloaded from the Apple website. This package provides tools like git and gcc, which are needed for successful checkout and compilation of xonotic. You should also install the SDL framework according to their readme, available from http://www.libsdl.org/download-1.2.php
+You must first install XCode which comes on your installation DVD or can be downloaded from the Apple website. This package provides tools like git and gcc, which are needed for successful checkout and compilation of xonotic. Some versions of XCode come with git and others don't - if you don't have git after installing XCode get it here: http://code.google.com/p/git-osx-installer/
 
 When you have done this, you can follow the Linux instructions above.
 

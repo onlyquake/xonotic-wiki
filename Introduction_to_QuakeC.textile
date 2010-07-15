@@ -52,6 +52,7 @@ To see what QuakeC looks like, here is an example:
     return nearest;
   }
 </code></pre>
+
 (Note: _findchain_ is implemented in QuakeC for demonstration purposes only so one can see how to build a linked list, as this function is already built in to the engine and can be used directly)
 
 h2. Other resources
@@ -72,22 +73,23 @@ h2. Declaring
 
 To declare a variable, the syntax is the same as in C:
 
-  float i;
+<code class="c">float i;</code>
 
 However, variables cannot be initialized in their declaration for historical reasons, and trying to do so would define a constant.
 
 Whenever a variable declaration could be interpreted as something else by the compiler, the _var_ keyword helps disambiguating. For example,
 
-  float(float a, float b) myfunc;
+<code class="c">float(float a, float b) myfunc;</code>
 
 is an old-style function declaration, while
 
-  var float(float a, float b) myfunc;
+<code class="c">var float(float a, float b) myfunc;</code>
 
 declares a variable of function type. An alternate and often more readable way to disambiguate variable declarations is using a _typedef_:
 
-  typedef float(float, float) myfunc_t;
-  myfunc_t myfunc;
+<code class="c">
+typedef float(float, float) myfunc_t;
+  myfunc_t myfunc;</code>
 
 h2. Scope
 
@@ -149,7 +151,7 @@ h2. entity
 
 The main object type in QuakeC is _entity_, a reference to an engine internal object. An _entity_ can be imagined as a huge struct, containing many _fields_. This is the only object type in the language. However, _fields_ can be added to the _entity_ type by the following syntax:
 
-//.float myfield;//
+<code class="c">.float myfield;</code>
 
 and then all objects _e_ get a field that can be accessed like in _e.myfield_.
 
@@ -160,46 +162,54 @@ If a field has not been set, it gets the usual zero value of the type when the o
 h2. fields
 
 A reference to such a field can be stored too, in a field variable. It is declared and used like
-<pre>
-  .float myfield;
-  // ...
-  // and in some function:
-  var .float myfieldvar;
-  myfieldvar = myfield;
-  e.myfieldvar = 42;
-</pre>Field variables can be used as function parameters too - in that case you leave the _var_ keyword out, as it is not needed for disambiguation.
+
+<code class="c">
+.float myfield;
+// ...
+// and in some function:
+var .float myfieldvar;
+myfieldvar = myfield;
+e.myfieldvar = 42;
+</code>
+
+Field variables can be used as function parameters too - in that case you leave the _var_ keyword out, as it is not needed for disambiguation.
 
 h2. functions
 
 Functions work just like in C:
-<pre>
-  float sum3(float a, float b, float c)
-  {
-    return a + b + c;
-  }</pre>
+<code class="c">
+float sum3(float a, float b, float c)
+{
+  return a + b + c;
+}
+</code>
 
 However, the syntax to declare function pointers is simplified:
-<pre>
-  typedef float(float, float, float) op3func_t;
-  var float(float a, float b, float c) f;
-  op3func_t g;
-  f = sum3;
-  g = f;
-  print(ftos(g(1, 2, 3)), "\n"); // prints 6</pre>
+
+<code class="c">
+typedef float(float, float, float) op3func_t;
+var float(float a, float b, float c) f;
+op3func_t g;
+f = sum3;
+g = f;
+print(ftos(g(1, 2, 3)), "\n"); // prints 6
+</code>
 
 Also note that the _var_ keyword is used again to disambiguate from a global function declaration.
 
 In original QuakeC by Id Software, this simplified function pointer syntax also was the only way to define functions (you may still encounter this in Xonotic code in a few places):
 
-<pre>
-  float(float a, float b) sum2 = {
-    return a + b;
-  }</pre>
+<code class="c">
+float(float a, float b) sum2 = {
+  return a + b;
+}
+</code>
 
 A special kind of functions are built-in functions (defined by the engine). These are imported using so-called built-in numbers, with a syntax like
-<pre>
-  string strcat(string a, string b, ...) = #115;
-</pre>
+
+<code class="c">
+string strcat(string a, string b, ...) = #115;
+</code>
 h2. void
 
 Just like in C, the _void_ type is a special placeholder type to declare that a function returns nothing. However, unlike in C, it is possible to declare variables of this type, although the only purpose of this is to declare a variable name without allocating space for it. The only occasion where this is used is the special _end_sys_globals_ and _end_sys_fields_ marker variables.
@@ -209,34 +219,44 @@ h2. arrays
 As the QuakeC virtual machine provides no pointers or similar ways to handle arrays, array support is added by FTEQCC and very limited. Arrays can only be global, must have a fixed size (not dynamically allocated), and are a bit buggy and slow. Almost as great as in FORTRAN, except they can't be multidimensional either!
 
 You declare arrays like in C:
-<pre>
-  #define MAX_ASSASSINS 16
-  entity assassins[MAX_ASSASSINS];
-  #define BTREE_MAX_CHILDREN 5
-  .entity btree_child[BTREE_MAX_CHILDREN];
-  #define MAX_FLOATFIELDS 3
-  var .float myfloatfields[MAX_FLOATFIELDS];
-</pre>
+
+<code class="c">
+#define MAX_ASSASSINS 16
+entity assassins[MAX_ASSASSINS];
+#define BTREE_MAX_CHILDREN 5
+.entity btree_child[BTREE_MAX_CHILDREN];
+#define MAX_FLOATFIELDS 3
+var .float myfloatfields[MAX_FLOATFIELDS];
+</code>
+
 The former is a global array of entities and can be used the usual way:
-<pre>
-  assassins[self.assassin_index] = self;
-</pre>
+
+<code class="c">
+assassins[self.assassin_index] = self;
+</code>
+
 The middle one is a global array of (allocated and constant) entity fields and **not** a field of array type (which does not exist), so its usage looks a bit strange:
 
-  for(i = 0; i < BTREE_MAX_CHILDREN; ++i)
-    self.(btree_child[i]) = world;
+<code class="c">
+for(i = 0; i < BTREE_MAX_CHILDREN; ++i)
+  self.(btree_child[i]) = world;
+</code>
 
 Note that this works:
 
-  var .entity indexfield;
-  indexfield = btree_child[i];
-  self.indexfield = world;
+<code class="c">
+var .entity indexfield;
+indexfield = btree_child[i];
+self.indexfield = world;
+</code>
 
 The latter one is a global array of (assignable) entity field variables, and looks very similar:
 
-  myfloatfields[2] = health;
-  self.(myfloatfields[2]) = 0;
-  // equivalent to self.health = 0;
+<code class="c">
+myfloatfields[2] = health;
+self.(myfloatfields[2]) = 0;
+// equivalent to self.health = 0;
+</code>
 
 Do not use arrays when you do not need to - using both arrays and function calls in the same expression can get messed up (**COMPILER BUG**), and arrays are slowly emulated using functions _ArrayGet*myfloatfields_ and _ArraySet*myfloatfields_ the compiler generates that internally do a binary search for the array index.
 
@@ -248,23 +268,30 @@ h2. if not
 
 There is a second way to do a negated _if_:
 
-  if not(expression)
-    ...
+<code class="c">
+if not(expression)
+  ...
+</code>
 
 It compiles to slightly more efficient code than
 
-  if(!expression)
-    ...
+<code class="c">
+if(!expression)
+  ...
+</code>
 
 and has the notable difference that
 
-  if not("")
-    ...
-
+<code class="c">
+if not("")
+  ...
+</code>
 will not execute (as //""_ counts as true in an _if// expression), but
 
+<code class="c">
   if(!"")
     ...
+</code>
 
 will execute (as both //""_ and _string_null// is false when boolean operators are used on it)..
 

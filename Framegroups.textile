@@ -8,7 +8,7 @@ h2. For modelers
 
 It is named <modelname.extension>.framegroups. So if you are editing Ignis, it would be called <code>ignis.iqm.framegroups</code>.
 
-Inside the file the playermodel's animations are defined one per line.
+Inside the file, the playermodel's animations are defined one per line.
 
 Syntax:
 <code>
@@ -21,7 +21,7 @@ Ex.
 </code>
 Defines a 100 frame death animation that start at frame 1, plays at 30 frames per second and does not loop.
 
-Animations must be in this order:
+Animations must be in this order (these are the values for animname):
 # <code>dieone</code>
 # <code>dietwo</code>
 # <code>draw</code> *

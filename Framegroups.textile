@@ -46,7 +46,7 @@ Animations must be in this order (these are the values for animname):
 # <code>backright</code> *
 # <code>backleft</code> *
 
-Lines marked with a * need to loop (last number on the line should be <code>0</code>).
+Lines marked with a * need to loop (last number on the line should be <code>1</code>).
 
 If you make 1 looping animation and place model on map as misc_gamemodel it will be animated.
 

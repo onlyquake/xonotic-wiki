@@ -53,7 +53,7 @@ In this section you will find helpful information about editing Xonotic in gener
 ** [[Textures|Textures know-how]]
 ** [[Polycounts|Polygon count]] on Weapons and Models
 ** [[framegroups|.framegroups]] file (allow self playing animations) know-how
-** [[Voice sand sounds|.sounds]] file (player model sounds) know-how 
+** [[Voices and sounds|.sounds]] file (player model sounds) know-how 
 ** [[dpmodel|How to compile dpm models]]
 ** "Q3A Shader Manual":http://toolz.nexuizninjaz.com/shader/
 ** How to get an animated mesh from [[Blender to DPM]]

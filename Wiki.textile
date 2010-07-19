@@ -17,6 +17,7 @@ h2. Project
 * [[Announcements]]
 * "Roadmap to v1":http://dev.xonotic.org/versions/show/3
 * [[Repository Access]] _(see also [[Git]] and [[Compiling in Windows]])_
+* "Netraident for Windows":http://dietunichtguten.org/downloads/netradiant.rar
 * [[Website]] Plannning
 * [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
 * Notes from brainstorming [[names|ideas for names]]

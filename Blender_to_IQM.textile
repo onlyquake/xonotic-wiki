@@ -4,8 +4,8 @@ h1. Blender to IQM
 
  h3. Needed/Example files
  * Bounding Box for Stand and Crouch: http://dev.xonotic.org/attachments/download/33/bbox_crouch_stand.zip
- * umbra example files
- * link to exporter
+ * Ignis example blend: http://dev.xonotic.org/attachments/download/82/models_player_ignis.blend
+ * Link to exporter: http://lee.fov120.com/iqm/
 
  h3. Before You Start
  * use the bbox.blend in order to see the size that your model should be. Iqm exporter scale function untested.

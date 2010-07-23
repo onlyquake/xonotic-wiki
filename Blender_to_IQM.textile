@@ -1,19 +1,20 @@
 h1. Blender to IQM
-> h2. Blender when exporting to iqm
-> > h3. Needed/Example files
-> > > * // Will be added
-> > > * Bounding Box for Stand and Crouch: http://dev.xonotic.org/attachments/download/33/bbox_crouch_stand.zip
-> > > * // umbra example files
-> > > * // link to exporter
-> > h3. Before You Start
-> > > * use the bbox.blend in order to see the size that your model should be. Iqm exporter scale function untested.
-> > > * use the duck_bbox.blend in order to see the size that your model should be when crouching.
-> > > * for more information on bbox size refer to div0's model specs [[Player_Model_Spec]]
-> > > * naming conventions for textures and model go as follow assuming the example is the umbra model: modelname: umbra.iqm, framegroups: umbra.iqm.framegroups, textures: umbra.tga or (jpg), umbra_norm.tga, umbra_gloss.tga,  (need to add more)
-> > h3. Before exporting
-> > > * you must assign material to your model. Select your model in object mode. Press F5. Look for the MA box and type the name of your model for example umbra.
-> > h3.  Exporting
-> > > # Select both mesh and armature in object mode. 
-> > > # Go to scripts > export > inter-quake-model. 
-> > > # Now make sure bounding boxes and meshes are both highlighted in the script window. 
-> > > # Export to a file path of your choosing, /path/to/umbra.iqm. Put the names of all the animations in the animations box, using commas for multiple anims. Then hit the export button and hopefully it will work without any errors. 
+
+ h2. Blender when exporting to IQM
+
+ h3. Needed/Example files
+ * Bounding Box for Stand and Crouch: http://dev.xonotic.org/attachments/download/33/bbox_crouch_stand.zip
+ * umbra example files
+ * link to exporter
+
+ h3. Before You Start
+ * use the bbox.blend in order to see the size that your model should be. Iqm exporter scale function untested.
+ * use the duck_bbox.blend in order to see the size that your model should be when crouching.
+ * for more information on bbox size refer to div0's model specs [[Player_Model_Spec]]
+ * naming conventions for textures and model go as follow assuming the example is the umbra model: modelname: umbra.iqm, framegroups: umbra.iqm.framegroups, textures: umbra.tga or (jpg), umbra_norm.tga, umbra_gloss.tga,  (need to add more)
+
+ h3.  Exporting
+ # Select both mesh and armature in object mode. 
+ # Go to scripts > export > inter-quake-model. 
+ # Now make sure bounding boxes and meshes are both highlighted in the script window. 
+ # Export to a file path of your choosing, /path/to/umbra.iqm. Put the names of all the animations in the animations box, using commas for multiple anims. Then hit the export button and hopefully it will work without any errors. 

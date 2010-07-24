@@ -23,7 +23,7 @@ h2. Weapon Models
 |Mortar|\8=.NOT ASSIGNED|{{div_start_tag(a10,green)}}LOW{{div_end_tag}}|
 |Electro|\8=.NOT ASSIGNED|{{div_start_tag(a11,green)}}LOW{{div_end_tag}}|
 |Crylink|\8=.NOT ASSIGNED|{{div_start_tag(a12,green)}}LOW{{div_end_tag}}|
-|Nex|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|{{div_start_tag(a13,red)}}HIGH{{div_end_tag}}|
+|Nex|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|COMPLETED|COMPLETED|NA|theShadow, Oblivion, DiaboliK|COMPLETED|MASTER|NA|
 |MinstaNex|\8=.NOT ASSIGNED|{{div_start_tag(a14,green)}}LOW{{div_end_tag}}|
 |Hagar|\8=.NOT ASSIGNED|{{div_start_tag(a15,green)}}LOW{{div_end_tag}}|
 |RocketLauncher|"1":http://forums.xonotic.org/showthread.php?tid=219|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|{{div_start_tag(a16,yellow)}}MEDIUM{{div_end_tag}}|

@@ -22,3 +22,5 @@ h2. Game-type specific mapping
 * [[Onslaught]] - Now with vehicles!
 
 h3. Advanced mapping
+
+* [[WarpZones]] - Creating WarpZones

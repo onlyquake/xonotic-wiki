@@ -46,6 +46,11 @@ This is the list of pre-selected tracks that we have so far _(work in progress)_
 |"23.8":http://www.mediafire.com/?d5gqjmnzlhh
 "source":http://www.mediafire.com/?m2zimwzijl3|
 
+|master[mind]|http://forums.xonotic.org/showthread.php?tid=795|
+
+|mickrippon|http://mickrippon.com/xonotic/music_jumpinginspace.zip
+http://www.mickrippon.com/temp/ribcage2.ogg|
+
 h2. Potential contributors
 
 People interested in contributing music:

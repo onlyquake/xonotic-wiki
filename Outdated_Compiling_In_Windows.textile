@@ -16,7 +16,7 @@ It can be found "here":http://sourceforge.net/projects/mingw/files/ . Run the au
 Next, you need to install MSYS. The recent versions don't have an installer, so it is easier to install "version 1.0.11":http://downloads.sourceforge.net/mingw/MSYS-1.0.11.exe .
 *Important*: again, the installation path should contain no spaces. The default is c:\msys
 After it is done installing, a terminal will pop up, asking you to run the post-install script. Answer yes, and when it asks for the MinGW install path, input it as c:/mingw .
-*Note*: If the terminal window instantly closed it self and you never got a change to input the mingw path etc. Then go to c:\mingw\1.0\postinstall\ and right-click pi.bat and choose 'Run as administrator'.
+*Note*: If the terminal window instantly closed it self and you never got a change to input the mingw path etc. Then go to c:\msys\1.0\postinstall\ and right-click pi.bat and choose 'Run as administrator'.
 
 h3. msysGit
 

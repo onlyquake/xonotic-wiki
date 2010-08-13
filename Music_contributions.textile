@@ -45,7 +45,8 @@ This is the list of pre-selected tracks that we have so far _(work in progress)_
 "source":http://www.mediafire.com/?hjn4mjm31d4|
 |"23.8":http://www.mediafire.com/?d5gqjmnzlhh
 "source":http://www.mediafire.com/?m2zimwzijl3|
-|master[mind]|http://forums.xonotic.org/showthread.php?tid=795|
+|/2. master[mind]|"Rising of the Phoenix":http://forums.xonotic.org/showthread.php?tid=795 |
+|"To the East":http://www.4shared.com/file/250363291/cd3f1a3/To_the_East.html|
 |mickrippon|http://mickrippon.com/xonotic/music_jumpinginspace.zip
 http://www.mickrippon.com/temp/ribcage2.ogg|
 

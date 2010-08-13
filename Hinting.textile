@@ -14,3 +14,5 @@ To fix this, let's use a hint brush. Create a rectangular brush perpendicular to
 !http://developer.valvesoftware.com/w/images/7/70/Hint_example3.jpg!
 
 Now we've put a hint brush across the entrances to the two rooms, shown here by a white line. Now, a player standing in the left room looking at the hallway will only render those two rooms, meaning that the fps will be higher, particularly if there is a lot of polygons in the two rooms.
+
+By: PlasmaSheep

@@ -56,7 +56,7 @@ The process is simple: download the latest xonpatch from the attachments, and ex
 
 h2. Compiling and running the game
 
-When the cloning of all the repositories is done, open MSYS and type:
+When the cloning of all the repositories is done, open *MSYS* (not git bash this time) and type:
 <pre>
 cd /xonotic
 ./all compile

@@ -10,10 +10,11 @@ This is the list of pre-selected tracks that we have so far _(work in progress)_
 |"Nine Six":http://blkrbt.googlepages.com/ninesix.ogg|
 |"Stairs":http://blkrbt.googlepages.com/stairs.ogg|
 |*"Variable":http://blkrbt.googlepages.com/nexuiz_variable.ogg ("S":http://sites.google.com/site/blkrbt2/nexuiz_variable.xrns?attredirects=0&d=1)*|
-|/4."Chooksta":http://forums.xonotic.org/member.php?action=profile&uid=44|"Fisheyzemaster":http://chookstamusic.com/songs/fisheyzemaster.mp3|
+|/5."Chooksta":http://forums.xonotic.org/member.php?action=profile&uid=44|"Fisheyzemaster":http://chookstamusic.com/songs/fisheyzemaster.mp3|
 |"Pride Roar":http://chookstamusic.com/songs/prideroar.mp3|
 |"Rumble Drum":http://chookstamusic.com/songs/rumble_drum.mp3|
 |"Wooookiiie2":http://chookstamusic.com/songs/wooookiiie2.mp3|
+|"t album":http://forums.xonotic.org/showthread.php?tid=826|
 |/4."Jenetik":http://forums.xonotic.org/member.php?action=profile&uid=320|"Suttle":http://www.jenetik.com/music/Jenetik_-_Suttle.mp3|
 |"Xonotic":http://www.jenetik.com/music/Jenetik_-_Xontic.mp3|
 |"Untitled":http://www.jenetik.com/music/Jenetik_-_untitled.mp3|

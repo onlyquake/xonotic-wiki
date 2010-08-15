@@ -77,3 +77,11 @@ cd /xonotic
 </pre>
 
 The most recent Xonotic development version is then ready to run.
+
+h2. Known errors
+
+If  your compile stops with error "cc: command not found" 
+use
+<pre>
+CC=gcc ./all compile
+</pre>

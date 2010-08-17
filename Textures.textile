@@ -2,47 +2,23 @@ h1. Textures in Xonotic
 
 {{>toc}}
 
-There are 2 material systems in Xonotic that can work together.
+There are 2 material/texture systems in Xonotic that can work together.
 
 h2. System one
 
-First is based by texture name, it reads texture suffix
+This system is based off of the texture name, with the suffix denoting what the texture describes.
 
-*Diffuse texture*
-* *filename*: texturename.tga
-* The diffuse texture, not much to say.
+|_. Texture name |_. Filename |_. Description |
+| Diffuse | texturename.tga | This is the texture as it will look to an observer without lighting or any other effects. |
+| Normal | texturename_norm.tga | Xonotic uses OpenGL style tangent space normal map (Inverted Y/green channel). You can put height map in normal maps alpha channel and it will be used when offset or relief mapping is on. This will give your texture a 3d look. |
+|/2.Alpha channel | texturename_norm.tga |If the TGA image is 32bits, the alpha channel will be loaded from the image. |
+| texturename_alpha.jpg | *note ONLY works with jpg at the moment* (What does this mean? Why is there a tga entry for this then?)|
+| Bump map | texturename_bump.tga | Bump maps are like normal maps in that they allow a texture to be 3d. However, normal maps have higher priorities and so will overwrite bump maps. It is a better idea to use a normal map instead of a bump map, since the roughness of a bump map is limited by a cvar. |
+| Specular | texturename_gloss.tga | This map will make your texture more or less shiny. There may be colors in this map. |
+| Fullbright | texturename_glow.tga | Areas textured with this map will always glow and shadows will not affect them. |
+| Team color/custom | texturename_pants.tga | Areas textured with this map will show the user's custom or team color. Make it grayscale and leave same area 100% black in diffuse texture. |
+| Shirt | texturename_shirt.tga | Like the above, but a secondary color. *Does this still exist?* |
 
-*Normal map* 
-* *filename*: texturename_norm.tga
-* Xonotic uses OpenGL style tangent space normal map. (Inverted Y/green channel)
-* You can put height map in normal maps alpha channel and it will be used when offset or relief mapping is on.
-
-*Alpha channel*
-* *filename*: texturename / texturename_norm in 32bit (tga). Alpha channel is loaded from image file.
-* *filename*: texturename_alpha.jpg *note ONLY works with jpg at the moment*
-
-
-*Bump map*
-* *filename*: texturename_bump.tga
-* Normal map have higher priority and it will overwrite bump map
-* Its wise to convert your bump map to a normal map, because that way you can have higher roughness since height of all bump map is limited by cvar
-
-*Specular, shininess strength*
-* *filename*: texturename_gloss
-* Can use colour 
-
-*Fullbright map / self-illumination map*
-* *filename*: texturename_glow
-* This textures specify areas that will always render shadeless, they will be very bright and will glow in the dark.
-
-*Custom / Team colour*
-* *filename*: texturename_pants
-* Primary colour 
-* This one tells what part of texture will use custom colour. 
-* Make it grayscale and leave same area 100% black in diffuse texture.
-
-* *filename*: texturename_shirt
-* Same as texturename_pants, for secondary colour.
 
 h2. System two
 

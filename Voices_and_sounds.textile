@@ -51,6 +51,6 @@ Sound name is the name of the sound, as can be seen in the example .sounds file 
 
 The <code>//</code> you see in certain lines means that the voice pack used in the file does not have those sounds. They are sort of like a comment - the game throws an error while parsing them, but it does not affect anything else.
 
-Entries up to line 23 are voice entries, meaning that in a perfect world a player can evoke them using <code>cmd voice <name of voice></code>, but few of them are supported in game code. Line 23 and onward are voices th player makes automatically, when falling, taking damage, fragging, and so on.
+Entries up to line 23 are voice entries, meaning that in a perfect world a player can evoke them using <code>cmd voice <name of voice></code>, but few of them are supported in game code. Line 23 and onward are voices the player makes automatically, when falling, taking damage, fragging, and so on.
 
-Unfortunately, these 9 voice packs only have a few sounds in common, as voice packs frequently lack certain voices. The best approach would be to use pre-made .sounds files for each voice pack, but these have not yet been created.
+Unfortunately, these 9 voice packs only have a few sounds in common, as voice packs frequently lack certain voices. The easiest way to fix this problem would be to include new voice packs in xonotic, but this may not happen due to a lack of people with voices and microphones.

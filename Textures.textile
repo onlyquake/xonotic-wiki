@@ -1,6 +1,8 @@
 h1. Textures in Xonotic
 
-There are 2 material systems in Xonotic that can work together
+{{>toc}}
+
+There are 2 material systems in Xonotic that can work together.
 
 h2. System one
 

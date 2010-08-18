@@ -35,8 +35,8 @@ By convention, branches are usually called <yourname>/<branch>.
 Before creating a branch, you first have to choose a base of your branch. Then you can create your branch:
 Let's assume your name is <code>me</code>, your branch will be called <code>feature1</code> and your base will be <code>master</code>.
 There are several ways of creating a branch:
-You can simply create it by issuing:
-<pre>git branch me/feature1 master</pre>
+You can simply create it by doing this from the xonotic directory and selecting where to branch:
+<pre>./all branch me/feature1</pre>
 This will create the branch locally, nothing else. It will not checkout the branch. You can do this now:
 <pre>git checkout me/feature1</pre>
 

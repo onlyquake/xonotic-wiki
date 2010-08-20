@@ -50,9 +50,9 @@ h2. Setting up the environment
 
 To run and compile Xonotic, the "all" script must be able to access msysGit from MSYS, as well as wget and unzip. The xonpatch bundle patches your MSYS installation to sort this out.
 
-*Important*: if you have followed a previous version of this guide where the "profile" file had to be edited manually, download the original msys1.0.11 profile file from the attachments on this page, and unzip it in c:\msys\1.0\etc before applying the xonpatch.
+*Important*: if you have followed a previous version of this guide where the "profile" file had to be edited manually, download the original msys1.0.11 profile file from the attachments on this page (or from "this link":http://dev.xonotic.org/attachments/84/profile.zip), and unzip it in c:\msys\1.0\etc before applying the xonpatch.
 
-The process is simple: download the latest xonpatch from the attachments, and extract it in c:\msys\1.0 . Then, launch xonpatch.bat. This will make msysGit visible from MSYS, and add wget as well as unzip.
+The process is simple: download the latest xonpatch from the attachments (or from "this link":http://dev.xonotic.org/attachments/85/xonpatch_1-0.zip), and extract it in c:\msys\1.0 . Then, launch xonpatch.bat. This will make msysGit visible from MSYS, and add wget as well as unzip.
 
 h2. Compiling and running the game
 

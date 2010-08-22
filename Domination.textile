@@ -1,0 +1,17 @@
+h1. Domination
+
+In domination, the goal is to capture and hold all control points on the map. Domination is similar to Onslaught but capturing a control point is easier in Domination, and in Domination points are given for holding a control point, and there is no generator. Rarely are maps made exclusively for Domination, generally an existing CTF or TDM map receives Domination features.
+
+A domination map must have at the very least 4 entities.
+
+h2. dom_team
+
+dom_team entites declare the teams available in the game and what models are shown when they take a control point. To create it, right click and go to "domination>dom_team". There must be at least 3 per map: Two teams and one empty team (for when the control point is not taken).
+
+SHOW REQUIRED FIELDS HERE.
+
+h2. dom_controlpoint
+
+These are the actual control points that players will capture. They do not have any required fields, but it is often useful to name them.
+
+SHOW HOW TO DO THAT HERE.

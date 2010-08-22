@@ -1,7 +1,7 @@
 h1. CTF - Capture the flag
 
 
-There are a three basic types of level layouts with each with their advantages and disadvantages. A variety of map layouts tend to be the to be the most preferably to play. 
+There are a three basic types of level layouts with each with their advantages and disadvantages.
 
 h2. Rectangular
 

@@ -60,9 +60,9 @@ This is the list of pre-selected tracks that we have so far _(work in progress)_
 |*"33.3":http://www.mediafire.com/?vjlg4r1q2g2i70o ("S":http://www.mediafire.com/?o0bf68e1ranvbo0)*|NEXT POLL|
 |*35.1 ("S":http://www.mediafire.com/?1la2ddf6tvpyw4f)*|NEXT POLL|
 |*"Rebellion of the Forks":http://www.mediafire.com/?t44s5a7szwqfslz ("S":http://www.mediafire.com/?36kqu01v40gluba)*|NEXT POLL|
-|/2. master[mind]|*"Rising of the Phoenix":http://forums.xonotic.org/showthread.php?tid=795 ("S":http://forums.xonotic.org/showthread.php?tid=795)*|ADDED|
+|/2.master[mind]|*"Rising of the Phoenix":http://forums.xonotic.org/showthread.php?tid=795 ("S":http://forums.xonotic.org/showthread.php?tid=795)*|ADDED|
 |*"To the East":http://www.4shared.com/file/250363291/cd3f1a3/To_the_East.html ("S":http://www.4shared.com/file/250360264/e994b60d/To_the_East.html)*|NEXT POLL|
-|mickrippon|*"Jumping in Space":http://mickrippon.com/xonotic/music_jumpinginspace.zip (S)*|ACCEPTED|
+|/2.mickrippon|*"Jumping in Space":http://mickrippon.com/xonotic/music_jumpinginspace.zip (S)*|ACCEPTED|
 |"Ribcage 2":http://www.mickrippon.com/temp/ribcage2.ogg|REJECTED|
 
 h2. Status legend

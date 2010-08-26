@@ -66,6 +66,7 @@ This is the list of pre-selected tracks that we have so far _(work in progress)_
 |"Ribcage 2":http://www.mickrippon.com/temp/ribcage2.ogg|REJECTED|
 
 h2. Status legend
+
 * NEED SOURCE: the track needs source files and won't be considered until source is presented
 * NEXT POLL: the track will appear in the next poll (a track stays in this state if a poll result was inconclusive)
 * REJECTED: track was decided to not to be used in Xonotic for now. However, a new map using that track, especially if it works very well with it, can possibly bring the track "back to life".

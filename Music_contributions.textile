@@ -36,7 +36,7 @@ This is the list of pre-selected tracks that we have so far _(work in progress)_
 |"Unexpected Incident":http://www.jamendo.com/en/track/145616|NEED SOURCE|
 |"Controlled decay":http://www.jamendo.com/en/track/145567|NEED SOURCE|
 |"Battle Sequence":http://michaelb.org/music/music/symphonic/michaelb-battle_sequence.mp3|NEED SOURCE|
-|/15."SC0RP":http://soundcloud.com/sc0rp|"Xonotic Theme Tune v2":http://soundcloud.com/sc0rp/xonotic-theme-tune-v-2|
+|/15."SC0RP":http://soundcloud.com/sc0rp|"Xonotic Theme Tune v2":http://soundcloud.com/sc0rp/xonotic-theme-tune-v-2|NEED SOURCE|
 |"Electrolosis":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_ELECTROLOSIS.ogg|NEED SOURCE|
 |"In A Dream":http://soundcloud.com/sc0rp/in-a-dream|NEED SOURCE|
 |"Inner Peace":http://soundcloud.com/sc0rp/inner-peace|NEXT POLL|
@@ -63,7 +63,7 @@ This is the list of pre-selected tracks that we have so far _(work in progress)_
 |/2. master[mind]|*"Rising of the Phoenix":http://forums.xonotic.org/showthread.php?tid=795 ("S":http://forums.xonotic.org/showthread.php?tid=795)*|ADDED|
 |*"To the East":http://www.4shared.com/file/250363291/cd3f1a3/To_the_East.html ("S":http://www.4shared.com/file/250360264/e994b60d/To_the_East.html)*|NEXT POLL|
 |mickrippon|"Jumping in Space":http://mickrippon.com/xonotic/music_jumpinginspace.zip|ACCEPTED|
-"Ribcage 2":http://www.mickrippon.com/temp/ribcage2.ogg|REJECTED|
+|"Ribcage 2":http://www.mickrippon.com/temp/ribcage2.ogg|REJECTED|
 
 h2. Status legend
 * NEED SOURCE: the track needs source files and won't be considered until source is presented

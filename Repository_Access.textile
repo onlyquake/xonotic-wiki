@@ -12,7 +12,7 @@ h2. Cloning the repository and compiling
 
 h3. Linux
 
-First, you install git using your favorite package manager. Then, do the following to download and compile (execute the first line only to download)::
+First, you install git using your favorite package manager. Then, do the following to download and compile (execute the first line only to download):
 
 <pre>
 git clone git://git.xonotic.org/xonotic/xonotic.git
@@ -22,7 +22,16 @@ cd xonotic
 
 The git:// protocol uses port 9418, which may be a problem if you're behind a strict firewall. You may instead use the clone url http://git.xonotic.org/xonotic/xonotic.git however using the git protocol directly is preferred for performance reasons.
 
-After that, you have a working checkout of the repository.
+After that, you have a working checkout of the repository. The game can be compiled and run with the following commands:
+
+<pre>
+./all compile
+./all run
+</pre>
+
+The run line can be followed by one of glx,sdl,agl,dedicated to choose which executable to run. It can also be followed by standard DarkPlaces commandline arguments.
+
+To update your git clone, you can repeat the commands above without the first "git clone" line. Don't forget to compile after you update.
 
 Ubuntu Dependencies:
 

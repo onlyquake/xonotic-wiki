@@ -52,6 +52,7 @@ In this section you will find helpful information about editing Xonotic in gener
 
 * [[Modeling]]
 ** [[Textures|Textures know-how]]
+** [[Normal Maps|Normal Maps know-how]]
 ** [[Polycounts|Polygon count]] on Weapons and Models
 ** [[framegroups|.framegroups]] file (allow self playing animations) know-how
 ** [[Voices and sounds|.sounds]] file (player model sounds) know-how 

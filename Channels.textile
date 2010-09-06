@@ -21,7 +21,7 @@ h3. Clan channels
 
 h3. Server channels
 
-#xon.simba - Simba CTF
+#simba - Simba CTF
 
 h2. On FreeNode
 

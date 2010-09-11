@@ -1,0 +1,23 @@
+h1. Sound FX contributions
+
+h2. Contributions
+
+(This was copied from the [[Music contributors]] page and modified. Needs more refinement.)
+
+|_.Foley Artist|_.Sound Pack|_.Status|_.Notes|
+| tenshihan|"Sound Pack v6.6":http://www.nullgaming.com/xonotic/sound/tenshihan-nexuiz.v6.6.pk3 (S: None)|_.PENDING SOURCE| Created immediately after Xonotic fork, before the name was chosen. |
+
+h2. Status legend
+
+* PENDING SOURCE: The track needs source files and won't be considered until source is presented
+* PENDING LICENSE: Being reviewed for licensing and attribution.
+* NEXT POLL: The track will appear in the next poll
+* REJECTED: Sound pack was decided to not to be used in Xonotic for now. However, a new map using that track, especially if it works very well with it, can possibly bring the track "back to life".
+* PARTIAL: Some sounds are accepted for us in Xonotic.
+* ACCEPTED: the pack accepted for use in Xonotic.
+* ADDED: the sounds has been added to the git repository
+
+h2. Potential contributors
+
+People interested in contributing music:
+* T0olbox  

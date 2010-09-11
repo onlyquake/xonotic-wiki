@@ -19,5 +19,5 @@ h2. Status legend
 
 h2. Potential contributors
 
-People interested in contributing music:
+People interested in contributing sounds:
 * T0olbox  

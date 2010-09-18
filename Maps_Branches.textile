@@ -1,12 +1,15 @@
 h1. Maps Branches
 
 h2. mirceakitsune/arahia
+
 Very low performance (even with reflections off at most 45fps), ridiculous "LOD jumping" of the trees
 
 h2. mintox/geoplanetary
+
 A bit too dark
 
 h2. divVerent/glowarena-cuinnton
+
 LEAK
 
 h2. mintox/implosion

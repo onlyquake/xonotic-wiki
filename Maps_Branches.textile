@@ -34,6 +34,8 @@ Waiting for final touches by Cuinnton.
 
 h2. plasmasheep/lsp
 
+No options file.
+
 h2. mintox/equinox
 
 h2. diabolik/ihsan
@@ -43,6 +45,8 @@ DOES NOT MERGE.
 h2. ThePWTULN/campaigntimer
 
 h2. diabolik/strength
+
+No options file.
 
 h2. diabolik/darkzone
 

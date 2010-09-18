@@ -104,6 +104,41 @@ DOES NOT MERGE. Superseded by divVerent/glowarena-cuinnton? If yes, DELETE.
 
 h2. fruitiex/cubemaps
 
+(EE) shader textures/envmaps/metal_rusty1 uses non-existing texture env/metal_blurry/metal_blurrybx
+(EE) texture env/metal_blurry/metal_blurrybx of shader textures/envmaps/metal_rusty1 is out of place, editorimage textures must not be in env/
+(EE) no shader name pattern for textures/envmaps/metal_rusty1
+(EE) shader textures/envmaps/metal_rusty1 uses non-existing texture textures/eX/eXmetalBase04
+(EE) no shader name pattern for textures/envmaps/metal_rusty1
+(EE) shader textures/fx/forcefield1-a is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/forcefield1-a is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/forcefield1-b is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/forcefield1-b is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/forcefield2-c is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/forcefield2-c is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/forcefield1-d is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/forcefield1-d is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/healpod1-d is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/healpod1-d is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/jumppadfx1-a is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/jumppadfx1-a is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/jumppadfx1-b is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/jumppadfx1-b is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/jumppadfx1-c is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/jumppadfx1-c is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/jumppadfx1-d is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/jumppadfx1-d is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/lightning1-a is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/lightning1-b is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/lightning1-c is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) shader textures/fx/lightning1-d is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)
+(EE) texture textures/fx/lightnings/lightning1_10 is not referenced by any shader
+(EE) texture textures/fx/lightnings/lightning1_11 is not referenced by any shader
+(EE) texture textures/fx/lightnings/lightning1_2 is not referenced by any shader
+(EE) texture textures/fx/lightnings/lightning1_3 is not referenced by any shader
+(EE) texture textures/fx/lightnings/lightning1_5 is not referenced by any shader
+(EE) texture textures/fx/lightnings/lightning1_7 is not referenced by any shader
+(EE) texture textures/fx/lightnings/lightning1_9 is not referenced by any shader
+
 h2. fruitiex/textures
 
 (EE) shader textures/fx/forcefield1-a is not allowed in this shader file (allowed: textures/xonotic-fx/, forbidden: textures/skies/ textures/map_ models/)

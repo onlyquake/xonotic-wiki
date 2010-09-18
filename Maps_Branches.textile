@@ -10,7 +10,7 @@ A bit too dark
 
 h2. divVerent/glowarena-cuinnton
 
-LEAK
+LEAK, also, q3map2 light bugs
 
 h2. mintox/implosion
 

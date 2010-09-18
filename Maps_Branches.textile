@@ -14,11 +14,24 @@ LEAK, also, q3map2 light bugs
 
 h2. mintox/implosion
 
+Fine, but cannot be merged due to conflicts. Author has to merge from master into map branch and fix the conflicts.
 
 h2. fruitiex/aggressor
+
+Too small. Period.
+
 h2. divVerent/courtfun2
+
+Not really Xonotic style, otherwise fine.
+
 h2. mirceakitsune/tomb
+
+TOO SLOW.
+
 h2. mirceakitsune/red_planet
+
+Waiting for final touches by Cuinnton.
+
 h2. plasmasheep/lsp
 h2. mintox/equinox
 h2. diabolik/ihsan

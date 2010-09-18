@@ -33,15 +33,21 @@ h2. mirceakitsune/red_planet
 Waiting for final touches by Cuinnton.
 
 h2. plasmasheep/lsp
+
 h2. mintox/equinox
+
 h2. diabolik/ihsan
 
 DOES NOT MERGE.
 
 h2. ThePWTULN/campaigntimer
+
 h2. diabolik/strength
+
 h2. diabolik/darkzone
+
 h2. mookow/facility_114
+
 h2. mookow/facility114-ctf
 
 DOES NOT MERGE.
@@ -51,6 +57,7 @@ h2. cbrutail/map-space_ctf
 DOES NOT MERGE.
 
 h2. cbrutail/textures-space_ctf
+
 h2. plasmasheep/valentine114
 
 DOES NOT MERGE.
@@ -60,8 +67,11 @@ h2. savagex/courtfun
 DOES NOT MERGE. Superseded by divVerent/courtfun2?
 
 h2. savagex/techassault
+
 h2. mookow/condemned_castles
+
 h2. fruitiex/warfare
+
 h2. fruitiex/stormkeep
 
 DOES NOT MERGE.
@@ -71,11 +81,13 @@ h2. fruitiex/space_elevator
 DOES NOT MERGE.
 
 h2. fruitiex/runningmanctf
+
 h2. fruitiex/flow
 
 DOES NOT MERGE.
 
 h2. fruitiex/final_rage
+
 h2. fruitiex/epsilon
 
 DOES NOT MERGE.
@@ -85,12 +97,15 @@ h2. fruitiex/dance
 DOES NOT MERGE.
 
 h2. tzork/ents-onoff
+
 h2. tzork/glowarena
 
 DOES NOT MERGE. Superseded by divVerent/glowarena-cuinnton? If yes, DELETE.
 
 h2. fruitiex/cubemaps
+
 h2. fruitiex/textures
+
 h2. cbrutail/spacectf
 
 DOES NOT MERGE. Superseded by cbrutail/map-space_ctf? If yes, DELETE.
@@ -100,6 +115,7 @@ h2. cbrutail/map-further
 DOES NOT MERGE.
 
 h2. cbrutail/sandbox-lighting
+
 h2. cbrutail/shaders_fx_xonotic2
 
 DOES NOT MERGE.

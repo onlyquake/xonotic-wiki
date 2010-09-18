@@ -6,7 +6,7 @@ Very low performance (even with reflections off at most 45fps), ridiculous "LOD 
 
 h2. mintox/geoplanetary
 
-A bit too dark
+A bit too dark, otherwise great.
 
 h2. divVerent/glowarena-cuinnton
 
@@ -14,7 +14,7 @@ LEAK, also, q3map2 light bugs
 
 h2. mintox/implosion
 
-Fine, but cannot be merged due to conflicts. Author has to merge from master into map branch and fix the conflicts.
+Fine, but cannot be merged due to conflicts. Author has to merge from master into map branch and fix the conflicts. Also, too dark.
 
 h2. fruitiex/aggressor
 

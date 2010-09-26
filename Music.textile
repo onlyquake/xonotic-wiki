@@ -2,11 +2,11 @@ h1. Music
 
 {{>toc}}
 
-h2. Requeriments
+h2. Requirements
 
 * Vorbis OGG -q4 or above (-q7 or above preferred), or a format good enough for being able to be converted to that (e.g. FLAC, WAV)
 * GPL v2 compatible _(for more information see our [[legal]] page)_
-* about 3 to 10 minutes
+* About 3 to 10 minutes
 * Preferably with matching ending and beginning _(so the track loops smoothly)_
 
 h2. Music Style
@@ -15,9 +15,9 @@ h3. Overview
 
 While we don't want to tie us to a specific genre, the music must match the visuals of the game. As it is being discussed on "this thread":http://forums.xonotic.org/showthread.php?tid=81 seems that we are about to use a futuristic ambient for the game, so its more than likely that the kind of music that we want will fit within the Electronic genre.
 
-h3. Track duration
+h3. Track Duration
 
-Currently most contributions come in the format of a regular cd track, that is 3, 4 or 5 minutes long. This is currently an issue because the duration of most matches is about 15-20 minutes, that means that one listens to the very same track many times in row, which is kind of boring. For this reason we would like to have longer tracks, as long as this is possible for artists. However tracks longer than 10 or 15 minutes are not advisable as that will increase dramatically the size of the release package. Note that this is a file size size constraint, not a duration one, tracks that are more easily compressed can have a longer duration.
+Currently most contributions come in the format of a regular CD track, that is 3, 4 or 5 minutes long. This is currently an issue because the duration of most matches is about 15-20 minutes, that means that one listens to the very same track many times in row, which is kind of boring. For this reason we would like to have longer tracks, as long as this is possible for artists. However tracks longer than 10 or 15 minutes are not advisable as that will increase dramatically the size of the release package. Note that this is a file size size constraint, not a duration one, tracks that are more easily compressed can have a longer duration.
 
 h3. Matching start and ending
 
@@ -35,7 +35,7 @@ Furthermore this game is based a lot on listening, as a way to know if a shot hi
 
 h3. Suggested Genres
 
-Electronica, Drum and bass, House, Jungle, 8 bit, Fake bit, Techno, Hybrid, ambient, Experimental
+Electronica, Drum and Bass, House, Jungle, 8 bit, Fake bit, Techno, Hybrid, Ambient, Experimental
 
 h3. Moods
 
@@ -72,9 +72,9 @@ h2. Links
 ** http://freepats.zenvoid.org/olpc-sounds/
 *** http://lopho.org/xonotic/olpc_sound_samples_v2.torrent
 
-h2. Howto's
+h2. How-To's
 
-*How to add a sound track to Xonotic ?*
+*How to add a sound track to Xonotic?*
 
 * Copy the track file to the _data/sound/cdtracks_ folder
 * Add the name of the track (without the extension) at the end of the cvar _g_cdtracks_remaplist_, on the file _defaultXonotic.cfg_. Count all tracks and remember the position of the added one, this information will be used on the following step.

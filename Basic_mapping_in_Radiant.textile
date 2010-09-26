@@ -2,13 +2,27 @@ h1. Basic mapping in Radiant
 
 h2. Layout of Radiant
 
-Radiant has five main sections by default. Let's examine those a bit more in depth.
+This section will introduce the Radiant interface. Radiant has five main sections by default, as numbered in the screenshot below. Let's examine these panels a bit more in depth.
 
 !http://dev.xonotic.org/attachments/download/87/radiant_sections.png!
 
 
-# 2D View - This area allows you to view the map straight on from a certain axis. This is useful for aligning things flush with walls or other surfaces and for finer movement/scaling control.
-# 3D View - This is a basic render of approximately how your map will look. It does not render lighting or anything like that, but it does render the textures as you will see them in game.
-# Texture View - This section will show you all available texture sets in the left side and the members of that texture set on the right.
-# Console - This is a moderated version of the console output of radiant if run from a console. Generally, the output in your system's console will be more complete and verbose, particularly during compile time.
-# Tools - This area contains the tools and actions that you can use on your map.
+h3. 1. 2D View
+
+This area allows you to view the map straight on from a certain axis. This is useful for aligning things flush with walls or other surfaces and for finer movement/scaling control.
+
+h3. 2. 3D View
+
+This is a basic render of approximately how your map will look. It does not render lighting or anything like that, but it does render the textures as you will see them in game.
+
+h3. 3. Texture View
+
+This section will show you all available texture sets in the left side and the members of that texture set on the right.
+
+h3. 4. Console
+
+This is a moderated version of the console output of radiant if run from a console. It outputs the status of your map's build process and display various information. Generally, the output in your system's console will be more complete and verbose, particularly during compile time.
+
+h3. 5. Tools
+
+This area contains all of the necessary tools and actions that you can use on your map, such as opening and saving existing maps, selecting meshes, rotating objects, flipping objects on an axis, etc.

@@ -4,7 +4,7 @@ h2. Layout of Radiant
 
 This section will introduce the Radiant interface. Radiant has five main sections by default, as numbered in the screenshot below. Let's examine these panels a bit more in depth.
 
-!http://dev.xonotic.org/attachments/download/87/radiant_sections.png!
+" !{width:200px}radiant_sections_thumb.png!":http://dev.xonotic.org/attachments/download/87/radiant_sections.png
 
 
 h3. 1. 2D View

@@ -66,7 +66,7 @@ This is the list of pre-selected tracks that we have so far _(work in progress)_
 |*"To the East":http://www.4shared.com/file/250363291/cd3f1a3/To_the_East.html ("S":http://www.4shared.com/file/250360264/e994b60d/To_the_East.html)*|NEXT POLL|
 |/2.mickrippon|*"Jumping in Space":http://mickrippon.com/xonotic/music_jumpinginspace.zip (S)*|ACCEPTED|
 |"Ribcage 2":http://www.mickrippon.com/temp/ribcage2.ogg|REJECTED|
-|/1.divVerent|*"Foo hundred and eighty":http://rm.endoftheinternet.org/~xonotic/foo180.ogg ("S":http://rm.endoftheinternet.org/~xonotic/foo180.mmpz)*:|NEXT POLL|
+|/1.divVerent|*"Foo hundred and eighty":http://rm.endoftheinternet.org/~xonotic/foo180.ogg ("S":http://rm.endoftheinternet.org/~xonotic/foo180.mmpz)*|NEXT POLL|
 
 h2. Status legend
 

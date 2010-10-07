@@ -63,7 +63,7 @@ h3. Linux/OS X
 Get a checkout (see above), and do:
 
 <pre>
-git config remote.origin.url ssh://xonotic@git.xonotic.org/xonotic.git
+git config remote.origin.pushurl ssh://xonotic@git.xonotic.org/xonotic.git
 ./all update
 </pre>
 

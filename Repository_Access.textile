@@ -63,9 +63,10 @@ h3. Linux/OS X
 Get a checkout (see above), and do:
 
 <pre>
-git config remote.origin.pushurl ssh://xonotic@git.xonotic.org/xonotic.git
-./all update
+./all keygen
 </pre>
+
+and follow the instructions that are shown.
 
 After that, you can write to the repository using the usual git commands (commit, push).
 
@@ -101,6 +102,12 @@ Compiles the game given that you have the required libs installed
 </pre>
 
 Switch to that branch in all repositories where its available
+
+<pre>
+./all commit
+</pre>
+
+This command commits and pushes your local changes.
 
 <pre>
 ./all run xonotic

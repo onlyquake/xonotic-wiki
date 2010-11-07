@@ -39,7 +39,7 @@ This will install the Xonotic root repository in c:\msys\1.0\xonotic
 When the download is done, type
 <pre>
 cd xonotic
-./all update
+./all update -l best
 </pre>
 
 This will download approximately 2 gigabytes of data, and use 4 gigabytes in disk space.

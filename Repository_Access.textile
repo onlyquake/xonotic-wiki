@@ -17,7 +17,7 @@ First, you install git using your favorite package manager. Then, do the followi
 <pre>
 git clone git://git.xonotic.org/xonotic/xonotic.git
 cd xonotic
-./all update
+./all update -l best
 </pre>
 
 The git:// protocol uses port 9418, which may be a problem if you're behind a strict firewall. You may instead use the clone url http://git.xonotic.org/xonotic/xonotic.git however using the git protocol directly is preferred for performance reasons.

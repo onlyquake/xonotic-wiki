@@ -27,6 +27,7 @@ h2. Europe
 * SinSniper
 * thyr4ne
 * atheros
+* Unknown[NF]
 
 h2. Australia
 
@@ -96,6 +97,7 @@ People already in clans
 * ceMantic.kyre
 * ceMantic.Lo
 * ceMantic.vaan
+* ceMantic.unknown
 * blah//dante
 * [affro]ai
 * [affro]FruitieX

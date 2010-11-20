@@ -4,7 +4,6 @@ h1. QuakeC
 
 h2. Article TODO
 
-* fix formatting
 * expand explanations
 
 h2. About QuakeC
@@ -56,14 +55,13 @@ To see what QuakeC looks like, here is an example:
 
 h2. Other resources
 
-Here is a forum on Inside3D where you can read more about QuakeC and ask questions.
+Here is a forum on Inside3D where you can read more about QuakeC and ask questions:
 * QuakeC Forum on Inside3D: http://forums.inside3d.com/viewforum.php?f=2
 * QC Tutorial for Absolute Beginners: http://forums.inside3d.com/viewtopic.php?t=1286
 
 For available functions in QuakeC, look in the following places:
-
 * The Quakery: http://quakery.quakedev.com/qwiki/index.php/List_of_builtin_functions
-* Xonotic source: "builtins.qh":http://svn.icculus.org/Xonotic/trunk/data/qcsrc/server/builtins.qh?view=markup for Quake functions, "extensions.qh":http://svn.icculus.org/Xonotic/trunk/data/qcsrc/server/extensions.qh?view=markup for DarkPlaces extensions.
+* Xonotic source: "builtins.qh":http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=blob_plain;f=qcsrc/server/builtins.qh;hb=HEAD for Quake functions, "extensions.qh":http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=blob_plain;f=qcsrc/server/extensions.qh;hb=HEAD for DarkPlaces extensions
 
 
 h1. Variables
@@ -95,7 +93,7 @@ A variable declared in the global scope has global scope, and is visible startin
 
 A variable declared inside a function has function scope, and is visible starting from its declaration to the end of the function (**not** to the end of the block).
 
-Some variables are declared in "sys.qh":http://svn.icculus.org/Xonotic/trunk/data/qcsrc/server/sys.qh?view=markup. Their declarations or names should never be changed, as they have to match the order and names of the variables in the file file "progdefs.h":http://svn.icculus.org/twilight/trunk/darkplaces/progdefs.h?view=markup of the engine exactly, or the code won't load. The special markers _end_sys_globals_ and _end_sys_fields_ are placed to denote the end of this shared declaration section.
+Some variables are declared in "sys.qh":http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=blob_plain;f=qcsrc/server/sys.qh;hb=HEAD. Their declarations or names should never be changed, as they have to match the order and names of the variables in the file file "progdefs.h":http://svn.icculus.org/twilight/trunk/darkplaces/progdefs.h?view=markup of the engine exactly, or the code won't load. The special markers _end_sys_globals_ and _end_sys_fields_ are placed to denote the end of this shared declaration section.
 
 h1. Types
 
@@ -113,13 +111,13 @@ h2. vector
 
 This type is basically three floats together. By declaring a _vector v_, you also create three floats _v_x_, _v_y_ and _v_z_ (note the underscore) that contain the components of the vector.
 
-Vectors can be used with the usual mathematical operators in the usual way used in mathematics. For example, _vector + vector_ simply returns the sum of the vectors, and _vector * float_ scales the vector by the given factor. Note however that dividing a vector by a float is NOT supported, one has to use //vector * (1 / float)// instead. Multiplying two vectors yields their dot product of type float.
+Vectors can be used with the usual mathematical operators in the usual way used in mathematics. For example, _vector + vector_ simply returns the sum of the vectors, and _vector * float_ scales the vector by the given factor. Note however that dividing a vector by a float is NOT supported, one has to use _vector * (1 / float)_ instead. Multiplying two vectors yields their dot product of type float.
 
 Common functions to be used on vectors are _vlen_ (vector length), _normalize_ (vector divided by its length, i.e. a unit vector).
 
 Vector literals are written like '1 0 0'.
 
-**COMPILER BUG:** always use //vector = vector * float_ instead of _vector *= float//, as the latter creates incorrect code.
+**COMPILER BUG:** always use _vector = vector * float_ instead of _vector *= float_, as the latter creates incorrect code.
 
 h2. string
 
@@ -127,35 +125,35 @@ A _string_ in QuakeC is an immutable reference to a null-terminated character st
 
 _ftos_ and _vtos_ convert _floats_ and _vectors_ to strings. Their inverses are, of course, _stof_ and _stov_, which parse a _string_ into a _float_ or a _vector_.
 
-_strcat_ concatenates 2 to 8 strings together, as in //strcat("a", "b", "c") == "abc"//
+_strcat_ concatenates 2 to 8 strings together, as in _strcat("a", "b", "c") == "abc"_
 
-_strstrofs(haystack, needle, offset)_ searches for an occurence of one string in another, as in //strstrofs("haystack", "ac", 0) == 5_. The offset defines from which starting position to search, and the return value is _-1_ if no match is found. The offset returned is _0_-based, and to search in the whole string, a start offset of _0// would be used.
+_strstrofs(haystack, needle, offset)_ searches for an occurrence of one string in another, as in _strstrofs("haystack", "ac", 0) == 5_. The offset defines from which starting position to search, and the return value is _-1_ if no match is found. The offset returned is _0_-based, and to search in the whole string, a start offset of _0_ would be used.
 
 _substring(string, startpos, length)_ returns part of a string. The offset is _0_-based here, too.
 
 Note that there are different kinds of _strings_, regarding memory management:
 * Temporary strings are strings returned by built-in string handling functions such as _substring_, _strcat_. They last only for the duration of the function call from the engine. That means it is safe to return a temporary string in a function you wrote, but not to store them in global variables or objects as their storage will be overwritten soon.
 * Allocated strings are strings that are explicitly allocated. They are returned by _strzone_ and persist until they are freed (using _strunzone_). Note that _strzone_ does not change the string given as a parameter, but returns the newly allocated string and keeps the passed temporary string the same way! That means:
-** To allocate a string, do for example //myglobal = strzone(strcat("hello ", "world"));//
-** To free the string when it is no longer needed, do: //strunzone(myglobal);//
+** To allocate a string, do for example _myglobal = strzone(strcat("hello ", "world"));_
+** To free the string when it is no longer needed, do: _strunzone(myglobal);_
 * Engine owned strings, such as _netname_. These should be treated just like temporary strings: if you want to keep them in your own variables, _strzone_ them.
-* Constant strings. A string literal like //"foo"_ gets permanent storage assigned by the compiler. There is no need to _strzone// such strings.
-* The null string. A global uninitialized _string_ variable has the special property that is is usually treated like the constant, empty, string //""// (so using it does not constitute an error), but it is the only string that evaluates to FALSE in an if expression (but not in the ! operator - in boolean context, the string "" counts as FALSE too). As this is a useful property, Xonotic code declares such a string variable of the name _string_null_. That means that the following patterns are commonly used for allocating strings:
-** Assigning to a global string variable: //if(myglobal) strunzone(myglobal); myglobal = strzone(...);//
-** Freeing the global string variable: //if(myglobal) strunzone(myglobal); myglobal = string_null;//
-** Checking if a global string value has been set: //if(myglobal) { value has been set; } else { string has not yet been set; }//
+* Constant strings. A string literal like _"foo"_ gets permanent storage assigned by the compiler. There is no need to _strzone_ such strings.
+* The null string. A global uninitialized _string_ variable has the special property that is is usually treated like the constant, empty, string _""_ (so using it does not constitute an error), but it is the only string that evaluates to FALSE in an if expression (but not in the ! operator - in boolean context, the string "" counts as FALSE too). As this is a useful property, Xonotic code declares such a string variable of the name _string_null_. That means that the following patterns are commonly used for allocating strings:
+** Assigning to a global string variable: _if(myglobal) strunzone(myglobal); myglobal = strzone(...);_
+** Freeing the global string variable: _if(myglobal) strunzone(myglobal); myglobal = string_null;_
+** Checking if a global string value has been set: _if(myglobal) { value has been set; } else { string has not yet been set; }_
 
 h2. entity
 
 The main object type in QuakeC is _entity_, a reference to an engine internal object. An _entity_ can be imagined as a huge struct, containing many _fields_. This is the only object type in the language. However, _fields_ can be added to the _entity_ type by the following syntax:
 
-//.float myfield;//
+_.float myfield;_
 
 and then all objects _e_ get a field that can be accessed like in _e.myfield_.
 
 The special entity _world_ also doubles as the _null_ reference. It can not be written to other than in the _spawnfunc_worldspawn_ function that is run when the map is loaded, and is the only entity value that counts as _false_ in an _if_ expression. Thus, functions that return _entities_ tend to return _world_ to indicate failure (e.g. _find_ returns _world_ to indicate no more entity can be found).
 
-If a field has not been set, it gets the usual zero value of the type when the object is created (i.e. _0_ for _float_, _string_null_ for _string_, //'0 0 0'_ for _vector_, and _world_ for _entity//).
+If a field has not been set, it gets the usual zero value of the type when the object is created (i.e. _0_ for _float_, _string_null_ for _string_, _'0 0 0'_ for _vector_, and _world_ for _entity_).
 
 h2. fields
 
@@ -200,6 +198,7 @@ A special kind of functions are built-in functions (defined by the engine). Thes
 <pre>
   string strcat(string a, string b, ...) = #115;
 </pre>
+
 h2. void
 
 Just like in C, the _void_ type is a special placeholder type to declare that a function returns nothing. However, unlike in C, it is possible to declare variables of this type, although the only purpose of this is to declare a variable name without allocating space for it. The only occasion where this is used is the special _end_sys_globals_ and _end_sys_fields_ marker variables.
@@ -261,12 +260,12 @@ and has the notable difference that
   if not("")
     ...
 
-will not execute (as //""_ counts as true in an _if// expression), but
+will not execute (as _""_ counts as true in an _if_ expression), but
 
   if(!"")
     ...
 
-will execute (as both //""_ and _string_null// is false when boolean operators are used on it)..
+will execute (as both _""_ and _string_null_ is false when boolean operators are used on it).
 
 
 h1. Common patterns
@@ -370,11 +369,11 @@ One common way to loop through entities is the find loop. It works by calling a 
 
 repeatedly. This function is defined as follows:
 
-  * if _start_ is _world_, the first entity _e_ with //e.field == match// is returned
-  * otherwise, the entity _e_ **after** _start_ in the entity order with //e.field == match// is returned
+  * if _start_ is _world_, the first entity _e_ with _e.field == match_ is returned
+  * otherwise, the entity _e_ **after** _start_ in the entity order with _e.field == match_ is returned
   * if no such entity exists, _world_ is returned
 
-It can be used to enumerate all entities of a given type, for example //"info_player_deathmatch"//:
+It can be used to enumerate all entities of a given type, for example _"info_player_deathmatch"_:
 
   entity e;
   for(e = world; (e = find(e, classname, "info_player_deathmatch")); )
@@ -464,11 +463,11 @@ _SomeCompexFunction_ is always evaluated, even if _flag_ is true. To avoid this,
 h2. Tracing
 
 
-h1. Pitfalls, compiler bugs
+h1. Pitfalls and compiler bugs
 
 h2. complex operators
 
-Do not count on the modifying and reading operators like //+=_ or _++// to always work. Using them in simple cases like
+Do not count on the modifying and reading operators like _+=_ or _++_ to always work. Using them in simple cases like
 
   a += 42;
   for(i = 0; i < n; ++i)
@@ -485,7 +484,7 @@ are doomed. Instead, split up such expressions into simpler steps:
 
 The compiler warning **RETURN VALUE ALREADY IN USE** is a clear indicator that an expression was too complex for it to deal with it correctly. If you encounter the warning, do make sure you change the code to no longer cause it, as the generated code **will** be incorrect then.
 
-Also, do not use the //+=_ like operators on _vector_s, as they are known to create incorrect code and only operate on the _x// component of the vector.
+Also, do not use the _+=_ like operators on _vector_s, as they are known to create incorrect code and only operate on the _x_ component of the vector.
 
 h2. functions vs arrays
 

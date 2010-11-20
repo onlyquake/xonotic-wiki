@@ -16,7 +16,7 @@ The current structure looks as follows:
 |<code>/</code>|git://git.xonotic.org/xonotic/xonotic.git|
 |<code>/bocc</code>|git://git.xonotic.org/xonotic/bocc.git|
 |<code>/darkplaces</code>|git://git.xonotic.org/xonotic/darkplaces.git|
-|<code>/mediasource</code>|git://git.xonotic/xonotic/mediasource.git|
+|<code>/mediasource</code>|git://git.xonotic.org/xonotic/mediasource.git|
 |<code>/netradiant-xonoticpack</code>|git://git.xonotic.org/xonotic/netradiant-xonoticpack.git|
 |<code>/netradiant</code>|git://git.xonotic.org/xonotic/netradiant.git|
 |<code>/data/xonotic-data.pk3dir</code>|git://git.xonotic.org/xonotic/xonotic-data.pk3dir.git|
@@ -37,7 +37,7 @@ Let's assume your name is <code>me</code>, your branch will be called <code>feat
 There are several ways of creating a branch:
 You can simply create it by doing this from the xonotic directory and selecting where to branch:
 <pre>./all branch me/feature1</pre>
-This will create the branch locally, nothing else. It will not checkout the branch. You can do this now:
+This will create the branch locally and nothing else. It will not checkout the branch. You can do this now with:
 <pre>git checkout me/feature1</pre>
 
 Another possibility would be to checkout your base, and then use <code>git checkout -b me/feature1</code>. This is usually nice if you already are on your base branch because it is a single command.
@@ -91,7 +91,7 @@ h2. Merging and rebasing
 
 In git you have two ways of combining two branches: You can either merge them, which does exactly what its name suggests: it merges the commits together. Or you can rebase the branch.
 
-Rebasing means that all your changes will be put at the end. This works by first collecting and removing all your changes, then replacing your branch with the base branch, then applying all your changes to it. Whenever something failes to apply you'll be asked to fix it, and then issue a <code>git rebase --continue</code>
+Rebasing means that all your changes will be put at the end. This works by first collecting and removing all your changes, then replacing your branch with the base branch, then applying all your changes to it. Whenever something fails to apply you'll be asked to fix it, and then issue a <code>git rebase --continue</code>
 
 * Merging master into me/feature1: <pre>git checkout me/feature1
 git merge master</pre>

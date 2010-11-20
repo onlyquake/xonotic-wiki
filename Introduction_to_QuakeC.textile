@@ -125,9 +125,9 @@ A _string_ in QuakeC is an immutable reference to a null-terminated character st
 
 _ftos_ and _vtos_ convert _floats_ and _vectors_ to strings. Their inverses are, of course, _stof_ and _stov_, which parse a _string_ into a _float_ or a _vector_.
 
-_strcat_ concatenates 2 to 8 strings together, as in _strcat("a", "b", "c") == "abc"_
+_strcat_ concatenates 2 to 8 strings together, as in _strcat("a", "b", "c")=="abc"_
 
-_strstrofs(haystack, needle, offset)_ searches for an occurrence of one string in another, as in _strstrofs("haystack", "ac", 0) == 5_. The offset defines from which starting position to search, and the return value is _-1_ if no match is found. The offset returned is _0_-based, and to search in the whole string, a start offset of _0_ would be used.
+_strstrofs(haystack, needle, offset)_ searches for an occurrence of one string in another, as in _strstrofs("haystack", "ac", 0)==5_. The offset defines from which starting position to search, and the return value is _-1_ if no match is found. The offset returned is _0_-based, and to search in the whole string, a start offset of _0_ would be used.
 
 _substring(string, startpos, length)_ returns part of a string. The offset is _0_-based here, too.
 
@@ -369,8 +369,8 @@ One common way to loop through entities is the find loop. It works by calling a 
 
 repeatedly. This function is defined as follows:
 
-  * if _start_ is _world_, the first entity _e_ with _e.field == match_ is returned
-  * otherwise, the entity _e_ **after** _start_ in the entity order with _e.field == match_ is returned
+  * if _start_ is _world_, the first entity _e_ with _e.field==match_ is returned
+  * otherwise, the entity _e_ **after** _start_ in the entity order with _e.field==match_ is returned
   * if no such entity exists, _world_ is returned
 
 It can be used to enumerate all entities of a given type, for example _"info_player_deathmatch"_:

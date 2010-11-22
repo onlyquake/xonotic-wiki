@@ -6,7 +6,9 @@ The following images and sounds have Nexuiz branding and 'n' logos or are associ
 
 Some of these items may be deleted. If they are (and not replaced), and are map-time data (like shader or textures) they need to go into the Nexuiz compatibility package.
 
-h2. Xonotic compatibility pack 0.7 "here":http://ompldr.org/iNDEwaA-show
+h2. Xonotic compatibility pack 0.7
+
+"here":http://ompldr.org/iNDEwaA-show
 
 h3. Images, Models and Shaders
 

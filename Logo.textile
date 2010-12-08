@@ -2,7 +2,10 @@ h1. Official Logo
 
 "Logo Zip":http://dev.xonotic.org/attachments/121/xonotic_logo.zip
 
+"Logo in Media Source":http://git.xonotic.org/?p=xonotic/mediasource.git;a=tree;f=gfx/logo;hb=HEAD
+
 h2. Original Concepts
+
 * -z- [[Concept Art]]
 * "Dokujisan":http://www.nullgaming.com/stuff/x/
 ** "Source for current official logo":http://www.nullgaming.com/stuff/x/source

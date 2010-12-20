@@ -38,6 +38,10 @@ h2. Art & Media
 ** [[Close to home]]
 ** [[Tech Conglomerate]]
 
+h2. Additional Engine References
+
+* [[Darkplaces Parameters]]
+
 h2. Editing
 
 In this section you will find helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping, etc

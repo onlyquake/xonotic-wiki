@@ -1,10 +1,14 @@
 h1. Domination
 
+h2. Object of the Game
+
 In domination, the goal is to capture and hold all control points on the map. Domination is similar to Onslaught but capturing a control point is easier in Domination, and in Domination points are given for holding a control point, and there is no generator. Rarely are maps made exclusively for Domination, generally an existing CTF or TDM map receives Domination features.
+
+h2. Map Entities
 
 A domination map must have at the very least 4 entities.
 
-h2. dom_team
+h3. dom_team
 
 dom_team entites declare the teams available in the game and what models are shown when they take a control point. To create it, right click and go to "domination>dom_team". There must be at least 3 per map: Two teams and one empty team (for when the control point is not taken).
 
@@ -41,7 +45,7 @@ dom_team entites declare the teams available in the game and what models are sho
 
 These are the three dom_team entites you must have on your map. It does not matter where they are placed. The first two examples here declare two dom teams: blue and red. The third declares the "empty team". It is best to copy these verbatim into your map, as their structure does not change (of course, the coordinates do change depending on where you placed them).
 
-h2. dom_controlpoint
+h3. dom_controlpoint
 
 These are the actual control points that players will capture. They do not have any required fields, but it is often useful to name them. Here is an example of a declaration of a dom_controlpoint entity in the .map file.
 
@@ -52,3 +56,13 @@ These are the actual control points that players will capture. They do not have 
 </pre>
 
 The key here is the "message" field, which allows you to set the message shown when a controlpoint is captured. Generally, the format of this is " has captured CONTROLPOINTNAME". You can also use color codes in these messages, as shown in the above example.
+
+h2. Helpful Hints and Tips
+
+* <Insert Hints Here>
+
+h2. List of Demos and Videos
+
+* Demo: <Insert Demo or Video Here>
+* Players: <Insert Player Names Here>
+* Key Points: <Insert key points in match here>

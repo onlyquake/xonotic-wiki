@@ -53,3 +53,13 @@ h2. Rocket Launcher
 * Impulse: 9
 * Ammo: Rockets
 * Function: 
+
+h2. Rifle
+
+h2. Minelayer
+
+h2. Heavy Laser Assault Cannon (HLAC)
+
+h2. T.A.G. Seeker
+
+h2. Fireball

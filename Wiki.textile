@@ -25,6 +25,7 @@ h2. Gameplay
 
 * [[Weapons]]
 * [[Players]]
+* [[Relics]]
 
 h2. Art & Media 
 

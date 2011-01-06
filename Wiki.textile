@@ -23,17 +23,30 @@ h2. Project
 
 h2. Gameplay
 
-h3. Game Mechanics
+* Game Mechanics
+** [[Weapons]]
+** [[Players]]
+** [[Items]]
 
-* [[Weapons]]
-* [[Players]]
-* [[Items]]
+* Gamemodes
+** [[Deathmatch]]
+** [[Last Man Standing]]
+** [[Arena]]
+** [[Keepaway]]
+** [[Race]]
+** [[Race CTS]]
+** [[Team Deathmatch]]
+** [[Capture the Flag]]
+** [[Clan Arena]]
+** [[Freeze Tag]]
+** [[Domination]]
+** [[Key Hunt]]
+** [[Assault]]
+** [[Onslaught]]
+** [[Nexball]]
 
-h3. Gamemodes
-
-h3. Mutators
-
-* [[Relics]]
+* Mutators
+** [[Relics]]
 
 h2. Art & Media 
 

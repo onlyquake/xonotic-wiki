@@ -27,6 +27,7 @@ h3. Game Mechanics
 
 * [[Weapons]]
 * [[Players]]
+* [[Items]]
 
 h3. Gamemodes
 

@@ -1,0 +1,45 @@
+h1. Relics mutator:
+
+The Relics mutator spawns several relics around the map, as items that players can pick up and hold. Each player can carry one relic at a time, and drops it when they die or press the "drop relic" button. If not picked up after some time, a relic will respawn in another location. Each relic grants a special ability to the player carrying it. Currently, there are 14 relics in Xonotic.
+
+_NOTE: This mutator is not committed to master yet. To test it, see the branch mirceakitsune/mutator_relics in GIT._
+
+_TODO: Test the mutator intensively and fix any possible remaining issues._
+_TODO 2: Add sounds and particle effects when a relic causes an action._
+_TODO 3: Remove Runematch, as this mutator will replace it._
+
+h1. Relic types:
+
+*1 - Resistance:* The Resistance relic protects the player carrying it, by making him take less damage.
+
+*2 - Regeneration:* This relic slowly regenerates the health of the player carrying it. It is not available when normal health regeneration is enabled, and therefore will not spawn by default.
+
+*3 - Vampire:* The carrier of this relic is healed based on the damage he does to his opponent. This relic will not spawn when the vampire mutator is enabled.
+
+*4 - Ammo:* Slowly grants ammo of all types to the carrier of this relic.
+
+*5 - Damage:* The weapons of those who carry this relic do more damage.
+
+*6 - Splash Damage:* When the holder of this relic shoots someone, the damage is transmitted to those around the victim, harming them as well.
+_TODO: Make this relic not affect team mates._
+_TODO 2: Add effects to the players hurt by this relic, such as particles and sounds._
+
+*7 - Firing Speed:* The carrier's weapons fire faster.
+
+*8 - Disability:* A player shot by the owner of this relic is cursed for several seconds. Curses include: Slower movement, lower jump height, slower firing rate.
+_TODO 2: Add effects to the players cursed by this relic, such as particles and sounds_
+
+*9 - Speed:* Owners of this relic can run faster.
+
+*10 - Jumps:* Helps the player jump higher.
+
+*11 - Invisibility:* The player becomes transparent, making him harder to see and hit.
+
+*12 - Radioactive:* Those who get close to the holder of this relic will take damage.
+_TODO: Make this relic not affect team mates._
+_TODO 2: Add effects to the players hurt by this relic, such as particles and sounds_
+
+*13 - Resurrection:* If you die while holding this relic, you will be revived and your health reset to default spawn value. The relic then respawns in a different location. This does not work for suicides.
+
+*14 - Vengeance:* When the carrier of this relic dies, he causes a big explosion, harming anyone who was close. This does not work for suicides.
+_TODO: Fix explosion particles, which are not showing._

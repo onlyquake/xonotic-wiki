@@ -1,0 +1,55 @@
+h1. Weapons
+
+h2. Laser
+
+* Impulse: 1
+* Ammo: N\A
+* Function: Movement tool
+
+h2. Shotgun
+
+* Impulse: 2
+* Ammo: Shells
+* Function: 
+
+h2. Machine Gun
+
+* Impulse: 3
+* Ammo: Bullets
+* Function: 
+
+h2. Mortar
+
+* Impulse: 4
+* Ammo: Rockets
+* Function: 
+
+h2. Electro
+
+* Impulse: 5
+* Ammo: Cells
+* Function: 
+
+h2. Crylink
+
+* Impulse: 6
+* Ammo: Cells
+* Function:
+
+h2. Nex
+
+* Impulse: 7
+* Ammo: Cell
+* Function:
+
+h2. Hagar
+
+* Impulse: 8
+* Ammo: Rockets
+* Function: 
+
+h2. Rocket Launcher
+
+* Impulse: 9
+* Ammo: Rockets
+* Function: 

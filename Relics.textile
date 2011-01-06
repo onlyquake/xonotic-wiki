@@ -8,6 +8,7 @@ _TODO: Test the mutator intensively and fix any possible remaining issues._
 _TODO 2: Add sounds and particle effects when a relic causes an action._
 _TODO 3: Remove Runematch, as this mutator will replace it._
 _TODO 4: Teach bots to go for relics, as low priority items._
+_TODO 5: Show the relic you are carrying on the HUD._
 
 h1. Relic types:
 

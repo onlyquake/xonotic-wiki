@@ -14,34 +14,34 @@ h1. Relic types:
 
 *1 - Resistance:* The Resistance relic protects the player carrying it, by making him take less damage.
 
-*2 - Regeneration:* This relic slowly regenerates the health of the player carrying it. It is not available when normal health regeneration is enabled, and therefore will not spawn by default.
+*2 - Regeneration:* This relic slowly regenerates the carrier's health. It's not available when normal health regeneration is enabled, and therefore will not spawn by default.
 
-*3 - Vampire:* The carrier of this relic is healed based on the damage he does to his opponent. This relic will not spawn when the vampire mutator is enabled.
+*3 - Vampire:* The carrier of this relic is healed based on the damage he deals to his opponent. This relic will not spawn when the vampire mutator is enabled.
 
-*4 - Ammo:* Slowly grants ammo of all types to the carrier of this relic.
+*4 - Ammo:* Slowly grants ammo of all types to the owner.
 
-*5 - Damage:* The weapons of those who carry this relic do more damage.
+*5 - Damage:* The weapons of those who have this relic do more damage.
 
-*6 - Splash Damage:* When the holder of this relic shoots someone, the damage is transmitted to those around the victim, harming them as well.
+*6 - Splash Damage:* When the holder shoots someone, the damage is transmitted to those around the victim, harming them as well.
 _TODO: Make this relic not affect team mates._
 _TODO 2: Add effects to the players hurt by this relic, such as particles and sounds._
 
-*7 - Firing Speed:* The carrier's weapons fire faster.
+*7 - Firing Speed:* The player's weapons fire faster.
 
 *8 - Disability:* A player shot by the owner of this relic is cursed for several seconds. Curses include: Slower movement, lower jump height, slower firing rate.
 _TODO 2: Add effects to the players cursed by this relic, such as particles and sounds_
 
 *9 - Speed:* Owners of this relic can run faster.
 
-*10 - Jumps:* Helps the player jump higher.
+*10 - Jump:* Helps the player jump higher.
 
-*11 - Invisibility:* The player becomes transparent, making him harder to see and hit.
+*11 - Invisibility:* The player becomes transparent, making him harder to see and hit. This relic will not spawn when the cloaked mutator is enabled.
 
-*12 - Radioactive:* Those who get close to the holder of this relic will take damage.
+*12 - Radioactive:* Those who get too close to the holder of this relic will take damage.
 _TODO: Make this relic not affect team mates._
 _TODO 2: Add effects to the players hurt by this relic, such as particles and sounds_
 
-*13 - Resurrection:* If you die while holding this relic, you will be revived and your health reset to default spawn value. The relic then respawns in a different location. This does not work for suicides.
+*13 - Resurrection:* If you die while holding this relic, you will be revived with your health to default spawn value. The relic then respawns in a different location. This does not work for suicides.
 
-*14 - Vengeance:* When the carrier of this relic dies, he causes a big explosion, harming anyone who was close. This does not work for suicides.
-_TODO: Fix explosion particles, which are not showing._
+*14 - Vengeance:* When the carrier dies, he causes a big explosion that harms anyone who was close. The relic then respawns in a different location. This does not work for suicides.
+_TODO: Fix explosion particles, which are not showing for some reason._

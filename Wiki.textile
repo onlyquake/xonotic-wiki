@@ -21,6 +21,11 @@ h2. Project
 * [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
 * Notes from brainstorming [[names|ideas for names]]
 
+h2. Gameplay
+
+* [[Weapons]]
+* [[Players]]
+
 h2. Art & Media 
 
 * [[Art Roadmap]]

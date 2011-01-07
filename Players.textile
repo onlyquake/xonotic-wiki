@@ -1,5 +1,7 @@
 h1. Players
 
+{{>toc}}
+
 h2. Erebus
 
 !http://www.xonotic.org/m/uploads/2010/05/1212771690994-500x312.png! !http://www.xonotic.org/m/uploads/2010/05/412771687019-500x312.png!

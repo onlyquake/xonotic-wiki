@@ -22,8 +22,7 @@ h2. Ignis Half-Masked
 
 h2. Ignis Masked
 
-!http://www.xonotic.org/m/uploads/2010/05/812771701021-500x312.png!
-!http://www.xonotic.org/m/uploads/2010/05/di-16127716133414-500x312.png!
+!http://www.xonotic.org/m/uploads/2010/05/812771701021-500x312.png! !http://www.xonotic.org/m/uploads/2010/05/di-16127716133414-500x312.png!
 <Insert creative description here>
 
 h2. Seraphina

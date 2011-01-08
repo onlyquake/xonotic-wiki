@@ -2,7 +2,7 @@ h1. Arena
 
 h2. Object of the Game
 
-<Insert object of the game here>
+In Arena there are always 2 players playing (like little 1vs1 duels) and try to frag the other one. Other players have to spectate in meanwhile. If one player dies he has to spectate and the player which survived is allowed to stay. Now some of the other spectators joins and tries to frag the other player.
 
 h2. Map Entities
 

@@ -2,7 +2,7 @@ h1. Team Deathmatch (TDM)
 
 h2. Object of the Game
 
-The rules are similar to DM just that the players will play in 2 teams (red & blue). 1 team wins if it gets 50 points.
+The rules are similar to [[Deathmatch|DM]] just that the players will play in 2 teams (red & blue). 1 team wins if it gets 50 points.
 
 h2. Map Entities
 
@@ -10,8 +10,8 @@ h2. Map Entities
 
 h2. Helpful Hints and Tips
 
--	Some maps can contain powerups like “Strength” or “Shield” (which usually spawn every 2 minutes). They can be useful tools to win a match!
--	Team binds like “Enemy seen” are useful here.
+-	Some maps can contain powerups like “[[Strength]]” or “[[Shield]]” (which usually spawn every 2 minutes). They can be useful tools to win a match!
+-	Team [[binds]] like “Enemy seen” are useful here.
 
 h2. List of Demos and Videos
 

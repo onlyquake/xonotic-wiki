@@ -1,5 +1,7 @@
 h1. Weapons
 
+{{>toc}}
+
 h2. Laser
 
 * Impulse: 1

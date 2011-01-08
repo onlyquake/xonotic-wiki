@@ -1,5 +1,7 @@
 h1. Items
 
+{{>toc}}
+
 h2. Health
 
 h3. Mega

@@ -28,7 +28,7 @@ _TODO: Make this relic not affect team mates._
 *7 - Firing Speed:* The player's weapons fire faster.
 
 *8 - Disability:* A player shot by the owner of this relic is cursed for several seconds. Curses include: Slower movement, lower jump height, slower firing rate.
--_TODO: Add effects to the players cursed by this relic, such as particles and sounds_- DONE
+-_TODO: Add effects to the players cursed by this relic, such as particles and sounds._- DONE
 
 *9 - Team Boost:* Players carrying this relic boost team mates that get close to them. The boost also lasts for a few seconds after they leave the carrier's radius. This relic will only spawn in team games.
 -_TODO: Add effects to the players boosted by this relic, such as particles and sounds._- DONE

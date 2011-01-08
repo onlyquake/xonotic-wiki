@@ -2,7 +2,12 @@ h1. Nexball
 
 h2. Object of the Game
 
-<Insert object of the game here>
+Nexball is like Soccer/Football, where 2 teams (red & blue) play against and try to score goals. You can’t shoot (/frag) other players here.
+
+How To:
+
+-	Push the ball? Just move at it and the ball will jump in that direction.
+-	Score a goal? Push the ball into the goal of the other team.
 
 h2. Map Entities
 
@@ -10,7 +15,7 @@ h2. Map Entities
 
 h2. Helpful Hints and Tips
 
-* <Insert Hints Here>
+-	You can score own goals too!
 
 h2. List of Demos and Videos
 

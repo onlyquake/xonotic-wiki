@@ -1,4 +1,4 @@
-h1. Domination
+h1. Domination (DOM)
 
 h2. Object of the Game
 

@@ -7,21 +7,44 @@ h2. On Quakenet
 #xonotic - General purpose channel
 #xonotic.admins - Channel for server admins
 #xonotic.editing - Channel for mapmakers, modelers, texturers, etc.
+#xonotic.ladder - Ladder channel
 #xonotic.pickup - Pickup channel
+#xonotic.tourney - Tourney channel
 
 h3. Country specific channels
 
 #xonotic.au - Xonotic Australia
 #xonotic.de - Xonotic Germany
 #xonotic.fr - Xonotic France
+#xonotic.it - Xonotic Italy
+#xonotic.ro - Xonotic Romania
+#xonotic.se - Xonotic Sweden
 
 h3. Clan channels
 
+#axg - Apocalyptic xtreme Gamerz
+#bot.xonotic - BOT
+#capbots - CapBots
+#conquerors - Conquerors
+#dbc - DodgingBulletsClan 
+#deathmatchers - Deathmatchers
+#dietunichtguten - Die Tunichtguten
+#doomsquirrels - Doomsquirrels
+#laidback - Laidback
+#lofc - Legion of Caps
+#menintux - Men in Tux
+#mon.xonotic - Monks of Nexuiz
+#nsb.nexuiz - NSB - The Dyslexic Loser Mob
 #pb.xonotic - Peace Brothers
+#sh.nexuiz - Shell
+#unconnected.xonotic - Unconnected
+#xonotic.talionis - Talionis
 
 h3. Server channels
 
 #simba - Simba CTF
+#xonotic.hoctf - House of CTF
+#xpm - [NL] Balance test + Race server
 
 h2. On FreeNode
 

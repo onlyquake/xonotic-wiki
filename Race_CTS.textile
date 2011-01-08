@@ -1,8 +1,8 @@
-h1. Race CTS
+h1. Race CTS (= Complete The Stage)
 
 h2. Object of the Game
 
-<Insert object of the game here>
+This is an advanced mode of “Race”. Difference here is that you - instead of running laps - have to reach the finish. The player who sets the fastest time wins after the time is over.
 
 h2. Map Entities
 
@@ -10,7 +10,8 @@ h2. Map Entities
 
 h2. Helpful Hints and Tips
 
-* <Insert Hints Here>
+-	The physics are different in Race CTS if a server runs the mod 'Xonotic Pro Mode'.
+-	You can’t push (/frag) other players like in Race.
 
 h2. List of Demos and Videos
 

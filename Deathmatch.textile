@@ -10,7 +10,7 @@ h2. Map Entities
 
 h2. Helpful Hints and Tips
 
--	Some maps can contain powerups like “Strength” or “Shield” (which usually spawn every 2 minutes). They can be useful tools to win a match!
+-	Some maps can contain powerups like “[[Strength]]” or “[[Shield]]” (which usually spawn every 2 minutes). They can be useful tools to win a match!
 
 h2. List of Demos and Videos
 

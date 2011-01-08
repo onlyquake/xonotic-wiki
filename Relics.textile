@@ -37,13 +37,15 @@ _TODO 2: Add effects to the players cursed by this relic, such as particles and 
 
 *11 - Jump:* Helps the player jump higher.
 
-*12 - Invisibility:* The player becomes transparent, making him harder to see and hit. This relic will not spawn when the cloaked mutator is enabled.
+*12 - Flight:* Players fly around when they pick up this relic (just like observers)
 
-*13 - Radioactive:* Those who get too close to the holder of this relic will take damage.
+*13 - Invisibility:* The player becomes transparent, making him harder to see and hit. This relic will not spawn when the cloaked mutator is enabled.
+
+*14 - Radioactive:* Those who get too close to the holder of this relic will take damage.
 _TODO: Make this relic not affect team mates._
 _TODO 2: Add effects to the players hurt by this relic, such as particles and sounds_
 
-*14 - Resurrection:* If you die while holding this relic, you will be revived with your health to default spawn value. The relic then respawns in a different location. This does not work for suicides.
+*15 - Resurrection:* If you die while holding this relic, you will be revived with your health to default spawn value. The relic then respawns in a different location. This does not work for suicides.
 
-*15 - Vengeance:* When the carrier dies, he causes a big explosion that harms anyone who was close. The relic then respawns in a different location. This does not work for suicides.
+*16 - Vengeance:* When the carrier dies, he causes a big explosion that harms anyone who was close. The relic then respawns in a different location. This does not work for suicides.
 _TODO: Fix explosion particles, which are not showing for some reason._

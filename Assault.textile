@@ -2,7 +2,7 @@ h1. Assault (AS)
 
 h2. Object of the Game
 
-In Assault there are 2 teams (red & blue). The goal in Assault is to destroy objects (if you destroy some it will open new doors/ways to new objects until a main object (the last one)). 1 team has to defend the objects and the other team has to destroy them! The defending team wins when the time is over and the main object is still “alive”. The attacking team wins if they destroy the main object. After the attacking team accomplishes that (or the time is over) both teams are switching their roles (defending team attacks now/attacking team defends). A team wins the map if it’s able to ‘win’ the attacking and defending part. Obviously a map can be tied too if a) both teams defend well or b) both teams destroyed all objects.
+In Assault there are 2 teams (red & blue). The goal in Assault is to destroy objects (if you destroy some it will open new doors/ways to new objects until a main object (the last one)). 1 team has to defend the objects and the other team has to destroy them! The defending team wins when the time is over and the main object is still “alive”. The attacking team wins if they destroy the main object. After the attacking team accomplishes that (or the time is over) both teams are switching their roles (defending team attacks now/attacking team defends). The team that attacks now has got the same amount of time to destroy everything, that the first attacking team needed to destroy all objects. A team wins the map if it’s able to ‘win’ the attacking and defending part. Obviously a map can be tied too if a) both teams defend well or b) both teams destroyed all objects.
 
 How To:
 

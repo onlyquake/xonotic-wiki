@@ -46,7 +46,21 @@ h2. Gameplay
 ** [[Nexball]]
 
 * Mutators
+** [[Dodging]]
+** [[Midair]]
+** [[Vampire]]
+** [[Blood Loss]]
+** [[Low Gravity]]
+** [[Cloak]]
 ** [[Relics]]
+** [[Weapon Arena]]
+** [[Grappling Hook]]
+** [[Jet Pack]]
+** [[Rocket Flying]]
+** [[Pinata]]
+** [[Weapons Stay]]
+** [[MinstaGib]]
+** [[NIX]]
 
 h2. Art & Media 
 

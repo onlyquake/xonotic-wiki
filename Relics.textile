@@ -43,7 +43,6 @@ _TODO: Make this relic not affect team mates._
 
 *14 - Radioactive:* Those who get too close to the holder of this relic will take damage.
 _TODO: Make this relic not affect team mates._
-_TODO 2: Add effects to the players hurt by this relic, such as particles and sounds_
 
 *15 - Resurrection:* If you die while holding this relic, you will be revived with your health to default spawn value. The relic then respawns in a different location. This does not work for suicides.
 

@@ -2,7 +2,7 @@ h1. Race
 
 h2. Object of the Game
 
-<Insert object of the game here>
+In Race you have to run a special path in a map (you always have to reach the next Checkpoint) for an amount of laps. You can push other players away or even frag them! The first one who completes the laps wins.
 
 h2. Map Entities
 

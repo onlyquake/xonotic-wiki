@@ -32,9 +32,9 @@ h2. Electro
 * Ammo: Cells
 * Function: 
 
-h2. Crylink/236
+h2. Crylink
 
-* Impulse: 6
+* Impulse: 6/236
 * Ammo: Cells
 * Function:
 
@@ -50,9 +50,9 @@ h2. Hagar
 * Ammo: Rockets
 * Function: 
 
-h2. Rocket Launcher/239
+h2. Rocket Launcher
 
-* Impulse: 9
+* Impulse: 9/239
 * Ammo: Rockets
 * Function: 
 

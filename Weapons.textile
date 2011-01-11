@@ -4,35 +4,35 @@ h1. Weapons
 
 h2. Laser
 
-* Impulse: 1
+* Impulse: 1/230
 * Ammo: N\A
 * Function: Movement tool
 
 h2. Shotgun
 
-* Impulse: 2
+* Impulse: 2/231
 * Ammo: Shells
 * Function: 
 
 h2. Machine Gun
 
-* Impulse: 3
+* Impulse: 3/232
 * Ammo: Bullets
 * Function: 
 
 h2. Mortar
 
-* Impulse: 4
+* Impulse: 4/233
 * Ammo: Rockets
 * Function: 
 
 h2. Electro
 
-* Impulse: 5
+* Impulse: 5/235
 * Ammo: Cells
 * Function: 
 
-h2. Crylink
+h2. Crylink/236
 
 * Impulse: 6
 * Ammo: Cells
@@ -40,28 +40,72 @@ h2. Crylink
 
 h2. Nex
 
-* Impulse: 7
-* Ammo: Cell
+* Impulse: 7/237
+* Ammo: Cells
 * Function:
 
 h2. Hagar
 
-* Impulse: 8
+* Impulse: 8/238
 * Ammo: Rockets
 * Function: 
 
-h2. Rocket Launcher
+h2. Rocket Launcher/239
 
 * Impulse: 9
 * Ammo: Rockets
 * Function: 
 
-h2. Rifle
+h2. Mine Layer
 
-h2. Minelayer
+* Impulse: 4/234
+* Ammo: Rockets
+* Function: 
 
 h2. Heavy Laser Assault Cannon (HLAC)
 
-h2. T.A.G. Seeker
+* Impulse: 6/243
+* Ammo: Cells
+* Function: 
+
+h2. MinstaNex
+
+* Impulse: 7/241
+* Ammo: Cells
+* Function:
+
+h2. Sniper Rifle
+
+* Impulse: 7/245
+* Ammo: Bullets
+* Function: 
 
 h2. Fireball
+
+* Impulse: 9/246
+* Ammo: Rockets
+* Function: 
+
+h2. T.A.G. Seeker
+
+* Impulse: 9/247
+* Ammo: Rockets
+* Function: 
+
+h2. Port-O-Launch
+
+* Impulse: 14/240
+* Ammo: 
+* Function: 
+
+h2. Grappling Hook
+
+* Impulse: 14/242
+* Ammo: Cells
+* Function:
+
+h2. @#!%'n Tuba 
+
+* Impulse: 244
+* Ammo: 
+* Function: 

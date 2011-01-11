@@ -36,7 +36,7 @@ By including any of the files above, you could cause undesired results.  Try and
 
 h2. Testing Maps
 
-You can compile your map locally or on the build server.  The build server (requires [[Respository_Access]]) requires a <mapname>.mapoptions file. For more info check ask in #xonotic.editing on irc.quakenet.org
+You can compile your map locally or on the build server.  The build server (requires [[Respository Access]]) requires a <mapname>.mapoptions file. For more info check ask in #xonotic.editing on irc.quakenet.org
 
 h2. Maps on Servers
 

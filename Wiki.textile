@@ -118,6 +118,7 @@ In this section you will find helpful information about editing Xonotic in gener
 ** [[Git]]
 
 * [[Mapping]]
+** [[Creating Maps]]
 ** [[Mapper resources]]
 ** "Map naming convention":http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330
 

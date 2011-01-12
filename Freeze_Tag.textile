@@ -1,8 +1,12 @@
 h1. Freeze Tag
 
+!>http://pics.nexuizninjaz.com/images/gdx5hm4yy93dab41bu.jpg!
+
+
 h2. Object of the Game
 
-Freeze Tag is basically like [[Team_Deathmatch|TDM]], with 2 teams (red & blue). But instead of fragging your enemies – you freeze them into an ice cube. Once a team is 100% frozen the other team gets 1 point (10 to win). But (!): Frozen players can be unfrozen (“revived”).
+Freeze Tag is basically like [[Team_Deathmatch|TDM]], with 2 teams (red & blue). But instead of fragging your enemies – you freeze them into an ice cube. Once a team is 100% frozen the other team gets 1 point (10 to win).
+But (!): Frozen players can be unfrozen (“revived”).
 
 How To:
 

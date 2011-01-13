@@ -1,5 +1,7 @@
 h1. Key Hunt (KH)
 
+!http://pics.nexuizninjaz.com/images/6498jb823699s0xkz726.jpg! !http://pics.nexuizninjaz.com/images/wwkcbz3r5gtyuhwi.jpg!
+
 h2. Object of the Game
 
 In KH there are 3 teams (red; blue & yellow) and always one player of a team holds a key (Red key; blue key & yellow key). The goal is to collect the keys of the other teams and gather up to score. Get 1000 points to win a map (100 points for each capture).

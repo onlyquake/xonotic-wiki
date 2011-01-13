@@ -16,8 +16,7 @@ _directions to compile on windows (TODO?)_
 
 h3. Builds
 
-_need links to builds_
-
+http://www.icculus.org/netradiant/files/
 
 h2. Map Packages
 

@@ -9,6 +9,8 @@ In CTF there are 2 teams (red & blue), while each team got a base with their fla
 
 How To:
 
+!>http://pics.nexuizninjaz.com/images/tn6dbyyeq2hjoq1rwwu7.jpg!
+
 -	Get the flag? Just walk over it.
 -	Return our flag? Kill the enemy and walk over the flag.
 -	Capture the flag? Hold the enemy’s flag and walk over your own in your base.

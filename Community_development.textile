@@ -70,90 +70,44 @@ h2. North American
 h3. Clan members
 
 * f10: DarthSparty, Aport, Face, Calx, Blackmushroom, Kamar, Nixter, Phryg
-* MiT: PCLizard, Ares, Ghost, MadSkillz, Panzer, Om3ddr4g0n
-* Talionis (//T): Agama, AnnKittyKat, Scorpion, Surb, Claysm, Jean-Luc, Ulysses
 * Lunetist [+]: MaKR, Erusavion, Quadratic, Liquid-Sin
-* optimal [o]: Dokujisan
 * Machine Vision [mv]: klon, /dev/null, Peanut, lex
+* Men in Tux [MiT]: PCLizard, Ares, Ghost, MadSkillz, Panzer, Om3ddr4g0n
+* optimal [o]: Dokujisan
+* Talionis (//T): Agama, AnnKittyKat, Scorpion, Surb, Claysm, Jean-Luc, Ulysses
 
 h2. Europe
 
 h3. Clan members
 
-People already in clans
-* [sh]accident
-* [sh]akoppet
-* [sh]atheros
-* [sh]naryl
-* [sh]L29Ah
-* [sh]lda17h
-* [sh]waterlaz
-* [LDB]BOnZa
-* [LDB]C.Brutal {X} {b}
-* [saxnbower] DIESCHOR
-* [unconnected]{GM}BizzyBeaver.de
-* [unconnected]Critic
-* ceMentic.kojn
-* ceMantic.kyre
-* ceMantic.Lo
-* ceMantic.vaan
-* ceMantic.unknown[NF]
-* blah//dante
-* [affro]ai
-* [affro]FruitieX
-* [affro]Morfar
-* [BOT]Mirio
-* [4ux.info]Terrorism
+* Apocalyptic xtreme Gamerz [AxG]:
+* blah//:
+* [BOT]: Grunt, kuniuthefrogg, Lord Th90, Mirio, Misio, Rage Against The Washing Machine, weed
+* CapBots: ItsMe
+* Conquerors [CON]: cortez, Diomedes, killgenerals, Parp, Sless
+* Die Tunichtguten: Mattias, Nesquick
+* DodgingBulletsClan [DBC]:
+* Deathmatchers DMs||: FruitieX, kojn, kyre, Morfar, Unknown[NF]
+* Laidback [LDB]: BOnZa, C.Brutail, esteel
+* Legion of Caps [LoC]:
+* Monks of Nexuiz [MoN]: chooksta, CriboZai, Dhraakellian, Hhondar, mand1nga, Morphed, narvik86, Ronan, Secret Squirrel, SoulKeeper_p, tZork
+* PeaceBrothers: divVerent, FruitieX, MrBougo, ohaii, Rad Ished
+* shell [sh]: atheros, L29Ah, lda17h, naryl, shogun assassin, waterlaz
+* The Badass Choobs: Akari
+* unconnected: BizzyBeaver, CRRAZZY RULEZZ, Debugger, jhonny
 
-h3. Prospects
- 
-Public players who play regularly and are intermediate level or higher
-* s0rk
-* thyr4ne
-* macrobat
-* Halogene
-* your errors
-* r3ddi
-* no pasaran europe
-* GTA
-* Deity
-* Diske
-* SURO
-* IqpI
-* Omom
-* r3drum
-* Parp
-* Acciless
-* Stillz
-* Maidenbeast
-* kiwi
-* BeteNoire
-* Grunt
-* Red Dragon
-
-
-h3. Other, less known clans to contact
-
-Clans I know nothing about other than they sometimes appear in game :)
-* [NFC] Shadowstrike, Darth Orion aka Kolum 
-* [SaTaN]
-* [DSC] Sisay, smithy(=), It's Me ....
-* [pNp] Svetlana
-* [PK]
-* [DTG] Hypnosekroete, Mattias
-* [LoC]
 
 h2. Australia/New Zealand
 
-h3. Clanned Members
+h3. Clan Members
 
-* zero - harry_ftw, Charmander, ICE MAN, MDWGUNS, PAGEY, viscous
-* pride - rabs, Hew, Trev, deathdoG, Wolskie, 2stan
-* lzr - killquick, aurix, bones_was_here, wayno
-* ! - cuinnton, Viktor, ensignricky, B3RZ3RK, Chez
-* BH - CARNAG3, BOGAN, DUST'N'BONES, kaepora_gaebora, [clan]clan, alfredthetomato
-* Old Farts - CHOOKSTA, Turkey Shoot, Mickrip, Zoltan, Tinason, MONK, TurdMan2.0
-* ? - Lithrem, Weasel, Fishman
+* Bounty Hunters [$] - alfredthetomato, BOGAN, [clan]clan, CARNAG3, DUST'N'BONES, kaepora_gaebora
+* lzr - aurix, bones_was_here, killquick, wayno
+* Old Farts [3<*] - chooksta, Mickrip, MONK, Tinason, TurdMan2.0, Turkey Shoot, Zoltan,  
+* Questionable [?] - Fishman, Lithrem, Weasel
+* zero [0] - Charmander, harry_ftw, ICE MAN, MDWGUNS, PAGEY, viscous
+* pride - deathdoG, Hew, rabs, Trev, Wolskie, 2stan
+* ! - B3RZ3RK, Chez, cuinnton, ensignricky, Viktor
 
 # Pub CTF - We have regular announcements about Upcoming Tournaments and Movement Trainings which helps new players get into the competitive fold.
 

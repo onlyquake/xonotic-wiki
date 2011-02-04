@@ -56,6 +56,12 @@ h2. Rocket Launcher
 * Ammo: Rockets
 * Function: 
 
+h2. @#!%'n Tuba 
+
+* Impulse: 1/244
+* Ammo: 
+* Function: 
+
 h2. Mine Layer
 
 * Impulse: 4/234
@@ -80,15 +86,15 @@ h2. Sniper Rifle
 * Ammo: Bullets
 * Function: 
 
-h2. Fireball
+h2. T.A.G. Seeker
 
-* Impulse: 9/246
+* Impulse: 8/247
 * Ammo: Rockets
 * Function: 
 
-h2. T.A.G. Seeker
+h2. Fireball
 
-* Impulse: 9/247
+* Impulse: 9/246
 * Ammo: Rockets
 * Function: 
 
@@ -103,9 +109,3 @@ h2. Grappling Hook
 * Impulse: 14/242
 * Ammo: Cells
 * Function:
-
-h2. @#!%'n Tuba 
-
-* Impulse: 244
-* Ammo: 
-* Function: 

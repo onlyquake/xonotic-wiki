@@ -1,8 +1,8 @@
-h1. IRC channels
+h1. IRC and IM channels
 
 {{>toc}}
 
-h2. On Quakenet
+h2. On Quakenet (IRC)
 
 #xonotic - General purpose channel
 #xonotic.admins - Channel for server admins
@@ -11,7 +11,7 @@ h2. On Quakenet
 #xonotic.pickup - Pickup channel
 #xonotic.tourney - Tourney channel
 
-h3. Country specific channels
+h3. Country specific IRC channels
 
 #xonotic.au - Xonotic Australia
 #xonotic.de - Xonotic Germany
@@ -49,6 +49,10 @@ h3. Server channels
 h2. On FreeNode
 
 #xonotic - Game developer channel. Non-development subjects should be directed to the main Xonotic channel on QuakeNet.
+
+h2. Jabber
+
+[[xmpp:xonotic@conference.jabber.ru]] - Russian channel
 
 h1. IRC
 

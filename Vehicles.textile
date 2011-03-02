@@ -10,9 +10,9 @@ h1. TODO
 
 There's a list of things left to do for vehicles to be ready and enabled by default. Remaining bugs are:
 
-# MirceaKitsune: View bobbing (both vertical and horizontal) still works while in a vehicle. This causes an ugly effect of the player rocking while in the vehicle, without matching its movement. Since view bobbing is an engine feature, a settemp for the view bobbing cvars are the only idea that comes to mind.
+#1 MirceaKitsune: View bobbing (both vertical and horizontal) still works while in a vehicle. This causes an ugly effect of the player rocking while in the vehicle, without matching its movement. Since view bobbing is an engine feature, a settemp for the view bobbing cvars are the only idea that comes to mind.
 
-# tZork: Exiting a vehicle can trow you off the map.
+#2 tZork: Exiting a vehicle can trow you off the map.
   MirceaKitsune: I'm suspecting this could be fixed by setting the player's position to the vehicle's origin when exiting it, unless the bug is more complex.
 
 # tZork: There may be small things like missing gfx/sounds etc since the fork removed/reworked much of that.

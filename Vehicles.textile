@@ -1,6 +1,6 @@
 h1. Vehicles
 
-A few vehicles (such as the Spiderbot or Racer) exist in Xonotic. They are not enabled by default however, due to existing bugs and features that are not yet ready. Existent vehicles include:
+A few vehicles (such as the Spiderbot and Racer) exist in Xonotic. They are not enabled by default however, due to bugs and features that are not ready. Existent vehicles include:
 
 *[insert a larger description of all the vehicles here, possibly with images]*
 
@@ -8,14 +8,16 @@ Vehicle can be enabled at compilation time by using a special flag in the game c
 
 h1. TODO
 
-There's a list of things left to do for vehicles to be ready and enabled by default. Remaining bugs are:
+There's a list of things to do for vehicles to be ready and enabled by default. Remaining issues are:
 
-#1 MirceaKitsune: View bobbing (both vertical and horizontal) still works while in a vehicle. This causes an ugly effect of the player rocking while in the vehicle, without matching its movement. Since view bobbing is an engine feature, a settemp for the view bobbing cvars are the only idea that comes to mind.
+#1 MirceaKitsune: View bobbing (both vertical and horizontal) still works while in a vehicle. This causes an ugly effect of the player rocking while in a vehicle, without matching its movement. Since view bobbing is an engine feature, a settemp for the view bobbing cvars are the only idea that comes to mind.
 
 #2 tZork: Exiting a vehicle can trow you off the map.
-  MirceaKitsune: I'm suspecting this could be fixed by setting the player's position to the vehicle's origin when exiting it, unless the bug is more complex.
+
+MirceaKitsune: I'm suspecting this could be fixed by setting the player's position to the vehicle's origin when exiting it, unless the bug is more complex.
 
 #3 tZork: There may be small things like missing gfx/sounds etc since the fork removed/reworked much of that.
-  MirceaKitsune: Should be most easy to fix I think.
+
+MirceaKitsune: Should be most easy to fix I think.
 
 #4 tZork: The larger issue is that the code is messy and needs re-structure.

@@ -27,6 +27,7 @@ h2. Gameplay
 ** [[Weapons]]
 ** [[Players]]
 ** [[Items]]
+** [[Vehicles]]
 
 * Gamemodes
 ** [[Deathmatch]]

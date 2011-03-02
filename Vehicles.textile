@@ -15,7 +15,7 @@ There's a list of things left to do for vehicles to be ready and enabled by defa
 #2 tZork: Exiting a vehicle can trow you off the map.
   MirceaKitsune: I'm suspecting this could be fixed by setting the player's position to the vehicle's origin when exiting it, unless the bug is more complex.
 
-# tZork: There may be small things like missing gfx/sounds etc since the fork removed/reworked much of that.
+#3 tZork: There may be small things like missing gfx/sounds etc since the fork removed/reworked much of that.
   MirceaKitsune: Should be most easy to fix I think.
 
-# tZork: The larger issue is that the code is messy and needs re-structure.
+#4 tZork: The larger issue is that the code is messy and needs re-structure.

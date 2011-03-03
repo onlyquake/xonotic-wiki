@@ -48,6 +48,7 @@ h3. Server channels
 
 h2. On FreeNode
 
+#planetxonotic.de - Planetxonotic.de Servers
 #xonotic - Game developer channel. Non-development subjects should be directed to the main Xonotic channel on QuakeNet.
 
 h2. Jabber XMPP MUCs

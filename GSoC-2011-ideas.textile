@@ -54,6 +54,7 @@ Effort level: medium
 Knowledge required: C, OpenGL experience, GLSL
 
 h3. Better player and movement prediction with physics
+
 Right now our player prediction really isn't all that good, it mismatches a lot and doesn't account for a lot of things which it needs to. If we could expand upon it and improve it for things such as ladders/hook etc then it would be really fantastic.
 Prospective mentors: divVerent, LordHavoc
 Effort level: Medium to high

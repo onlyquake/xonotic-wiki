@@ -105,7 +105,6 @@ In this section you will find helpful information about editing Xonotic in gener
 ** [[framegroups|.framegroups]] file (allow self playing animations) know-how
 ** [[Voices and sounds|.sounds]] file (player model sounds) know-how 
 ** [[dpmodel|How to compile dpm models]]
-** "Q3A Shader Manual":http://toolz.nexuizninjaz.com/shader/
 ** How to get an animated mesh from [[Blender to DPM]]
 ** "Inter-Quake Model (IQM) Format":http://lee.fov120.com/iqm/
 ** [[Player Model Spec]]
@@ -116,6 +115,7 @@ In this section you will find helpful information about editing Xonotic in gener
 ** "Recovering detailed normals from photo textures":http://www.cgtextures.com/content.php?action=tutorial&name=normalmap
 ** "Hard Surface Texture Painting":http://forums.cgsociety.org/showthread.php?t=373024
 ** Some "tips":http://forums.xonotic.org/showthread.php?tid=63&pid=445#pid445 by _FruitieX_
+** "Q3A Shader Manual":http://toolz.nexuizninjaz.com/shader/
 
 * Configuration
 ** [[democapture|Capturing video clips and using the demo camera]]

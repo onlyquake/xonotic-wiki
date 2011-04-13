@@ -21,10 +21,11 @@ h2. Art
 * "Diabolik/Dib":http://forums.xonotic.org/member.php?action=profile&uid=14
 
 
-h2. 2D Art/Web
+h2. 2D Art/Web Development
 
 * "-z-":http://forums.xonotic.org/member.php?action=profile&uid=1 (Web/Game)
 * "FrutieX":http://forums.xonotic.org/member.php?action=profile&uid=29 (Game/Web)
+* "Antibody":http://forums.xonotic.org/member.php?action=profile&uid=530 (Web)
 
 
 h2. 3D Art
@@ -35,6 +36,8 @@ h2. 3D Art
 h2. Map Design
 
 * "FrutieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+* "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
+* "cortez666":http://forums.xonotic.org/member.php?action=profile&uid=95
 
 
 h2. Music/Sound FX
@@ -58,6 +61,7 @@ h2. Marketing/PR
 
 * "-z-":http://forums.xonotic.org/member.php?action=profile&uid=1
 * "mand1nga":http://forums.xonotic.org/member.php?action=profile&uid=13
+* "Antibody":http://forums.xonotic.org/member.php?action=profile&uid=530
 
 
 h2. Legal

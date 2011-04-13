@@ -1,4 +1,4 @@
-h1. Rune
+h1. Runematch
 
 h2. Object of the Game
 

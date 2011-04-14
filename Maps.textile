@@ -1,5 +1,3 @@
-{{toc}}
-
 h1. Official Maps
 
 h2. Dance

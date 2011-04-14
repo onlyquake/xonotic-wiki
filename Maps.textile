@@ -479,5 +479,69 @@ h2. Duster
 *Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91
 *Describtion*:
 
+h2. Escher
+
+" !http://pics.nexuizninjaz.com/images/7nhx82it8oh3eastxg3_thumb.jpg! ":http://pics.nexuizninjaz.com/images/7nhx82it8oh3eastxg3.jpg " !http://pics.nexuizninjaz.com/images/5uu3tu9pv16x9b2kvqd_thumb.jpg! ":http://pics.nexuizninjaz.com/images/5uu3tu9pv16x9b2kvqd.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "Vael":http://forums.xonotic.org/member.php?action=profile&uid=133
+*Describtion*:
+
+h2. Euclidean FAIL
+
+" !http://pics.nexuizninjaz.com/images/uypsh2gtd0m302pea0zy_thumb.jpg! ":http://pics.nexuizninjaz.com/images/uypsh2gtd0m302pea0zy.jpg " !http://pics.nexuizninjaz.com/images/p9201wcm09zp0djzas_thumb.jpg! ":http://pics.nexuizninjaz.com/images/p9201wcm09zp0djzas.jpg 
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4
+*Describtion*: WarpZone example map
+
+h2. Evilspace2
+
+" !http://pics.nexuizninjaz.com/images/3fp180pku1ezi1jtq227_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3fp180pku1ezi1jtq227.jpg " !http://pics.nexuizninjaz.com/images/yjeu6vnpl4ljhlbzlv71_thumb.jpg! ":http://pics.nexuizninjaz.com/images/yjeu6vnpl4ljhlbzlv71.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*:
+
+h2. Facility 114
+
+" !http://pics.nexuizninjaz.com/images/221tpuhh04q1e8jta102_thumb.jpg! ":http://pics.nexuizninjaz.com/images/221tpuhh04q1e8jta102.jpg " !http://pics.nexuizninjaz.com/images/s8eixl8upfb2h7uk2rn_thumb.jpg! ":http://pics.nexuizninjaz.com/images/s8eixl8upfb2h7uk2rn.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]
+*Author*: "Moo":http://forums.xonotic.org/member.php?action=profile&uid=31
+*Describtion*:
+
+h2. Further In The Past
+
+" !http://pics.nexuizninjaz.com/images/yeww98to1sg421lkkt_thumb.jpg! ":http://pics.nexuizninjaz.com/images/yeww98to1sg421lkkt.jpg " !http://pics.nexuizninjaz.com/images/c6dopsty3betsmog3kp3_thumb.jpg! ":http://pics.nexuizninjaz.com/images/c6dopsty3betsmog3kp3.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]
+*Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
+*Describtion*:
+
+h2. Gforce
+
+" !http://pics.nexuizninjaz.com/images/pcp0jwcvoht1g0t3n1fk_thumb.jpg! ":http://pics.nexuizninjaz.com/images/pcp0jwcvoht1g0t3n1fk.jpg " !http://pics.nexuizninjaz.com/images/3qdtuz47lado8jw1idcg_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3qdtuz47lado8jw1idcg.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*: A big ground complex
+
+h2. Great Wall Revamped
+
+" !http://pics.nexuizninjaz.com/images/0oqh5ivsfj4trwydp7i_thumb.jpg! ":http://pics.nexuizninjaz.com/images/0oqh5ivsfj4trwydp7i.jpg " !http://pics.nexuizninjaz.com/images/3n92uecgydfoohyhs98j_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3n92uecgydfoohyhs98j.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "Mario":http://forums.xonotic.org/member.php?action=profile&uid=1258
+*Describtion*: Greatwall_remix with Xonotic feel
+
+h2. Hypercube
+
+" !http://pics.nexuizninjaz.com/images/yuzc0xhpe3l3sopcd2up_thumb.jpg! ":http://pics.nexuizninjaz.com/images/yuzc0xhpe3l3sopcd2up.jpg " !http://pics.nexuizninjaz.com/images/iouj7bhs4zighz4za5_thumb.jpg! ":http://pics.nexuizninjaz.com/images/iouj7bhs4zighz4za5.jpg
+
+*Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "accident":http://forums.xonotic.org/member.php?action=profile&uid=179
+*Describtion*: Exploded view Hypercube w/o any 4-D nonsense :-)
+
 
 h3. _Map list maintained by "Mirio_":http://forums.xonotic.org/member.php?action=profile&uid=213

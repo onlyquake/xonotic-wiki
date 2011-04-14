@@ -1,7 +1,7 @@
-h1. Official Maps
-
 p>. Go to
 "Xonotic Map Pack":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Xonotic-Map-Pack
+
+h1. Official Maps
 
 h2. Dance
 

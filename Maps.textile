@@ -367,6 +367,53 @@ h2. Accident
 *Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
 *Describtion*: Symetrical CTF map
 
+h2. Aggressor
+
+" !http://pics.nexuizninjaz.com/images/pium4b3486up4bfc8lp9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/pium4b3486up4bfc8lp9.jpg " !http://pics.nexuizninjaz.com/images/h4flv1ny9vo3ppsnc_thumb.jpg! ":http://pics.nexuizninjaz.com/images/h4flv1ny9vo3ppsnc.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Domination]]; [[Keepaway]]; [[Last Man Standing]]; [[Race]]; [[Rune|Runematch]]
+*Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29, Tyrann, "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259
+*Describtion*:
+
+h2. Aneurysm
+
+" !http://pics.nexuizninjaz.com/images/wj62coxu4kan26ndyxkw_thumb.jpg! ":http://pics.nexuizninjaz.com/images/wj62coxu4kan26ndyxkw.jpg " !http://pics.nexuizninjaz.com/images/pdvfkwsa768pfo8j7c7_thumb.jpg! ":http://pics.nexuizninjaz.com/images/pdvfkwsa768pfo8j7c7.jpg
+
+*Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259, "atheros":http://forums.xonotic.org/member.php?action=profile&uid=71
+*Describtion*: A multiple arena map with complex flow
+
+h2. Aqueous
+
+" !http://pics.nexuizninjaz.com/images/esivfo791qg1pwgh71bx_thumb.jpg! ":http://pics.nexuizninjaz.com/images/esivfo791qg1pwgh71bx.jpg " !http://pics.nexuizninjaz.com/images/x8hwqliucx30d0iotmg6_thumb.jpg! ":http://pics.nexuizninjaz.com/images/x8hwqliucx30d0iotmg6.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Race]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
+*Describtion*: Your watery grave
+
+h2. Arahia
+
+" !http://pics.nexuizninjaz.com/images/afz6rth7kggt2z9s5_thumb.jpg! ":http://pics.nexuizninjaz.com/images/afz6rth7kggt2z9s5.jpg " !http://pics.nexuizninjaz.com/images/0zob36116o6tp3iae8no_thumb.jpg! ":http://pics.nexuizninjaz.com/images/0zob36116o6tp3iae8no.jpg
+
+*Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Onslaught]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
+*Describtion*: Battleground on forgotten planet
+
+h2. Azure
+
+" !http://pics.nexuizninjaz.com/images/4b3j16i7tktlpp38i3e_thumb.jpg! ":http://pics.nexuizninjaz.com/images/4b3j16i7tktlpp38i3e.jpg " !http://pics.nexuizninjaz.com/images/nvc6eq2uvmjgvm0pury_thumb.jpg! ":http://pics.nexuizninjaz.com/images/nvc6eq2uvmjgvm0pury.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
+*Describtion*: First map dude
+
+h2. Condemned Castles
+
+" !http://pics.nexuizninjaz.com/images/c09llhcac64lu9saf0b4_thumb.jpg! ":http://pics.nexuizninjaz.com/images/c09llhcac64lu9saf0b4.jpg " !http://pics.nexuizninjaz.com/images/njjci5o32gphjhnoxdge_thumb.jpg! ":http://pics.nexuizninjaz.com/images/njjci5o32gphjhnoxdge.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "Moo":http://forums.xonotic.org/member.php?action=profile&uid=31
+*Describtion*: A castle-based CTF map
 
 
 

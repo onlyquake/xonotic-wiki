@@ -2,7 +2,7 @@ h1. Official Maps
 
 h2. Dance
 
-" !http://pics.nexuizninjaz.com/images/oypes9io7pziwb5zhpaw_thumb.jpg! ":http://pics.nexuizninjaz.com/images/oypes9io7pziwb5zhpaw.jpg " !http://pics.nexuizninjaz.com/images/6id08t6spggluwlkms9b_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6id08t6spggluwlkms9b.jpg " !http://pics.nexuizninjaz.com/images/ropjquf01ktbmgp8r5tw_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ropjquf01ktbmgp8r5tw.jpg
+" !http://pics.nexuizninjaz.com/images/6id08t6spggluwlkms9b_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6id08t6spggluwlkms9b.jpg " !http://pics.nexuizninjaz.com/images/ropjquf01ktbmgp8r5tw_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ropjquf01ktbmgp8r5tw.jpg
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "dublpaws":http://forums.xonotic.org/member.php?action=profile&uid=81, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29

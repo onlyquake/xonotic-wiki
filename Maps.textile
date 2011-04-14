@@ -201,7 +201,7 @@ h2. Evilspace
 " !http://pics.nexuizninjaz.com/images/3er0rsu4s5lnxirdwd7d_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3er0rsu4s5lnxirdwd7d.jpg " !http://pics.nexuizninjaz.com/images/69c0oss4uvjuvzgtmdi8_thumb.jpg! ":http://pics.nexuizninjaz.com/images/69c0oss4uvjuvzgtmdi8.jpg
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
-*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29, EviLair
 *Describtion*: Evil,evil,evil...
 
 h2. Final Rage

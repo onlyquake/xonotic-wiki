@@ -415,6 +415,69 @@ h2. Condemned Castles
 *Author*: "Moo":http://forums.xonotic.org/member.php?action=profile&uid=31
 *Describtion*: A castle-based CTF map
 
+h2. Constructed
+
+" !http://pics.nexuizninjaz.com/images/qxoheud3a2dnr7xeq4vi_thumb.jpg! ":http://pics.nexuizninjaz.com/images/qxoheud3a2dnr7xeq4vi.jpg " !http://pics.nexuizninjaz.com/images/ivwvo9ac4my873ghruc_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ivwvo9ac4my873ghruc.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*: Under construction
+
+h2. Darkzone
+
+" !http://pics.nexuizninjaz.com/images/x7mdsv9rng9zeqe70j_thumb.jpg! ":http://pics.nexuizninjaz.com/images/x7mdsv9rng9zeqe70j.jpg " !http://pics.nexuizninjaz.com/images/4jjx8cf79g05w6yfdun_thumb.jpg! ":http://pics.nexuizninjaz.com/images/4jjx8cf79g05w6yfdun.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, "DiaboliK":http://forums.xonotic.org/member.php?action=profile&uid=14
+*Describtion*: The Dark Zone returns
+
+h2. DarkzoneCTF
+
+" !http://pics.nexuizninjaz.com/images/1kt54m3h755jg3llnr1r_thumb.jpg! ":http://pics.nexuizninjaz.com/images/1kt54m3h755jg3llnr1r.jpg " !http://pics.nexuizninjaz.com/images/fjbiltr7vsnnxoy538n_thumb.jpg! ":http://pics.nexuizninjaz.com/images/fjbiltr7vsnnxoy538n.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "vede":http://forums.xonotic.org/member.php?action=profile&uid=335
+*Describtion*: Remake of DarkzoneCTF for Xonotic
+
+h2. Death51
+
+" !http://pics.nexuizninjaz.com/images/ikhwr8v5q1vfw2ddmwbp_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ikhwr8v5q1vfw2ddmwbp.jpg " !http://pics.nexuizninjaz.com/images/psoc8wlr7y8pr3xjdkqc_thumb.jpg! ":http://pics.nexuizninjaz.com/images/psoc8wlr7y8pr3xjdkqc.jpg
+
+*Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Deathmatch]]; [[Key Hunt]]; [[Last Man Standing]]; [[Nexball]]; [[Onslaught]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "FiShMaN":http://forums.xonotic.org/member.php?action=profile&uid=899
+*Describtion*: Um, a map for most gametypes. Mainly ONS. HAVE FUN!
+
+h2. Dominate Santa
+
+" !http://pics.nexuizninjaz.com/images/4edkb2h6ul0gf55pq89l_thumb.jpg! ":http://pics.nexuizninjaz.com/images/4edkb2h6ul0gf55pq89l.jpg " !http://pics.nexuizninjaz.com/images/jyyakyt8jmvcjhsig_thumb.jpg! ":http://pics.nexuizninjaz.com/images/jyyakyt8jmvcjhsig.jpg
+
+*Gamemodes*: [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]
+*Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
+*Describtion*: X-Mas Themed holiday fun map
+
+h2. Downer
+
+" !http://pics.nexuizninjaz.com/images/2y8gzp2taztklj53p9u_thumb.jpg! ":http://pics.nexuizninjaz.com/images/2y8gzp2taztklj53p9u.jpg " !http://pics.nexuizninjaz.com/images/vepmmzquoeted1ih6r2i_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vepmmzquoeted1ih6r2i.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, Munyul Verminard
+*Describtion*: Downer from Nexuiz remade
+
+h2. Downward
+
+" !http://pics.nexuizninjaz.com/images/oivyg1etp7ps9qmj9gke_thumb.jpg! ":http://pics.nexuizninjaz.com/images/oivyg1etp7ps9qmj9gke.jpg " !http://pics.nexuizninjaz.com/images/p722dh5nhhbhv5f24sj_thumb.jpg! ":http://pics.nexuizninjaz.com/images/p722dh5nhhbhv5f24sj.jpg
+
+*Gamemodes*: [[Deathmatch]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*: Home sweet home
+
+h2. Duster
+
+" !http://pics.nexuizninjaz.com/images/6ns2omvjt8qwvtq8i6j_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6ns2omvjt8qwvtq8i6j.jpg " !http://pics.nexuizninjaz.com/images/06xul8tmo8kxkfm4il_thumb.jpg! ":http://pics.nexuizninjaz.com/images/06xul8tmo8kxkfm4il.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91
+*Describtion*:
 
 
 h3. _Map list maintained by "Mirio_":http://forums.xonotic.org/member.php?action=profile&uid=213

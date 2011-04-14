@@ -310,3 +310,29 @@ h2. Stepping Forward
 *Gamemodes*: [[Race CTS]]
 *Author*: "Revenant":http://forums.xonotic.org/member.php?action=profile&uid=670, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
 *Describtion*: A clean, medium difficult map
+
+h2. Tarx
+
+" !http://pics.nexuizninjaz.com/images/ls8bybavv4gzmuz7ls99_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ls8bybavv4gzmuz7ls99.jpg " !http://pics.nexuizninjaz.com/images/kw1vkwe3kdvfumbljlc2_thumb.jpg! ":http://pics.nexuizninjaz.com/images/kw1vkwe3kdvfumbljlc2.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "It's Me":http://forums.xonotic.org/member.php?action=profile&uid=373
+*Describtion*: Rusty station in air - very open map
+
+h2. Vorix
+
+" !http://pics.nexuizninjaz.com/images/tzixjln8hmn765ipvo52_thumb.jpg! ":http://pics.nexuizninjaz.com/images/tzixjln8hmn765ipvo52.jpg " !http://pics.nexuizninjaz.com/images/0mknloyf1ncftgbyz7og_thumb.jpg! ":http://pics.nexuizninjaz.com/images/0mknloyf1ncftgbyz7og.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "It's Me":http://forums.xonotic.org/member.php?action=profile&uid=373
+*Describtion*: This is Vorix!
+
+h2. Xoylent
+
+" !http://pics.nexuizninjaz.com/images/gk2qh1ehaklye1tja_thumb.jpg! ":http://pics.nexuizninjaz.com/images/gk2qh1ehaklye1tja.jpg " !http://pics.nexuizninjaz.com/images/vh8gd871tpj744ttk35_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vh8gd871tpj744ttk35.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46, "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259
+*Describtion*: A remake of Soylent
+
+h3. _Map list maintained by "Mirio_":http://forums.xonotic.org/member.php?action=profile&uid=213

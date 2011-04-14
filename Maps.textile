@@ -543,5 +543,69 @@ h2. Hypercube
 *Author*: "accident":http://forums.xonotic.org/member.php?action=profile&uid=179
 *Describtion*: Exploded view Hypercube w/o any 4-D nonsense :-)
 
+h2. Imogen
+
+" !http://pics.nexuizninjaz.com/images/uinvfc3aeukk4rn0myym_thumb.jpg! ":http://pics.nexuizninjaz.com/images/uinvfc3aeukk4rn0myym.jpg " !http://pics.nexuizninjaz.com/images/cklkxgiqorl6i2xkaud8_thumb.jpg! ":http://pics.nexuizninjaz.com/images/cklkxgiqorl6i2xkaud8.jpg
+
+*Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Kay":http://forums.xonotic.org/member.php?action=profile&uid=219
+*Describtion*: A small/medium sized space DM map
+
+h2. Jenseits
+
+" !http://pics.nexuizninjaz.com/images/sp8qjvxth24fx4p2e84_thumb.jpg! ":http://pics.nexuizninjaz.com/images/sp8qjvxth24fx4p2e84.jpg " !http://pics.nexuizninjaz.com/images/58dd85lc47hgeo0j2a39_thumb.jpg!
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]; [[Deathmatch]]; [[Team Deathmatch]]
+*Author*: "accident":http://forums.xonotic.org/member.php?action=profile&uid=179
+*Describtion*: A reimagining of "trans"
+
+h2. Lab 610
+
+" !http://pics.nexuizninjaz.com/images/7253ocss92eow1dhdzj9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/7253ocss92eow1dhdzj9.jpg " !http://pics.nexuizninjaz.com/images/3on7buvbkbxa90qrw0t3_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3on7buvbkbxa90qrw0t3.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
+*Describtion*: A lab with heavy machinery and stuff
+
+h2. Laino-The Bridge
+
+" !http://pics.nexuizninjaz.com/images/ponhe15x0t94wfsu46s6_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ponhe15x0t94wfsu46s6.jpg " !http://pics.nexuizninjaz.com/images/7zcjk45e5jh7lq5nvlh3_thumb.jpg!
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]
+*Author*: "monad":http://forums.xonotic.org/member.php?action=profile&uid=900
+*Describtion*:
+
+h2. Little Mexico
+
+" !http://pics.nexuizninjaz.com/images/gepzq2hgqkf2zxaou81l_thumb.jpg! ":http://pics.nexuizninjaz.com/images/gepzq2hgqkf2zxaou81l.jpg " !http://pics.nexuizninjaz.com/images/g835h1yzrmr4gm6mcdg4_thumb.jpg! ":http://pics.nexuizninjaz.com/images/g835h1yzrmr4gm6mcdg4.jpg
+
+*Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Grasshopper":http://forums.xonotic.org/member.php?action=profile&uid=7
+*Describtion*: Medium 2v2
+
+h2. Martian Bases
+
+" !http://pics.nexuizninjaz.com/images/30earmoshd4qcx4dcw_thumb.jpg! ":http://pics.nexuizninjaz.com/images/30earmoshd4qcx4dcw.jpg " !http://pics.nexuizninjaz.com/images/gv49x6wyoqf5b75nvct0_thumb.jpg! ":http://pics.nexuizninjaz.com/images/gv49x6wyoqf5b75nvct0.jpg
+
+*Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Mario":http://forums.xonotic.org/member.php?action=profile&uid=1258
+*Describtion*: Simple Arena Map
+
+h2. Minideck
+
+" !http://pics.nexuizninjaz.com/images/ah0bc5gqmq2vhsgvxj6y_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ah0bc5gqmq2vhsgvxj6y.jpg " !http://pics.nexuizninjaz.com/images/7ybfdjflwcglxojyz0x2_thumb.jpg! ":http://pics.nexuizninjaz.com/images/7ybfdjflwcglxojyz0x2.jpg
+
+*Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Race CTS]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "lda17h":http://forums.xonotic.org/member.php?action=profile&uid=6
+*Describtion*: A huge deck 16-inspired map
+
+h2. Neutron
+
+" !http://pics.nexuizninjaz.com/images/n8wsjdzee52bgcb3p2vy_thumb.jpg! ":http://pics.nexuizninjaz.com/images/n8wsjdzee52bgcb3p2vy.jpg " !http://pics.nexuizninjaz.com/images/vzstk0u0fwon7coqjz4_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vzstk0u0fwon7coqjz4.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "MintOX":http://forums.xonotic.org/member.php?action=profile&uid=310
+*Describtion*:
+
 
 h3. _Map list maintained by "Mirio_":http://forums.xonotic.org/member.php?action=profile&uid=213

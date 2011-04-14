@@ -2,6 +2,7 @@ h1. Official Maps
 
 p>. Go to
 "Xonotic Map Pack":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Xonotic-Map-Pack
+"Custom Maps":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Custom-Maps
 
 h2. Dance
 
@@ -98,6 +99,7 @@ _Download it "here_":http://samual.nexuizninjaz.com/Xonotic%20Map%20Pack_4-12-20
 
 p>. Go to
 "Official Maps":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Official-Maps
+"Custom Maps":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Custom-Maps
 
 
 h2. Above
@@ -339,5 +341,33 @@ h2. Xoylent
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46, "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259
 *Describtion*: A remake of Soylent
+
+
+h1. Custom Maps
+
+_(According to the forum and autobuild)_
+
+p>. Go to
+"Official Maps":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Official-Maps
+"Xonotic Map Pack":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Xonotic-Map-Pack
+
+h2. Abandoned
+
+" !http://pics.nexuizninjaz.com/images/sccehzm1flmiis95wqo_thumb.jpg! ":http://pics.nexuizninjaz.com/images/sccehzm1flmiis95wqo.jpg " !http://pics.nexuizninjaz.com/images/95epgbtx0nihrhmuzkh0_thumb.jpg! ":http://pics.nexuizninjaz.com/images/95epgbtx0nihrhmuzkh0.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
+*Describtion*: Abandoned orbital station
+
+h2. Accident
+
+" !http://pics.nexuizninjaz.com/images/1wd0t5lox0c0vp1sipf9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/1wd0t5lox0c0vp1sipf9.jpg " !http://pics.nexuizninjaz.com/images/ial2qab9w3l6miu486g_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ial2qab9w3l6miu486g.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
+*Describtion*: Symetrical CTF map
+
+
+
 
 h3. _Map list maintained by "Mirio_":http://forums.xonotic.org/member.php?action=profile&uid=213

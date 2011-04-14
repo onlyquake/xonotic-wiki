@@ -182,3 +182,83 @@ h2. Courtfun
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, "Calinou":http://forums.xonotic.org/member.php?action=profile&uid=524
 *Describtion*:
+
+h2. Equinox
+
+" !http://pics.nexuizninjaz.com/images/qf9fg90xismfenitnpm_thumb.jpg! ":http://pics.nexuizninjaz.com/images/qf9fg90xismfenitnpm.jpg " !http://pics.nexuizninjaz.com/images/buhowwb0zprwlaccm3_thumb.jpg! ":http://pics.nexuizninjaz.com/images/buhowwb0zprwlaccm3.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "MintOX":http://forums.xonotic.org/member.php?action=profile&uid=310
+*Describtion*: Futuristic Space Style Level
+
+h2. Evilspace
+
+" !http://pics.nexuizninjaz.com/images/3er0rsu4s5lnxirdwd7d_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3er0rsu4s5lnxirdwd7d.jpg " !http://pics.nexuizninjaz.com/images/69c0oss4uvjuvzgtmdi8_thumb.jpg! ":http://pics.nexuizninjaz.com/images/69c0oss4uvjuvzgtmdi8.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+*Describtion*: Evil,evil,evil...
+
+h2. Final Rage
+
+" !http://pics.nexuizninjaz.com/images/nmkpgetfu5j30mqwusc9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/nmkpgetfu5j30mqwusc9.jpg " !http://pics.nexuizninjaz.com/images/3ayi2na7v713glls4u1g_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3ayi2na7v713glls4u1g.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: Munyul Verminard, "tZork":http://forums.xonotic.org/member.php?action=profile&uid=39
+*Describtion*: Small map with brutal fast vertical action
+
+h2. First Blood
+
+" !http://pics.nexuizninjaz.com/images/42n5whvi5wbcnl3r6yf_thumb.jpg! ":http://pics.nexuizninjaz.com/images/42n5whvi5wbcnl3r6yf.jpg " !http://pics.nexuizninjaz.com/images/5qg20ygt5qhlmfqpdo19_thumb.jpg! ":http://pics.nexuizninjaz.com/images/5qg20ygt5qhlmfqpdo19.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "rainerzufalldererste":http://forums.xonotic.org/member.php?action=profile&uid=94
+*Describtion*: Small Egypt CTF Map
+
+h2. Geoplanetary
+
+" !http://pics.nexuizninjaz.com/images/wyxg9ssdvk8c854g76o_thumb.jpg! ":http://pics.nexuizninjaz.com/images/wyxg9ssdvk8c854g76o.jpg " !http://pics.nexuizninjaz.com/images/aw3s7t4p3fx8bdzwsvy3_thumb.jpg! ":http://pics.nexuizninjaz.com/images/aw3s7t4p3fx8bdzwsvy3.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "MintOX":http://forums.xonotic.org/member.php?action=profile&uid=310
+*Describtion*:
+
+h2. Heart
+
+" !http://pics.nexuizninjaz.com/images/7l1b8po2fbs5v10cwsa8_thumb.jpg! ":http://pics.nexuizninjaz.com/images/7l1b8po2fbs5v10cwsa8.jpg " !http://pics.nexuizninjaz.com/images/jnavom5mqz803nxzpiep_thumb.jpg! ":http://pics.nexuizninjaz.com/images/jnavom5mqz803nxzpiep.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*: Just cold iron...
+
+h2. Hydrophobia
+
+" !http://pics.nexuizninjaz.com/images/eved49sm67iffmvhdg6b_thumb.jpg! ":http://pics.nexuizninjaz.com/images/eved49sm67iffmvhdg6b.jpg " !http://pics.nexuizninjaz.com/images/zy8xq54ysl76npz7f0gn_thumb.jpg! ":http://pics.nexuizninjaz.com/images/zy8xq54ysl76npz7f0gn.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*: Rusty, really rusty
+
+h2. Implosion
+
+" !http://pics.nexuizninjaz.com/images/wvxojiv5v796i2gctyv4_thumb.jpg! ":http://pics.nexuizninjaz.com/images/wvxojiv5v796i2gctyv4.jpg " !http://pics.nexuizninjaz.com/images/u3ranraar9ted7zxyfbu_thumb.jpg! ":http://pics.nexuizninjaz.com/images/u3ranraar9ted7zxyfbu.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "MintOX":http://forums.xonotic.org/member.php?action=profile&uid=310
+*Describtion*: Space Style CTF Level
+
+h2. Lord Of The Moths
+
+" !http://pics.nexuizninjaz.com/images/0yiuuf84980ke0dd6us_thumb.jpg! ":http://pics.nexuizninjaz.com/images/0yiuuf84980ke0dd6us.jpg " !http://pics.nexuizninjaz.com/images/q7n73q4d09wh2941zk2_thumb.jpg! ":http://pics.nexuizninjaz.com/images/q7n73q4d09wh2941zk2.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author* "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
+*Describtion*: This is a medium sized skull filled barren wasterland map for Xonotic
+
+h2. Maze
+
+" !http://pics.nexuizninjaz.com/images/z4n7aebrtbffncpj42bp_thumb.jpg! ":http://pics.nexuizninjaz.com/images/z4n7aebrtbffncpj42bp.jpg " !http://pics.nexuizninjaz.com/images/7g9ve11o93vuk8gplfne_thumb.jpg! ":http://pics.nexuizninjaz.com/images/7g9ve11o93vuk8gplfne.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
+*Describtion*: A desert ruin froms a twistered maze

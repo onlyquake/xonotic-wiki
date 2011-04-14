@@ -24,10 +24,12 @@ h2. Project
 h2. Gameplay
 
 * Game Mechanics
-** [[Weapons]]
-** [[Players]]
+
 ** [[Items]]
+** [[Maps]]
+** [[Players]]
 ** [[Vehicles]]
+** [[Weapons]]
 
 * Gamemodes
 ** [[Arena]]

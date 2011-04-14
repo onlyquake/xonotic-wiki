@@ -86,3 +86,98 @@ h2. Techassault
 *Gamemodes*: [[Assault]]
 *Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
 *Describtion*: A medium-sized assault map
+
+
+
+h1. Xonotic Map Pack
+
+_Download it "here_":http://samual.nexuizninjaz.com/Xonotic%20Map%20Pack_4-12-2011.zip
+
+
+h2. Above
+
+" !http://pics.nexuizninjaz.com/images/iuaimf0l7smf8fr3cu44_thumb.jpg! ":http://pics.nexuizninjaz.com/images/iuaimf0l7smf8fr3cu44.jpg " !http://pics.nexuizninjaz.com/images/r7wer1itk3u8mv460n_thumb.jpg! ":http://pics.nexuizninjaz.com/images/r7wer1itk3u8mv460n.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
+*Describtion*: Don't look down!
+
+h2. Afterslime
+
+" !http://pics.nexuizninjaz.com/images/6a4kwp6feddhv9ktycf_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6a4kwp6feddhv9ktycf.jpg " !http://pics.nexuizninjaz.com/images/kdk8n1sudpej0ogrhkmz_thumb.jpg! ":http://pics.nexuizninjaz.com/images/kdk8n1sudpej0ogrhkmz.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
+*Describtion*: Medium sized indoor deathmatch map
+
+h2. Apace
+
+" !http://pics.nexuizninjaz.com/images/jdwddtcbrrsnogj6380k_thumb.jpg! ":http://pics.nexuizninjaz.com/images/jdwddtcbrrsnogj6380k.jpg " !http://pics.nexuizninjaz.com/images/lsfdte23yro2qmlusp2h_thumb.jpg! ":http://pics.nexuizninjaz.com/images/lsfdte23yro2qmlusp2h.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
+*Describtion*:
+
+h2. Atelier
+
+" !http://pics.nexuizninjaz.com/images/5iqmfw0kdkimfos2u8ht_thumb.jpg! ":http://pics.nexuizninjaz.com/images/5iqmfw0kdkimfos2u8ht.jpg " !http://pics.nexuizninjaz.com/images/ai8jw0ek6k1t2x4jrlv_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ai8jw0ek6k1t2x4jrlv.jpg
+
+*Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "ShadoW":http://forums.xonotic.org/member.php?action=profile&uid=1235
+*Describtion*: Large map, well suited for team games
+
+h2. Attic
+
+" !http://pics.nexuizninjaz.com/images/cbmss2znwfmtzibpyz3_thumb.jpg! ":http://pics.nexuizninjaz.com/images/cbmss2znwfmtzibpyz3.jpg " !http://pics.nexuizninjaz.com/images/j8c621exbxuv3jtzvhsa_thumb.jpg! ":http://pics.nexuizninjaz.com/images/j8c621exbxuv3jtzvhsa.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
+*Describtion*: Large indoor CTF map
+
+h2. Bloodrage
+
+" !http://pics.nexuizninjaz.com/images/3hfkg5oqxddlez1szq_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3hfkg5oqxddlez1szq.jpg " !http://pics.nexuizninjaz.com/images/t8u2mhpe3ksom8ocf8b4_thumb.jpg! ":http://pics.nexuizninjaz.com/images/t8u2mhpe3ksom8ocf8b4.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*: Small 1on1 map
+
+h2. Bloodrun
+
+" !http://pics.nexuizninjaz.com/images/sfnwphmlaf4p9ablwyd7_thumb.jpg! ":http://pics.nexuizninjaz.com/images/sfnwphmlaf4p9ablwyd7.jpg " !http://pics.nexuizninjaz.com/images/wefjgjrt72ikc1sg6i5s_thumb.jpg! ":http://pics.nexuizninjaz.com/images/wefjgjrt72ikc1sg6i5s.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "nifrek":http://forums.xonotic.org/member.php?action=profile&uid=49
+*Describtion*: Q1 remake
+
+h2. Claustrophobia
+
+" !http://pics.nexuizninjaz.com/images/pz4eu5ajrc83q4yf95t_thumb.jpg! ":http://pics.nexuizninjaz.com/images/pz4eu5ajrc83q4yf95t.jpg " !http://pics.nexuizninjaz.com/images/jakjga41v2xnkhd9djy6_thumb.jpg! ":http://pics.nexuizninjaz.com/images/jakjga41v2xnkhd9djy6.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
+*Describtion*: At the bottom of the ocean, no one can hear you scream as the walls close in around you
+
+h2. Concourse
+
+" !http://pics.nexuizninjaz.com/images/yb9g1pnlp8tna9y1wrl_thumb.jpg! ":http://pics.nexuizninjaz.com/images/yb9g1pnlp8tna9y1wrl.jpg " !http://pics.nexuizninjaz.com/images/ffimbh9emvkosp92xwf_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ffimbh9emvkosp92xwf.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "vede":http://forums.xonotic.org/member.php?action=profile&uid=335
+*Describtion*: A short, linear sci-fi-themed CTF/TDM map
+
+h2. Condenser
+
+" !http://pics.nexuizninjaz.com/images/mpnenimc9tnnd0q8o0c_thumb.jpg! ":http://pics.nexuizninjaz.com/images/mpnenimc9tnnd0q8o0c.jpg " !http://pics.nexuizninjaz.com/images/ruin21n3u40d00we1yf_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ruin21n3u40d00we1yf.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "Cuinnton":http://forums.xonotic.org/member.php?action=profile&uid=61
+*Describtion*:
+
+h2. Courtfun
+
+" !http://pics.nexuizninjaz.com/images/7a3uhq6qnv0dzkqdx12z_thumb.jpg! ":http://pics.nexuizninjaz.com/images/7a3uhq6qnv0dzkqdx12z.jpg " !http://pics.nexuizninjaz.com/images/v0ep06psqjtnso74zm4t_thumb.jpg! ":http://pics.nexuizninjaz.com/images/v0ep06psqjtnso74zm4t.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, "Calinou":http://forums.xonotic.org/member.php?action=profile&uid=524
+*Describtion*:

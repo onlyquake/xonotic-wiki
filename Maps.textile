@@ -9,8 +9,7 @@ h2. Dance
 *Describtion*: Very open, small sized CTF map floating above an ocean
 
 h2. Docking Station G-23
-
-~Screenshots~
+" !http://pics.nexuizninjaz.com/images/syx3pnwgeftdm8gkgjc_thumb.jpg! ":http://pics.nexuizninjaz.com/images/syx3pnwgeftdm8gkgjc.jpg " !http://pics.nexuizninjaz.com/images/jdpzeulql042834gb69_thumb.jpg! ":http://pics.nexuizninjaz.com/images/jdpzeulql042834gb69.jpg
 
 *Gamemodes*: [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "Moo":http://forums.xonotic.org/member.php?action=profile&uid=31
@@ -18,39 +17,39 @@ h2. Docking Station G-23
 
 h2. Glow Plant
 
-~Screenshots~
+" !http://pics.nexuizninjaz.com/images/1peoczb7mnq1xqh0cs_thumb.jpg! ":http://pics.nexuizninjaz.com/images/1peoczb7mnq1xqh0cs.jpg " !http://pics.nexuizninjaz.com/images/u6jt9awfjkhni9u0oe5_thumb.jpg! ":http://pics.nexuizninjaz.com/images/u6jt9awfjkhni9u0oe5.jpg
 
-*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [Team Deathmatch]]
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "tZork":http://forums.xonotic.org/member.php?action=profile&uid=39, "Cuinnton":http://forums.xonotic.org/member.php?action=profile&uid=61
 *Describtion*: A nuclear power plant with a LOT of blue glowy stuff...
 
 h2. Leave'em Behind
 
-~Screenshots~
+" !http://pics.nexuizninjaz.com/images/hemahfpxj89mpgw6ub_thumb.jpg! ":http://pics.nexuizninjaz.com/images/hemahfpxj89mpgw6ub.jpg " !http://pics.nexuizninjaz.com/images/elh7krr4s179s4pdnucn_thumb.jpg! ":http://pics.nexuizninjaz.com/images/elh7krr4s179s4pdnucn.jpg
 
 *Gamemodes*: [[Race]]
 *Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
 *Describtion*: A very small race map
 
-h2. Nexball Arena
-
-~Screenshots~
-
-*Gamemodes*: [[Nexball]]
-*Author*: "Revenant":http://forums.xonotic.org/member.php?action=profile&uid=670, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "tZork":http://forums.xonotic.org/member.php?action=profile&uid=39, "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
-*Describtion*: Small, simple, enclosed arena for finding out who's the true nexball champion! No obstacles in the way...
-
 h2. Newtonian Nightmare
 
-~Screenshots~
+" !http://pics.nexuizninjaz.com/images/nmr3g0cwrwr95ecdr6j8_thumb.jpg! ":http://pics.nexuizninjaz.com/images/nmr3g0cwrwr95ecdr6j8.jpg " !http://pics.nexuizninjaz.com/images/9qjdz6ltz81ael3gyc5c_thumb.jpg! ":http://pics.nexuizninjaz.com/images/9qjdz6ltz81ael3gyc5c.jpg
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
 *Describtion*: The modified physics of this orbiting battleground is Sir Isaac's worst nightmare
 
+h2. Nexball Arena
+
+" !http://pics.nexuizninjaz.com/images/pv20opnqa15d06uu9i6s_thumb.jpg! ":http://pics.nexuizninjaz.com/images/pv20opnqa15d06uu9i6s.jpg " !http://pics.nexuizninjaz.com/images/opaga2r507jphuw38ftr_thumb.jpg! ":http://pics.nexuizninjaz.com/images/opaga2r507jphuw38ftr.jpg
+
+*Gamemodes*: [[Nexball]]
+*Author*: "Revenant":http://forums.xonotic.org/member.php?action=profile&uid=670, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "tZork":http://forums.xonotic.org/member.php?action=profile&uid=39, "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+*Describtion*: Small, simple, enclosed arena for finding out who's the true nexball champion! No obstacles in the way...
+
 h2. Red Planet
 
-~Screenshots~
+" !http://pics.nexuizninjaz.com/images/o45wl5wvc92xszxkc35e_thumb.jpg! ":http://pics.nexuizninjaz.com/images/o45wl5wvc92xszxkc35e.jpg " !http://pics.nexuizninjaz.com/images/srkx6dw39u7tgeb708h_thumb.jpg! ":http://pics.nexuizninjaz.com/images/srkx6dw39u7tgeb708h.jpg
 
 *Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Nexball]]; [[Onslaught]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12, "Cuinnton":http://forums.xonotic.org/member.php?action=profile&uid=61, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
@@ -58,7 +57,7 @@ h2. Red Planet
 
 h2. Running Man
 
-~Screenshots~
+" !http://pics.nexuizninjaz.com/images/7ftovrfx13qdphesy0hu_thumb.jpg! ":http://pics.nexuizninjaz.com/images/7ftovrfx13qdphesy0hu.jpg " !http://pics.nexuizninjaz.com/images/sfok6oath5ijg5zdcih_thumb.jpg! ":http://pics.nexuizninjaz.com/images/sfok6oath5ijg5zdcih.jpg
 
 *Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Onslaught]]; [[Rune|Runematch]]
 *Author*: "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
@@ -66,7 +65,7 @@ h2. Running Man
 
 h2. Space Elevator
 
-~Screenshots~
+" !http://pics.nexuizninjaz.com/images/bjmr3issd2dho77amxw2_thumb.jpg! ":http://pics.nexuizninjaz.com/images/bjmr3issd2dho77amxw2.jpg " !http://pics.nexuizninjaz.com/images/hrxsa0tkrqjczh68w1qq_thumb.jpg! ":http://pics.nexuizninjaz.com/images/hrxsa0tkrqjczh68w1qq.jpg
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29, "Cuinnton":http://forums.xonotic.org/member.php?action=profile&uid=61
@@ -74,7 +73,7 @@ h2. Space Elevator
 
 h2. Stormkeep
 
-~Screenshots~
+" !http://pics.nexuizninjaz.com/images/26myfcu1os1g2n6k9hh_thumb.jpg! ":http://pics.nexuizninjaz.com/images/26myfcu1os1g2n6k9hh.jpg " !http://pics.nexuizninjaz.com/images/pc1lw4tnmpb0xsd2w61_thumb.jpg! ":http://pics.nexuizninjaz.com/images/pc1lw4tnmpb0xsd2w61.jpg
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Race]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29, "tZork":http://forums.xonotic.org/member.php?action=profile&uid=39, "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259, William Libert
@@ -82,7 +81,7 @@ h2. Stormkeep
 
 h2. Techassault
 
-~Screenshots~
+" !http://pics.nexuizninjaz.com/images/8f3svn0gletr3h7fi4v8_thumb.jpg! ":http://pics.nexuizninjaz.com/images/8f3svn0gletr3h7fi4v8.jpg " !http://pics.nexuizninjaz.com/images/43669ti4u8zvhfvpr35a_thumb.jpg! ":http://pics.nexuizninjaz.com/images/43669ti4u8zvhfvpr35a.jpg
 
 *Gamemodes*: [[Assault]]
 *Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95

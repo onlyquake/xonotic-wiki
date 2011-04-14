@@ -1,3 +1,5 @@
+{{>toc}}
+
 h1. Official Maps
 
 h2. Dance
@@ -9,6 +11,7 @@ h2. Dance
 *Describtion*: Very open, small sized CTF map floating above an ocean
 
 h2. Docking Station G-23
+
 " !http://pics.nexuizninjaz.com/images/syx3pnwgeftdm8gkgjc_thumb.jpg! ":http://pics.nexuizninjaz.com/images/syx3pnwgeftdm8gkgjc.jpg " !http://pics.nexuizninjaz.com/images/jdpzeulql042834gb69_thumb.jpg! ":http://pics.nexuizninjaz.com/images/jdpzeulql042834gb69.jpg
 
 *Gamemodes*: [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]

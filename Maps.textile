@@ -1,0 +1,89 @@
+h1. Official Maps
+
+h2. Dance
+
+" !http://pics.nexuizninjaz.com/images/oypes9io7pziwb5zhpaw_thumb.jpg! ":http://pics.nexuizninjaz.com/images/oypes9io7pziwb5zhpaw.jpg " !http://pics.nexuizninjaz.com/images/6id08t6spggluwlkms9b_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6id08t6spggluwlkms9b.jpg " !http://pics.nexuizninjaz.com/images/ropjquf01ktbmgp8r5tw_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ropjquf01ktbmgp8r5tw.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "dublpaws":http://forums.xonotic.org/member.php?action=profile&uid=81, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+*Describtion*: Very open, small sized CTF map floating above an ocean
+
+h2. Docking Station G-23
+
+~Screenshots~
+
+*Gamemodes*: [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "Moo":http://forums.xonotic.org/member.php?action=profile&uid=31
+*Describtion*: You and your expert team of soldiers have docked Docking Station G-23 for retrieving a package and letting no one stand in your way
+
+h2. Glow Plant
+
+~Screenshots~
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [Team Deathmatch]]
+*Author*: "tZork":http://forums.xonotic.org/member.php?action=profile&uid=39, "Cuinnton":http://forums.xonotic.org/member.php?action=profile&uid=61
+*Describtion*: A nuclear power plant with a LOT of blue glowy stuff...
+
+h2. Leave'em Behind
+
+~Screenshots~
+
+*Gamemodes*: [[Race]]
+*Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*: A very small race map
+
+h2. Nexball Arena
+
+~Screenshots~
+
+*Gamemodes*: [[Nexball]]
+*Author*: "Revenant":http://forums.xonotic.org/member.php?action=profile&uid=670, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "tZork":http://forums.xonotic.org/member.php?action=profile&uid=39, "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+*Describtion*: Small, simple, enclosed arena for finding out who's the true nexball champion! No obstacles in the way...
+
+h2. Newtonian Nightmare
+
+~Screenshots~
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
+*Describtion*: The modified physics of this orbiting battleground is Sir Isaac's worst nightmare
+
+h2. Red Planet
+
+~Screenshots~
+
+*Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Nexball]]; [[Onslaught]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12, "Cuinnton":http://forums.xonotic.org/member.php?action=profile&uid=61, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+*Describtion*: A large facility on a red dusty planet
+
+h2. Running Man
+
+~Screenshots~
+
+*Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Onslaught]]; [[Rune|Runematch]]
+*Author*: "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259, "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+*Describtion*: Medium-sized, fast enclosed map supporting multiple gamemodes
+
+h2. Space Elevator
+
+~Screenshots~
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29, "Cuinnton":http://forums.xonotic.org/member.php?action=profile&uid=61
+*Describtion*: Medium sized CTF space floater
+
+h2. Stormkeep
+
+~Screenshots~
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Race]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29, "tZork":http://forums.xonotic.org/member.php?action=profile&uid=39, "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259, William Libert
+*Describtion*: Medium sized indoors map, well suited for team games
+
+h2. Techassault
+
+~Screenshots~
+
+*Gamemodes*: [[Assault]]
+*Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*: A medium-sized assault map

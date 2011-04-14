@@ -262,3 +262,51 @@ h2. Maze
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
 *Describtion*: A desert ruin froms a twistered maze
+
+h2. Reflection
+
+" !http://pics.nexuizninjaz.com/images/z7zj01vochqh8wygvo9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/z7zj01vochqh8wygvo9.jpg " !http://pics.nexuizninjaz.com/images/4ldrhd3p138azynnlxfd_thumb.jpg! ":http://pics.nexuizninjaz.com/images/4ldrhd3p138azynnlxfd.jpg
+
+*Gamemodes*: [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
+*Describtion*:
+
+h2. Siege
+
+" !http://pics.nexuizninjaz.com/images/qv2lko58lseik6moaa0_thumb.jpg! ":http://pics.nexuizninjaz.com/images/qv2lko58lseik6moaa0.jpg " !http://pics.nexuizninjaz.com/images/asiob8f37nwsq6a94osh_thumb.jpg! ":http://pics.nexuizninjaz.com/images/asiob8f37nwsq6a94osh.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
+*Describtion*
+
+h2. Sirius
+
+" !http://pics.nexuizninjaz.com/images/e3i6w1s2pz5makbpe4s8_thumb.jpg! ":http://pics.nexuizninjaz.com/images/e3i6w1s2pz5makbpe4s8.jpg " !http://pics.nexuizninjaz.com/images/vhlcvmnx57042jr4385_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vhlcvmnx57042jr4385.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Ingar =KTC=":http://forums.xonotic.org/member.php?action=profile&uid=1418, "Chomps123":http://forums.xonotic.org/member.php?action=profile&uid=553
+*Describtion*:
+
+h2. Solarium
+
+" !http://pics.nexuizninjaz.com/images/sp2qn3uw4f703pq5nt1_thumb.jpg! ":http://pics.nexuizninjaz.com/images/sp2qn3uw4f703pq5nt1.jpg " !http://pics.nexuizninjaz.com/images/qff611ojrx11bmqiq4kp_thumb.jpg! ":http://pics.nexuizninjaz.com/images/qff611ojrx11bmqiq4kp.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Race]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
+*Describton*: Medium sized map with numerous trickjumps
+
+h2. Space Base
+
+" !http://pics.nexuizninjaz.com/images/yck4zxp805bermjw0od1_thumb.jpg! ":http://pics.nexuizninjaz.com/images/yck4zxp805bermjw0od1.jpg " !http://pics.nexuizninjaz.com/images/9bmnpvmqktnf1kbqxqqc_thumb.jpg! ":http://pics.nexuizninjaz.com/images/9bmnpvmqktnf1kbqxqqc.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "Kay":http://forums.xonotic.org/member.php?action=profile&uid=219
+*Describtion*: Medium size ctf map
+
+h2. Stepping Forward
+
+" !http://pics.nexuizninjaz.com/images/2rpfb9r33gfuh2enf7jy_thumb.jpg! ":http://pics.nexuizninjaz.com/images/2rpfb9r33gfuh2enf7jy.jpg " !http://pics.nexuizninjaz.com/images/pyr5gbncii9vg0m0257b_thumb.jpg! ":http://pics.nexuizninjaz.com/images/pyr5gbncii9vg0m0257b.jpg
+
+*Gamemodes*: [[Race CTS]]
+*Author*: "Revenant":http://forums.xonotic.org/member.php?action=profile&uid=670, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*: A clean, medium difficult map

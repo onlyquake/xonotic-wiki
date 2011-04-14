@@ -345,7 +345,7 @@ h2. Xoylent
 
 h1. Custom Maps
 
-_(According to the forum and autobuild)_
+_(According to the "forum":http://forums.xonotic.org/forumdisplay.php?fid=13 and the "autobuild":http://beta.xonotic.org/autobuild-bsp/ )_
 
 p>. Go to
 "Official Maps":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Official-Maps

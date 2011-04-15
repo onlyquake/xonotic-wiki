@@ -727,4 +727,37 @@ h2. Tomb
 *Author*: "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
 *Describtion*: A small arena
 
+h2. Trust Reloaded
+
+" !http://pics.nexuizninjaz.com/images/kdvx5doijmdpmqjdvhe_thumb.jpg! ":http://pics.nexuizninjaz.com/images/kdvx5doijmdpmqjdvhe.jpg " !http://pics.nexuizninjaz.com/images/23ymo3rapgvtadboc3_thumb.jpg! ":http://pics.nexuizninjaz.com/images/23ymo3rapgvtadboc3.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "dublpaws":http://forums.xonotic.org/member.php?action=profile&uid=81, "Debugger":http://forums.xonotic.org/member.php?action=profile&uid=222
+*Describtion*: Lost in nothingness
+
+h2. Vector Wars
+
+" !http://pics.nexuizninjaz.com/images/mf2y18g9zge63hsp7cq_thumb.jpg! ":http://pics.nexuizninjaz.com/images/mf2y18g9zge63hsp7cq.jpg " !http://pics.nexuizninjaz.com/images/4dkxajzmykaq0gnjw7ad_thumb.jpg! ":http://pics.nexuizninjaz.com/images/4dkxajzmykaq0gnjw7ad.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "fabzor3":http://forums.xonotic.org/member.php?action=profile&uid=43, "Cuinnton":http://forums.xonotic.org/member.php?action=profile&uid=61
+*Describtion*: 8th gen aussie CTF map
+
+h2. Warfare
+
+" !http://pics.nexuizninjaz.com/images/uvsa29309pzm0zxliz_thumb.jpg! ":http://pics.nexuizninjaz.com/images/uvsa29309pzm0zxliz.jpg " !http://pics.nexuizninjaz.com/images/szsn6lvxoqar5c0suvo_thumb.jpg! ":http://pics.nexuizninjaz.com/images/szsn6lvxoqar5c0suvo.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: Tymo
+*Describtion*: Medium sized map with a central area
+
+h2. Xtinyworld
+
+" !http://pics.nexuizninjaz.com/images/0lemxxr8f15kl1yejhv_thumb.jpg! ":http://pics.nexuizninjaz.com/images/0lemxxr8f15kl1yejhv.jpg " !http://pics.nexuizninjaz.com/images/2erkfk8dmbkvhakwlyt4_thumb.jpg! ":http://pics.nexuizninjaz.com/images/2erkfk8dmbkvhakwlyt4.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]; [[Deathmatch]]; [[Team Deathmatch]]
+*Author*: "Creation":http://forums.xonotic.org/member.php?action=profile&uid=1040
+*Describtion*: Fast paced newbie map
+
+
 h3. _Map list maintained by "Mirio_":http://forums.xonotic.org/member.php?action=profile&uid=213

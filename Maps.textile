@@ -260,7 +260,7 @@ h2. Lord Of The Moths
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author* "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
-*Describtion*: This is a medium sized skull filled barren wasterland map for Xonotic
+*Description*: This is a medium sized skull filled barren wasterland map for Xonotic
 
 h2. Maze
 
@@ -268,7 +268,7 @@ h2. Maze
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
-*Describtion*: A desert ruin froms a twistered maze
+*Description*: A desert ruin froms a twistered maze
 
 h2. Reflection
 
@@ -276,7 +276,7 @@ h2. Reflection
 
 *Gamemodes*: [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
-*Describtion*:
+*Description*:
 
 h2. Siege
 
@@ -284,7 +284,7 @@ h2. Siege
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
-*Describtion*
+*Description*
 
 h2. Sirius
 
@@ -292,7 +292,7 @@ h2. Sirius
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Ingar =KTC=":http://forums.xonotic.org/member.php?action=profile&uid=1418, "Chomps123":http://forums.xonotic.org/member.php?action=profile&uid=553
-*Describtion*:
+*Description*:
 
 h2. Solarium
 
@@ -300,7 +300,7 @@ h2. Solarium
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Race]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
-*Describton*: Medium sized map with numerous trickjumps
+*Descripton*: Medium sized map with numerous trickjumps
 
 h2. Space Base
 
@@ -308,7 +308,7 @@ h2. Space Base
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "Kay":http://forums.xonotic.org/member.php?action=profile&uid=219
-*Describtion*: Medium size ctf map
+*Description*: Medium size ctf map
 
 h2. Stepping Forward
 
@@ -316,7 +316,7 @@ h2. Stepping Forward
 
 *Gamemodes*: [[Race CTS]]
 *Author*: "Revenant":http://forums.xonotic.org/member.php?action=profile&uid=670, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
-*Describtion*: A clean, medium difficult map
+*Description*: A clean, medium difficult map
 
 h2. Tarx
 
@@ -324,7 +324,7 @@ h2. Tarx
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "It's Me":http://forums.xonotic.org/member.php?action=profile&uid=373
-*Describtion*: Rusty station in air - very open map
+*Description*: Rusty station in air - very open map
 
 h2. Vorix
 
@@ -332,7 +332,7 @@ h2. Vorix
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "It's Me":http://forums.xonotic.org/member.php?action=profile&uid=373
-*Describtion*: This is Vorix!
+*Description*: This is Vorix!
 
 h2. Xoylent
 
@@ -340,7 +340,7 @@ h2. Xoylent
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46, "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259
-*Describtion*: A remake of Soylent
+*Description*: A remake of Soylent
 
 
 h1. Custom Maps

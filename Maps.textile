@@ -607,5 +607,124 @@ h2. Neutron
 *Author*: "MintOX":http://forums.xonotic.org/member.php?action=profile&uid=310
 *Describtion*:
 
+h2. Perkele
+
+" !http://pics.nexuizninjaz.com/images/wrmmn75bp705058k1cyg_thumb.jpg! ":http://pics.nexuizninjaz.com/images/wrmmn75bp705058k1cyg.jpg " !http://pics.nexuizninjaz.com/images/bxnd5j1zrat7769cz43j_thumb.jpg! ":http://pics.nexuizninjaz.com/images/bxnd5j1zrat7769cz43j.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "bundy":http://forums.xonotic.org/member.php?action=profile&uid=754, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*:
+
+h2. Phillipk1x_test
+
+" !http://pics.nexuizninjaz.com/images/gyny0md8rntrl6sqhxt1_thumb.jpg! ":http://pics.nexuizninjaz.com/images/gyny0md8rntrl6sqhxt1.jpg " !http://pics.nexuizninjaz.com/images/vgo6bp0ddi9mhnx43f0m_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vgo6bp0ddi9mhnx43f0m.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+*Describtion*:
+
+h2. PushMe
+
+" !http://pics.nexuizninjaz.com/images/y3jexbcjit53bgz13bdn_thumb.jpg! ":http://pics.nexuizninjaz.com/images/y3jexbcjit53bgz13bdn.jpg " !http://pics.nexuizninjaz.com/images/ffvvrq3teye9j6yzkr6b_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ffvvrq3teye9j6yzkr6b.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4, "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
+*Describtion*: Push Me! No, me! ME!!
+
+h2. Relent
+
+" !http://pics.nexuizninjaz.com/images/2oejmiue00zcf2wmfvd1_thumb.jpg! ":http://pics.nexuizninjaz.com/images/2oejmiue00zcf2wmfvd1.jpg " !http://pics.nexuizninjaz.com/images/pfx22xtx6si648hbxyf3_thumb.jpg! ":http://pics.nexuizninjaz.com/images/pfx22xtx6si648hbxyf3.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Rad Ished":http://forums.xonotic.org/member.php?action=profile&uid=167
+*Describtion*: This floating food factory smells of death, what are they making it out of?
+
+h2. Rhombicuboctahedron
+
+" !http://pics.nexuizninjaz.com/images/9h1egq9tcf9tb5a6ohka_thumb.jpg! ":http://pics.nexuizninjaz.com/images/9h1egq9tcf9tb5a6ohka.jpg " !http://pics.nexuizninjaz.com/images/07kcj3rooek6iycrdxi_thumb.jpg! ":http://pics.nexuizninjaz.com/images/07kcj3rooek6iycrdxi.jpg
+
+*Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46
+*Describtion*: A WarSpehere?!
+
+h2. Shell Station
+
+" !http://pics.nexuizninjaz.com/images/ivurc5bkfwi5nsb0az_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ivurc5bkfwi5nsb0az.jpg " !http://pics.nexuizninjaz.com/images/cx4cozl40gc84y84zc8o_thumb.jpg! ":http://pics.nexuizninjaz.com/images/cx4cozl40gc84y84zc8o.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]
+*Author*: "atheros":http://forums.xonotic.org/member.php?action=profile&uid=71
+*Describtion*: Small closed space map
+
+h2. Snow
+
+" !http://pics.nexuizninjaz.com/images/h4yuzkj4kqwp8jpvgixg_thumb.jpg! ":http://pics.nexuizninjaz.com/images/h4yuzkj4kqwp8jpvgixg.jpg " !http://pics.nexuizninjaz.com/images/vczex4t3wnow4csc5s_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vczex4t3wnow4csc5s.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
+*Describtion*: After the mines collapsed, two tribes fight over the scraps
+
+h2. Speedy Lane
+
+" !http://pics.nexuizninjaz.com/images/ejzpnr29j985px59h8pv_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ejzpnr29j985px59h8pv.jpg " !http://pics.nexuizninjaz.com/images/zzbfn8zzdby6k68g5ksc_thumb.jpg! ":http://pics.nexuizninjaz.com/images/zzbfn8zzdby6k68g5ksc.jpg
+
+*Gamemodes*: [[Race CTS]]
+*Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+*Describtion*:
+
+h2. Starship Fear
+
+" !http://pics.nexuizninjaz.com/images/lp35y1abd1hysypphcv_thumb.jpg! ":http://pics.nexuizninjaz.com/images/lp35y1abd1hysypphcv.jpg " !http://pics.nexuizninjaz.com/images/mz3t34kjgfqxzkhxlsk4_thumb.jpg! ":http://pics.nexuizninjaz.com/images/mz3t34kjgfqxzkhxlsk4.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]; [[Team Deathmatch]]
+*Author*: "Minkovsky":http://forums.xonotic.org/member.php?action=profile&uid=745
+*Describtion*: An arena originally built by an ancient alien civilization, which now is an arena you have to fight on...
+
+h2. Stepping Forward Easy
+
+" !http://pics.nexuizninjaz.com/images/2rpfb9r33gfuh2enf7jy_thumb.jpg! ":http://pics.nexuizninjaz.com/images/2rpfb9r33gfuh2enf7jy.jpg " !http://pics.nexuizninjaz.com/images/m4dwimqwkfhue1m6ohuz_thumb.jpg! ":http://pics.nexuizninjaz.com/images/m4dwimqwkfhue1m6ohuz.jpg
+
+*Gamemodes*: [[Race CTS]]
+*Author*: "Revenant":http://forums.xonotic.org/member.php?action=profile&uid=670, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*: A clean, medium difficult map
+
+h2. Strength
+
+" !http://pics.nexuizninjaz.com/images/xp9qslgizxr3xnsvkmi_thumb.jpg! ":http://pics.nexuizninjaz.com/images/xp9qslgizxr3xnsvkmi.jpg " !http://pics.nexuizninjaz.com/images/vdbscdeseovhno4ktfi_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vdbscdeseovhno4ktfi.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Domination]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259
+*Describtion*: Medium sized industrial arena with a lot vertical action under the hot desert sun
+
+h2. Temple City
+
+" !http://pics.nexuizninjaz.com/images/eprbvbnf6qk0cy143tmx_thumb.jpg! ":http://pics.nexuizninjaz.com/images/eprbvbnf6qk0cy143tmx.jpg " !http://pics.nexuizninjaz.com/images/1jwtz2uwk7p9b8maz370_thumb.jpg! ":http://pics.nexuizninjaz.com/images/1jwtz2uwk7p9b8maz370.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]; [[Deathmatch]]; [[Team Deathmatch]]
+*Author*: "_para":http://forums.xonotic.org/member.php?action=profile&uid=362
+*Describtion*: Big Simple textured Space floater
+
+h2. The Sewer
+
+" !http://pics.nexuizninjaz.com/images/dc0u9ouch9h9vzqfevay_thumb.jpg! ":http://pics.nexuizninjaz.com/images/dc0u9ouch9h9vzqfevay.jpg " !http://pics.nexuizninjaz.com/images/r02fnjmeugbbhtsaqn0_thumb.jpg! ":http://pics.nexuizninjaz.com/images/r02fnjmeugbbhtsaqn0.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author* "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
+*Describtion*: Violent conflict in the cramped waterworks
+
+h2. The Yard
+
+" !http://pics.nexuizninjaz.com/images/zg91n6p33p3q6lu0uq_thumb.jpg! ":http://pics.nexuizninjaz.com/images/zg91n6p33p3q6lu0uq.jpg " !http://pics.nexuizninjaz.com/images/6zvnus055yls10aapzk7_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6zvnus055yls10aapzk7.jpg
+
+*Gamemodes*: [[Deathmatch]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Describtion*: q3dm17ish
+
+h2. Tomb
+
+" !http://pics.nexuizninjaz.com/images/v7eph2m84857cstvhy5_thumb.jpg! ":http://pics.nexuizninjaz.com/images/v7eph2m84857cstvhy5.jpg " !http://pics.nexuizninjaz.com/images/d16xyxdyri6gwdqm9q6u_thumb.jpg! ":http://pics.nexuizninjaz.com/images/d16xyxdyri6gwdqm9q6u.jpg
+
+*Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Key Hunt]]; [[Last Man Standing]]; [[Onslaught]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
+*Describtion*: A small arena
 
 h3. _Map list maintained by "Mirio_":http://forums.xonotic.org/member.php?action=profile&uid=213

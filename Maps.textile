@@ -357,7 +357,7 @@ h2. Abandoned
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
-*Describtion*: Abandoned orbital station
+*Description*: Abandoned orbital station
 
 h2. Accident
 
@@ -365,7 +365,7 @@ h2. Accident
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
-*Describtion*: Symetrical CTF map
+*Description*: Symetrical CTF map
 
 h2. Aggressor
 
@@ -373,7 +373,7 @@ h2. Aggressor
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Domination]]; [[Keepaway]]; [[Last Man Standing]]; [[Race]]; [[Rune|Runematch]]
 *Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29, Tyrann, "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259
-*Describtion*:
+*Description*:
 
 h2. Aneurysm
 
@@ -381,7 +381,7 @@ h2. Aneurysm
 
 *Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259, "atheros":http://forums.xonotic.org/member.php?action=profile&uid=71
-*Describtion*: A multiple arena map with complex flow
+*Description*: A multiple arena map with complex flow
 
 h2. Aqueous
 
@@ -389,7 +389,7 @@ h2. Aqueous
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Race]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
-*Describtion*: Your watery grave
+*Description*: Your watery grave
 
 h2. Arahia
 
@@ -397,7 +397,7 @@ h2. Arahia
 
 *Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Onslaught]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
-*Describtion*: Battleground on forgotten planet
+*Description*: Battleground on forgotten planet
 
 h2. Azure
 
@@ -405,7 +405,7 @@ h2. Azure
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
-*Describtion*: First map dude
+*Description*: First map dude
 
 h2. Condemned Castles
 
@@ -413,7 +413,7 @@ h2. Condemned Castles
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "Moo":http://forums.xonotic.org/member.php?action=profile&uid=31
-*Describtion*: A castle-based CTF map
+*Description*: A castle-based CTF map
 
 h2. Constructed
 
@@ -421,7 +421,7 @@ h2. Constructed
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]
 *Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
-*Describtion*: Under construction
+*Description*: Under construction
 
 h2. Darkzone
 
@@ -429,7 +429,7 @@ h2. Darkzone
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, "DiaboliK":http://forums.xonotic.org/member.php?action=profile&uid=14
-*Describtion*: The Dark Zone returns
+*Description*: The Dark Zone returns
 
 h2. DarkzoneCTF
 
@@ -437,7 +437,7 @@ h2. DarkzoneCTF
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "vede":http://forums.xonotic.org/member.php?action=profile&uid=335
-*Describtion*: Remake of DarkzoneCTF for Xonotic
+*Description*: Remake of DarkzoneCTF for Xonotic
 
 h2. Death51
 
@@ -445,7 +445,7 @@ h2. Death51
 
 *Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Deathmatch]]; [[Key Hunt]]; [[Last Man Standing]]; [[Nexball]]; [[Onslaught]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "FiShMaN":http://forums.xonotic.org/member.php?action=profile&uid=899
-*Describtion*: Um, a map for most gametypes. Mainly ONS. HAVE FUN!
+*Description*: Um, a map for most gametypes. Mainly ONS. HAVE FUN!
 
 h2. Dominate Santa
 
@@ -453,7 +453,7 @@ h2. Dominate Santa
 
 *Gamemodes*: [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]
 *Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
-*Describtion*: X-Mas Themed holiday fun map
+*Description*: X-Mas Themed holiday fun map
 
 h2. Downer
 
@@ -461,7 +461,7 @@ h2. Downer
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, Munyul Verminard
-*Describtion*: Downer from Nexuiz remade
+*Description*: Downer from Nexuiz remade
 
 h2. Downward
 
@@ -469,7 +469,7 @@ h2. Downward
 
 *Gamemodes*: [[Deathmatch]]
 *Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
-*Describtion*: Home sweet home
+*Description*: Home sweet home
 
 h2. Duster
 
@@ -477,7 +477,7 @@ h2. Duster
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91
-*Describtion*:
+*Description*:
 
 h2. Escher
 
@@ -485,7 +485,7 @@ h2. Escher
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "Vael":http://forums.xonotic.org/member.php?action=profile&uid=133
-*Describtion*:
+*Description*:
 
 h2. Euclidean FAIL
 
@@ -493,7 +493,7 @@ h2. Euclidean FAIL
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4
-*Describtion*: WarpZone example map
+*Description*: WarpZone example map
 
 h2. Evilspace2
 
@@ -501,7 +501,7 @@ h2. Evilspace2
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
-*Describtion*:
+*Description*:
 
 h2. Facility 114
 
@@ -509,7 +509,7 @@ h2. Facility 114
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]
 *Author*: "Moo":http://forums.xonotic.org/member.php?action=profile&uid=31
-*Describtion*:
+*Description*:
 
 h2. Further In The Past
 
@@ -517,7 +517,7 @@ h2. Further In The Past
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]
 *Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
-*Describtion*:
+*Description*:
 
 h2. Gforce
 
@@ -525,7 +525,7 @@ h2. Gforce
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
-*Describtion*: A big ground complex
+*Description*: A big ground complex
 
 h2. Great Wall Revamped
 
@@ -533,7 +533,7 @@ h2. Great Wall Revamped
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "Mario":http://forums.xonotic.org/member.php?action=profile&uid=1258
-*Describtion*: Greatwall_remix with Xonotic feel
+*Description*: Greatwall_remix with Xonotic feel
 
 h2. Hypercube
 
@@ -541,7 +541,7 @@ h2. Hypercube
 
 *Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "accident":http://forums.xonotic.org/member.php?action=profile&uid=179
-*Describtion*: Exploded view Hypercube w/o any 4-D nonsense :-)
+*Description*: Exploded view Hypercube w/o any 4-D nonsense :-)
 
 h2. Imogen
 
@@ -549,7 +549,7 @@ h2. Imogen
 
 *Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Kay":http://forums.xonotic.org/member.php?action=profile&uid=219
-*Describtion*: A small/medium sized space DM map
+*Description*: A small/medium sized space DM map
 
 h2. Jenseits
 
@@ -557,7 +557,7 @@ h2. Jenseits
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]; [[Deathmatch]]; [[Team Deathmatch]]
 *Author*: "accident":http://forums.xonotic.org/member.php?action=profile&uid=179
-*Describtion*: A reimagining of "trans"
+*Description*: A reimagining of "trans"
 
 h2. Lab 610
 
@@ -565,7 +565,7 @@ h2. Lab 610
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
-*Describtion*: A lab with heavy machinery and stuff
+*Description*: A lab with heavy machinery and stuff
 
 h2. Laino-The Bridge
 
@@ -573,7 +573,7 @@ h2. Laino-The Bridge
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]
 *Author*: "monad":http://forums.xonotic.org/member.php?action=profile&uid=900
-*Describtion*:
+*Description*:
 
 h2. Little Mexico
 
@@ -581,7 +581,7 @@ h2. Little Mexico
 
 *Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Grasshopper":http://forums.xonotic.org/member.php?action=profile&uid=7
-*Describtion*: Medium 2v2
+*Description*: Medium 2v2
 
 h2. Martian Bases
 
@@ -589,7 +589,7 @@ h2. Martian Bases
 
 *Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Mario":http://forums.xonotic.org/member.php?action=profile&uid=1258
-*Describtion*: Simple Arena Map
+*Description*: Simple Arena Map
 
 h2. Minideck
 
@@ -597,7 +597,7 @@ h2. Minideck
 
 *Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Race CTS]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "lda17h":http://forums.xonotic.org/member.php?action=profile&uid=6
-*Describtion*: A huge deck 16-inspired map
+*Description*: A huge deck 16-inspired map
 
 h2. Neutron
 
@@ -605,7 +605,7 @@ h2. Neutron
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "MintOX":http://forums.xonotic.org/member.php?action=profile&uid=310
-*Describtion*:
+*Description*:
 
 h2. Perkele
 
@@ -613,7 +613,7 @@ h2. Perkele
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "bundy":http://forums.xonotic.org/member.php?action=profile&uid=754, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
-*Describtion*:
+*Description*:
 
 h2. Phillipk1x_test
 
@@ -621,7 +621,7 @@ h2. Phillipk1x_test
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
-*Describtion*:
+*Description*:
 
 h2. PushMe
 
@@ -629,7 +629,7 @@ h2. PushMe
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4, "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
-*Describtion*: Push Me! No, me! ME!!
+*Description*: Push Me! No, me! ME!!
 
 h2. Relent
 
@@ -637,7 +637,7 @@ h2. Relent
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Rad Ished":http://forums.xonotic.org/member.php?action=profile&uid=167
-*Describtion*: This floating food factory smells of death, what are they making it out of?
+*Description*: This floating food factory smells of death, what are they making it out of?
 
 h2. Rhombicuboctahedron
 
@@ -645,7 +645,7 @@ h2. Rhombicuboctahedron
 
 *Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46
-*Describtion*: A WarSpehere?!
+*Description*: A WarSpehere?!
 
 h2. Shell Station
 
@@ -653,7 +653,7 @@ h2. Shell Station
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]
 *Author*: "atheros":http://forums.xonotic.org/member.php?action=profile&uid=71
-*Describtion*: Small closed space map
+*Description*: Small closed space map
 
 h2. Snow
 
@@ -661,7 +661,7 @@ h2. Snow
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
-*Describtion*: After the mines collapsed, two tribes fight over the scraps
+*Description*: After the mines collapsed, two tribes fight over the scraps
 
 h2. Speedy Lane
 
@@ -669,7 +669,7 @@ h2. Speedy Lane
 
 *Gamemodes*: [[Race CTS]]
 *Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
-*Describtion*:
+*Description*:
 
 h2. Starship Fear
 
@@ -677,7 +677,7 @@ h2. Starship Fear
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]; [[Team Deathmatch]]
 *Author*: "Minkovsky":http://forums.xonotic.org/member.php?action=profile&uid=745
-*Describtion*: An arena originally built by an ancient alien civilization, which now is an arena you have to fight on...
+*Description*: An arena originally built by an ancient alien civilization, which now is an arena you have to fight on...
 
 h2. Stepping Forward Easy
 
@@ -685,7 +685,7 @@ h2. Stepping Forward Easy
 
 *Gamemodes*: [[Race CTS]]
 *Author*: "Revenant":http://forums.xonotic.org/member.php?action=profile&uid=670, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
-*Describtion*: A clean, medium difficult map
+*Description*: A clean, medium difficult map
 
 h2. Strength
 
@@ -693,7 +693,7 @@ h2. Strength
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Domination]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259
-*Describtion*: Medium sized industrial arena with a lot vertical action under the hot desert sun
+*Description*: Medium sized industrial arena with a lot vertical action under the hot desert sun
 
 h2. Temple City
 
@@ -701,7 +701,7 @@ h2. Temple City
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]; [[Deathmatch]]; [[Team Deathmatch]]
 *Author*: "_para":http://forums.xonotic.org/member.php?action=profile&uid=362
-*Describtion*: Big Simple textured Space floater
+*Description*: Big Simple textured Space floater
 
 h2. The Sewer
 
@@ -709,7 +709,7 @@ h2. The Sewer
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author* "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
-*Describtion*: Violent conflict in the cramped waterworks
+*Description*: Violent conflict in the cramped waterworks
 
 h2. The Yard
 
@@ -717,7 +717,7 @@ h2. The Yard
 
 *Gamemodes*: [[Deathmatch]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
-*Describtion*: q3dm17ish
+*Description*: q3dm17ish
 
 h2. Tomb
 
@@ -725,7 +725,7 @@ h2. Tomb
 
 *Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Key Hunt]]; [[Last Man Standing]]; [[Onslaught]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
-*Describtion*: A small arena
+*Description*: A small arena
 
 h2. Trust Reloaded
 
@@ -733,7 +733,7 @@ h2. Trust Reloaded
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "dublpaws":http://forums.xonotic.org/member.php?action=profile&uid=81, "Debugger":http://forums.xonotic.org/member.php?action=profile&uid=222
-*Describtion*: Lost in nothingness
+*Description*: Lost in nothingness
 
 h2. Vector Wars
 
@@ -741,7 +741,7 @@ h2. Vector Wars
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "fabzor3":http://forums.xonotic.org/member.php?action=profile&uid=43, "Cuinnton":http://forums.xonotic.org/member.php?action=profile&uid=61
-*Describtion*: 8th gen aussie CTF map
+*Description*: 8th gen aussie CTF map
 
 h2. Warfare
 
@@ -749,7 +749,7 @@ h2. Warfare
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: Tymo
-*Describtion*: Medium sized map with a central area
+*Description*: Medium sized map with a central area
 
 h2. Xtinyworld
 
@@ -757,7 +757,7 @@ h2. Xtinyworld
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]; [[Deathmatch]]; [[Team Deathmatch]]
 *Author*: "Creation":http://forums.xonotic.org/member.php?action=profile&uid=1040
-*Describtion*: Fast paced newbie map
+*Description*: Fast paced newbie map
 
 
 h3. _Map list maintained by "Mirio_":http://forums.xonotic.org/member.php?action=profile&uid=213

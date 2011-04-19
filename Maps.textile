@@ -615,14 +615,6 @@ h2. Perkele
 *Author*: "bundy":http://forums.xonotic.org/member.php?action=profile&uid=754, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
 *Description*:
 
-h2. Phillipk1x_test
-
-" !http://pics.nexuizninjaz.com/images/gyny0md8rntrl6sqhxt1_thumb.jpg! ":http://pics.nexuizninjaz.com/images/gyny0md8rntrl6sqhxt1.jpg " !http://pics.nexuizninjaz.com/images/vgo6bp0ddi9mhnx43f0m_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vgo6bp0ddi9mhnx43f0m.jpg
-
-*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
-*Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
-*Description*:
-
 h2. PushMe
 
 " !http://pics.nexuizninjaz.com/images/y3jexbcjit53bgz13bdn_thumb.jpg! ":http://pics.nexuizninjaz.com/images/y3jexbcjit53bgz13bdn.jpg " !http://pics.nexuizninjaz.com/images/ffvvrq3teye9j6yzkr6b_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ffvvrq3teye9j6yzkr6b.jpg
@@ -646,6 +638,14 @@ h2. Rhombicuboctahedron
 *Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46
 *Description*: A WarSpehere?!
+
+h2. Ruined
+
+" !http://pics.nexuizninjaz.com/images/6pesvx4h5jakz9389kuu_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6pesvx4h5jakz9389kuu..jpg " !http://pics.nexuizninjaz.com/images/vfgnnx1qtg0r5arcjysq_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vfgnnx1qtg0r5arcjysq.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+*Description*:
 
 h2. Shell Station
 

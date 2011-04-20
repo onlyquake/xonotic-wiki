@@ -641,7 +641,7 @@ h2. Rhombicuboctahedron
 
 h2. Ruined
 
-" !http://pics.nexuizninjaz.com/images/6pesvx4h5jakz9389kuu_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6pesvx4h5jakz9389kuu..jpg " !http://pics.nexuizninjaz.com/images/vfgnnx1qtg0r5arcjysq_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vfgnnx1qtg0r5arcjysq.jpg
+" !http://pics.nexuizninjaz.com/images/6pesvx4h5jakz9389kuu_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6pesvx4h5jakz9389kuu.jpg " !http://pics.nexuizninjaz.com/images/vfgnnx1qtg0r5arcjysq_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vfgnnx1qtg0r5arcjysq.jpg
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29

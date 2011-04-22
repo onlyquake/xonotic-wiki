@@ -12,15 +12,15 @@ _TODO 5: Show the relic you are carrying on the HUD._
 
 h1. Relic types:
 
-*1 - Resistance:* The Resistance relic protects the player carrying it, by making him take less damage.
+*1 - Resistance:* The Resistance relic protects the player carrying it, by making him take less damage. Does not work while you have the Shield powerup.
 
 *2 - Regeneration:* This relic slowly regenerates the carrier's health. It's not available when normal health regeneration is enabled, and therefore will not spawn by default.
 
 *3 - Vampire:* The carrier of this relic is healed based on the damage he deals to his opponent. This relic will not spawn when the vampire mutator is enabled.
 
-*4 - Ammo:* Slowly grants ammo of all types to the owner.
+*4 - Ammo:* Slowly grants ammo of all types to the owner. Except fuel when the fuel_regen item is owned.
 
-*5 - Damage:* The weapons of those who have this relic do more damage.
+*5 - Damage:* The weapons of those who have this relic do more damage. Does not work while you have the Strength powerup.
 
 *6 - Splash Damage:* When the holder shoots someone, the damage is transmitted to those around the victim, harming them as well.
 _TODO: Make this relic not affect team mates._
@@ -44,7 +44,7 @@ _TODO: Make this relic not affect team mates._
 *14 - Radioactive:* Those who get too close to the holder of this relic will take damage.
 _TODO: Make this relic not affect team mates._
 
-*15 - Resurrection:* If you die while holding this relic, you will be revived with your health to default spawn value. The relic then respawns in a different location. This does not work for suicides.
+*15 - Resurrection:* If you die while holding this relic, you will be revived with your health to default spawn value. The relic then respawns in a different location. Does not work for suicides.
 
-*16 - Vengeance:* When the carrier dies, he causes a big explosion that harms anyone who was close. The relic then respawns in a different location. This does not work for suicides.
+*16 - Vengeance:* When the carrier dies, he causes a big explosion that harms anyone who is close. The relic then respawns in a different location. Does not work for suicides.
 _TODO: Fix explosion particles, which are not showing for some reason._

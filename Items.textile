@@ -20,21 +20,38 @@ h3. Small (5)
 
 h2. Armor
 
-h3. Mega
+h3. Mega (100)
 
-h3. Big
+!http://pics.nexuizninjaz.com/images/havtb83g2yglb201q84t.png!
 
-h3. Medium
+h3. Big (50)
 
-h3. Small
+!http://pics.nexuizninjaz.com/images/jyi1aj1vx6rrrckx7zgt.png!
 
+h3. Medium (25)
+
+!http://pics.nexuizninjaz.com/images/ijq1xmxw797e1klv1l.png!
+
+h3. Small (5)
+
+!http://pics.nexuizninjaz.com/images/3poc1vj2snop4rnwzeb5.png!
+
+_______________________________
 
 h2. Ammo
 
 h3. Shells
 
+!http://pics.nexuizninjaz.com/images/lz3dmrsxdpld6omuksps.png!
+
 h3. Bullets
+
+!http://pics.nexuizninjaz.com/images/6ra03dq3kvnolzdtk33.png!
 
 h3. Cells
 
+!http://pics.nexuizninjaz.com/images/jnyi12r4hchzq795rx07.png!
+
 h3. Rockets
+
+!http://pics.nexuizninjaz.com/images/w9bizye85ta3o2iwh2b.png!

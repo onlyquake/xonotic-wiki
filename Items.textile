@@ -6,6 +6,8 @@ h2. Health
 
 h3. Mega (100)
 
+!http://pics.nexuizninjaz.com/images/s92ftsza0q7r8daau47z.png!
+
 h3. Big (50)
 
 !http://pics.nexuizninjaz.com/images/qxiffzan7xx91qj9x1.png!
@@ -34,7 +36,7 @@ h3. Medium (25)
 
 h3. Small (5)
 
-!http://pics.nexuizninjaz.com/images/3poc1vj2snop4rnwzeb5.png!
+!http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png!
 
 _______________________________
 
@@ -42,7 +44,7 @@ h2. Ammo
 
 h3. Shells
 
-!http://pics.nexuizninjaz.com/images/lz3dmrsxdpld6omuksps.png!
+!http://pics.nexuizninjaz.com/images/f9hojpjhgcvc21a48916.png!
 
 h3. Bullets
 

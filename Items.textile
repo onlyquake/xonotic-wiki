@@ -4,14 +4,19 @@ h1. Items
 
 h2. Health
 
-h3. Mega
+h3. Mega (100)
 
-h3. Big
+h3. Big (50)
 
-h3. Medium
+!http://pics.nexuizninjaz.com/images/qxiffzan7xx91qj9x1.png!
 
-h3. Small
+h3. Medium (25)
 
+!http://pics.nexuizninjaz.com/images/mulmtdwq27dwh2zwrpa.png!
+
+h3. Small (5)
+
+!http://pics.nexuizninjaz.com/images/91w9h1tomsbml5ukj8re.png!
 
 h2. Armor
 

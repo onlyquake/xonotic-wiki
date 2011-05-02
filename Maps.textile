@@ -425,6 +425,14 @@ h2. Constructed
 
 h2. Darkzone
 
+" !http://pics.nexuizninjaz.com/images/1rrodzom2j5i3htrbg35_thumb.jpg! ":http://pics.nexuizninjaz.com/images/1rrodzom2j5i3htrbg35.jpg " !http://pics.nexuizninjaz.com/images/hepi0j7kl2x90lwfcwp_thumb.jpg! ":http://pics.nexuizninjaz.com/images/hepi0j7kl2x90lwfcwp.jpg
+
+*Gamemodes*: [[Deathmatch]]
+*Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Description*: A remake of a classic
+
+h2. Darkzone
+
 " !http://pics.nexuizninjaz.com/images/x7mdsv9rng9zeqe70j_thumb.jpg! ":http://pics.nexuizninjaz.com/images/x7mdsv9rng9zeqe70j.jpg " !http://pics.nexuizninjaz.com/images/4jjx8cf79g05w6yfdun_thumb.jpg! ":http://pics.nexuizninjaz.com/images/4jjx8cf79g05w6yfdun.jpg
 
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
@@ -599,6 +607,14 @@ h2. Minideck
 *Author*: "lda17h":http://forums.xonotic.org/member.php?action=profile&uid=6
 *Description*: A huge deck 16-inspired map
 
+h2. Modern West Town
+
+" !http://pics.nexuizninjaz.com/images/d6c54z5jo382x51hgtdo_thumb.jpg! ":http://pics.nexuizninjaz.com/images/d6c54z5jo382x51hgtdo.jpg " !http://pics.nexuizninjaz.com/images/68dj413w23rl2i4wbbou_thumb.jpg! ":http://pics.nexuizninjaz.com/images/68dj413w23rl2i4wbbou.jpg
+
+*Gamemodes*: [[Deathmatch]]; [[Team Deathmatch]]
+*Author*: "Nestel":http://forums.xonotic.org/member.php?action=profile&uid=556
+*Description*: West Town combine with modern stuff
+
 h2. Neutron
 
 " !http://pics.nexuizninjaz.com/images/n8wsjdzee52bgcb3p2vy_thumb.jpg! ":http://pics.nexuizninjaz.com/images/n8wsjdzee52bgcb3p2vy.jpg " !http://pics.nexuizninjaz.com/images/vzstk0u0fwon7coqjz4_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vzstk0u0fwon7coqjz4.jpg
@@ -622,6 +638,14 @@ h2. PushMe
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4, "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
 *Description*: Push Me! No, me! ME!!
+
+h2. Redsky Arena Deathmatch
+
+" !http://pics.nexuizninjaz.com/images/qozgcf7x1mddvuwzhfk_thumb.jpg! ":http://pics.nexuizninjaz.com/images/qozgcf7x1mddvuwzhfk.jpg " !http://pics.nexuizninjaz.com/images/mp5egwrbzfgsqy7877s9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/mp5egwrbzfgsqy7877s9.jpg
+
+*Gamemodes*: [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Team Deathmatch]]
+*Author*: "Minkovsky":http://forums.xonotic.org/member.php?action=profile&uid=745
+*Description*:
 
 h2. Relent
 

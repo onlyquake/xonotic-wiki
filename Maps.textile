@@ -727,6 +727,14 @@ h2. Temple City
 *Author*: "_para":http://forums.xonotic.org/member.php?action=profile&uid=362
 *Description*: Big Simple textured Space floater
 
+h2. Terminal
+
+" !http://pics.nexuizninjaz.com/images/cwinh2la8e6h5fgwc1jn_thumb.jpg! ":http://pics.nexuizninjaz.com/images/cwinh2la8e6h5fgwc1jn.jpg " !http://pics.nexuizninjaz.com/images/4fr1wlltqe9cxqzewwoz_thumb.jpg! ":http://pics.nexuizninjaz.com/images/4fr1wlltqe9cxqzewwoz.jpg
+
+*Gamemodes*: [[Race CTS]]
+*Author*: FruitieX
+*Description*: A very simple nexrun map, where your strafing skills will be tested up to terminal velocity
+
 h2. The Sewer
 
 " !http://pics.nexuizninjaz.com/images/dc0u9ouch9h9vzqfevay_thumb.jpg! ":http://pics.nexuizninjaz.com/images/dc0u9ouch9h9vzqfevay.jpg " !http://pics.nexuizninjaz.com/images/r02fnjmeugbbhtsaqn0_thumb.jpg! ":http://pics.nexuizninjaz.com/images/r02fnjmeugbbhtsaqn0.jpg

@@ -359,6 +359,14 @@ h2. Abandoned
 *Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
 *Description*: Abandoned orbital station
 
+h2. Above Extended
+
+" !http://pics.nexuizninjaz.com/images/j95fkh1efou5jh1my3d8_thumb.jpg! ":http://pics.nexuizninjaz.com/images/j95fkh1efou5jh1my3d8.jpg " !http://pics.nexuizninjaz.com/images/aqdohtykn476t3hbzchm_thumb.jpg! ":http://pics.nexuizninjaz.com/images/aqdohtykn476t3hbzchm.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
+*Description*: Don't look down!
+
 h2. Accident
 
 " !http://pics.nexuizninjaz.com/images/1wd0t5lox0c0vp1sipf9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/1wd0t5lox0c0vp1sipf9.jpg " !http://pics.nexuizninjaz.com/images/ial2qab9w3l6miu486g_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ial2qab9w3l6miu486g.jpg
@@ -732,7 +740,7 @@ h2. Terminal
 " !http://pics.nexuizninjaz.com/images/cwinh2la8e6h5fgwc1jn_thumb.jpg! ":http://pics.nexuizninjaz.com/images/cwinh2la8e6h5fgwc1jn.jpg " !http://pics.nexuizninjaz.com/images/4fr1wlltqe9cxqzewwoz_thumb.jpg! ":http://pics.nexuizninjaz.com/images/4fr1wlltqe9cxqzewwoz.jpg
 
 *Gamemodes*: [[Race CTS]]
-*Author*: FruitieX
+*Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
 *Description*: A very simple nexrun map, where your strafing skills will be tested up to terminal velocity
 
 h2. The Sewer

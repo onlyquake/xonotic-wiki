@@ -2,7 +2,7 @@ h1. Clan Arena (CA)
 
 h2. Object of the Game
 
-Clan Arena is basically Team [[Last_Man_Standing|LMS]] (you spawn with almost all weapons again). Again 2 teams (red & blue) fight against each other. Once you die you have to spectate. If 1 team is 100% dead the other team gets 1 point. 10 points to win a map.
+Clan Arena is basically Team [[Last_Man_Standing|LMS]] (you spawn with almost all weapons as well) where 2 teams (red & blue) fight against each other. Once you die you have to spectate. If 1 team is 100% dead the other team gets 1 point. 10 points to win a map.
 
 
 h2. Map Entities

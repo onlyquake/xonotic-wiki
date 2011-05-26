@@ -2,7 +2,9 @@ h1. Keepaway
 
 h2. Object of the Game
 
-<Insert object of the game here>
+!>http://pics.nexuizninjaz.com/images/9opssjbjkee1smomug.png!
+
+There is a ball spawned randomly on the map. The goals are to get the ball by any means possible and -- when you have it, kill as many people as possible and protect yourself.
 
 h2. Map Entities
 

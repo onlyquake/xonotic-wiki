@@ -4,6 +4,14 @@ p>. Go to
 "Xonotic Map Pack":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Xonotic-Map-Pack
 "Custom Maps":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Custom-Maps
 
+h2. Afterslime
+
+" !http://pics.nexuizninjaz.com/images/6a4kwp6feddhv9ktycf_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6a4kwp6feddhv9ktycf.jpg " !http://pics.nexuizninjaz.com/images/kdk8n1sudpej0ogrhkmz_thumb.jpg! ":http://pics.nexuizninjaz.com/images/kdk8n1sudpej0ogrhkmz.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
+*Description*: Medium sized indoor deathmatch map
+
 h2. Dance
 
 " !http://pics.nexuizninjaz.com/images/6id08t6spggluwlkms9b_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6id08t6spggluwlkms9b.jpg " !http://pics.nexuizninjaz.com/images/ropjquf01ktbmgp8r5tw_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ropjquf01ktbmgp8r5tw.jpg
@@ -109,14 +117,6 @@ h2. Above
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
 *Description*: Don't look down!
-
-h2. Afterslime
-
-" !http://pics.nexuizninjaz.com/images/6a4kwp6feddhv9ktycf_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6a4kwp6feddhv9ktycf.jpg " !http://pics.nexuizninjaz.com/images/kdk8n1sudpej0ogrhkmz_thumb.jpg! ":http://pics.nexuizninjaz.com/images/kdk8n1sudpej0ogrhkmz.jpg
-
-*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
-*Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
-*Description*: Medium sized indoor deathmatch map
 
 h2. Apace
 

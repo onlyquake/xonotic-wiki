@@ -9,7 +9,7 @@ Information taken from
 Note
 * Impulse 30 appears to be used twice
 
-Number: Effect
+Number: Effect [alias]
 0: Reserved (no input)
 1: Weapon group 1 (Laser and @!#%'n Tuba) [1]
 2: Weapon group 2 (Shotgun) [2]

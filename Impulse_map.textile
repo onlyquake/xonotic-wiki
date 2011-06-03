@@ -7,8 +7,6 @@ Information taken from
 
 
 Note
-
-* Three of the impulses (77, 144 and 145) are listed on the OUNS wiki and appear to be deprecated
 * Impulse 30 appears to be used twice
 
 Number: Effect
@@ -49,11 +47,10 @@ Number: Effect
 47: Clear personal waypoints
 48: Clear all waypoints
 
--77: Return the flag you are carrying and teleport to the position you put a g_waypointsprite_personal (found on OUNS wiki)
 
 99: Grants all weapons, 999 ammo, health, and armor (needs sv_cheats 1)
 
-100: Tetris (needs Tetris mode to compiled in)
+100: Tetris (needs Tetris to compiled in)
 
 103: spawn a bot waypoint [g_waypointeditor_spawn]
 104: remove a bot waypoint [g_waypointeditor_remove]
@@ -62,12 +59,9 @@ Number: Effect
 107: show any bot waypoints that cannot be reached (blue) and walked (red) to, and any player spawn points without any near bot waypoint [g_waypointeditor_unreachable]
 
 140: Moving clone (needs sv_cheats 1)
-141: Teleports you to base, resets the flag, health, ammo, gives you all weapons on the map (needs sv_cheats 1)
+141: CTF speedrun, teleports you to the location you last set a g_waypointsprite_personal, resets the flag, health, ammo, gives you all weapons on the map (needs sv_cheats 1)
 142: Static clone (needs sv_cheats 1)
 143: Emergency teleport (needs sv_cheats 1)
--144: Prints info about surface (needs sv_cheats 1) (found on OUNS wiki)
--145: Distance between you and crosshair (needs sv_cheats 1) (found on OUNS wiki)
-
 148: Trigger explosion (needs sv_cheats 1)
 
 200-209: Cycles cl_weaponpriorityx (where x=0-9) backwards

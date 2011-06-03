@@ -1,0 +1,100 @@
+h1. Impulse map
+
+Information taken from 
+* server/cl_impulse.qc
+* server/cheats.qc
+* OUNS wiki cached by "Google":http://webcache.googleusercontent.com/search?q=cache:V24C1sh8RQMJ:ouns.nexuizninjaz.com/tech:impulse+nexuiz+impulse+list&cd=1&hl=en&ct=clnk&gl=uk&client=opera&source=www.google.co.uk
+
+
+Note
+
+* Three of the impulses (77, 144 and 145) are listed on the OUNS wiki and appear to be deprecated
+* Impulse 30 appears to be used twice
+
+Number: Effect
+0: Reserved (no input)
+1: Weapon group 1 (Laser and @!#%'n Tuba)
+2: Weapon group 2 (Shotgun)
+3: Weapon group 3 (Machine Gun)
+4: Weapon group 4 (Mortar and Mine Layer)
+5: Weapon group 5 (Electro)
+6: Weapon group 6 (HLAC and Crylink)
+7: Weapon group 7 (Nex, MinstaNex and Rifle)
+8: Weapon group 8 (Hagar and T.A.G. Seeker)
+9: Weapon group 9 (Rocket Launcher and Fireball)
+10: Next weapon according to linear list (1, 2, 3, 4 etc)
+11: Most recently used weapon (last selected weapon)
+12: Previous weapon according to linear list (23, 22, 21, 20 etc)
+13: Best weapon according to priority list
+14: Weapon group 0 (Port-O-Launch and Hook)
+15: Next weapon according to priority list
+16: Previous weapon according to priority list
+17: Throw weapon
+18: Next weapon according to sbar_hudselector 1 list
+19: Previous weapon according to sbar_hudselector 1 list
+20: Reload if possible
+
+30: CHIMPULSE_SPEEDRUN_INIT (found in cheats.qc)
+30: Personal waypoint at your location
+31: Personal waypoint at crosshair location
+32: Personal waypoint at last death location
+33: 'Help Me' above you
+34: 'Here' at your location
+35: 'Here' at crosshair
+36: 'Here' at last death location
+37: 'Danger' at your location
+38: 'Danger' at crosshair
+39: 'Danger' at last death location
+
+47: Clear personal waypoints
+48: Clear all waypoints
+
+-77: Return the flag you are carrying and teleport to the position you put a g_waypointsprite_personal (found on OUNS wiki)
+
+99: Grants all weapons, 999 ammo, health, and armor (needs sv_cheats 1)
+
+100: Tetris (needs Tetris mode to compiled in)
+
+103: spawn a bot waypoint [g_waypointeditor_spawn]
+104: remove a bot waypoint [g_waypointeditor_remove]
+105: relink objects and spawned bot waypoints [g_waypointeditor_relinkall]
+106: save spawned bot waypoints to .xonotic/data/data/maps.mapname.waypoints [g_waypointeditor_saveall]
+107: show any bot waypoints that cannot be reached (blue) and walked (red) to, and any player spawn points without any near bot waypoint [g_waypointeditor_unreachable]
+
+140: Moving clone (needs sv_cheats 1)
+141: Teleports you to base, resets the flag, health, ammo, gives you all weapons on the map (needs sv_cheats 1)
+142: Static clone (needs sv_cheats 1)
+143: Emergency teleport (needs sv_cheats 1)
+-144: Prints info about surface (needs sv_cheats 1) (found on OUNS wiki)
+-145: Distance between you and crosshair (needs sv_cheats 1) (found on OUNS wiki)
+
+148: Trigger explosion (needs sv_cheats 1)
+
+200-209: Cycles cl_weaponpriorityx (where x=0-9) backwards
+210-219: Cycles cl_weaponpriorityx (where x=0-9) by preference
+220-229: Cycles cl_weaponpriorityx (where x=0-9) forwards
+
+230: Laser
+231: Shotgun
+232: Machine Gun
+233: Mortar
+234: Mine Layer
+235: Electro
+236: Crylink
+237: Nex
+238: Hagar
+239: Rocket Launcher
+240: Port-O-Launch
+241: Minsta Nex
+242: Grappling Hook
+243: Heavy Laser Assault Cannon
+244: @!#%'n Tuba
+245: Rifle
+246: Fireball
+247: T.A.G. Seeker
+248: Reserved for a future weapon
+249: Reserved for a future weapon
+250: Reserved for a future weapon
+251: Reserved for a future weapon
+252: Reserved for a future weapon
+253: Reserved for a future weapon

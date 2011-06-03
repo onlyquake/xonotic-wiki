@@ -24,6 +24,7 @@ h2. Project
 h2. Gameplay
 
 * Game Mechanics
+** [[Impulse map]]
 ** [[Items]]
 ** [[Maps]]
 ** [[Players]]

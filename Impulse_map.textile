@@ -11,41 +11,41 @@ Note
 
 Number: Effect
 0: Reserved (no input)
-1: Weapon group 1 (Laser and @!#%'n Tuba)
-2: Weapon group 2 (Shotgun)
-3: Weapon group 3 (Machine Gun)
-4: Weapon group 4 (Mortar and Mine Layer)
-5: Weapon group 5 (Electro)
-6: Weapon group 6 (HLAC and Crylink)
-7: Weapon group 7 (Nex, MinstaNex and Rifle)
-8: Weapon group 8 (Hagar and T.A.G. Seeker)
-9: Weapon group 9 (Rocket Launcher and Fireball)
-10: Next weapon according to linear list (1, 2, 3, 4 etc)
-11: Most recently used weapon (last selected weapon)
-12: Previous weapon according to linear list (23, 22, 21, 20 etc)
-13: Best weapon according to priority list
-14: Weapon group 0 (Port-O-Launch and Hook)
-15: Next weapon according to priority list
-16: Previous weapon according to priority list
-17: Throw weapon
-18: Next weapon according to sbar_hudselector 1 list
-19: Previous weapon according to sbar_hudselector 1 list
-20: Reload if possible
+1: Weapon group 1 (Laser and @!#%'n Tuba) [1]
+2: Weapon group 2 (Shotgun) [2]
+3: Weapon group 3 (Machine Gun) [3]
+4: Weapon group 4 (Mortar and Mine Layer) [4]
+5: Weapon group 5 (Electro) [5]
+6: Weapon group 6 (HLAC and Crylink) [6]
+7: Weapon group 7 (Nex, MinstaNex and Rifle) [7]
+8: Weapon group 8 (Hagar and T.A.G. Seeker) [8]
+9: Weapon group 9 (Rocket Launcher and Fireball) [9]
+10: Next weapon according to linear list (1, 2, 3, 4 etc) [_weapnext_2]
+11: Most recently used weapon (last selected weapon) [weaplast]
+12: Previous weapon according to linear list (23, 22, 21, 20 etc) [_weapprev_2]
+13: Best weapon according to priority list [weapbest]
+14: Weapon group 0 (Port-O-Launch and Hook) [0]
+15: Next weapon according to priority list [_weapnext_1]
+16: Previous weapon according to priority list [_weapprev_1]
+17: Throw weapon [dropweapon]
+18: Next weapon according to sbar_hudselector 1 list [_weapnext_0]
+19: Previous weapon according to sbar_hudselector 1 list [_weapprev_0]
+20: Reload if possible [reload]
 
 30: CHIMPULSE_SPEEDRUN_INIT (found in cheats.qc)
-30: Personal waypoint at your location
-31: Personal waypoint at crosshair location
-32: Personal waypoint at last death location
-33: 'Help Me' above you
-34: 'Here' at your location
-35: 'Here' at crosshair
-36: 'Here' at last death location
-37: 'Danger' at your location
-38: 'Danger' at crosshair
-39: 'Danger' at last death location
+30: Personal waypoint at your location [g_waypointsprite_personal]
+31: Personal waypoint at crosshair location [g_waypointsprite_personal_p]
+32: Personal waypoint at last death location [g_waypointsprite_personal_d]
+33: 'Help Me' above you [g_waypointsprite_team_helpme]
+34: 'Here' at your location [g_waypointsprite_team_here]
+35: 'Here' at crosshair [g_waypointsprite_team_here_p]
+36: 'Here' at last death location [g_waypointsprite_team_here_d]
+37: 'Danger' at your location [g_waypointsprite_team_danger]
+38: 'Danger' at crosshair [g_waypointsprite_team_danger_p]
+39: 'Danger' at last death location [g_waypointsprite_team_danger_d]
 
-47: Clear personal waypoints
-48: Clear all waypoints
+47: Clear personal waypoints [g_waypointsprite_clear_personal]
+48: Clear all waypoints [g_waypointsprite_clear]
 
 
 99: Grants all weapons, 999 ammo, health, and armor (needs sv_cheats 1)
@@ -64,9 +64,45 @@ Number: Effect
 143: Emergency teleport (needs sv_cheats 1)
 148: Trigger explosion (needs sv_cheats 1)
 
-200-209: Cycles cl_weaponpriorityx (where x=0-9) backwards
-210-219: Cycles cl_weaponpriorityx (where x=0-9) by preference
-220-229: Cycles cl_weaponpriorityx (where x=0-9) forwards
+200: prev cl_weaponpriority0 "explosives weapons"
+210: best cl_weaponpriority0 "explosives weapons"
+220: next cl_weaponpriority0 "explosives weapons"
+
+201: prev cl_weaponpriority1 "energy weapons"
+211: best cl_weaponpriority1 "energy weapons"
+221: next cl_weaponpriority1 "energy weapons"
+
+202: prev cl_weaponpriority2 "hitscan exact weapons"
+212: best cl_weaponpriority2 "hitscan exact weapons"
+222: next cl_weaponpriority2 "hitscan exact weapons"
+
+203: prev cl_weaponpriority3 "hitscan all weapons"
+213: best cl_weaponpriority3 "hitscan all weapons"
+223: next cl_weaponpriority3 "hitscan all weapons"
+
+204: prev cl_weaponpriority4 "spam weapons"
+214: best cl_weaponpriority4 "spam weapons"
+224: next cl_weaponpriority4 "spam weapons"
+
+205: prev cl_weaponpriority5 "weapons for moving"
+215: best cl_weaponpriority5 "weapons for moving"
+225: next cl_weaponpriority5 "weapons for moving"
+
+206: prev cl_weaponpriority6
+216: best cl_weaponpriority6
+226: next cl_weaponpriority6
+
+207: prev cl_weaponpriority7
+217: best cl_weaponpriority7
+227: next cl_weaponpriority7
+
+208: prev cl_weaponpriority8
+218: best cl_weaponpriority8
+228: next cl_weaponpriority8
+
+209: prev cl_weaponpriority9
+219: best cl_weaponpriority9
+229: next cl_weaponpriority9
 
 230: Laser
 231: Shotgun

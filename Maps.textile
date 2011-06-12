@@ -112,11 +112,19 @@ p>. Go to
 
 h2. Above
 
-" !http://pics.nexuizninjaz.com/images/iuaimf0l7smf8fr3cu44_thumb.jpg! ":http://pics.nexuizninjaz.com/images/iuaimf0l7smf8fr3cu44.jpg " !http://pics.nexuizninjaz.com/images/r7wer1itk3u8mv460n_thumb.jpg! ":http://pics.nexuizninjaz.com/images/r7wer1itk3u8mv460n.jpg
+" !http://pics.nexuizninjaz.com/images/p8seil4yzqnza2a8hth_thumb.jpg! ":http://pics.nexuizninjaz.com/images/p8seil4yzqnza2a8hth.jpg " !http://pics.nexuizninjaz.com/images/p3ji0pvu5dr1idof9uh_thumb.jpg! ":http://pics.nexuizninjaz.com/images/p3ji0pvu5dr1idof9uh.jpg
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
 *Description*: Don't look down!
+
+h2. Aether
+
+" !http://pics.nexuizninjaz.com/images/sr1zun0uqr7dvnzc1bx_thumb.jpg! "http://pics.nexuizninjaz.com/images/sr1zun0uqr7dvnzc1bx.jpg " !http://pics.nexuizninjaz.com/images/hdm4to0zl11lmutnpf1r_thumb.jpg! ":http://pics.nexuizninjaz.com/images/hdm4to0zl11lmutnpf1r.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [Key Hunt]]; [[Last Man Standing]]; [[Team Deathmatch]]
+*Author*: "nowego":http://forums.xonotic.org/member.php?action=profile&uid=624, Tymo
+*Description*: Small and very fast Tourney map
 
 h2. Apace
 
@@ -253,6 +261,14 @@ h2. Implosion
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "MintOX":http://forums.xonotic.org/member.php?action=profile&uid=310
 *Description*: Space Style CTF Level
+
+h2. Lightspeed
+
+" !http://pics.nexuizninjaz.com/images/itm3gb32u4z9jg54tnbg_thumb.jpg! "http://pics.nexuizninjaz.com/images/itm3gb32u4z9jg54tnbg.jpg " !http://pics.nexuizninjaz.com/images/aoirt56k3685uzu0i_thumb.jpg! "http://pics.nexuizninjaz.com/images/aoirt56k3685uzu0i.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
+*Description*: Very small, 1on1 CTF Map. Key to survival: move as fast, as the speed of light
 
 h2. Lord Of The Moths
 

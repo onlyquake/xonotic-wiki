@@ -296,7 +296,7 @@ h2. Sirius
 
 h2. Solarium
 
-" !http://pics.nexuizninjaz.com/images/sp2qn3uw4f703pq5nt1_thumb.jpg! ":http://pics.nexuizninjaz.com/images/sp2qn3uw4f703pq5nt1.jpg " !http://pics.nexuizninjaz.com/images/qff611ojrx11bmqiq4kp_thumb.jpg! ":http://pics.nexuizninjaz.com/images/qff611ojrx11bmqiq4kp.jpg
+" !http://pics.nexuizninjaz.com/images/e379ahn1u3es7284bt70_thumb.jpg! ":http://pics.nexuizninjaz.com/images/e379ahn1u3es7284bt70.jpg " !http://pics.nexuizninjaz.com/images/l9agp4d57pb5xyvnsvhw_thumb.jpg! ":http://pics.nexuizninjaz.com/images/l9agp4d57pb5xyvnsvhw.jpg
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Race]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
@@ -379,7 +379,7 @@ h2. Aether
 
 " !http://pics.nexuizninjaz.com/images/sr1zun0uqr7dvnzc1bx_thumb.jpg! ":http://pics.nexuizninjaz.com/images/sr1zun0uqr7dvnzc1bx.jpg " !http://pics.nexuizninjaz.com/images/hdm4to0zl11lmutnpf1r_thumb.jpg! ":http://pics.nexuizninjaz.com/images/hdm4to0zl11lmutnpf1r.jpg
 
-*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [Key Hunt]]; [[Last Man Standing]]; [[Team Deathmatch]]
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Key Hunt]]; [[Last Man Standing]]; [[Team Deathmatch]]
 *Author*: "nowego":http://forums.xonotic.org/member.php?action=profile&uid=624, Tymo
 *Description*: Small and very fast Tourney map
 

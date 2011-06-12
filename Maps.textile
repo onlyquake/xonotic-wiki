@@ -118,14 +118,6 @@ h2. Above
 *Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
 *Description*: Don't look down!
 
-h2. Aether
-
-" !http://pics.nexuizninjaz.com/images/sr1zun0uqr7dvnzc1bx_thumb.jpg! "http://pics.nexuizninjaz.com/images/sr1zun0uqr7dvnzc1bx.jpg " !http://pics.nexuizninjaz.com/images/hdm4to0zl11lmutnpf1r_thumb.jpg! ":http://pics.nexuizninjaz.com/images/hdm4to0zl11lmutnpf1r.jpg
-
-*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [Key Hunt]]; [[Last Man Standing]]; [[Team Deathmatch]]
-*Author*: "nowego":http://forums.xonotic.org/member.php?action=profile&uid=624, Tymo
-*Description*: Small and very fast Tourney map
-
 h2. Apace
 
 " !http://pics.nexuizninjaz.com/images/jdwddtcbrrsnogj6380k_thumb.jpg! ":http://pics.nexuizninjaz.com/images/jdwddtcbrrsnogj6380k.jpg " !http://pics.nexuizninjaz.com/images/lsfdte23yro2qmlusp2h_thumb.jpg! ":http://pics.nexuizninjaz.com/images/lsfdte23yro2qmlusp2h.jpg
@@ -262,14 +254,6 @@ h2. Implosion
 *Author*: "MintOX":http://forums.xonotic.org/member.php?action=profile&uid=310
 *Description*: Space Style CTF Level
 
-h2. Lightspeed
-
-" !http://pics.nexuizninjaz.com/images/itm3gb32u4z9jg54tnbg_thumb.jpg! "http://pics.nexuizninjaz.com/images/itm3gb32u4z9jg54tnbg.jpg " !http://pics.nexuizninjaz.com/images/aoirt56k3685uzu0i_thumb.jpg! "http://pics.nexuizninjaz.com/images/aoirt56k3685uzu0i.jpg
-
-*Gamemodes*: [[Capture the Flag|Capture The Flag]]
-*Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
-*Description*: Very small, 1on1 CTF Map. Key to survival: move as fast, as the speed of light
-
 h2. Lord Of The Moths
 
 " !http://pics.nexuizninjaz.com/images/0yiuuf84980ke0dd6us_thumb.jpg! ":http://pics.nexuizninjaz.com/images/0yiuuf84980ke0dd6us.jpg " !http://pics.nexuizninjaz.com/images/q7n73q4d09wh2941zk2_thumb.jpg! ":http://pics.nexuizninjaz.com/images/q7n73q4d09wh2941zk2.jpg
@@ -390,6 +374,14 @@ h2. Accident
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
 *Description*: Symetrical CTF map
+
+h2. Aether
+
+" !http://pics.nexuizninjaz.com/images/sr1zun0uqr7dvnzc1bx_thumb.jpg! ":http://pics.nexuizninjaz.com/images/sr1zun0uqr7dvnzc1bx.jpg " !http://pics.nexuizninjaz.com/images/hdm4to0zl11lmutnpf1r_thumb.jpg! ":http://pics.nexuizninjaz.com/images/hdm4to0zl11lmutnpf1r.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [Key Hunt]]; [[Last Man Standing]]; [[Team Deathmatch]]
+*Author*: "nowego":http://forums.xonotic.org/member.php?action=profile&uid=624, Tymo
+*Description*: Small and very fast Tourney map
 
 h2. Aggressor
 
@@ -607,6 +599,14 @@ h2. Laino-The Bridge
 *Author*: "monad":http://forums.xonotic.org/member.php?action=profile&uid=900
 *Description*:
 
+h2. Lightspeed
+
+" !http://pics.nexuizninjaz.com/images/itm3gb32u4z9jg54tnbg_thumb.jpg! ":http://pics.nexuizninjaz.com/images/itm3gb32u4z9jg54tnbg.jpg " !http://pics.nexuizninjaz.com/images/aoirt56k3685uzu0i_thumb.jpg! ":http://pics.nexuizninjaz.com/images/aoirt56k3685uzu0i.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
+*Description*: Very small, 1on1 CTF Map. Key to survival: move as fast, as the speed of light
+
 h2. Little Mexico
 
 " !http://pics.nexuizninjaz.com/images/gepzq2hgqkf2zxaou81l_thumb.jpg! ":http://pics.nexuizninjaz.com/images/gepzq2hgqkf2zxaou81l.jpg " !http://pics.nexuizninjaz.com/images/g835h1yzrmr4gm6mcdg4_thumb.jpg! ":http://pics.nexuizninjaz.com/images/g835h1yzrmr4gm6mcdg4.jpg
@@ -614,6 +614,14 @@ h2. Little Mexico
 *Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Grasshopper":http://forums.xonotic.org/member.php?action=profile&uid=7
 *Description*: Medium 2v2
+
+h2. Marsball
+
+" !http://pics.nexuizninjaz.com/images/dhm9oo34cot3xz3ahai4_thumb.jpg! ":http://pics.nexuizninjaz.com/images/dhm9oo34cot3xz3ahai4.jpg " !http://pics.nexuizninjaz.com/images/5tbsd75hiulh8smttoi1_thumb.jpg! ":http://pics.nexuizninjaz.com/images/5tbsd75hiulh8smttoi1.jpg
+
+*Gamemodes* [Nexball]
+*Author*: "Grasshopper":http://forums.xonotic.org/member.php?action=profile&uid=7, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Description*: In a crater of the red planet is a arena
 
 h2. Martian Bases
 

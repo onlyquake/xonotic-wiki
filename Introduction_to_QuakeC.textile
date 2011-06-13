@@ -8,11 +8,11 @@ h2. Article TODO
 
 h2. About QuakeC
 
-QuakeC is a very simplified dialect of the well-known C programming language, as used by Quake. Xonotic uses the FTEQCC dialect of QuakeC, so only this one will be described (as well as some common extensions among Quake engines).
+QuakeC is a very simplified dialect of the well-known C programming language, and is used by the Quake I engine and its derivatives. Xonotic uses the FTEQCC dialect of QuakeC, so only this dialect will be described (as well as some common extensions among Quake engines).
 
 h2. Example code
 
-To see what QuakeC looks like, here is an example:
+To see what QuakeC looks like, here is a piece of example code:
 
 <pre><code class="c">
   // needed declarations:
@@ -51,7 +51,7 @@ To see what QuakeC looks like, here is an example:
     return nearest;
   }
 </code></pre>
-(Note: _findchain_ is implemented in QuakeC for demonstration purposes only so one can see how to build a linked list, as this function is already built in to the engine and can be used directly)
+*Note:* _findchain_ is implemented in QuakeC for demonstration purposes only so one can see how to build a linked list, as this function is already built in to the engine and can be used directly
 
 h2. Other resources
 
@@ -82,7 +82,7 @@ is an old-style function declaration, while
 
   var float(float a, float b) myfunc;
 
-declares a variable of function type. An alternate and often more readable way to disambiguate variable declarations is using a _typedef_:
+declares a variable of function type. An alternate and often more readable way to disambiguate variable declarations is using a _typedef_, like so:
 
   typedef float(float, float) myfunc_t;
   myfunc_t myfunc;
@@ -90,7 +90,6 @@ declares a variable of function type. An alternate and often more readable way t
 h2. Scope
 
 A variable declared in the global scope has global scope, and is visible starting from its declaration to the end of the code. The order the code is read in by the compiler is defined in the file %%progs.src%%.
-
 A variable declared inside a function has function scope, and is visible starting from its declaration to the end of the function (**not** to the end of the block).
 
 Some variables are declared in "sys.qh":http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=blob_plain;f=qcsrc/server/sys.qh;hb=HEAD. Their declarations or names should never be changed, as they have to match the order and names of the variables in the file file "progdefs.h":http://svn.icculus.org/twilight/trunk/darkplaces/progdefs.h?view=markup of the engine exactly, or the code won't load. The special markers _end_sys_globals_ and _end_sys_fields_ are placed to denote the end of this shared declaration section.
@@ -117,37 +116,75 @@ Common functions to be used on vectors are _vlen_ (vector length), _normalize_ (
 
 Vector literals are written like '1 0 0'.
 
-**COMPILER BUG:** always use _vector = vector * float_ instead of _vector *= float_, as the latter creates incorrect code.
+**COMPILER BUG:** Always use _vector = vector * float_ instead of _vector *= float_, as the latter creates incorrect code!
 
 h2. string
 
 A _string_ in QuakeC is an immutable reference to a null-terminated character string stored in the engine. It is not possible to change a character in a string, but there are various functions to create new strings:
 
-_ftos_ and _vtos_ convert _floats_ and _vectors_ to strings. Their inverses are, of course, _stof_ and _stov_, which parse a _string_ into a _float_ or a _vector_.
+* *ftos* and *vtos* convert _floats_ and _vectors_ to strings. Their inverses are, of course, _stof_ and _stov_, which parse a _string_ into a _float_ or a _vector_.
 
-_strcat_ concatenates 2 to 8 strings together, as in _strcat("a", "b", "c")=="abc"_
+* *strcat* concatenates 2 to 8 strings together, as in:
+<pre>
+strcat("a", "b", "c")=="abc";
+</pre>
 
-_strstrofs(haystack, needle, offset)_ searches for an occurrence of one string in another, as in _strstrofs("haystack", "ac", 0)==5_. The offset defines from which starting position to search, and the return value is _-1_ if no match is found. The offset returned is _0_-based, and to search in the whole string, a start offset of _0_ would be used.
+* *strstrofs(haystack, needle, offset)* searches for an occurrence of one string in another, as in:
+<pre>
+strstrofs("haystack", "ac", 0)==5;
+</pre>The offset defines from which starting position to search, and the return value is _-1_ if no match is found. The offset returned is _0_-based, and to search in the whole string, a start offset of _0_ would be used.
 
-_substring(string, startpos, length)_ returns part of a string. The offset is _0_-based here, too.
+* *substring(string, startpos, length)* returns part of a string. The offset is _0_-based here, too.
 
 Note that there are different kinds of _strings_, regarding memory management:
-* Temporary strings are strings returned by built-in string handling functions such as _substring_, _strcat_. They last only for the duration of the function call from the engine. That means it is safe to return a temporary string in a function you wrote, but not to store them in global variables or objects as their storage will be overwritten soon.
-* Allocated strings are strings that are explicitly allocated. They are returned by _strzone_ and persist until they are freed (using _strunzone_). Note that _strzone_ does not change the string given as a parameter, but returns the newly allocated string and keeps the passed temporary string the same way! That means:
-** To allocate a string, do for example _myglobal = strzone(strcat("hello ", "world"));_
-** To free the string when it is no longer needed, do: _strunzone(myglobal);_
-* Engine owned strings, such as _netname_. These should be treated just like temporary strings: if you want to keep them in your own variables, _strzone_ them.
-* Constant strings. A string literal like _"foo"_ gets permanent storage assigned by the compiler. There is no need to _strzone_ such strings.
-* The null string. A global uninitialized _string_ variable has the special property that is is usually treated like the constant, empty, string _""_ (so using it does not constitute an error), but it is the only string that evaluates to FALSE in an if expression (but not in the ! operator - in boolean context, the string "" counts as FALSE too). As this is a useful property, Xonotic code declares such a string variable of the name _string_null_. That means that the following patterns are commonly used for allocating strings:
-** Assigning to a global string variable: _if(myglobal) strunzone(myglobal); myglobal = strzone(...);_
-** Freeing the global string variable: _if(myglobal) strunzone(myglobal); myglobal = string_null;_
-** Checking if a global string value has been set: _if(myglobal) { value has been set; } else { string has not yet been set; }_
+* *Temporary strings* are strings returned by built-in string handling functions such as _substring_, _strcat_. They last only for the duration of the function call from the engine. That means it is safe to return a temporary string in a function you wrote, but not to store them in global variables or objects as their storage will be overwritten soon.
+
+* *Allocated strings* are strings that are explicitly allocated. They are returned by _strzone_ and persist until they are freed (using _strunzone_). Note that _strzone_ does not change the string given as a parameter, but returns the newly allocated string and keeps the passed temporary string the same way! That means:
+** To allocate a string, do for example:
+<pre>
+myglobal = strzone(strcat("hello ", "world"));
+</pre>
+** To free the string when it is no longer needed, do:
+<pre>
+strunzone(myglobal);
+</pre>
+
+* *Engine-owned strings*, such as _netname_. These should be treated just like temporary strings: if you want to keep them in your own variables, _strzone_ them.
+
+* *Constant strings:* A string literal like _"foo"_ gets permanent storage assigned by the compiler. There is no need to _strzone_ such strings.
+
+* *The null string:* A global uninitialized _string_ variable has the special property that is is usually treated like the constant, empty, string _""_ (so using it does not constitute an error), but it is the only string that evaluates to FALSE in an if expression (but not in the ! operator - in boolean context, the string "" counts as FALSE too). As this is a useful property, Xonotic code declares such a string variable of the name _string_null_. That means that the following patterns are commonly used for allocating strings:
+** Assigning to a global string variable:
+<pre>
+if(myglobal)
+     strunzone(myglobal);
+
+myglobal = strzone(...);
+</pre>
+** Freeing the global string variable:
+<pre>
+if(myglobal)
+     strunzone(myglobal);
+
+myglobal = string_null;
+</pre>
+** Checking if a global string value has been set:
+<pre>
+if(myglobal) {
+     value has been set;
+}
+else {
+     string has not yet been set;
+}
+</pre>
 
 h2. entity
 
 The main object type in QuakeC is _entity_, a reference to an engine internal object. An _entity_ can be imagined as a huge struct, containing many _fields_. This is the only object type in the language. However, _fields_ can be added to the _entity_ type by the following syntax:
 
-_.float myfield;_
+<pre>
+.float myfield;
+</pre>
 
 and then all objects _e_ get a field that can be accessed like in _e.myfield_.
 
@@ -183,18 +220,20 @@ However, the syntax to declare function pointers is simplified:
   op3func_t g;
   f = sum3;
   g = f;
-  print(ftos(g(1, 2, 3)), "\n"); // prints 6</pre>
+  print(ftos(g(1, 2, 3)), "\n"); // prints 6
+</pre>
 
 Also note that the _var_ keyword is used again to disambiguate from a global function declaration.
 
-In original QuakeC by Id Software, this simplified function pointer syntax also was the only way to define functions (you may still encounter this in Xonotic code in a few places):
+In original QuakeC by iD Software, this simplified function pointer syntax also was the only way to define functions (you may still encounter this in Xonotic's code in a few places):
 
 <pre>
   float(float a, float b) sum2 = {
     return a + b;
-  }</pre>
+  }
+</pre>
 
-A special kind of functions are built-in functions (defined by the engine). These are imported using so-called built-in numbers, with a syntax like
+A special kind of functions are the built-in functions, which are defined by the engine. These are imported using so-called built-in numbers, with a syntax like:
 <pre>
   string strcat(string a, string b, ...) = #115;
 </pre>
@@ -221,22 +260,22 @@ The former is a global array of entities and can be used the usual way:
   assassins[self.assassin_index] = self;
 </pre>
 The middle one is a global array of (allocated and constant) entity fields and **not** a field of array type (which does not exist), so its usage looks a bit strange:
-
-  for(i = 0; i < BTREE_MAX_CHILDREN; ++i)
-    self.(btree_child[i]) = world;
-
+<pre>
+for(i = 0; i < BTREE_MAX_CHILDREN; ++i)
+  self.(btree_child[i]) = world;
+</pre>
 Note that this works:
-
-  var .entity indexfield;
-  indexfield = btree_child[i];
-  self.indexfield = world;
-
+<pre>
+var .entity indexfield;
+indexfield = btree_child[i];
+self.indexfield = world;
+</pre>
 The latter one is a global array of (assignable) entity field variables, and looks very similar:
-
-  myfloatfields[2] = health;
-  self.(myfloatfields[2]) = 0;
-  // equivalent to self.health = 0;
-
+<pre>
+myfloatfields[2] = health;
+self.(myfloatfields[2]) = 0;
+// equivalent to self.health = 0;
+</pre>
 Do not use arrays when you do not need to - using both arrays and function calls in the same expression can get messed up (**COMPILER BUG**), and arrays are slowly emulated using functions _ArrayGet*myfloatfields_ and _ArraySet*myfloatfields_ the compiler generates that internally do a binary search for the array index.
 
 h1. Peculiar language constructs
@@ -399,7 +438,7 @@ The main advantage of linked lists however is that you can keep them in memory b
 
 h2. Error handling
 
-Error handling is virtually not existent in Quake C code. There is no way to throw and handle exceptions.
+Error handling is virtually non-existent in QuakeC code. There is no way to throw and handle exceptions.
 
 However, built-in functions like _fopen_ return _-1_ on error.
 
@@ -467,13 +506,13 @@ h1. Pitfalls and compiler bugs
 
 h2. complex operators
 
-Do not count on the modifying and reading operators like _+=_ or _++_ to always work. Using them in simple cases like
+Do not count on the modifying and reading operators like _+=_ or _++_ to always work. Using them in simple cases like:
 
   a += 42;
   for(i = 0; i < n; ++i)
     ...
 
-is generally safe, but complex constructs like
+is generally safe, but complex constructs like:
 
   self.enemy.frags += self.value--;
 
@@ -486,56 +525,57 @@ The compiler warning **RETURN VALUE ALREADY IN USE** is a clear indicator that a
 
 Also, do not use the _+=_ like operators on _vector_s, as they are known to create incorrect code and only operate on the _x_ component of the vector.
 
-h2. functions vs arrays
+h2. functions VS. arrays
 
-Mixing function calls with array dereferencing, or doing more than one array dereferencing in the same expression, is known to create incorrect code. Avoid constructs like
+Mixing function calls with array dereferencing, or doing more than one array dereferencing in the same expression, is known to create incorrect code. Avoid constructs like:
 
   print(ftos(floatarray[i]), " --> ", stringarray[i], anotherstringarray[i], "\n");
 
-as the array dereferencings and the ftos return value are likely to overwrite each other. Instead, simplify it:
-
-  float f;
-  string s, s2;
-  // ...
-  f = floatarray[i];
-  s = stringarray[i];
-  s2 = anotherstringarray[i];
-  print(ftos(f), " --> ", s, s2, "\n");
+as the array dereferencings and the _ftos_ return value are likely to overwrite each other. Instead, simplify it:
+<pre>
+float f;
+string s, s2;
+// ...
+f = floatarray[i];
+s = stringarray[i];
+s2 = anotherstringarray[i];
+print(ftos(f), " --> ", s, s2, "\n");
+</pre>
 
 h2. vectoangles does not match makevectors
 
 The pitch angle is inverted between these two functions. You have to negate the pitch (i.e. the _x_ component of the vector representing the euler angles) to make it fit the other function.
 
-As a rule of thumb, _vectoangles_ returns angles as stored in the _angles_ field (used to rotate entities for display), while _makevectors_ expects angles as stored in the _v_angle_ field (used to transmit the direction the player is aiming). There is about just as much good reason in this as there is for 1:1 patch cables, just deal with it.
+As a rule of thumb, _vectoangles_ returns angles as stored in the _angles_ field (used to rotate entities for display), while _makevectors_ expects angles as stored in the _v_angle_ field (used to transmit the direction the player is aiming). There is about just as much good reason in this as there is for 1:1 patch cables. Just deal with it.
 
 h1. Entry points
 
 The server-side code calls the following entry points of the QuakeC code:
 
-  * _void ClientDisconnect()_: called when a player leaves the server. Do not forget to _strunzone_ all _strings_ stored in the player entity here, and do not forget to clear all references to the player!
-  * _void SV_Shutdown()_: called when the map changes or the server is quit. A good place to store persistent data like the database of race records.
-  * _void SV_ChangeTeam(float newteam)_: called when a player changes his team. Can be used to disallow team changes, or to clear the player's scores.
-  * _void ClientKill()_: called when the player uses the "kill" console command to suicide.
-  * _void RestoreGame()_: called directly after loading a save game. Useful to, for example, load the databases from disk again.
-  * _void ClientConnect()_: called as soon as a client connected, has downloaded everything, and is ready to play. The typical place to initialize the player entity.
-  * _void PutClientInServer()_: called when the client requests to spawn. Typically puts the player somewhere on the map and lets him play.
-  * _.float SendEntity(entity to, float sendflags)_: called when the engine requires a CSQC networked entity to send itself to a client, referenced by _to_. Should write some data to _MSG_ENTITY_. _FALSE_ can be returned to make the entity not send. See EXT_CSQC for information on this.
-  * _void URI_Get_Callback(...)_:
-  * _void GameCommand(string command)_: called when the "sv_cmd" console command is used, which is commonly used to add server console commands to the game. It should somehow handle the command, and print results to the server console.
-  * _void SV_OnEntityNoSpawnFunction()_: called when there is no matching spawn function for an entity. Just ignore this...
-  * _void SV_OnEntityPreSpawnFunction_: called before even looking for the spawn function, so you can even change its classname in there. If it remove()s the entity, the spawn function will not be looked for.
-  * _void SV_OnEntityPostSpawnFunction_: called ONLY after its spawn function or SV_OnEntityNoSpawnFunction was called, and skipped if the entity got removed by either.
-  * _void SetNewParms()_:
-  * _void SetChangeParms()_: 
-  * _.float customizeentityforclient()_: called for an entity before it is going to be sent to the player specified by _other_. Useful to change properties of the entity right before sending, e.g. to make an entity appear only to some players, or to make it have a different appearance to different players.
-  * _.void touch()_: called when two entities touch; the other entity can be found in _other_. It is of course called two times (the second time with _self_ and _other_ reversed).
-  * _.void contentstransition()_:
-  * _.void think()_: described above, basically a timer function.
-  * _.void blocked()_: called when a _MOVETYPE_PUSH_ entity is blocked by another entity. Typically does either nothing, reverse the direction of the door moving, or kills the player who dares to step in the way of the Mighty Crusher Door.
-  * _.void movetypesteplandevent()_: called when a player hits the floor.
-  * _.void PlayerPreThink()_: called before a player runs his physics. As a special exception, _frametime_ is set to 0 if this is called for a client-side prediction frame, as it still will get called for server frames.
-  * _.void PlayerPreThink()_: called after a player runs his physics. As a special exception, _frametime_ is set to 0 if this is called for a client-side prediction frame, as it still will get called for server frames.
-  * _void StartFrame()_: called at the beginning of each server frame, before anything else is done.
-  * _void EndFrame()_: called at the end of each server frame, just before waiting until the next frame is due.
-  * _void SV_PlayerPhysics()_: allows to replace the player physics by your own code. The movement the player requests can be found in the _vector_ field _movement_, and the currently pressed buttons are in various fields whose names are aliased to the _BUTTON__ macros.
-  * _void SV_ParseClientCommand(string command)_: handles commands sent by the client to the server using "cmd ...". Unhandled commands can be passed to the built-in function _clientcommand_ to execute the normal engine behaviour.
+  * *void ClientDisconnect()*: called when a player leaves the server. Do not forget to _strunzone_ all _strings_ stored in the player entity here, and do not forget to clear all references to the player!
+  * *void SV_Shutdown()*: called when the map changes or the server is quit. A good place to store persistent data like the database of race records.
+  * *void SV_ChangeTeam(float newteam)*: called when a player changes his team. Can be used to disallow team changes, or to clear the player's scores.
+  * *void ClientKill()*: called when the player uses the "kill" console command to suicide.
+  * *void RestoreGame()*: called directly after loading a save game. Useful to, for example, load the databases from disk again.
+  * *void ClientConnect()*: called as soon as a client has connected, downloaded everything, and is ready to play. This is the typical place to initialize the player entity.
+  * *void PutClientInServer()*: called when the client requests to spawn. Typically puts the player somewhere on the map and lets him play.
+  * *.float SendEntity(entity to, float sendflags)*: called when the engine requires a CSQC networked entity to send itself to a client, referenced by _to_. Should write some data to _MSG_ENTITY_. _FALSE_ can be returned to make the entity not send. See _EXT_CSQC_ for information on this.
+  * *void URI_Get_Callback(...)*:
+  * *void GameCommand(string command)*: called when the "sv_cmd" console command is used, which is commonly used to add server console commands to the game. It should somehow handle the command, and print results to the server console.
+  * *void SV_OnEntityNoSpawnFunction()*: called when there is no matching spawn function for an entity. Just ignore this...
+  * *void SV_OnEntityPreSpawnFunction*: called before even looking for the spawn function, so you can even change its classname in there. If it remove()s the entity, the spawn function will not be looked for.
+  * *void SV_OnEntityPostSpawnFunction*: called ONLY after its spawn function or SV_OnEntityNoSpawnFunction was called, and skipped if the entity got removed by either.
+  * *void SetNewParms()*:
+  * *void SetChangeParms()*: 
+  * *.float customizeentityforclient()*: called for an entity before it is going to be sent to the player specified by _other_. Useful to change properties of the entity right before sending, e.g. to make an entity appear only to some players, or to make it have a different appearance to different players.
+  * *.void touch()*: called when two entities touch; the other entity can be found in _other_. It is, of course, called two times (the second time with _self_ and _other_ reversed).
+  * *.void contentstransition()*:
+  * *.void think()*: described above, basically a timer function.
+  * *.void blocked()*: called when a _MOVETYPE_PUSH_ entity is blocked by another entity. Typically does either nothing, reverse the direction of the door moving, or kills the player who dares to step in the way of the Mighty Crusher Door.
+  * *.void movetypesteplandevent()*: called when a player hits the floor.
+  * *.void PlayerPreThink()*: called before a player runs his physics. As a special exception, _frametime_ is set to 0 if this is called for a client-side prediction frame, as it still will get called for server frames.
+  * *.void PlayerPreThink()*: called after a player runs his physics. As a special exception, _frametime_ is set to 0 if this is called for a client-side prediction frame, as it still will get called for server frames.
+  * *void StartFrame()*: called at the beginning of each server frame, before anything else is done.
+  * *void EndFrame()*: called at the end of each server frame, just before waiting until the next frame is due.
+  * *void SV_PlayerPhysics()*: allows to replace the player physics with your own code. The movement the player requests can be found in the _vector_ field _movement_, and the currently pressed buttons are found in various fields, whose names are aliased to the _BUTTON__ macros.
+  * *void SV_ParseClientCommand(string command)*: handles commands sent by the client to the server using "cmd ...". Unhandled commands can be passed to the built-in function _clientcommand_ to execute the normal engine behaviour.

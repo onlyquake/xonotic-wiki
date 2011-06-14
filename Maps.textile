@@ -415,6 +415,14 @@ h2. Arahia
 *Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
 *Description*: Battleground on forgotten planet
 
+h2. Azalea
+
+" !http://pics.nexuizninjaz.com/images/i2q3kspalybhupcqdt0_thumb.jpg! ":http://pics.nexuizninjaz.com/images/i2q3kspalybhupcqdt0.jpg " !http://pics.nexuizninjaz.com/images/3j0859c660f30ozeii2_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3j0859c660f30ozeii2.jpg
+
+*Gamemodes*:  [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
+*Description*: Small indoors map designed for 1v1 games
+
 h2. Azure
 
 " !http://pics.nexuizninjaz.com/images/4b3j16i7tktlpp38i3e_thumb.jpg! ":http://pics.nexuizninjaz.com/images/4b3j16i7tktlpp38i3e.jpg " !http://pics.nexuizninjaz.com/images/nvc6eq2uvmjgvm0pury_thumb.jpg! ":http://pics.nexuizninjaz.com/images/nvc6eq2uvmjgvm0pury.jpg

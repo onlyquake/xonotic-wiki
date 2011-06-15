@@ -551,6 +551,14 @@ h2. Further In The Past
 *Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
 *Description*:
 
+h2. Gaia
+
+" !http://pics.nexuizninjaz.com/images/sjkpkfoxth0sisedux9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/sjkpkfoxth0sisedux9.jpg " !http://pics.nexuizninjaz.com/images/dubbr2mabiazz2iqvipt_thumb.jpg! ":http://pics.nexuizninjaz.com/images/dubbr2mabiazz2iqvipt.jpg
+
+*Gamemodes*: [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
+*Description*: An outdoor map
+
 h2. Gforce
 
 " !http://pics.nexuizninjaz.com/images/pcp0jwcvoht1g0t3n1fk_thumb.jpg! ":http://pics.nexuizninjaz.com/images/pcp0jwcvoht1g0t3n1fk.jpg " !http://pics.nexuizninjaz.com/images/3qdtuz47lado8jw1idcg_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3qdtuz47lado8jw1idcg.jpg
@@ -671,6 +679,14 @@ h2. Perkele
 *Author*: "bundy":http://forums.xonotic.org/member.php?action=profile&uid=754, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
 *Description*:
 
+h2. Pipe
+
+" !http://pics.nexuizninjaz.com/images/ytyi1ayo0wzept3gqq_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ytyi1ayo0wzept3gqq.jpg " !http://pics.nexuizninjaz.com/images/z7porbrdkq73w0j2ywuv_thumb.jpg! ":http://pics.nexuizninjaz.com/images/z7porbrdkq73w0j2ywuv.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "Minkovsky":http://forums.xonotic.org/member.php?action=profile&uid=745
+*Description*: Ever wondered how it would be in an endless loop?
+
 h2. PushMe
 
 " !http://pics.nexuizninjaz.com/images/y3jexbcjit53bgz13bdn_thumb.jpg! ":http://pics.nexuizninjaz.com/images/y3jexbcjit53bgz13bdn.jpg " !http://pics.nexuizninjaz.com/images/ffvvrq3teye9j6yzkr6b_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ffvvrq3teye9j6yzkr6b.jpg
@@ -774,6 +790,14 @@ h2. Terminal
 *Gamemodes*: [[Race CTS]]
 *Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
 *Description*: A very simple nexrun map, where your strafing skills will be tested up to terminal velocity
+
+h2. THAD
+
+" !http://pics.nexuizninjaz.com/images/8kcgngrsmckc4cwmb9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/8kcgngrsmckc4cwmb9.jpg " !http://pics.nexuizninjaz.com/images/1vvj1xkq0wst1r00pfbr_thumb.jpg! ":http://pics.nexuizninjaz.com/images/1vvj1xkq0wst1r00pfbr.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259
+*Description*:
 
 h2. The Sewer
 

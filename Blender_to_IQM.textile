@@ -4,7 +4,8 @@ h1. Blender to IQM
 
  h3. Needed/Example files
  * Bounding Box for Stand and Crouch: http://dev.xonotic.org/attachments/download/33/bbox_crouch_stand.zip
- * Ignis example blend: http://dev.xonotic.org/attachments/download/82/models_player_ignis.blend
+ * Erebus example blend: http://dev.xonotic.org/attachments/download/166/erebus.blend
+ * Erebus example framegroups: http://dev.xonotic.org/attachments/download/167/erebus.iqm.framegroups
  * Link to exporter: http://lee.fov120.com/iqm/
 
  h3. Before You Start

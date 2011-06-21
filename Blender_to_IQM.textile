@@ -20,3 +20,9 @@ h1. Blender to IQM
  # Now make sure bounding boxes and meshes are both highlighted in the script window. 
  # Export to a file path of your choosing, /path/to/umbra.iqm. Put the names of all the animations in the animations box, using commas for multiple anims. Then hit the export button and hopefully it will work without any errors. 
  # Your model will need a .framegroups file to be used in Xonotic, look at the example file at the begining of this article or check the [[Framegroups]] section of this wiki. 
+
+h3.  Notes
+As of 06/21/2011, Xonotic uses those animations (you can copy/paste this in the IQM exporter animations box:
+<pre>
+dieone,dietwo,draw,duck,duckwalk,duckjump,duckidle,idle,jump,painone,paintwo,shoot,taunt,run,runbackwards,strafeleft,straferight,deadone,deadtwo,forwardright,forwardleft,backright,backleft,melee
+</pre>

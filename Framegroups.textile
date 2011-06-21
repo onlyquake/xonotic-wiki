@@ -45,6 +45,7 @@ Animations must be in this order (these are the values for animname):
 # <code>forwardleft</code> *
 # <code>backright</code> *
 # <code>backleft</code> *
+# <code>melee</code>
 
 Lines marked with a * need to loop (last number on the line should be <code>1</code>).
 

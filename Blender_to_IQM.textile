@@ -19,7 +19,7 @@ h1. Blender to IQM
  # Go to scripts > export > inter-quake-model. 
  # Now make sure bounding boxes and meshes are both highlighted in the script window. 
  # Export to a file path of your choosing, /path/to/umbra.iqm. Put the names of all the animations in the animations box, using commas for multiple anims. Then hit the export button and hopefully it will work without any errors. 
- # Your model will need a .framegroups file to be used in Xonotic, look at the example file at the begining of this article or check the [[Framegroups]] section of this wiki. 
+ # Your model will need a .framegroups file to be used in Xonotic, look at the example file at the beginning of this article or check the [[Framegroups]] section of this wiki. 
 
 h3.  Notes
 

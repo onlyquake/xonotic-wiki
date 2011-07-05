@@ -100,6 +100,14 @@ h2. Techassault
 *Author*: "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
 *Description*: A medium-sized assault map
 
+h2. Xoylent
+
+" !http://pics.nexuizninjaz.com/images/gk2qh1ehaklye1tja_thumb.jpg! ":http://pics.nexuizninjaz.com/images/gk2qh1ehaklye1tja.jpg " !http://pics.nexuizninjaz.com/images/vh8gd871tpj744ttk35_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vh8gd871tpj744ttk35.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46, "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259
+*Description*: A remake of Soylent
+
 
 h1. Xonotic Map Pack
 
@@ -333,14 +341,6 @@ h2. Vorix
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "It's Me":http://forums.xonotic.org/member.php?action=profile&uid=373
 *Description*: This is Vorix!
-
-h2. Xoylent
-
-" !http://pics.nexuizninjaz.com/images/gk2qh1ehaklye1tja_thumb.jpg! ":http://pics.nexuizninjaz.com/images/gk2qh1ehaklye1tja.jpg " !http://pics.nexuizninjaz.com/images/vh8gd871tpj744ttk35_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vh8gd871tpj744ttk35.jpg
-
-*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
-*Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46, "Strahlemann":http://forums.xonotic.org/member.php?action=profile&uid=259
-*Description*: A remake of Soylent
 
 
 h1. Custom Maps

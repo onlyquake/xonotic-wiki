@@ -11,7 +11,7 @@ h2. Project
 * Check out our [[plan|Project Plan]] so far
 * [[Organizational Structure]]
 * [[Roles|Roles and Skills]] of contributing community members
-* [[IRC]] channels
+* [[IRC|IRC channels]]
 * [[Community development]] planning
 * [[Legal|Licensing / Legal]]
 * [[Announcements]]

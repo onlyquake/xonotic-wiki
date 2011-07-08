@@ -39,6 +39,13 @@ Ubuntu Dependencies:
 sudo apt-get install build-essential xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl1.2-dev libsdl-image1.2-dev libclalsadrv-dev libasound2-dev libxext-dev libsdl1.2debian-pulseaudio git-core unzip wget
 </pre>
 
+For Fedora and other RPM based distro's, compiling dependencies are
+
+<pre>
+x11-proto-devel, libalsa2-static-devel libjpeg62-devel libjpeg62-static-devel libSDL-devel
+</pre>
+
+The independant package x11-proto-devel dependencies fill the rest of the debian package dependencies listed above.
 
 h3. Windows
 

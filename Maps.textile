@@ -284,7 +284,7 @@ h2. Reflection
 
 *Gamemodes*: [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
-*Description*:
+*Description*: A mining platform suspended in a canyon of ice
 
 h2. Siege
 

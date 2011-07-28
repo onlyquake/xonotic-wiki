@@ -575,6 +575,22 @@ h2. Great Wall Revamped
 *Author*: "Mario":http://forums.xonotic.org/member.php?action=profile&uid=1258
 *Description*: Greatwall_remix with Xonotic feel
 
+h2. Heavy Metal
+
+" !http://pics.nexuizninjaz.com/images/g64mx68u2v4kx2v0hu_thumb.jpg! ":http://pics.nexuizninjaz.com/images/g64mx68u2v4kx2v0hu.jpg " !http://pics.nexuizninjaz.com/images/s9fijrpobtnudb3jcsjo_thumb.jpg! ":http://pics.nexuizninjaz.com/images/s9fijrpobtnudb3jcsjo.jpg
+
+*Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Team Deathmatch]]
+*Author* "Maddin":http://forums.xonotic.org/member.php?action=profile&uid=1970
+*Description*: Die for Metal!
+
+h2. Hook Race
+
+" !http://pics.nexuizninjaz.com/images/ier77zbp5fmibi6nyahc_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ier77zbp5fmibi6nyahc.jpg " !http://pics.nexuizninjaz.com/images/s9pl9lqjz6f14f7yqh2_thumb.jpg! ":http://pics.nexuizninjaz.com/images/s9pl9lqjz6f14f7yqh2.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Race CTS]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: Clueless Newbie
+*Description*: CTF race map - use the hook!
+
 h2. Hypercube
 
 " !http://pics.nexuizninjaz.com/images/yuzc0xhpe3l3sopcd2up_thumb.jpg! ":http://pics.nexuizninjaz.com/images/yuzc0xhpe3l3sopcd2up.jpg " !http://pics.nexuizninjaz.com/images/iouj7bhs4zighz4za5_thumb.jpg! ":http://pics.nexuizninjaz.com/images/iouj7bhs4zighz4za5.jpg

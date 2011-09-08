@@ -119,8 +119,6 @@ h2. Xoylent
 
 h1. Xonotic Map Pack
 
-_Download it "here_":http://samual.nexuizninjaz.com/Xonotic%20Map%20Pack_4-12-2011.zip
-
 p>. Go to
 "Official Maps":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Official-Maps
 "Custom Maps":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Custom-Maps

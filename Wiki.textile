@@ -106,6 +106,7 @@ In this section you will find helpful information about editing Xonotic in gener
 ** [[framegroups|.framegroups]] file (allow self playing animations) know-how
 ** [[Voices and sounds|.sounds]] file (player model sounds) know-how 
 ** [[dpmodel|How to compile dpm models]]
+** [[Weaponsystem|How to make weapons]]
 ** How to get an animated mesh from [[Blender to DPM]]
 ** "Inter-Quake Model (IQM) Format":http://lee.fov120.com/iqm/
 ** [[Player Model Spec]]

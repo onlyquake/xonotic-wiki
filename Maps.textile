@@ -693,6 +693,22 @@ h2. Perkele
 *Author*: "bundy":http://forums.xonotic.org/member.php?action=profile&uid=754, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
 *Description*:
 
+h2. Piece o' Cake
+
+" !http://pics.nexuizninjaz.com/images/38htoesf7l1x2pm8vpg_thumb.jpg! ":http://pics.nexuizninjaz.com/images/38htoesf7l1x2pm8vpg.jpg " !http://pics.nexuizninjaz.com/images/jl8fdy56tawtun813vqc_thumb.jpg! ":http://pics.nexuizninjaz.com/images/jl8fdy56tawtun813vqc.jpg
+
+*Gamemodes*: [[Race CTS]]
+*Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
+*Description*: As easy as a piece of cake
+
+h2. Pillars
+
+" !http://pics.nexuizninjaz.com/images/yefrco58rj6vmwsafgq1_thumb.jpg! ":http://pics.nexuizninjaz.com/images/yefrco58rj6vmwsafgq1.jpg " !http://pics.nexuizninjaz.com/images/5bxtm7xr609xjh2x1kj_thumb.jpg! ":http://pics.nexuizninjaz.com/images/5bxtm7xr609xjh2x1kj.jpg
+
+*Gamemodes*: [[Clan Arena]]
+*Author*: "atheros":http://forums.xonotic.org/member.php?action=profile&uid=71
+*Description*: A test area with lots of pillars
+
 h2. Pipe
 
 " !http://pics.nexuizninjaz.com/images/ytyi1ayo0wzept3gqq_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ytyi1ayo0wzept3gqq.jpg " !http://pics.nexuizninjaz.com/images/z7porbrdkq73w0j2ywuv_thumb.jpg! ":http://pics.nexuizninjaz.com/images/z7porbrdkq73w0j2ywuv.jpg
@@ -701,6 +717,14 @@ h2. Pipe
 *Author*: "Minkovsky":http://forums.xonotic.org/member.php?action=profile&uid=745
 *Description*: Ever wondered how it would be in an endless loop?
 
+h2. Psychward
+
+" !http://pics.nexuizninjaz.com/images/svv9qma4idn0dtcou66_thumb.jpg! ":http://pics.nexuizninjaz.com/images/svv9qma4idn0dtcou66.jpg " !http://pics.nexuizninjaz.com/images/0dzfv8cup6cesam53kml_thumb.jpg! ":http://pics.nexuizninjaz.com/images/0dzfv8cup6cesam53kml.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]; [[Onslaught]]
+*Author*: "nowego":http://forums.xonotic.org/member.php?action=profile&uid=624
+*Description*: Mid-size CTF Map
+
 h2. PushMe
 
 " !http://pics.nexuizninjaz.com/images/y3jexbcjit53bgz13bdn_thumb.jpg! ":http://pics.nexuizninjaz.com/images/y3jexbcjit53bgz13bdn.jpg " !http://pics.nexuizninjaz.com/images/ffvvrq3teye9j6yzkr6b_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ffvvrq3teye9j6yzkr6b.jpg
@@ -708,6 +732,14 @@ h2. PushMe
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4, "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
 *Description*: Push Me! No, me! ME!!
+
+h2. Red
+
+" !http://pics.nexuizninjaz.com/images/wghy8dtw0oqzay08fn7o_thumb.jpg! ":http://pics.nexuizninjaz.com/images/wghy8dtw0oqzay08fn7o.jpg " !http://pics.nexuizninjaz.com/images/4m75akz0x08q6butvxhl_thumb.jpg! ":http://pics.nexuizninjaz.com/images/4m75akz0x08q6butvxhl.jpg
+
+*Gamemodes*: [[Deathmatch]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
+*Description*: Everything is red now!
 
 h2. Redsky Arena Deathmatch
 
@@ -756,6 +788,14 @@ h2. Snow
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
 *Description*: After the mines collapsed, two tribes fight over the scraps
+
+h2. Space Slap
+
+" !http://pics.nexuizninjaz.com/images/c5ragz89yi23b7ztpkg0_thumb.jpg! ":http://pics.nexuizninjaz.com/images/c5ragz89yi23b7ztpkg0.jpg " !http://pics.nexuizninjaz.com/images/j6sb3mvkw93ugouh27r_thumb.jpg! ":http://pics.nexuizninjaz.com/images/j6sb3mvkw93ugouh27r.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]
+*Author*: "atheros":http://forums.xonotic.org/member.php?action=profile&uid=71
+*Description*: Small openend space map designed for melee matches, should work for other modes too
 
 h2. Speedy Lane
 
@@ -860,6 +900,14 @@ h2. Warfare
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: Tymo
 *Description*: Medium sized map with a central area
+
+h2. X-Evilspaceremix
+
+" !http://pics.nexuizninjaz.com/images/7ja01icfpm02bnuh13ae_thumb.jpg! ":http://pics.nexuizninjaz.com/images/7ja01icfpm02bnuh13ae.jpg " !http://pics.nexuizninjaz.com/images/4ozhs6lqnw68x63zrm7v_thumb.jpg" !:http://pics.nexuizninjaz.com/images/4ozhs6lqnw68x63zrm7v.jpg
+
+*Gamemodes*: [[Deathmatch]]; [[Last Man Standing]]; [[Team Deathmatch]]; [[Rune|Runematch]]
+*Author*: "Leeloo":http://forums.xonotic.org/member.php?action=profile&uid=1280
+*Description*: Remake of Evilspaceremix
 
 h2. Xtinyworld
 

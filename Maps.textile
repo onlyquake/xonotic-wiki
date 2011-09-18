@@ -259,6 +259,22 @@ h2. Bloodrun
 *Author*: "nifrek":http://forums.xonotic.org/member.php?action=profile&uid=49
 *Description*: Q1 remake
 
+h2. Bot Orchestra Stage
+
+" !http://pics.nexuizninjaz.com/images/i0642xq9qhsutz5zibu_thumb.jpg! ":http://pics.nexuizninjaz.com/images/i0642xq9qhsutz5zibu.jpg " !http://pics.nexuizninjaz.com/images/vjrrj4yaf3qat7botipc_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vjrrj4yaf3qat7botipc.jpg
+
+*Gamemodes*: [[Deathmatch]]
+*Author*: "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4
+*Description*:
+
+h2. Campgrounds
+
+" !http://pics.nexuizninjaz.com/images/pu6t265zqtfmd1eeg55p_thumb.jpg! ":http://pics.nexuizninjaz.com/images/pu6t265zqtfmd1eeg55p.jpg " !http://pics.nexuizninjaz.com/images/fb5vev6pogoetj9zu374_thumb.jpg! ":http://pics.nexuizninjaz.com/images/fb5vev6pogoetj9zu374.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "FraNcoTirAdoR":http://forums.xonotic.org/member.php?action=profile&uid=644
+*Description*:
+
 h2. Claustrophobia
 
 " !http://pics.nexuizninjaz.com/images/pz4eu5ajrc83q4yf95t_thumb.jpg! ":http://pics.nexuizninjaz.com/images/pz4eu5ajrc83q4yf95t.jpg " !http://pics.nexuizninjaz.com/images/jakjga41v2xnkhd9djy6_thumb.jpg! ":http://pics.nexuizninjaz.com/images/jakjga41v2xnkhd9djy6.jpg
@@ -330,6 +346,14 @@ h2. Death51
 *Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Deathmatch]]; [[Key Hunt]]; [[Last Man Standing]]; [[Nexball]]; [[Onslaught]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "FiShMaN":http://forums.xonotic.org/member.php?action=profile&uid=899
 *Description*: Um, a map for most gametypes. Mainly ONS. HAVE FUN!
+
+h2. Desert Factory
+
+" !http://pics.nexuizninjaz.com/images/oavemxh32niz6scub2l0_thumb.jpg! ":http://pics.nexuizninjaz.com/images/oavemxh32niz6scub2l0.jpg " !http://pics.nexuizninjaz.com/images/h3mhlfrcz68eg5ptp4t_thumb.jpg! ":http://pics.nexuizninjaz.com/images/h3mhlfrcz68eg5ptp4t.jpg
+
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Team Deathmatch]]
+*Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46
+*Description*: An abandonend factory in the desert
 
 h2. Dominate Santa
 
@@ -650,6 +674,14 @@ h2. Onarail
 *Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91
 *Description*:
 
+h2. Passages
+
+" !http://pics.nexuizninjaz.com/images/24csamwcw4ynzdmv7re_thumb.jpg! ":http://pics.nexuizninjaz.com/images/24csamwcw4ynzdmv7re.jpg " !http://pics.nexuizninjaz.com/images/5gwdfcymokw0r3gcgw8_thumb.jpg! ":http://pics.nexuizninjaz.com/images/5gwdfcymokw0r3gcgw8.jpg
+
+*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Author*: "Moo":http://forums.xonotic.org/member.php?action=profile&uid=31
+*Description*: A small 1v1 map, have fun!
+
 h2. Perkele
 
 " !http://pics.nexuizninjaz.com/images/wrmmn75bp705058k1cyg_thumb.jpg! ":http://pics.nexuizninjaz.com/images/wrmmn75bp705058k1cyg.jpg " !http://pics.nexuizninjaz.com/images/bxnd5j1zrat7769cz43j_thumb.jpg! ":http://pics.nexuizninjaz.com/images/bxnd5j1zrat7769cz43j.jpg
@@ -753,6 +785,14 @@ h2. Ruined
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
 *Description*: Small duel/DM map that initially started out just as a test for a texturepack
+
+h2. Sandstorm
+
+" !http://pics.nexuizninjaz.com/images/a6p534wtkh9tc8phrqk8_thumb.jpg! ":http://pics.nexuizninjaz.com/images/a6p534wtkh9tc8phrqk8.jpg " !http://pics.nexuizninjaz.com/images/ihd6p1t02inr6onzqd44_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ihd6p1t02inr6onzqd44.jpg
+
+*Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: Pow!
+*Description*: Test Map for Vehicles
 
 h2. SG-X
 
@@ -921,6 +961,14 @@ h2. Trust Reloaded
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "dublpaws":http://forums.xonotic.org/member.php?action=profile&uid=81, "Debugger":http://forums.xonotic.org/member.php?action=profile&uid=222
 *Description*: Lost in nothingness
+
+h2. Unsealed Trial
+
+" !http://pics.nexuizninjaz.com/images/7vvdvl5hj7fbqoda0sx_thumb.jpg! ":http://pics.nexuizninjaz.com/images/7vvdvl5hj7fbqoda0sx.jpg " !http://pics.nexuizninjaz.com/images/rwxsgvndfkhg5tapzgmu_thumb.jpg! ":http://pics.nexuizninjaz.com/images/rwxsgvndfkhg5tapzgmu.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
+*Description*: Vehicle carnage
 
 h2. Vector Wars
 

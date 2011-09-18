@@ -1,7 +1,6 @@
 h1. Official Maps
 
 p>. Go to
-"Xonotic Map Pack":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Xonotic-Map-Pack
 "Custom Maps":http://dev.xonotic.org/projects/xonotic/wiki/Maps#Custom-Maps
 
 h2. Afterslime
@@ -194,7 +193,7 @@ h2. Apace
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
-*Description*:
+*Description*: CTF arena inside of a large spaceship
 
 h2. Aqueous
 
@@ -412,6 +411,14 @@ h2. Facility 114
 *Author*: "Moo":http://forums.xonotic.org/member.php?action=profile&uid=31
 *Description*:
 
+h2. Facing Worlds Nox
+
+" !http://pics.nexuizninjaz.com/images/u03bhtx6z5ri2kz2odo4_thumb.jpg! ":http://pics.nexuizninjaz.com/images/u03bhtx6z5ri2kz2odo4.jpg " !http://pics.nexuizninjaz.com/images/lxfqdulc69b5wgstxrq_thumb.jpg! ":http://pics.nexuizninjaz.com/images/lxfqdulc69b5wgstxrq.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4, "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
+*Description*: Who doesn't know this sniper hell?
+
 h2. Final Rage
 
 " !http://pics.nexuizninjaz.com/images/nmkpgetfu5j30mqwusc9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/nmkpgetfu5j30mqwusc9.jpg " !http://pics.nexuizninjaz.com/images/3ayi2na7v713glls4u1g_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3ayi2na7v713glls4u1g.jpg
@@ -543,7 +550,7 @@ h2. Lab 610
 
 " !http://pics.nexuizninjaz.com/images/7253ocss92eow1dhdzj9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/7253ocss92eow1dhdzj9.jpg " !http://pics.nexuizninjaz.com/images/3on7buvbkbxa90qrw0t3_thumb.jpg! ":http://pics.nexuizninjaz.com/images/3on7buvbkbxa90qrw0t3.jpg
 
-*Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Gamemodes*: [[Arena]]; [[Capture the Flag|Capture The Flag]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Key Hunt]]; [[Last Man Standing]]; [[Nexball]]; [[Onslaught]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
 *Description*: A lab with heavy machinery and stuff
 
@@ -633,6 +640,14 @@ h2. Neutron
 
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "MintOX":http://forums.xonotic.org/member.php?action=profile&uid=310
+*Description*: Space Level
+
+h2. Onarail
+
+" !http://pics.nexuizninjaz.com/images/v8t1xv3b03coo8v8vj8_thumb.jpg! ":http://pics.nexuizninjaz.com/images/v8t1xv3b03coo8v8vj8.jpg " !http://pics.nexuizninjaz.com/images/p0c3jrkzgswba5zxw2qe_thumb.jpg! ":http://pics.nexuizninjaz.com/images/p0c3jrkzgswba5zxw2qe.jpg
+
+*Gamemodes*: [[Assault]]
+*Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91
 *Description*:
 
 h2. Perkele
@@ -683,6 +698,14 @@ h2. PushMe
 *Author*: "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4, "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15, "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "Mircea Kitsune":http://forums.xonotic.org/member.php?action=profile&uid=12
 *Description*: Push Me! No, me! ME!!
 
+h2. Racetrack
+
+" !http://pics.nexuizninjaz.com/images/ad1r3so1b7uxxf3g2m_thumb.jpg! ":http://pics.nexuizninjaz.com/images/ad1r3so1b7uxxf3g2m.jpg " !http://pics.nexuizninjaz.com/images/hmtgdudty36caomrje9_thumb.jpg! ":http://pics.nexuizninjaz.com/images/hmtgdudty36caomrje9.jpg
+
+*Gamemodes*: [[Race]]
+*Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
+*Description*: Abandonend racetrack that gather crazy ppl from galaxy to jump like a mad man and kill each other
+
 h2. Red
 
 " !http://pics.nexuizninjaz.com/images/wghy8dtw0oqzay08fn7o_thumb.jpg! ":http://pics.nexuizninjaz.com/images/wghy8dtw0oqzay08fn7o.jpg " !http://pics.nexuizninjaz.com/images/4m75akz0x08q6butvxhl_thumb.jpg! ":http://pics.nexuizninjaz.com/images/4m75akz0x08q6butvxhl.jpg
@@ -727,9 +750,9 @@ h2. Ruined
 
 " !http://pics.nexuizninjaz.com/images/6pesvx4h5jakz9389kuu_thumb.jpg! ":http://pics.nexuizninjaz.com/images/6pesvx4h5jakz9389kuu.jpg " !http://pics.nexuizninjaz.com/images/vfgnnx1qtg0r5arcjysq_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vfgnnx1qtg0r5arcjysq.jpg
 
-*Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]
+*Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]
 *Author*: "FruitieX":http://forums.xonotic.org/member.php?action=profile&uid=29
-*Description*:
+*Description*: Small duel/DM map that initially started out just as a test for a texturepack
 
 h2. SG-X
 
@@ -777,7 +800,7 @@ h2. Solarium
 
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Key Hunt]]; [[Last Man Standing]]; [[Race]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "theShadow":http://forums.xonotic.org/member.php?action=profile&uid=153
-*Descripton*: Medium sized map with numerous trickjumps
+*Descripton*: Deep in the mountains, this Paradise light and life has become a battleground, with the bodies of the dead fertilizing the plants that grow here
 
 h2. Space Base
 
@@ -906,6 +929,14 @@ h2. Vector Wars
 *Gamemodes*: [[Capture the Flag|Capture The Flag]]
 *Author*: "fabzor3":http://forums.xonotic.org/member.php?action=profile&uid=43, "Cuinnton":http://forums.xonotic.org/member.php?action=profile&uid=61
 *Description*: 8th gen aussie CTF map
+
+h2. Vehicing Worlds Nox
+
+" !http://pics.nexuizninjaz.com/images/j1x8gtbail9w47q6ruyy_thumb.jpg! ":http://pics.nexuizninjaz.com/images/j1x8gtbail9w47q6ruyy.jpg " !http://pics.nexuizninjaz.com/images/vyhqza4zv2qx48fqlvt_thumb.jpg! ":http://pics.nexuizninjaz.com/images/vyhqza4zv2qx48fqlvt.jpg
+
+*Gamemodes*: [[Capture the Flag|Capture The Flag]]
+*Author*: "divVerent":http://forums.xonotic.org/member.php?action=profile&uid=4, "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
+*Description*: Who doesn't know this sniper hell?
 
 h2. Vorix
 

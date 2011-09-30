@@ -10,6 +10,7 @@ Currently most camera options can be configured only using the console or config
 h2. Basic usage
 
 h3. Enable camera
+
 This camera is available only during demo playback, to enable it you have to set the following variable (cvar)
 
 <pre>
@@ -34,6 +35,7 @@ Using standard movement keys you can move to right/left and forward/backward, al
 For moving up/down you can use +moveup and +movedown.
 
 h3. Camera modes
+
 The camera has two modes: chase and free. By default the camera starts in chase mode, chaning the position according to player movements. To switch to free mode, where you can put the camera anywhere on the map, use:
 
 <pre>

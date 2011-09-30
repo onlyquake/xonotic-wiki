@@ -67,6 +67,9 @@ h2. Gameplay
 ** [[MinstaGib]]
 ** [[NIX]]
 
+* Misc
+** [[Demo Camera|Camera for demos explained]]
+
 h2. Art & Media 
 
 * [[Art Roadmap]]

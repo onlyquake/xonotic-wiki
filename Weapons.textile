@@ -125,7 +125,7 @@ h2. T.A.G. Seeker
 h2. Fireball
 
 * Impulse: 9/246
-* Ammo: Rockets
+* Ammo: Fuel
 * Function: 
 
 !http://pics.nexuizninjaz.com/images/mps4i1ih6ryvjuz6zyl3.png!

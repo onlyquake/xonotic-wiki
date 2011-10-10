@@ -131,6 +131,14 @@ h2. 4Forts
 *Author*: "O.I.B.":http://forums.xonotic.org/member.php?action=profile&uid=99
 *Descirption*: A murderball2002 remake
 
+h2. 8bit Arena
+
+" !http://pics.nexuizninjaz.com/images/2dihj5bbmvrbp762wgyk_thumb.jpg! ":http://pics.nexuizninjaz.com/images/2dihj5bbmvrbp762wgyk.jpg " !http://pics.nexuizninjaz.com/images/rhvhyx4o7seld5odq4w1_thumb.jpg! ":http://pics.nexuizninjaz.com/images/rhvhyx4o7seld5odq4w1.jpg
+
+*Gamemodes*: [[Deathmatch]]
+*Author*: "C.Brutail":http://forums.xonotic.org/member.php?action=profile&uid=15
+*Description*:
+
 h2. Abandoned
 
 " !http://pics.nexuizninjaz.com/images/sccehzm1flmiis95wqo_thumb.jpg! ":http://pics.nexuizninjaz.com/images/sccehzm1flmiis95wqo.jpg " !http://pics.nexuizninjaz.com/images/95epgbtx0nihrhmuzkh0_thumb.jpg! ":http://pics.nexuizninjaz.com/images/95epgbtx0nihrhmuzkh0.jpg
@@ -219,6 +227,14 @@ h2. Atelier
 *Author*: "ShadoW":http://forums.xonotic.org/member.php?action=profile&uid=1235
 *Description*: Large map, well suited for team games
 
+h2. Atomforge
+
+" !http://pics.nexuizninjaz.com/images/juk4p9mhequ8zwz653w_thumb.jpg! ":http://pics.nexuizninjaz.com/images/juk4p9mhequ8zwz653w.jpg " !http://pics.nexuizninjaz.com/images/rpij5rk6siutn1vkmvg_thumb.jpg! ":http://pics.nexuizninjaz.com/images/rpij5rk6siutn1vkmvg.jpg
+
+*Gamemodes* [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathamtch]]
+*Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
+*Description*: Small, fast indoor DM map
+
 h2. Attic
 
 " !http://pics.nexuizninjaz.com/images/cbmss2znwfmtzibpyz3_thumb.jpg! ":http://pics.nexuizninjaz.com/images/cbmss2znwfmtzibpyz3.jpg " !http://pics.nexuizninjaz.com/images/j8c621exbxuv3jtzvhsa_thumb.jpg! ":http://pics.nexuizninjaz.com/images/j8c621exbxuv3jtzvhsa.jpg
@@ -242,6 +258,14 @@ h2. Azure
 *Gamemodes*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Key Hunt]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
 *Author*: "kuniu the frogg":http://forums.xonotic.org/member.php?action=profile&uid=184
 *Description*: First map dude
+
+h2. Bio Labour
+
+" !http://pics.nexuizninjaz.com/images/2ld4q9ma1b72vmwbyumy_thumb.jpg! ":http://pics.nexuizninjaz.com/images/2ld4q9ma1b72vmwbyumy.jpg " !http://pics.nexuizninjaz.com/images/lkvfbcptej9fyio7ytfz_thumb.jpg! ":http://pics.nexuizninjaz.com/images/lkvfbcptej9fyio7ytfz.jpg
+
+*Gamemods*: [[Arena]]; [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Team Deathmatch]]
+*Author*: "Maddin":http://forums.xonotic.org/member.php?action=profile&uid=1970
+*Description*: Looks clean... but what are they doing here?
 
 h2. Bloodrage
 
@@ -314,6 +338,30 @@ h2. Constructed
 *Gamemodes*: [[Arena]]; [[Deathmatch]]; [[Last Man Standing]]
 *Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95
 *Description*: Under construction
+
+h2. CyberParcour 01
+
+" !http://pics.nexuizninjaz.com/images/7ps4m8bw36znoiym7cfh_thumb.jpg! ":http://pics.nexuizninjaz.com/images/7ps4m8bw36znoiym7cfh.jpg " !http://pics.nexuizninjaz.com/images/d87ud6fasfhhw6w7gut_thumb.jpg! ":http://pics.nexuizninjaz.com/images/d87ud6fasfhhw6w7gut.jpg
+
+*Gamemodes*: [[Race CTS]]
+*Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46
+*Description*:
+
+h2. CyberParcour 02
+
+" !http://pics.nexuizninjaz.com/images/2xt8x54bkk0ynrbrgkr2_thumb.jpg! ":http://pics.nexuizninjaz.com/images/9qdbe6jq0yey6lz25k_thumb.jpg! " !http://pics.nexuizninjaz.com/images/9qdbe6jq0yey6lz25k_thumb.jpg! ":http://pics.nexuizninjaz.com/images/9qdbe6jq0yey6lz25k.jpg
+
+*Gamemodes*: [[Race CTS]]
+*Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46
+*Description*:
+
+h2. CyberParcour 03
+
+" !http://pics.nexuizninjaz.com/images/d13jjd4cbws7wp3yudd6_thumb.jpg! ":http://pics.nexuizninjaz.com/images/d13jjd4cbws7wp3yudd6.jpg " !http://pics.nexuizninjaz.com/images/zdd8xdym0bbyn77uqqui_thumb.jpg! ":http://pics.nexuizninjaz.com/images/zdd8xdym0bbyn77uqqui.jpg
+
+*Gamemodes*: [[Race CTS]]
+*Author*: "sev":http://forums.xonotic.org/member.php?action=profile&uid=46
+*Description*:
 
 h2. Darkzone
 
@@ -519,7 +567,7 @@ h2. Heavy Metal
 " !http://pics.nexuizninjaz.com/images/g64mx68u2v4kx2v0hu_thumb.jpg! ":http://pics.nexuizninjaz.com/images/g64mx68u2v4kx2v0hu.jpg " !http://pics.nexuizninjaz.com/images/s9fijrpobtnudb3jcsjo_thumb.jpg! ":http://pics.nexuizninjaz.com/images/s9fijrpobtnudb3jcsjo.jpg
 
 *Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Domination]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Team Deathmatch]]
-*Author* "Maddin":http://forums.xonotic.org/member.php?action=profile&uid=1970
+*Author*: "Maddin":http://forums.xonotic.org/member.php?action=profile&uid=1970
 *Description*: Die for Metal!
 
 h2. Hook Race
@@ -673,6 +721,14 @@ h2. Onarail
 *Gamemodes*: [[Assault]]
 *Author*: "Cortez":http://forums.xonotic.org/member.php?action=profile&uid=95, "SavageX":http://forums.xonotic.org/member.php?action=profile&uid=91
 *Description*:
+
+h2. Opera
+
+" !http://pics.nexuizninjaz.com/images/mogv7gmx4g5v01vyyhm_thumb.jpg! ":http://pics.nexuizninjaz.com/images/mogv7gmx4g5v01vyyhm.jpg " !http://pics.nexuizninjaz.com/images/c2ygw9cr554h5hz52z1m_thumb.jpg! ":http://pics.nexuizninjaz.com/images/c2ygw9cr554h5hz52z1m.jpg
+
+*Gamemodes*: [[Clan Arena]]; [[Deathmatch]]; [[Freeze Tag]]; [[Keepaway]]; [[Last Man Standing]]; [[Rune|Runematch]]; [[Team Deathmatch]]
+*Author*: "Morphed":http://forums.xonotic.org/member.php?action=profile&uid=8
+*Description*: He's there, the phantom of the opera!
 
 h2. Passages
 

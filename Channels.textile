@@ -27,6 +27,7 @@ h3. Clan channels
 #conquerors - Conquerors
 #deathmatchers - Deathmatchers
 #dietunichtguten - Die Tunichtguten
+#exile.xonotic - eXiLe
 #menintux - Men in Tux
 #mon.xonotic - Monks of Nexuiz
 #nsb.nexuiz - NSB - The Dyslexic Loser Mob
@@ -41,11 +42,13 @@ h3. Server channels
 #tbom - The base of madness
 #xonotic.hoctf - House of CTF
 #xpm - [NL] Balance test + Race server
+#xonotic.xpm + #xon.chat - CTS XPM physics server
 
 h2. On FreeNode
 
 #planetxonotic.de - Planetxonotic.de Servers
 #xonotic - Game developer channel. Non-development subjects should be directed to the main Xonotic channel on QuakeNet.
+#xonstat - Xonotic stats support etc.
 
 h2. Jabber XMPP MUCs
 

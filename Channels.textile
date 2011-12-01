@@ -8,7 +8,7 @@ h2. On Quakenet (IRC)
 #xonotic.admins - Channel for server admins
 #xonotic.editing - Channel for mapmakers, modelers, texturers, etc.
 #xonotic.ladder - Ladder channel
-#xonotic.ninjaz
+#xonotic.ninjaz - Xonotic Ninjaz (former Nexuiz Ninjaz)
 #xonotic.pickup - Pickup channel
 #xonotic.tourney - Tourney channel
 
@@ -22,9 +22,11 @@ h3. Country specific IRC channels
 
 h3. Clan channels
 
+#blah.eu - blah
 #bot.xonotic - BOT
 #capbots - CapBots
 #conquerors - Conquerors
+#dear - dear
 #deathmatchers - Deathmatchers
 #dietunichtguten - Die Tunichtguten
 #exile.xonotic - eXiLe
@@ -38,17 +40,22 @@ h3. Clan channels
 
 h3. Server channels
 
+#mon.sa - MoN servers (Overkill + Vehicle)
 #simba - Simba CTF
 #tbom - The base of madness
 #xonotic.hoctf - House of CTF
 #xpm - [NL] Balance test + Race server
 #xonotic.xpm + #xon.chat - CTS XPM physics server
 
-h2. On FreeNode
+h2. On FreeNode (IRC)
 
 #planetxonotic.de - Planetxonotic.de Servers
 #xonotic - Game developer channel. Non-development subjects should be directed to the main Xonotic channel on QuakeNet.
 #xonstat - Xonotic stats support etc.
+
+h2. On GlobalGamers (IRC)
+
+#xonotic -  General channel
 
 h2. Jabber XMPP MUCs
 

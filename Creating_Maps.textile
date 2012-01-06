@@ -91,3 +91,5 @@ h2. Help
 
 #xonotic.editing on irc.quakenet.org
 http://forums.xonotic.org
+
+[[Création de cartes|Français]]

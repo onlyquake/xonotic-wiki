@@ -4,8 +4,8 @@ h1. Blender to IQM
 
  h3. Needed/Example files
  * Bounding Box for Stand and Crouch: http://dev.xonotic.org/attachments/download/33/bbox_crouch_stand.zip
- * Erebus example blend: http://dev.xonotic.org/attachments/download/166/erebus.blend
- * Erebus example framegroups: http://dev.xonotic.org/attachments/download/167/erebus.iqm.framegroups
+ * Erebus example blend: http://dev.xonotic.org/attachments/download/291/erebus.blend
+ * Erebus example framegroups: http://dev.xonotic.org/attachments/download/292/erebus.iqm.framegroups
  * Link to exporter: http://lee.fov120.com/iqm/
 
  h3. Before You Start
@@ -25,5 +25,5 @@ h3.  Notes
 
 As of 01/06/2012, Xonotic uses these animations:
 <pre>
-dieone,dietwo,draw,duck,duckwalk,duckjump,duckidle,idle,jump,fly,painone,paintwo,shoot,taunt,run,runbackwards,strafeleft,straferight,deadone,deadtwo,forwardright,forwardleft,backright,backleft,melee,duckwalkbackwards,duckstrafeleft,duckstraferight,duckforwardright,duckwalkforwardleft,duckbackwardright,duckbackwardleft
+dieone,dietwo,draw,duck,duckwalk,duckjump,duckidle,idle,jump,painone,paintwo,shoot,taunt,run,runbackwards,strafeleft,straferight,deadone,deadtwo,forwardright,forwardleft,backright,backleft,melee,duckwalkbackwards,duckstrafeleft,duckstraferight,duckforwardright,duckwalkforwardleft,duckbackwardright,duckbackwardleft
 </pre>

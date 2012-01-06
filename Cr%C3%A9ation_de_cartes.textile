@@ -73,22 +73,22 @@ maps/textures/tutorial-world/wall_2.tga
 
 _ajoutez une carte bien emballée_
 
-h2. Testing Maps
+h2. Tests de cartes 
 
-You can compile your map locally or on the build server.  The build server (requires [[Repository Access]]) requires a <mapname>.mapoptions file. For more info check ask in #xonotic.editing on irc.quakenet.org
+Vous pouvez compiler votre carte localement ou sur le serveur de construction. Le serveur de construction (nécessite un [[référentiel d'accès]]) nécessite un fichier <nomdecarte>.nomdoptions. Pour vérifier, et plus d'info, demandez dans #xonotic.editing sur irc.quakenet.org
 
-h2. Maps on Servers
+h2. Cartes sur les serveurs
 
-Find a server admin to add your map.  (this section needs work)
+Trouver un serveur admin pour ajouter votre carte. (Cette section doit être travaillée)
 
-h2. Map Repositories
+h2. Dépôts de carte
 
-_*Maps must be properly packaged to be included in a repository*_
+_*Les cartes doivent être correctement emballés pour être inclus dans un référentiel*_
 
-An official map repository is in the planning stages, please check back later or find help on IRC.
+Un référentiel carte officielle est en cours de planification, s'il vous plaît, revenez plus tard ou trouvez de l'aide sur IRC.
 
 
-h2. Help
+h2. Aide
 
 #xonotic.editing on irc.quakenet.org
 http://forums.xonotic.org

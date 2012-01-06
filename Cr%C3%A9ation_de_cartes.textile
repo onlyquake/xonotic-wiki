@@ -13,44 +13,44 @@ h3. Compilation de la source
 
 NetRadiant est inclus avec le git checkout de la [[Accès référentiel|référentiel]]. Sur un système Linux/UNIX, la technique de base pour la construction est de changer votre dossier *./xonotic/netradiant* et d'utiliser 'make' pour le compiler. Résolvez toutes les dépendances.  Le fichier binaire se trouve dans *./xonotic/netradiant/install*, 'radiant.x86'.
 
-_indications pour compiler sur windows (A faire ?)_
+_Indications pour compiler sur windows (A faire ?)_
 
-h3. Builds
+h3. Constructions
 
 http://www.icculus.org/netradiant/files/
 
-h2. Map Packages
+h2. Forfaits Carte
 
-Maps are packaged as a .zip file with a .pk3 extension.  They can be opened with any program that opens zip files.  The pk3 gets loaded when you start the game, [[Xonotic]].  The engine, [[Darkplaces]] reads pk3 files as it would a normal files system.  You can thus create a pk3 package with any files that the engine can normally read.  (needs well packaged map example pk3)
+Les cartes sont emballé comme un fichier .zip avec une extension .pk3. Ils peuvent être ouvert avec n'importe quel programme qui ouvre des fichiers zip. Le pk3 est chargé lorsque vous démarrez le jeu, [[Xonotic]]. Le moteur, [[Darkplaces]] lit les fichiers pk3 comme un système normal de fichiers. Vous pouvez ainsi créer un package pk3 avec tous les fichiers que le moteur peut normalement lire. (besoin d'un exemple de carte bien emballée en pk3)
 
-h3. Package Design
+h3. Arts appliqués aux paquets
 
-h4. Naming Conventions
+h4. Conventions de nom
 
-<mapname> should be alpha-numeric, lowercase with dashes, periods and underscores only,([a-z0-9-_.]+).pk3 -- preferably they are suffixed with a version and revision.  Following this convention will yield better results from scripts that use this format to help distribute your map.
+<mapname> doit être uniquement alphanumérique, minuscules avec des tirets, des nombres et soulignements, ([a-z0-9-_.]+).pk3 -- de préférence ils sont suffixés avec une version et de révision. Suite à cette convention donnera de meilleurs résultats à partir de scripts qui utilisent ce format pour aider à distribuer votre carte.
 
-h4. Required Files
+h4. Fichiers requis
 
-maps/<mapname>.bsp - This is your compiled map file
-maps/<mapname>.map - This is an open-source game, help others learn.  This file is required to be in the game.
-maps/<mapname>.mapinfo - This file has the meta information, global music track, gametype(s) and game settings
-maps/<mapname>.tga|png|jpg - This file is a screenshot of your map.  If you don't include this, you map doesn't have a picture in the menu or the voting screen for servers and angels cry.
-maps/<mapname>.waypoints - This is required to be added to the game, it's for bot [[adding waypoints|waypoints]
-maps/gfx/<mapname>_mini.tga|png|jpg - This is required to be added to the game, it's a radar of the map.  These can be generated with the command "<".
+maps/<mapname>.bsp - Ceci est votre fichier de carte compilé
+maps/<mapname>.map - Ceci est un jeu open-source, aider les autres à apprendre. Ce fichier est requis pour être dans le match.
+maps/<mapname>.mapinfo - Ce fichier a la méta-information, le suivi mondial de la musique, mode de jeu (s) et les paramètres de jeu
+maps/<mapname>.tga|png|jpg - Ce fichier est une capture d'écran de votre carte. Si vous n'incluez pas cela, vous carte ne possède pas de photo dans le menu ou l'écran de vote pour les serveurs et pleurer les anges.
+maps/<mapname>.waypoints - Ceci est nécessaire pour être ajouté au jeu, c'est pour les bots [[ajouter des points de passages|points de passages]
+maps/gfx/<mapname>_mini.tga|png|jpg - Ceci est nécessaire pour être ajouté au jeu, c'est un radar de la carte.  Ceux-ci peuvent être générés avec la commande "<".
 
-h4. Optional/Suggested Files
+h4. Facultatif / Fichiers suggérée
 
-This is not an exhaustive list, remember, you can include almost any file that loads with a map. (needs list of files)
+Ce n'est pas une liste exhaustive, souvenez-vous, vous pouvez inclure presque n'importe quel fichier qui se charge avec une carte. (Liste des besoins des fichiers)
 
-h4. Files You Should Never Include
+h4. Fichiers que vous devriez jamais inclure
 
 csprogs.dat
 progs.dat
 effectsinfo.txt
 
-By including any of the files above, you could cause undesired results.  Try and use common sense about how you're adding dimension to your map, if you have questions, ask for help.
+En incluant l'un des fichiers ci-dessus, vous pourriez provoquer des résultats indésirables. Essayez d'utiliser le sens commun sur la façon dont vous ajoutez dimension à votre carte, si vous avez des questions, demandez de l'aide.
 
-h2. Examples
+h2. Exemples
 
 maps/tutorial-world-v1_r2.bsp
 maps/tutorial-world-v1_r2.map
@@ -71,7 +71,7 @@ maps/textures/tutorial-world/floor_1.tga
 maps/textures/tutorial-world/wall_1.tga
 maps/textures/tutorial-world/wall_2.tga
 
-_add a well packaged map_
+_ajoutez une carte bien emballée_
 
 h2. Testing Maps
 

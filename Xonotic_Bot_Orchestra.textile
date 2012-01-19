@@ -23,7 +23,7 @@ h2. Creating a bot script
 
 To create a bot script, first you need to prepare a MIDI file, for which you need to take care of:
 
-* percussion must be on track 10 only
+* percussion must be on track 10 only; percussion was mapped manually by me in midi2cfg-ng.conf by "similar sound"; you may want to read that file for reference so you can assign percussion instruments the way you want
 * program change event for Accordeon,  Harmonica and Tango Accordeon uses the @!#%'n Accordeons
 * anything else uses the @!#%'n Tuba
 

@@ -1,0 +1,45 @@
+h1. Xonotic Bot Orchestra
+
+This page explains how to create your very own Bot Orchestra performance.
+
+Note: stuff in _italics_ is up to you and may/will need changing from my examples here.
+
+h2. Mapping a Bot Orchestra Stage
+
+To do a bot orchestra performance, a "stage" map for the orchestra is required. It needs the following properties:
+
+...
+
+In the following example, we will use the map _opera_ by Morphed for the orchestra.
+
+h2. Creating a bot script
+
+To create a bot script, first you need to prepare a MIDI file, for which you need to take care of:
+
+* percussion must be on track 10 only
+* program change event for Accordeon,  Harmonica and Tango Accordeon uses the @!#%'n Accordeons
+* anything else uses the @!#%'n Tuba
+
+Then, you run in misc/tools/ of Xonotic:
+
+    perl midi2cfg-ng.pl midi2cfg-ng.conf _MIDIFILE.mid_ _transpose_ > _~/.xonotic/data/x.cfg_
+
+(you also can use any other .cfg name here, but it must be in the same directory as config.cfg and I prefer x.cfg because the unmodified tuba-play.cfg uses it)
+
+h2. Performing
+
+To perform, copy the files tuba-play.cfg, tuba-record.cfg and tuba-settings.cfg to your Xonotic config directory (~/.xonotic/data/ on Linux) and edit them to your taste. Then:
+
+    ./all run +exec tuba-play.cfg +map _opera_
+
+The performance will soon begin, and your task is to move the camera appropriately for a good recording!
+
+h2. Recording
+
+To make a video, you first run a performance as above, and then find out the file name of the .dem file in your Xonotic demo directory (~/.xonotic/data/demos/ on Linux). Then you do:
+
+    ./all run +exec input-demoseeking.cfg +exec tuba-record.cfg -demo _demos/demofilename.dem_
+
+You can use the keys m,.- for seeking, where , and . go backwards and forwards by a small step, and m and - seek by a large step. Press x to start/stop video capture.
+
+Enjoy!

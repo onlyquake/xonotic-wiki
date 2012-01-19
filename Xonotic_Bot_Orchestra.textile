@@ -19,7 +19,7 @@ To do a bot orchestra performance, a "stage" map for the orchestra is required. 
 * info_player_deathmatch spawnpoints with "restriction" "1" for where bots are to spawn
 * info_player_deathmatch spawnpoints with "restriction" "2" for where humans are to spawn
 
-In the following example, we will use the map _opera_ by Morphed for the orchestra.
+In the following example, we will use the map _opera_ by Morphed for the orchestra. You can find it in the branch _divVerent/opera-by-morphed_.
 
 h2. Creating a bot script
 

@@ -69,6 +69,7 @@ h2. Gameplay
 
 * Misc
 ** [[Demo Camera|Camera for demos explained]]
+** [[Xonotic Bot Orchestra]]
 
 h2. Art & Media 
 

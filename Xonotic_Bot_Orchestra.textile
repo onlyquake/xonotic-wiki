@@ -2,8 +2,7 @@ h1. Xonotic Bot Orchestra
 
 This page explains how to create your very own Bot Orchestra performance.
 
-In case you want to watch existing Bot Orchestra performances, visit
-http://www.youtube.com/user/XonoticBotOrchestra?feature=mhee
+In case you want to watch existing Bot Orchestra performances, visit http://www.youtube.com/user/XonoticBotOrchestra?feature=mhee
 
 Note: stuff in _italics_ is up to you and may/will need changing from my examples here.
 

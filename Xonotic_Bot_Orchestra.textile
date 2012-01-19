@@ -6,9 +6,16 @@ Note: stuff in _italics_ is up to you and may/will need changing from my example
 
 h2. Mapping a Bot Orchestra Stage
 
-To do a bot orchestra performance, a "stage" map for the orchestra is required. It needs the following properties:
+To do a bot orchestra performance, a "stage" map for the orchestra is required. It needs the following entities, if you use the default midi2cfg-ng.conf:
 
-...
+* a target_position called tVocals for the vocalist
+* a target_position called tPercussion which is where the bots will aim. It's a good idea to have a noimpact surface behind it so shots don't make a noise on their impact.
+* 32 target_position entities called tUba1 to tUba32 for where bots with tubas/accordeons should walk to start their performance
+* 32 target position entities called tChr1 to tChr32 for where percussion bots should walk to start their performance. They will then aim at tPercussion. These targets must not be on a nosteps or metalsteps surface!
+* 3 target_position entities called tMetalSteps1 to tMetalSteps3 for bots to jump on for metal step sounds
+* 4 target_position entities called tNoSteps1 to tNoSteps4 for jetpack bots so they don't make an unwanted landing sound
+* info_player_deathmatch spawnpoints with "restriction" "1" for where bots are to spawn
+* info_player_deathmatch spawnpoints with "restriction" "2" for where humans are to spawn
 
 In the following example, we will use the map _opera_ by Morphed for the orchestra.
 
@@ -25,6 +32,8 @@ Then, you run in misc/tools/ of Xonotic:
     perl midi2cfg-ng.pl midi2cfg-ng.conf _MIDIFILE.mid_ _transpose_ > _~/.xonotic/data/x.cfg_
 
 (you also can use any other .cfg name here, but it must be in the same directory as config.cfg and I prefer x.cfg because the unmodified tuba-play.cfg uses it)
+
+h3. Vocals
 
 h2. Performing
 

@@ -18,6 +18,8 @@ To do a bot orchestra performance, a "stage" map for the orchestra is required. 
 * 4 target_position entities called tNoSteps1 to tNoSteps4 for jetpack bots so they don't make an unwanted landing sound
 * info_player_deathmatch spawnpoints with "restriction" "1" for where bots are to spawn
 * info_player_deathmatch spawnpoints with "restriction" "2" for where humans are to spawn
+* you probably want to make it so the tUba bots can't leave their area using various means; see the opera map for a quite safe approach involving a "shootable" trigger
+* also you may want to look at opera's mapinfo settings: it sets _independent_players 1 and bot_navigation_ignoreplayers 1 to help bot navigation. If you can get it to work without these hacks, it'd be better though.
 
 In the following example, we will use the map _opera_ by Morphed for the orchestra. You can find it in the branch _divVerent/opera-by-morphed_.
 

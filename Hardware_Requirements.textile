@@ -2,8 +2,8 @@ h1. Hardware Requirements
 
 h2. Results from the-big-benchmark:
 
-| Xonotic Version | Username | System | CPU | Cores | RAM | GL_RENDERER | GL_VERSION | OS | Arch | Special | omg | low | med | normal | high | ultra | ultimate |
-| 0.6 | divVerent | grawp | Athlon II X4 620 | 4 | 4G | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | | 219 | 215 | 196 | 186 | 169 | 103 | 66 | 
+| Xonotic Version | Username | System | CPU | Cores | RAM | GL_VENDOR | GL_RENDERER | GL_VERSION | OS | Arch | Special | omg | low | med | normal | high | ultra | ultimate | Log download
+| 0.6 | divVerent | grawp | Athlon II X4 620 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | | 219 | 215 | 196 | 186 | 169 | 103 | 66 | 
 
 h3. Notes
 
@@ -32,6 +32,12 @@ The number of CPU cores in the system. On Linux, get this from /proc/cpuinfo.
 h4. RAM
 
 The total physical memory of the system. On Linux, get this from `free`.
+
+h4. GL_VENDOR
+
+The vendor string (typically graphics card vendor). Get this from the-big-benchmark.log, as in:
+
+    GL_VENDOR: NVIDIA Corporation
 
 h4. GL_RENDERER
 

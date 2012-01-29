@@ -6,7 +6,7 @@ h3. Xonotic 0.6
 
 | Username | System | CPU | GHz | Cores | RAM | Vendor | Card | Driver | OS | Arch | omg | low | med | normal | high | ultra | ultimate | Notes | Log download |
 | tZork | mediabox | Intel i3-2100 | 3.1 | 2 | 8G | ATI Technologies Inc. | AMD Radeon HD 6770 | 4.1.11399 Compatibility Profile Context | Windows 7 | x64 | 259 | 237 | 224 | 212 | 183 | 130 | 116 | | http://mapdl.xonotic.eu/tzork/the-big-benchmark3.zip |
-| SavageX | desktop | Phenom II X4 945 | 3.0 | 4 | 8G | ATI Technologies Inc. | AMD Radeon HD5670 | 4.1.11005 Compatibility Profile Context | Xubuntu 11.10 | x64 | 249 | 232 | 210 | 195 | 168 | 103 | 73 | | http://ompldr.org/iY2lwYg |
+| SavageX | desktop | Phenom II X4 945 | 3.0 | 4 | 8G | ATI Technologies Inc. | AMD Radeon HD5670 | 4.1.11005 Compatibility Profile Context | Linux | x64 | 249 | 232 | 210 | 195 | 168 | 103 | 73 | | http://ompldr.org/iY2lwYg |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | 219 | 215 | 196 | 186 | 169 | 103 | 66 | | http://ompldr.org/vY2luNQ |
 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 20 | 8 | - | - | - | - | - | 640x480 | http://ompldr.org/vY2luOQ |
 

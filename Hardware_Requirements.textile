@@ -73,7 +73,7 @@ Special notes for the run.
 
 h4. omg, low, med, normal, high, ultra, ultimate
 
-In this order, the integer part (part before the .) from the fps number from the MED: lines of the-big-benchmark.log. For example, the following lines:
+In this order, the integer part (part before the . - yes, we round downwards) from the fps number from the MED: lines of the-big-benchmark.log. For example, the following lines:
 
     MED: 10510 frames 47.8206480 seconds 219.7795398 fps, one-second fps min/avg/max: 127 227 439 (336 seconds)
 MED: 10510 frames 48.7275059 seconds 215.6892663 fps, one-second fps min/avg/max: 128 225 476 (336 seconds)

@@ -11,7 +11,7 @@ h3. Xonotic 0.6
 | SavageX | desktop | Phenom II X4 945 | 3.0 | 4 | 8G | ATI Technologies Inc. | AMD Radeon HD5670 | 4.1.11005 Compatibility Profile Context | Linux | x64 | 249 | 232 | 210 | 195 | 168 | 103 | 73 | | http://ompldr.org/iY2lwYg |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | 219 | 215 | 196 | 186 | 169 | 103 | 66 | | http://ompldr.org/vY2luNQ |
 | divVerent | nb-04 | Intel(R) Core(TM)2 Duo CPU P8700 | 2.53 | 2 | 4G | NVIDIA Corporation | GeForce 9600M GS/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | 196 | 183 | 161 | 125 | 96 | 39 | 17 | | http://ompldr.org/vY2lxeQ |
-| Mirio | * | * | * | * | * | NVIDIA Corporation | GeForce 9800 GT/PCI/SSE2/3DNOW! | 3.1.0 | Windows * | x86 | 106 | 105 | 96 | 92 | 86 | 55 | 45 | | http://ompldr.org/vY2lydA/the-big-benchmark.rar |
+| Mirio | nn | Athlon 64 X2 | 2.0 | 2 | 1G | NVIDIA Corporation | GeForce 9800 GT/PCI/SSE2/3DNOW! | 3.1.0 | Windows XP (Home) | x86 | 106 | 105 | 96 | 92 | 86 | 55 | 45 | | http://ompldr.org/vY2lydA/the-big-benchmark.rar |
 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 20 | 8 | - | - | - | - | - | 640x480 | http://ompldr.org/vY2luOQ |
 
 h2. How to run the benchmark

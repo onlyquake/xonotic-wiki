@@ -3,11 +3,13 @@ h1. Hardware Requirements
 h2. Results from the-big-benchmark:
 
 | Xonotic Version | Username | System | CPU | GHz | Cores | RAM | Vendor | Card | Driver | OS | Arch | Special | omg | low | med | normal | high | ultra | ultimate | Log download |
+| 0.6 | tZork | - | Intel i3-2100 | 3.1 | 2 | 8G | ATI Technologies Inc. | AMD Radeon HD 6700 Series | 4.1.11251 Compatibility Profile Context | Windows 7 | x64 | | 255 | 235 | 215 | 201 | 184 | 126 | 111 | ??? |
 | 0.6 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | | 219 | 215 | 196 | 186 | 169 | 103 | 66 | http://ompldr.org/vY2luNQ |
 | 0.6 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | | 20 | 8 | - | - | - | - | - | http://ompldr.org/vY2luOQ |
 
-
 h3. Notes
+
+The list is sorted by the "normal" column in descending order. In case of equality, further sort criteria are chosen to the left.
 
 The fields have the following meanings and are extracted as follows:
 

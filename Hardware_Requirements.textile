@@ -1,0 +1,72 @@
+h1. Hardware Requirements
+
+h2. Results from the-big-benchmark:
+
+| Xonotic Version | Username | System | CPU | Cores | RAM | GL_RENDERER | GL_VERSION | OS | Arch | Special | omg | low | med | normal | high | ultra | ultimate |
+| 0.6 | divVerent | grawp | Athlon II X4 620 | 4 | 4G | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | | 219 | 215 | 196 | 186 | 169 | 103 | 66 | 
+
+h3. Notes
+
+The fields have the following meanings and are extracted as follows:
+
+h4. Xonotic Version
+
+The Xonotic version the benchmark corresponds to. Normally benchmarks are to be done with the last released version. Pre-release testing may use the next version, if the effects configs are finalized.
+
+h4. Username
+
+The user name on the tracker here.
+
+h4. System
+
+A host identifier (e.g. host name)
+
+h4. CPU
+
+The CPU in the system. On Linux, get this from /proc/cpuinfo.
+
+h4. Cores
+
+The number of CPU cores in the system. On Linux, get this from /proc/cpuinfo.
+
+h4. RAM
+
+The total physical memory of the system. On Linux, get this from `free`.
+
+h4. GL_RENDERER
+
+The renderer string (typically graphics card name). Get this from the-big-benchmark.log, as in:
+
+    GL_RENDERER: GeForce GTS 250/PCI/SSE2
+
+h4. GL_VERSION
+
+The version string (typically driver version). Get this from the-big-benchmark.log, as in:
+
+    GL_VERSION: 3.3.0 NVIDIA 290.10
+
+h4. OS
+
+The operating system. One of Windows XP, Vista, Windows 7, Linux, OS X 10.5, OS X 10.6, OS X 10.7.
+
+h4. Arch
+
+The operating system architecture. Typically one of x86, x64.
+
+h4. Notes
+
+Special notes for the run.
+
+h4. omg, low, med, normal, high, ultra, ultimate
+
+In this order, the integer part (part before the .) from the fps number from the MED: lines of the-big-benchmark.log. For example, the following lines:
+
+    MED: 10510 frames 47.8206480 seconds 219.7795398 fps, one-second fps min/avg/max: 127 227 439 (336 seconds)
+MED: 10510 frames 48.7275059 seconds 215.6892663 fps, one-second fps min/avg/max: 128 225 476 (336 seconds)
+MED: 10510 frames 53.5346079 seconds 196.3216023 fps, one-second fps min/avg/max: 109 209 468 (336 seconds)
+MED: 10510 frames 56.3927591 seconds 186.3714450 fps, one-second fps min/avg/max: 97 199 449 (336 seconds)
+MED: 10510 frames 62.1347530 seconds 169.1484957 fps, one-second fps min/avg/max: 91 181 399 (336 seconds)
+MED: 10510 frames 101.2439241 seconds 103.8086985 fps, one-second fps min/avg/max: 23 123 241 (336 seconds)
+MED: 10510 frames 157.8243561 seconds 66.5930168 fps, one-second fps min/avg/max: 21 74 138 (336 seconds)
+
+lead to: 219, 215, 196, 186, 169, 103, 66

@@ -2,82 +2,78 @@ h1. Hardware Requirements
 
 h2. Results from the-big-benchmark
 
-| Xonotic Version | Username | System | CPU | GHz | Cores | RAM | Vendor | Card | Driver | OS | Arch | omg | low | med | normal | high | ultra | ultimate | Log download |
-| 0.6 | tZork | mediabox | Intel i3-2100 | 3.1 | 2 | 8G | ATI Technologies Inc. | AMD Radeon HD 6700 Series | 4.1.11399 Compatibility Profile Context | Windows 7 | x64 | 259 | 237 | 224 | 212 | 183 | 130 | 116 | http://mapdl.xonotic.eu/tzork/the-big-benchmark3.zip |
-| 0.6 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | 219 | 215 | 196 | 186 | 169 | 103 | 66 | http://ompldr.org/vY2luNQ |
-| 0.6 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 20 | 8 | - | - | - | - | - | http://ompldr.org/vY2luOQ |
+h3. Xonotic 0.6
 
-h3. How to run the benchmark
+| Username | System | CPU | GHz | Cores | RAM | Vendor | Card | Driver | OS | Arch | omg | low | med | normal | high | ultra | ultimate | Log download |
+| tZork | mediabox | Intel i3-2100 | 3.1 | 2 | 8G | ATI Technologies Inc. | AMD Radeon HD 6700 Series | 4.1.11399 Compatibility Profile Context | Windows 7 | x64 | 259 | 237 | 224 | 212 | 183 | 130 | 116 | http://mapdl.xonotic.eu/tzork/the-big-benchmark3.zip |
+| divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | 219 | 215 | 196 | 186 | 169 | 103 | 66 | http://ompldr.org/vY2luNQ |
+| divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 20 | 8 | - | - | - | - | - | http://ompldr.org/vY2luOQ |
+
+h2. How to run the benchmark
 
 First turn off any screen savers you may be running.
 
 Then, in misc/tools/the-big-benchmark/, run the-big-benchmark.sh or the-big-benchmark.bat depending on OS. Wait for about 1 hour, then - if it's not done yet - you are allowed to quit the process by entering "quit" on the game console. The results will be saved in data/the-big-benchmark.log. Upload this file, and analyze it and enter the values here!
 
-h3. Notes
-
-The list is sorted by the "normal" column in descending order. In case of equality, further sort criteria are chosen to the left.
+The lists are sorted by the "normal" column in descending order. In case of equality, further sort criteria are chosen to the left.
 
 The fields have the following meanings and are extracted as follows:
 
-h4. Xonotic Version
-
-The Xonotic version the benchmark corresponds to. Normally benchmarks are to be done with the last released version. Pre-release testing may use the next version, if the effects configs are finalized.
-
-h4. Username
+h3. Username
 
 The user name on the tracker here.
 
-h4. System
+h3. System
 
 A host identifier (e.g. host name)
 
-h4. CPU
+h3. CPU
 
 The CPU in the system. On Linux, get this from /proc/cpuinfo.
 
-h4. GHz
+h3. GHz
 
 The CPU clock frequency.
 
-h4. Cores
+h3. Cores
 
 The number of CPU cores in the system. On Linux, get this from /proc/cpuinfo.
 
-h4. RAM
+h3. RAM
 
 The total physical memory of the system. On Linux, get this from `free`.
 
-h4. Vendor
+h3. Vendor
 
 The vendor string (typically graphics card vendor). Get this from the-big-benchmark.log, as in:
 
     GL_VENDOR: NVIDIA Corporation
 
-h4. Card
+h3. Card
 
 The renderer string (typically graphics card name). Get this from the-big-benchmark.log, as in:
 
     GL_RENDERER: GeForce GTS 250/PCI/SSE2
 
-h4. Driver
+h3. Driver
 
 The version string (typically driver version). Get this from the-big-benchmark.log, as in:
 
     GL_VERSION: 3.3.0 NVIDIA 290.10
 
-h4. OS
+h3. OS
 
 The operating system. One of Windows XP, Vista, Windows 7, Linux, OS X 10.5, OS X 10.6, OS X 10.7.
 
-h4. Arch
+h3. Arch
 
 The operating system architecture. Typically one of x86, x64.
 
-h4. Notes
+h3. Notes
 
 Special notes for the run.
 
-h4. omg, low, med, normal, high, ultra, ultimate
+h3. omg, low, med, normal, high, ultra, ultimate
 
 In this order, the integer part (part before the . - yes, we round downwards) from the fps number from the MED: lines of the-big-benchmark.log. For example, the following lines:
 

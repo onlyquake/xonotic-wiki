@@ -20,6 +20,7 @@ h2. Project
 * [[Website]] Plannning
 * [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
 * Notes from brainstorming [[names|ideas for names]]
+* [[Hardware Requirements]]
 
 h2. Gameplay
 

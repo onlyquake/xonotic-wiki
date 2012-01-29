@@ -2,8 +2,9 @@ h1. Hardware Requirements
 
 h2. Results from the-big-benchmark:
 
-| Xonotic Version | Username | System | CPU | Cores | RAM | GL_VENDOR | GL_RENDERER | GL_VERSION | OS | Arch | Special | omg | low | med | normal | high | ultra | ultimate | Log download
-| 0.6 | divVerent | grawp | Athlon II X4 620 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | | 219 | 215 | 196 | 186 | 169 | 103 | 66 | 
+| Xonotic Version | Username | System | CPU | GHz | Cores | RAM | GL_VENDOR | GL_RENDERER | GL_VERSION | OS | Arch | Special | omg | low | med | normal | high | ultra | ultimate | Log download
+| 0.6 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | | 219 | 215 | 196 | 186 | 169 | 103 | 66 | 
+| 0.6 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | | 20 | 8 | - | - | - | - | - |
 
 h3. Notes
 
@@ -24,6 +25,10 @@ A host identifier (e.g. host name)
 h4. CPU
 
 The CPU in the system. On Linux, get this from /proc/cpuinfo.
+
+h4. GHz
+
+The CPU clock frequency.
 
 h4. Cores
 
@@ -76,3 +81,5 @@ MED: 10510 frames 101.2439241 seconds 103.8086985 fps, one-second fps min/avg/ma
 MED: 10510 frames 157.8243561 seconds 66.5930168 fps, one-second fps min/avg/max: 21 74 138 (336 seconds)
 
 lead to: 219, 215, 196, 186, 169, 103, 66
+
+If a run was not made (you then have less MED: lines), or if a run was incomplete for some reason (then the corresponding MIN: line does not show the same frame count as MAX:), a dash ("-") is to be entered.

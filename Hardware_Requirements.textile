@@ -2,7 +2,7 @@ h1. Hardware Requirements
 
 h2. Results from the-big-benchmark:
 
-| Xonotic Version | Username | System | CPU | GHz | Cores | RAM | GL_VENDOR | GL_RENDERER | GL_VERSION | OS | Arch | Special | omg | low | med | normal | high | ultra | ultimate | Log download |
+| Xonotic Version | Username | System | CPU | GHz | Cores | RAM | Vendor | Card | Driver | OS | Arch | Special | omg | low | med | normal | high | ultra | ultimate | Log download |
 | 0.6 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | | 219 | 215 | 196 | 186 | 169 | 103 | 66 | http://ompldr.org/vY2luNQ |
 | 0.6 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | | 20 | 8 | - | - | - | - | - | http://ompldr.org/vY2luOQ |
 
@@ -39,19 +39,19 @@ h4. RAM
 
 The total physical memory of the system. On Linux, get this from `free`.
 
-h4. GL_VENDOR
+h4. Vendor
 
 The vendor string (typically graphics card vendor). Get this from the-big-benchmark.log, as in:
 
     GL_VENDOR: NVIDIA Corporation
 
-h4. GL_RENDERER
+h4. Card
 
 The renderer string (typically graphics card name). Get this from the-big-benchmark.log, as in:
 
     GL_RENDERER: GeForce GTS 250/PCI/SSE2
 
-h4. GL_VERSION
+h4. Driver
 
 The version string (typically driver version). Get this from the-big-benchmark.log, as in:
 

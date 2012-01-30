@@ -1,3 +1,16 @@
+h1. Media Channels
+
+h2. official Xonotic Media Channels for PR
+
+News updates
+* Blog http://www.xonotic.org/team/blog/
+* Twitter - http://www.twitter.com/xonotic
+* Desura - http://www.desura.com/games/xonotic
+
+Video content
+* Youtube - http://www.youtube.com/xonotic
+
+
 h1. Public Relations
 
 Our first announcement of this project is coming sometime after illfonic first unveils their Nexuiz game at GDC http://www.gdconf.com

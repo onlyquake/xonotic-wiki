@@ -5,11 +5,15 @@ h2. official Xonotic Media Channels for PR
 News updates
 * Blog http://www.xonotic.org/team/blog/
 * Twitter - http://www.twitter.com/xonotic
+* Identica - http://identi.ca/xonotic
 * Desura - http://www.desura.com/games/xonotic
+* Facebook - http://www.facebook.com/xonotic
 
 Video content
 * Youtube - http://www.youtube.com/xonotic
 
+(informational)
+* Wikipedia - http://en.wikipedia.org/wiki/Xonotic
 
 h1. Public Relations
 

@@ -4,6 +4,8 @@ h2. Results from the-big-benchmark
 
 h3. Xonotic 0.6
 
+<div style="overflow:auto;background:#ddd;margin-bottom:20px;">
+
 | Username | System | CPU | GHz | Cores | RAM | Vendor | Card | Driver | OS | Arch | omg | low | med | normal | high | ultra | ultimate | Notes | Log download |
 | Ronan | desktop | Core i7 920 | 3.36 | 4 | 24G | NVIDIA Corporation | GeForce GTX 275/PCI/SSE2  | 3.3.0 NVIDIA 285.05.09 | Linux | x64 | 401 | 402 | 369 | 352 | 294 | 169 | 113 | | http://ompldr.org/vY2lzdw |
 | Ronan | desktop | Core i7 920 | 3.36 | 4 | 24G | NVIDIA Corporation | GeForce GTX 560 Ti 448 cores | 4.2.0 NVIDIA 285.05.09 | Linux | x64 | 396 | 402 | 364 | 344 | 300 | 186 | 144 | | http://ompldr.org/vY2lyaQ |
@@ -27,6 +29,8 @@ h3. Xonotic 0.6
 | Mirio | laptop | Mobile Intel(R) Pentium(R) 4 | 2.80 | 1 | 512M | NVIDIA Corporation | GeForce FX Go53xx Series/AGP/SSE2 | 1.4.0 | Windows XP (Home) | x86 | 66 | 20 | 10 | 11 | - | - | - | | http://ompldr.org/vY2l4NA |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 13 | 11 | 11 | - | - | - | - | Radeon HD 4200 | http://ompldr.org/vY2pjNw |
 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 20 | 8 | - | - | - | - | - | 640x480 | http://ompldr.org/vY2luOQ |
+
+</div>
 
 h2. How to run the benchmark
 

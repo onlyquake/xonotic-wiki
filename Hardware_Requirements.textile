@@ -21,6 +21,7 @@ h3. Xonotic 0.6
 | naryl | naryl-laptop | Core i3-2310M | 2.10 | 2 | 1.8G | Tungsten Graphics, Inc | Mesa DRI Intel(R) Sandybridge Mobile | 2.1 Mesa 7.11.2 | Linux | x64 | 58 | 56 | 51 | 40 | 29 | 22 | 12 |  | http://ompldr.org/vY2owZA |
 | Ronan | laptop-2007 | Core Duo T2600 | 2.16 | 2 | 3G | ATI Technologies Inc | ATI MOBILITY RADEON X2300 | 2.1.8545 Release | Windows 7 | x86 | 38 | 35 | 32 | 24 | - | - | - | Legacy modded drivers | http://ompldr.org/vY2l3aw |
 | Mirio | laptop | Mobile Intel(R) Pentium(R) 4 | 2.80 | 1 | 0.512G | NVIDIA Corporation | GeForce FX Go53xx Series/AGP/SSE2 | 1.4.0 | Windows XP (Home) | x86 | 66 | 20 | 10 | 11 | - | - | - | | http://ompldr.org/vY2l4NA |
+| divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 13 | 11 | 11 | - | - | - | - | | http://ompldr.org/vY2pjNw |
 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 20 | 8 | - | - | - | - | - | 640x480 | http://ompldr.org/vY2luOQ |
 
 h2. How to run the benchmark

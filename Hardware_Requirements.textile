@@ -28,6 +28,7 @@ h3. Xonotic 0.6
 | SavageX | nettop | AMD E-350 | 1.6 | 2 | 4G | ATI Technologies Inc. | AMD Radeon HD 6350 | 4.1.11005 Compatibility Profile Context | Linux | x64 | 58 | 54 | 47 | 45 | 34 | 25 | - | | http://ompldr.org/iY2lzcg |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | ATI Technologies Inc. | ATI Radeon HD 4200 | 3.3.11399 Compatibility Profile Context | Linux | x64 | 66 | 60 | 55 | 42 | 32 | 19 | 10 | | http://ompldr.org/vY2pmNQ |
 | naryl | naryl-laptop | Core i3-2310M | 2.10 | 2 | 1.8G | Tungsten Graphics, Inc | Mesa DRI Intel(R) Sandybridge Mobile | 2.1 Mesa 7.11.2 | Linux | x64 | 58 | 56 | 51 | 40 | 29 | 22 | 12 |  | http://ompldr.org/vY2owZA |
+| divVerent | nb-04 | Intel(R) Core(TM)2 Duo CPU P8700 | 2.53 | 2 | 4G | nouveau |Gallium 0.4 on NV96 | 2.1 Mesa 7.11.2  | Linux | x64 | 51 | 49 | 46 | 37 | 29 | 23 | 15 | GeForce 9600M | http://ompldr.org/vY2lxeQ |
 | Ronan | laptop-2007 | Core Duo T2600 | 2.16 | 2 | 3G | ATI Technologies Inc | ATI MOBILITY RADEON X2300 | 2.1.8545 Release | Windows 7 | x86 | 38 | 35 | 32 | 24 | - | - | - | Legacy modded drivers | http://ompldr.org/vY2l3aw |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | - | - | - | Linux | x64 | 34 | 23 | 18 | 8 | 7 | a) | a) | +vid_soft 1 | http://ompldr.org/vY2puZg |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 43 | 30 | 23 | b) | b) | b) | b) | Radeon HD 4200, +vid_gl20 0 | http://ompldr.org/vY2pzZQ |

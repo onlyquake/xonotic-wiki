@@ -19,7 +19,7 @@ h3. Xonotic 0.6
 | freefang | Desktop | Core 2 Quad Q9550 | 2.83 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 | Windows Vista | x86 | 166 | 166 | 152 | 146 | 129 | 85 | 65 | | http://ompldr.org/vY2pnMg |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | nouveau | Gallium 0.4 on NV92 | 2.1 Mesa 7.11.2 | Linux | x64 | 160 | 152 | 141 | 127 | 91 | 72 | 53 | GTS 250 | http://ompldr.org/vY2o1dw |
 | divVerent | nb-04 | Intel(R) Core(TM)2 Duo CPU P8700 | 2.53 | 2 | 4G | NVIDIA Corporation | GeForce 9600M GS/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | 196 | 183 | 161 | 125 | 96 | 39 | 17 | | http://ompldr.org/vY2lxeQ |
-| nyov | ti | Athlon 64 X2 6000+ | 3.0 | 2 | 2G | ATI Technologies Inc. | AMD Radeon HD 6970 | 4.2.11318 Compatibility Profile Context | Linux | x64 | 162 | 149 | 133 | 123 | 105 | 69 | 60 | windowed mode, git vsn | http://ompldr.org/vY2l3bg |
+| nyov | ti | Athlon 64 X2 6000+ | 3.0 | 2 | 2G | ATI Technologies Inc. | AMD Radeon HD 6970 | 4.2.11318 Compatibility Profile Context | Linux | x64 | 162 | 149 | 133 | 123 | 105 | 69 | 60 | windowed mode, git | http://ompldr.org/vY2l3bg |
 | Maddin | desktop | Athlon 64 X2 4800+ | 2.2 | 2 | 2G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2/3DNOW! | 3.3.0 NVIDIA 260.19.06 | Linux | x86 | 135 | 135 | 121 | 116 | 106 | 65 | 44 | | http://dl.dropbox.com/u/31065422/Xonotic/misc/the-big-benchmark-maddin.log |
 | freefang | Laptop | Core 2 Duo T9600 | 2.8 | 2 | 4G | NVIDIA Corporation | Quadro FX 770M/PCI/SSE2 | 3.3.0 | Vista | x86 | 110 | 90 | 100 | 99 | 74 | 36 | 18 | | http://ompldr.org/vY2pnNA |
 | Mirio | nn | Athlon 64 X2 3800+ | 2.0 | 2 | 1G | NVIDIA Corporation | GeForce 9800 GT/PCI/SSE2/3DNOW! | 3.1.0 | Windows XP (Home) | x86 | 106 | 105 | 96 | 92 | 86 | 55 | 45 | | http://ompldr.org/vY2lydA/the-big-benchmark.rar |
@@ -30,7 +30,7 @@ h3. Xonotic 0.6
 | naryl | naryl-laptop | Core i3-2310M | 2.10 | 2 | 1.8G | Tungsten Graphics, Inc | Mesa DRI Intel(R) Sandybridge Mobile | 2.1 Mesa 7.11.2 | Linux | x64 | 58 | 56 | 51 | 40 | 29 | 22 | 12 |  | http://ompldr.org/vY2owZA |
 | Ronan | laptop-2007 | Core Duo T2600 | 2.16 | 2 | 3G | ATI Technologies Inc | ATI MOBILITY RADEON X2300 | 2.1.8545 Release | Windows 7 | x86 | 38 | 35 | 32 | 24 | - | - | - | Legacy modded drivers | http://ompldr.org/vY2l3aw |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | - | - | - | Linux | x64 | 34 | 23 | 18 | 8 | 7 | a) | a) | +vid_soft 1 | http://ompldr.org/vY2puZg |
-| divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 43 | 30 | 23 | b) | b) | b) | b) | Radeon HD 4200 | http://ompldr.org/vY2pjNw |
+| divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 43 | 30 | 23 | b) | b) | b) | b) | Radeon HD 4200, +vid_gl20 0 | http://ompldr.org/vY2pjNw |
 | Mirio | laptop | Mobile Intel(R) Pentium(R) 4 | 2.80 | 1 | 512M | NVIDIA Corporation | GeForce FX Go53xx Series/AGP/SSE2 | 1.4.0 | Windows XP (Home) | x86 | 66 | 20 | 10 | b) | b) | b) | b) | | http://ompldr.org/vY2l4NA |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 13 | 11 | 11 | - | - | - | - | Radeon HD 4200 | http://ompldr.org/vY2pjNw |
 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 20 | 8 | - | - | - | - | - | 640x480 | http://ompldr.org/vY2luOQ |

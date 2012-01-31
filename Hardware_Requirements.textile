@@ -13,7 +13,7 @@ h3. Xonotic 0.6
 | Ronan | desktop | Core i7 920 | 2.66 | 4 | 24G | NVIDIA Corporation | GeForce GTX 560 Ti 448 cores | 4.2.0 NVIDIA 285.05.09 | Linux | x64 | 334 | 342 | 309 | 296 | 259 | 164 | 134 | | http://ompldr.org/vY2l0eA |
 | Grunt | tulkass | Intel i5-2500 | 3.30 | 4 | 8G | NVIDIA Corporation |  GeForce GT 440/PCI/SSE2 | 4.2.0 NVIDIA 290.10 | Linux | x64 | 326 | 311 | 286 | 239 | 167 | 117 | 58 | | http://rghost.net/36234085 |
 | rocknroll237 | desktop | Intel i7 960 | 3.2 | 4 | 6G | ATI Technologies Inc. | ASUS ARES | 4.1.11161 | Windows 7 | x64 | 270 | 250 | 228 | 215 | 194 | 130 | 117 |  | |
-| tZork | mediabox | Intel i3-2100 | 3.1 | 2 | 8G | ATI Technologies Inc. | AMD Radeon HD 6770 | 4.1.11399 Compatibility Profile Context | Windows 7 | x64 | 259 | 237 | 224 | 212 | 183 | 130 | 116 | | http://mapdl.xonotic.eu/tzork/the-big-benchmark3.zip |
+| tZork | mediabox | Intel i3-2100 | 3.1 | 2 | 8G | ATI Technologies Inc. | AMD Radeon HD 6700 Series | 4.1.11399 Compatibility Profile Context | Windows 7 | x64 | 259 | 237 | 224 | 212 | 183 | 130 | 116 | Radeon HD 6770 | http://mapdl.xonotic.eu/tzork/the-big-benchmark3.zip |
 | SavageX | desktop | Phenom II X4 945 | 3.0 | 4 | 8G | ATI Technologies Inc. | AMD Radeon HD 5670 | 4.1.11005 Compatibility Profile Context | Linux | x64 | 249 | 232 | 210 | 195 | 168 | 103 | 73 | | http://ompldr.org/iY2lwYg |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | 219 | 215 | 196 | 186 | 169 | 103 | 66 | | http://ompldr.org/vY2luNQ |
 | freefang | Desktop | Core 2 Quad Q9550 | 2.83 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 | Windows Vista | x86 | 166 | 166 | 152 | 146 | 129 | 85 | 65 | | http://ompldr.org/vY2pnMg |
@@ -89,7 +89,7 @@ The renderer string (typically graphics card name). Get this from the-big-benchm
 
     GL_RENDERER: GeForce GTS 250/PCI/SSE2
 
-Sometimes this just lists the series of the chipset, and not the exact chipset number (e.g. 6700 Series). Then it is allowed to replace it by the proper chipset number (6770). Make sure to remove the "Series" then!
+Sometimes this just lists the series of the chipset, and not the exact chipset number. In that case, please write the proper chipset number in the Notes column!
 
 h3. Driver
 

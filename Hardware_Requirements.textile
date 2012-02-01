@@ -8,10 +8,10 @@ h3. Xonotic 0.6
 
 | Username | System | CPU | GHz | Cores | RAM | Vendor | Card | Driver | OS | Arch | omg | low | med | normal | high | ultra | ultimate | Notes | Log download |
 | Ronan | desktop | Core i7 920 | 3.36 | 4 | 24G | NVIDIA Corporation | GeForce GTX 275/PCI/SSE2  | 3.3.0 NVIDIA 285.05.09 | Linux | x64 | 401 | 402 | 369 | 352 | 294 | 169 | 113 | | http://ompldr.org/vY2lzdw |
-| Ronan | desktop | Core i7 920 | 3.36 | 4 | 24G | NVIDIA Corporation | GeForce GTX 560 Ti 448 cores | 4.2.0 NVIDIA 285.05.09 | Linux | x64 | 396 | 402 | 364 | 344 | 300 | 186 | 144 | | http://ompldr.org/vY2lyaQ |
+| Ronan | desktop | Core i7 920 | 3.36 | 4 | 24G | NVIDIA Corporation | unknown board/PCI/SSE2 | 4.2.0 NVIDIA 285.05.09 | Linux | x64 | 396 | 402 | 364 | 344 | 300 | 186 | 144 | GeForce GTX 560 Ti 448 cores | http://ompldr.org/vY2lyaQ |
 | tZork | ZEN | Intel i5-2500k | 4.6 | 4 | 4G | NVIDIA Corporation | GeForce 9800 GT/PCI/SSE2 | 3.3.0 | Windows 7 | x64 | 352 | 355 | 316 | 298 | 213 | 112 | 60 | apparently ran at 4.6, not 4.8 | http://mapdl.xonotic.eu/tzork/the-big-benchmark-zen.zip |
 | tZork | ZEN | Intel i5-2500k | 4.6 | 4 | 4G | ATI Technologies Inc. | AMD Radeon HD 6700 Series | 4.1.11399 Compatibility Profile Context | Windows 7 | x64 | 355 | 330 | 310 | 297 | 265 | 205 | 155 | Radeon HD 6770 | http://ompldr.org/vY2s5cw/the-big-benchmark-zen-6770.rar |
-| Ronan | desktop | Core i7 920 | 2.66 | 4 | 24G | NVIDIA Corporation | GeForce GTX 560 Ti 448 cores | 4.2.0 NVIDIA 285.05.09 | Linux | x64 | 334 | 342 | 309 | 296 | 259 | 164 | 134 | | http://ompldr.org/vY2l0eA |
+| Ronan | desktop | Core i7 920 | 2.66 | 4 | 24G | NVIDIA Corporation | unknown board/PCI/SSE2 | 4.2.0 NVIDIA 285.05.09 | Linux | x64 | 334 | 342 | 309 | 296 | 259 | 164 | 134 | GeForce GTX 560 Ti 448 cores | http://ompldr.org/vY2l0eA |
 | Grunt | tulkass | Intel i5-2500 | 3.30 | 4 | 8G | NVIDIA Corporation |  GeForce GT 440/PCI/SSE2 | 4.2.0 NVIDIA 290.10 | Linux | x64 | 326 | 311 | 286 | 239 | 167 | 117 | 58 | | http://rghost.net/36234085 |
 | rocknroll237 | desktop | Intel i7 960 | 3.2 | 4 | 6G | ATI Technologies Inc. | ASUS ARES | 4.1.11161 | Windows 7 | x64 | 270 | 250 | 228 | 215 | 194 | 130 | 117 |  | |
 | tZork | mediabox | Intel i3-2100 | 3.1 | 2 | 8G | ATI Technologies Inc. | AMD Radeon HD 6700 Series | 4.1.11399 Compatibility Profile Context | Windows 7 | x64 | 259 | 237 | 224 | 212 | 183 | 130 | 116 | Radeon HD 6770 | http://mapdl.xonotic.eu/tzork/the-big-benchmark3.zip |

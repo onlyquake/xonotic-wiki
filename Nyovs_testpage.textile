@@ -27,7 +27,7 @@ The Project
 
 </div></div><div style="border:1px solid #000;padding:10px;">
 
-h1((((. Xonotic Userguide
+p((((. !userguide.png(Xonotic Userguide)!
 
 <div style="border:1px solid #fff;margin:10px;float:left;">
 
@@ -95,7 +95,7 @@ h3. Server Administration
 </div>
 <div style="clear:left;"></div>
 
-h1((((. Developer Resources
+p((((. !devres.png(Developer Resources)!
 
 (current Home content)
 

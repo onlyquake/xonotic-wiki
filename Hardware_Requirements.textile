@@ -18,6 +18,7 @@ h3. Xonotic 0.6
 | SavageX | desktop | Phenom II X4 945 | 3.0 | 4 | 8G | ATI Technologies Inc. | AMD Radeon HD 5670 | 4.1.11005 Compatibility Profile Context | Linux | x64 | 249 | 232 | 210 | 195 | 168 | 103 | 73 | | http://ompldr.org/iY2lwYg |
 | rafallus | desktop-c2d | Core 2 Duo E8400 | 3 | 2 | 4G | ATI Technologies Inc. | ATI Radeon HD 4800 Series | 3.2.9704 Compatibility Profile Context | Windows XP | x64 | 230 | 215 | 197 | 189 | 167 | 107 | 97 | | http://forums.xonotic.org//showthread.php?tid=2562&pid=34192#pid34192 |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | 219 | 215 | 196 | 186 | 169 | 103 | 66 | | http://ompldr.org/vY2luNQ |
+| Sless | Withers | i7 920 | 2.66 | 4 | 18G | ATI Technologies Inc. | AMD Radeon HD 6900 Series | 4.2.11399 Compatibility Profile Context | Windows 7 | x64 | 229 | 213 | 196 | 185 | 168 | 108 | 107 | | http://dl.dropbox.com/u/51677128/misc/the-big-benchmark-Withers.log |
 | freefang | Desktop | Core 2 Quad Q9550 | 2.83 | 4 | 4G | NVIDIA Corporation | GeForce GTS 250/PCI/SSE2 | 3.3.0 | Windows Vista | x86 | 166 | 166 | 152 | 146 | 129 | 85 | 65 | | http://ompldr.org/vY2pnMg |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | nouveau | Gallium 0.4 on NV92 | 2.1 Mesa 7.11.2 | Linux | x64 | 160 | 152 | 141 | 127 | 91 | 72 | 53 | GTS 250 | http://ompldr.org/vY2o1dw |
 | divVerent | nb-04 | Intel(R) Core(TM)2 Duo CPU P8700 | 2.53 | 2 | 4G | NVIDIA Corporation | GeForce 9600M GS/PCI/SSE2 | 3.3.0 NVIDIA 290.10 | Linux | x64 | 196 | 183 | 161 | 125 | 96 | 39 | 17 | | http://ompldr.org/vY2lxeQ |
@@ -33,9 +34,11 @@ h3. Xonotic 0.6
 | naryl | naryl-laptop | Core i3-2310M | 2.10 | 2 | 1.8G | Tungsten Graphics, Inc | Mesa DRI Intel(R) Sandybridge Mobile | 2.1 Mesa 7.11.2 | Linux | x64 | 58 | 56 | 51 | 40 | 29 | 22 | 12 |  | http://ompldr.org/vY2owZA |
 | divVerent | nb-04 | Intel(R) Core(TM)2 Duo CPU P8700 | 2.53 | 2 | 4G | nouveau |Gallium 0.4 on NV96 | 2.1 Mesa 7.11.2  | Linux | x64 | 51 | 49 | 46 | 37 | 29 | 23 | 15 | GeForce 9600M | http://ompldr.org/vY2lxeQ |
 | Ronan | laptop-2007 | Core Duo T2600 | 2.16 | 2 | 3G | ATI Technologies Inc | ATI MOBILITY RADEON X2300 | 2.1.8545 Release | Windows 7 | x86 | 38 | 35 | 32 | 24 | - | - | - | Legacy modded drivers | http://ompldr.org/vY2l3aw |
+| Sless | Optidrex 760 | Intel Core 2 Duo E7400 | 2.8 | 2 | 2G | Intel | Intel Eaglelake | 2.0.0 - Build 7.15.10.1545 | Windows Vista | x86 | 37 | 23 | 21 | 23 | 10 | 11 | 6 | | http://dl.dropbox.com/u/51677128/misc/the-big-benchmark_760.log |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | - | - | - | Linux | x64 | 34 | 23 | 18 | 8 | 7 | a) | a) | +vid_soft 1 | http://ompldr.org/vY2puZg |
-| divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 43 | 30 | 23 | b) | b) | b) | b) | Radeon HD 4200, +vid_gl20 0 | http://ompldr.org/vY2pzZQ |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 13 | 11 | 11 | - | - | - | - | Radeon HD 4200 | http://ompldr.org/vY2pjNw |
+| divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 43 | 30 | 23 | b) | b) | b) | b) | Radeon HD 4200, +vid_gl20 0 | http://ompldr.org/vY2pzZQ |
+| Sless | Kiste1 | Intel Core 2 T5500 | 1.66 | 2 | 1G | Intel | Intel 945GM | 1.4.0 - Build 7.14.10.4926 | Windows XP | x86 | 47 | 22 | 17 | b) | b) | b) | b) | | http://dl.dropbox.com/u/51677128/misc/the-big-benchmark-KISTE1.log |
 | Mirio | laptop | Mobile Intel(R) Pentium(R) 4 | 2.80 | 1 | 512M | NVIDIA Corporation | GeForce FX Go53xx Series/AGP/SSE2 | 1.4.0 | Windows XP (Home) | x86 | 66 | 20 | 10 | b) | b) | b) | b) | | http://ompldr.org/vY2l4NA |
 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 20 | 8 | - | b) | b) | b) | b) | Eee PC 701, 640x480 | http://ompldr.org/vY2luOQ |
 | cortez | netbook | Intel Atom | 1.6 | 1 | 1G | Intel | Intel 945GM | 1.4.0 - Build 7.14.10.4926 | Windows XP | x86 | 18 | 8 | - | b) | b) | b) | b) | Acer Aspire One, 640x480 | http://ompldr.org/vY2s0Zw |
@@ -53,7 +56,7 @@ First turn off any screen savers you may be running.
 
 Then, in misc/tools/the-big-benchmark/, run the-big-benchmark.sh or the-big-benchmark.bat depending on OS. Wait for about 1 hour, then - if it's not done yet - you are allowed to quit the process by entering "quit" on the game console. The results will be saved in data/the-big-benchmark.log. Upload this file, and analyze it and enter the values here!
 
-The lists are sorted by the "normal" column in descending order. In case of equality, further sort criteria are chosen to the left.
+The lists are sorted by the "normal" column in descending order, where a - (test not been done due to taking too long) is still better than a disqualification. In case of equality, further sort criteria are chosen to the left.
 
 The fields have the following meanings and are extracted as follows:
 

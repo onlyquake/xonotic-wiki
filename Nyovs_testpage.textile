@@ -29,7 +29,11 @@ The Project
 
 p((((. !userguide.png(Xonotic Userguide)!
 
-<div style="border:1px solid #fff;margin:10px;float:left;">
+<div style="float:left;">
+
+!icontest.png(Test)!
+
+</div><div style="border:1px solid #fff;margin:10px;float:left;">
 
 h3. Getting started
 

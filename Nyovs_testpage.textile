@@ -29,11 +29,43 @@ The Project
 
 p((((. !userguide.png(Xonotic Userguide)!
 
-<div style="float:left;">
+<div style="margin:10px;float:left;text-align:center;border:1px solid #222222;" onmouseover="this.style.border='1px solid #ff7f2f'" onmouseout="this.style.border='1px solid #222222'">!icontest.png(Test)!
 
-!icontest.png(Test)!
+Getting started
 
-</div><div style="border:1px solid #fff;margin:10px;float:left;">
+</div><div style="margin:10px;float:left;text-align:center;border:1px solid #222222;" onmouseover="this.style.border='1px solid #ff7f2f'" onmouseout="this.style.border='1px solid #222222'">!icontest.png(Test)!
+
+User Interface
+
+</div><div style="margin:10px;float:left;text-align:center;border:1px solid #222222;" onmouseover="this.style.border='1px solid #ff7f2f'" onmouseout="this.style.border='1px solid #222222'">!icontest.png(Test)!
+
+Modes and Mutators
+
+</div><div style="margin:10px;float:left;text-align:center;border:1px solid #222222;" onmouseover="this.style.border='1px solid #ff7f2f'" onmouseout="this.style.border='1px solid #222222'">!icontest.png(Test)!
+
+Guides
+
+</div>
+<div style="clear:left;"></div>
+<div style="margin:10px;float:left;text-align:center;border:1px solid #222222;" onmouseover="this.firstChild.src='/attachments/download/326'" onmouseout="this.firstChild.src='/attachments/download/327'">!icontest2-5.png(Test)!
+
+Tweaking the game
+
+</div><div style="margin:10px;float:left;text-align:center;border:1px solid #222222;" onmouseover="this.firstChild.src='/attachments/download/326'" onmouseout="this.firstChild.src='/attachments/download/327'">!icontest2-5.png(Test)!
+
+Community
+
+</div><div style="margin:10px;float:left;text-align:center;border:1px solid #222222;" onmouseover="this.firstChild.src='/attachments/download/326'" onmouseout="this.firstChild.src='/attachments/download/327'">!icontest2-5.png(Test)!
+
+Glossary
+
+</div><div style="margin:10px;float:left;text-align:center;border:1px solid #222222;" onmouseover="this.firstChild.src='/attachments/download/326'" onmouseout="this.firstChild.src='/attachments/download/327'">!icontest2-5.png(Test)!
+
+Server Administration
+
+</div>
+<div style="clear:left;"></div>
+<div style="border:1px solid #fff;margin:10px;float:left;">
 
 h3. Getting started
 
@@ -101,8 +133,7 @@ h3. Server Administration
 
 p((((. !devres.png(Developer Resources)!
 
-(current Home content)
-
+{{include(Wiki)}}
 
 h1((((. The Project
 

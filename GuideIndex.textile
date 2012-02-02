@@ -35,6 +35,7 @@ and to differentiate them from developer resources in the wiki index.
 #* Configuration Files (autoexec.cfg and co.)
 # [[GuideCommunity|Community]]
 #* where to meet people. Forums, IRC, Clansites ...
+#* official Media Channels (see [[PR]]) to subscribe to
 # [[GuideGlossary|Glossary]]
 #* Common Terms and Abbreviations (explaining stuff like ONS(one night st... err Onslaught), CPM, ELO, ...)
 # [[GuideServerAdministration|Server Administration]]
@@ -42,3 +43,6 @@ and to differentiate them from developer resources in the wiki index.
 #* Configuration
 #* Stats server
 #* Banlist sharing
+# [[GuideContribute|Contributing to the game]]
+#* How to help out and where to start
+#* (FAQ for new developers [Y U NO SWITCH ENGINE ^ 347], explain insider concepts)

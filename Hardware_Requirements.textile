@@ -48,7 +48,7 @@ h3. Xonotic 0.6
 | Sless | Kiste1 | Intel Core 2 T5500 | 1.66 | 2 | 1G | Intel | Intel 945GM | 1.4.0 - Build 7.14.10.4926 | Windows XP | x86 | 47 | 22 | 17 | b) | b) | b) | b) | | http://dl.dropbox.com/u/51677128/misc/the-big-benchmark-KISTE1.log |
 | Sless | Optidrex280 | Pentium 4 | 2.8 | 1 | 512M | Intel | Intel 915G | 1.4.0 - Build 4.14.10.3889 | Windows XP | x86 | 46 | 21 | 14 | b) | b) | b) | b) | Dell Optiplex GX280 | http://dl.dropbox.com/u/51677128/misc/the-big-benchmark_280.log |
 | Mirio | laptop | Mobile Intel(R) Pentium(R) 4 | 2.80 | 1 | 512M | NVIDIA Corporation | GeForce FX Go53xx Series/AGP/SSE2 | 1.4.0 | Windows XP (Home) | x86 | 66 | 20 | 10 | b) | b) | b) | b) | | http://ompldr.org/vY2l4NA |
-| divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 19 | 7 | 3 | b) | b) | b) | b) | Eee PC 701, 800x480 | http://ompldr.org/vY2luOQ |
+| divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 19 | 7 | 3 | b) | b) | b) | b) | Eee PC 701, 800x480 | http://ompldr.org/vY21jNg |
 | cortez | netbook | Intel Atom | 1.6 | 1 | 1G | Intel | Intel 945GM | 1.4.0 - Build 7.14.10.4926 | Windows XP | x86 | 18 | 8 | - | b) | b) | b) | b) | Acer Aspire One, 640x480 | http://ompldr.org/vY2s0Zw |
 
 </div>

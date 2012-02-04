@@ -41,7 +41,7 @@ h3. Xonotic 0.6
 | freefang | OldMac | Intel Core 2 Duo | 2.16 | 2 | 2G | NVIDIA Corporation | NVIDIA GeForce 7300 GT OpenGL Engine | 2.1 NVIDIA-1.6.36 | OS X 10.6 | x86 | 59 | 57 | 46 | 18 | 7 | 6 | 4 | | http://ompldr.org/vY2xpYg |
 | Ronan | desktop | Core i7 920 | 3.36 | 4 | 24G | - | - | - | Linux | x64 | 71 | 48 | 40 | 16 | - | a) | a) | +vid_soft 1 | http://ompldr.org/vY2t5ag |
 | Sless | FUmachine | Athlon 64 X2 5000+ | 2.66 | 2 | 2G | NVIDIA Corporation | GeForce 6100 nForce 405/PCI/SSE2/3DNOW! | 2.0.3 | Windows XP | x86 | 20 | 18 | 16 | 10 | 8 | - | - | | http://dl.dropbox.com/u/51677128/misc/the-big-benchmark_FUmachine.log |
-| matthiaskrgt | t60 | Intel(R) Core(TM)2 CPU T5600 | 1.83 | 2 | 3G | X.Org R300 Project | Gallium 0.4 on ATI RV515 | 2.1 Mesa 7.11.2 | Linux | x86 | 14 | 12 | 11 | 8 | 4 | 3 | 2 | | http://ompldr.org/vY21keQ |
+| matthiaskrgr | t60 | Intel(R) Core(TM)2 CPU T5600 | 1.83 | 2 | 3G | X.Org R300 Project | Gallium 0.4 on ATI RV515 | 2.1 Mesa 7.11.2 | Linux | x86 | 14 | 12 | 11 | 8 | 4 | 3 | 2 | | http://ompldr.org/vY21keQ |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | - | - | - | Linux | x64 | 34 | 23 | 18 | 8 | 7 | a) | a) | +vid_soft 1 | http://ompldr.org/vY2puZg |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 13 | 11 | 11 | - | - | - | - | Radeon HD 4200 | http://ompldr.org/vY2pjNw |
 | Sless | Optidrex 755 | Intel Core 2 Duo E6550 | 2.33 | 2G | 2 | Intel | Intel Bear Lake B | 1.4.0 - Build 7.14.10.4864 | Windows XP | x86 | 65 | 33 | 26 | b) | b) | b) | b) | Dell Optiplex 755 | http://dl.dropbox.com/u/51677128/misc/the-big-benchmark_755.log |
@@ -51,6 +51,7 @@ h3. Xonotic 0.6
 | Mirio | laptop | Mobile Intel(R) Pentium(R) 4 | 2.80 | 1 | 512M | NVIDIA Corporation | GeForce FX Go53xx Series/AGP/SSE2 | 1.4.0 | Windows XP (Home) | x86 | 66 | 20 | 10 | b) | b) | b) | b) | | http://ompldr.org/vY2l4NA |
 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 19 | 7 | 3 | b) | b) | b) | b) | Eee PC 701, 800x480 | http://ompldr.org/vY21jNg |
 | cortez | netbook | Intel Atom | 1.6 | 1 | 1G | Intel | Intel 945GM | 1.4.0 - Build 7.14.10.4926 | Windows XP | x86 | 18 | 8 | - | b) | b) | b) | b) | Acer Aspire One, 640x480 | http://ompldr.org/vY2s0Zw |
+| tZork | SPAKULATORN | Intel Core i5 CPU M 450 | 2.4 | 2 | 6G | ATI Technologies Inc. | ATI Mobility Radeon HD 5470 | 3.2.9751 Compatibility Profile Context | Windows 7 | x64 | 167 | 152 | 136 | 107 | 70 | 51 | 29 | | http://ompldr.org/vY21keA/the-big-benchmark-SPAKULATORN.zip |
 
 
 </div>

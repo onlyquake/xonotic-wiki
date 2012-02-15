@@ -34,6 +34,7 @@ p(. <pre>
 #blah.eu             - blah
 #bot.xonotic         - BOT
 #capbots             - CapBots
+#ccc.xonotic         - Cool Cats Clan
 #conquerors          - Conquerors
 #dbc                 - DodgingBullets
 #dear                - dear
@@ -44,6 +45,7 @@ p(. <pre>
 #mon.xonotic         - Monks of Nexuiz
 #nsb.nexuiz          - NSB - The Dyslexic Loser Mob
 #pb.xonotic          - PeaceBrothers
+#profoundvelocity    - Profound Velocity
 #sh.nexuiz           - Shell
 #unconnected.xonotic - Unconnected
 #xonotic.talionis    - Talionis

@@ -54,14 +54,15 @@ p(. <pre>
 h4(. Server channels
 
 p(. <pre>
-#mon.sa        - MoN servers (Overkill + Vehicle)
-#nightflight   - Nightflight CTF
-#simba         - Simba CTF
-#tbom          - The base of madness
-#xonotic.hoctf - House of CTF
+#exile.xonotic.1v1 - eXiLe servers (Minstagib + Duel)
+#mon.sa            - MoN servers (Overkill + Vehicle)
+#nightflight       - Nightflight CTF
+#simba             - Simba CTF
+#tbom              - The base of madness
+#xonotic.hoctf     - House of CTF
 #xonotic.xpm
-+ #xon.chat    - CTS XPM physics server
-#xpm           - [NL] Balance test + Race server
++ #xon.chat        - CTS XPM physics server
+#xpm               - [NL] Balance test + Race server
 </pre>
 
 h3. FreeNode (chat.freenode.net:6667)

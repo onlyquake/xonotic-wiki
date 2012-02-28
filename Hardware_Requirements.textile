@@ -54,6 +54,7 @@ h3. Xonotic 0.6
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | - | - | - | Linux | x64 | 34 | 23 | 18 | 8 | 7 | a) | a) | +vid_soft 1 | http://ompldr.org/vY2puZg |
 | edh | SN54G | Athlon XP 2400+ | 2.0 | 1 | 1G | NVIDIA Corporation | GeForce FX 5600/AGP/SSE/3DNOW! | 2.1.1 NVIDIA 100.14.11 | Linux | x86 | 57 | 18 | 14 | - | - | - | - | | http://forums.xonotic.org/showthread.php?tid=2562&pid=35285#pid35285 |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 13 | 11 | 11 | - | - | - | - | Radeon HD 4200 | http://ompldr.org/vY2pjNw |
+| edh | LianLi | Pentium 3 Tualatin 256Kb | 1.0 | 2 | 384M | nouveau | Gallium 0.4 on NV31 | 1.5 Mesa 7.11.2 | Linux | x86 | 20 | 13 | - | - | - | - | - | Geforce FX5600 256Mb | http://forums.xonotic.org/showthread.php?tid=2562&pid=35521#pid35521 |
 | Ronan | laptop-2007 | Core Duo T2600 | 2.16 | 2 | 3G | ATI Technologies Inc | ATI MOBILITY RADEON X2300 | 2.1.8545 Release | Windows 7 | x86 | 103 | 77 | 66 | b) | b) | b) | b) | +vid_gl20 0 | http://ompldr.org/vY21mbA |
 | Sless | Optidrex 755 | Intel Core 2 Duo E6550 | 2.33 | 2G | 2 | Intel | Intel Bear Lake B | 1.4.0 - Build 7.14.10.4864 | Windows XP | x86 | 65 | 33 | 26 | b) | b) | b) | b) | Dell Optiplex 755 | http://dl.dropbox.com/u/51677128/misc/the-big-benchmark_755.log |
 | divVerent | grawp | Athlon II X4 620 | 2.6 | 4 | 4G | X.Org | Gallium 0.4 on AMD RS880 | 2.1 Mesa 7.11.2 | Linux | x64 | 43 | 30 | 23 | b) | b) | b) | b) | Radeon HD 4200, +vid_gl20 0 | http://ompldr.org/vY2pzZQ |

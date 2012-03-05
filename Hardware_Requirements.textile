@@ -63,7 +63,9 @@ h3. Xonotic 0.6
 | Mirio | laptop | Mobile Intel(R) Pentium(R) 4 | 2.80 | 1 | 512M | NVIDIA Corporation | GeForce FX Go53xx Series/AGP/SSE2 | 1.4.0 | Windows XP (Home) | x86 | 66 | 20 | 10 | b) | b) | b) | b) | | http://ompldr.org/vY2l4NA |
 | divVerent | whitenot | Intel(R) Celeron(R) M processor | 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel(R) 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 19 | 7 | 3 | b) | b) | b) | b) | Eee PC 701, 800x480 | http://ompldr.org/vY21jNg |
 | cortez | netbook | Intel Atom | 1.6 | 1 | 1G | Intel | Intel 945GM | 1.4.0 - Build 7.14.10.4926 | Windows XP | x86 | 18 | 8 | - | b) | b) | b) | b) | Acer Aspire One, 640x480 | http://ompldr.org/vY2s0Zw |
-| edh | p3-550 | Pentium 3 | 0.55 | 1 | 320M | Tungsten Graphics, Inc. | Mesa DRI R200 (RV250 4966) x86/MMX/SSE TCL DRI2 | 1.3 Mesa 7.11.2 | Linux | x86 | 11 | - | - | - | - | - | - | Radeon 9000, crashed at low | http://forums.xonotic.org/showthread.php?tid=2562&pid=35179#pid35179 |
+| edh | p3-550 | Pentium 3 | 0.55 | 1 | 320M | Tungsten Graphics, Inc. | Mesa DRI R200 (RV250 4966) x86/MMX/SSE TCL DRI2 | 1.3 Mesa 7.11.2 | Linux | x86 | 11 | - | - | b) | b) | b) | b) | Radeon 9000, crashed at low | http://forums.xonotic.org/showthread.php?tid=2562&pid=35179#pid35179 |
+| edh | Craptop | Via C3-2 'Nehemiah' | 1.2 | 1 | 256M | VIA Technology | Mesa DRI CastleRock (CLE266) x86/MMX/SSE | 1.2 Mesa 7.11.2 | Linux | x86 | 9 | - | - | b) | b) | b) | b) | Display errors at low, and about 0.1fps | http://forums.xonotic.org/showthread.php?tid=2562&pid=35646#pid35646 |
+
 
 </div>
 

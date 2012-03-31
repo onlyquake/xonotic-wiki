@@ -90,7 +90,7 @@ declares a variable of function type. An alternate and often more readable way t
 h2. Scope
 
 A variable declared in the global scope has global scope, and is visible starting from its declaration to the end of the code. The order the code is read in by the compiler is defined in the file %%progs.src%%.
-A variable declared inside a function has function scope, and is visible starting from its declaration to the end of the function (**not** to the end of the block).
+A variable declared inside a function has block scope, and is visible starting from its declaration to the end of the smallest block that contains its declaration.
 
 Some variables are declared in "sys.qh":http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=blob_plain;f=qcsrc/server/sys.qh;hb=HEAD. Their declarations or names should never be changed, as they have to match the order and names of the variables in the file file "progdefs.h":http://svn.icculus.org/twilight/trunk/darkplaces/progdefs.h?view=markup of the engine exactly, or the code won't load. The special markers _end_sys_globals_ and _end_sys_fields_ are placed to denote the end of this shared declaration section.
 

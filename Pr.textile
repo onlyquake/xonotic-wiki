@@ -1,26 +1,26 @@
 h1. Media Channels
 
-h2. official Xonotic Media Channels for PR
+h2. Official Xonotic Media Channels for PR
 
 News updates
-* Blog http://www.xonotic.org/team/blog/
+* Blog - http://www.xonotic.org/team/blog/
 * Twitter - http://www.twitter.com/xonotic
 * Identica - http://identi.ca/xonotic
 * Desura - http://www.desura.com/games/xonotic
 * Facebook - http://www.facebook.com/xonotic
 
 Video content
-* Youtube - http://www.youtube.com/xonotic
+* YouTube - http://www.youtube.com/xonotic
 
-(informational)
+Informational
 * Wikipedia - http://en.wikipedia.org/wiki/Xonotic
 
 h1. Public Relations
 
-Our first announcement of this project is coming sometime after illfonic first unveils their Nexuiz game at GDC http://www.gdconf.com
+Our first announcement of this project is coming sometime after Illfonic first unveils their Nexuiz game at GDC http://www.gdconf.com
 which is held March 9th - 13th.
 
-h2. Some supporting requirements before we make this announcement.
+h2. Some supporting requirements before we make this announcement:
 
 * Setup IRC channels
 * Finish initial logo
@@ -28,13 +28,13 @@ h2. Some supporting requirements before we make this announcement.
 ** a simple frontpage placeholder 
 ** and a forum for answering questions
 * Setup twitter and facebook pages
-* a FAQ page focused on the fork
+* An FAQ page focused on the fork
 ** we'll add entries to it as we go
 ** we'll refer people to this whenever we can
 
-h2. This announcement will be pushed out through the following channels
+h2. This announcement will be pushed out through the following channels:
 
-* Through "HELP" system on popular Nexuiz servers, like Simba in Europe and HOCTF/HODM in US
+* Through the "HELP" system on popular Nexuiz servers, like Simba in Europe and HOCTF/HODM in US
 * Slashdot, digg, reddit and other social news sites
 * Nexuiz IRC channels and private messaging
 * Alientrap forum
@@ -44,7 +44,7 @@ While our official project announcement is going to be very neutral, the Slashdo
 
 h2. Goals
 
-The main goal for this introductory announcement is to state *1) our reasons* and *2) our plans*, but we will focus more on our plans. This announcement shouldn't focus on finger-pointing. Rather, it should focus on our own values and the goals that we plan to accomplish with this new game. We will have to touch upon the *broken trust* that stemmed from decisions made behind closed doors. But our main goal for this announcement is to make our intentions clear, and, of course, to unveil the new name. We want to begin filling up our IRC channels and our website.
+The main goal for this introductory announcement is to state *1) our reasons* and *2) our plans*, but we will focus more on our plans. This announcement should not focus on finger-pointing. Rather, it should focus on our own values and the goals that we plan to accomplish with this new game. We will have to touch upon the *broken trust* that stemmed from decisions made behind closed doors. But our main goal for this announcement is to make our intentions clear, and, of course, to unveil the new name. We want to begin filling up our IRC channels and our website.
 
 h2. Words we will try to not use, or use limitedly:
 
@@ -81,14 +81,14 @@ h2. What will change in the game?
 # New set of player models
 # New player animations
 # New set of sounds
-# Default maps will get a makeover
+# Default maps will get a makeover and new ones will be introduced
 # New names for some weapons and game modes
 # Improved bot AI system
 # Increased quality and detail of textures
 
 h2. Timeline
 
-# We can't give a timeline at this moment but we will try to produce our first release as soon as we can 
+# We can't give a timeline at this moment, but we will try to produce our first release as soon as we can 
 # Instead, we will invite people to our IRC channels and to our website to keep updated
 
 h2. The name
@@ -100,13 +100,13 @@ h2. The name
 h2. Summary
 
 # We appreciate everyone's support
-# We will try to be open and supportive with new potential contributors (as opposed to "I'm too 1337 for you" attitude)
+# We will try to be open and supportive with new potential contributors (as opposed to an "I'm too 1337 for you" attitude)
 # We want to keep an active flow of information among the team members
 # We look forward to creating a game that everyone will enjoy
 
 h2. Details or topics we will not mention in our announcement
 
-(better to spread out to future announcements)
+(better to spread them out for future announcements)
 # Central user system
 # Website features
 # Details about roles

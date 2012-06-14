@@ -4,7 +4,7 @@ h2. Results from the-big-benchmark
 
 h3. Xonotic 0.6
 
-<div style="overflow:auto;background:#ddd;margin-bottom:20px;">
+<div id="benchresults" style="overflow:auto;background:#ddd;margin-bottom:20px;">
 
 | Username | System | CPU | GHz | Cores | RAM | Vendor | Card | Driver | OS | Arch | omg | low | med | normal | high | ultra | ultimate | Notes | Log download |
 | Ronan | desktop | Core i7 920 | 3.36 | 4 | 24G | NVIDIA Corporation | GeForce GTX 275/PCI/SSE2  | 3.3.0 NVIDIA 285.05.09 | Linux | x64 | 401 | 402 | 369 | 352 | 294 | 169 | 113 | | http://ompldr.org/vY2lzdw |

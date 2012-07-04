@@ -70,22 +70,30 @@ h2. Declaring
 
 To declare a variable, the syntax is the same as in C:
 
+<pre><code class="c">
   float i;
+</code></pre>
 
 However, variables cannot be initialized in their declaration for historical reasons, and trying to do so would define a constant.
 
 Whenever a variable declaration could be interpreted as something else by the compiler, the _var_ keyword helps disambiguating. For example,
 
+<pre><code class="c">
   float(float a, float b) myfunc;
+</code></pre>
 
 is an old-style function declaration, while
 
+<pre><code class="c">
   var float(float a, float b) myfunc;
+</code></pre>
 
 declares a variable of function type. An alternate and often more readable way to disambiguate variable declarations is using a _typedef_, like so:
 
+<pre><code class="c">
   typedef float(float, float) myfunc_t;
   myfunc_t myfunc;
+</code></pre>
 
 h2. Scope
 
@@ -125,14 +133,16 @@ A _string_ in QuakeC is an immutable reference to a null-terminated character st
 * *ftos* and *vtos* convert _floats_ and _vectors_ to strings. Their inverses are, of course, _stof_ and _stov_, which parse a _string_ into a _float_ or a _vector_.
 
 * *strcat* concatenates 2 to 8 strings together, as in:
-<pre>
+<pre><code class="c">
 strcat("a", "b", "c")=="abc";
-</pre>
+</code></pre>
 
 * *strstrofs(haystack, needle, offset)* searches for an occurrence of one string in another, as in:
-<pre>
+<pre><code class="c">
 strstrofs("haystack", "ac", 0)==5;
-</pre>The offset defines from which starting position to search, and the return value is _-1_ if no match is found. The offset returned is _0_-based, and to search in the whole string, a start offset of _0_ would be used.
+</code></pre>
+
+The offset defines from which starting position to search, and the return value is _-1_ if no match is found. The offset returned is _0_-based, and to search in the whole string, a start offset of _0_ would be used.
 
 * *substring(string, startpos, length)* returns part of a string. The offset is _0_-based here, too.
 
@@ -141,13 +151,13 @@ Note that there are different kinds of _strings_, regarding memory management:
 
 * *Allocated strings* are strings that are explicitly allocated. They are returned by _strzone_ and persist until they are freed (using _strunzone_). Note that _strzone_ does not change the string given as a parameter, but returns the newly allocated string and keeps the passed temporary string the same way! That means:
 ** To allocate a string, do for example:
-<pre>
+<pre><code class="c">
 myglobal = strzone(strcat("hello ", "world"));
-</pre>
+</code></pre>
 ** To free the string when it is no longer needed, do:
-<pre>
+<pre><code class="c">
 strunzone(myglobal);
-</pre>
+</code></pre>
 
 * *Engine-owned strings*, such as _netname_. These should be treated just like temporary strings: if you want to keep them in your own variables, _strzone_ them.
 

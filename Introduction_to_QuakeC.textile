@@ -516,7 +516,7 @@ h1. Pitfalls and compiler bugs
 
 h2. complex operators
 
-Do not count on the modifying and reading operators like _+=_ or _++_ to always work. Using them in simple cases like:
+Do not count on the modifying and reading operators like _&#43;=_ or _&#43;&#43;_ to always work. Using them in simple cases like:
 
   a += 42;
   for(i = 0; i < n; ++i)

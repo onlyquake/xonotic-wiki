@@ -7,7 +7,27 @@ psa by hutty ... will be removed once restructuring is complete
 
 new stuff
 
-nut'n so far
+
+[[Introduction]]
+[[Setup]]
+[[Start]]
+[[Files]]
+[[Planning]]
+[[Textures]]
+[[Lights]]
+[[Spawns]]
+[[Weapons]]
+[[Items]]
+[[Bounces]]
+[[Teleports]]
+[[Warpzones]]
+[[Making a PK3]]
+
+
+[[ENTITIES]] 
+
+
+
 
 -----------line--------------line---------------line----------------line--------------------line-------------
 

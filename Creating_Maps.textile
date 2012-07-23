@@ -1,5 +1,11 @@
 h1. Creating Maps
 
+
+h1. *This page is going under massive restructuring... everything new is over the line ... what this page used to say is under it *
+psa by hutty ... will be removed once restructuring is complete
+
+
+
 h2. Introduction
 
 Creating maps requires the [[Netradiant]], a gtkradiant based mapping program that generates .bsp files compiled by q3map2.  It helps to have a [[well packaged map]] while reading through this article.

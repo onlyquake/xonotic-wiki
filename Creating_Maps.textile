@@ -8,7 +8,7 @@ psa by hutty ... will be removed once restructuring is complete
 new stuff
 
 
-[[map-Introduction]]
+[[Introduction]]
 [[Setup]]
 [[Start]]
 [[Files]]

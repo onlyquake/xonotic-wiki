@@ -1,10 +1,17 @@
 h1. Creating Maps
 
 
-h1. *This page is going under massive restructuring... everything new is over the line ... what this page used to say is under it *
+h2. *This page is going under massive restructuring... everything new is over the line ... what this page used to say is under it *
+
 psa by hutty ... will be removed once restructuring is complete
 
+new stuff
 
+nut'n so far
+
+-----------line--------------line---------------line----------------line--------------------line-------------
+
+old stuffs
 
 h2. Introduction
 

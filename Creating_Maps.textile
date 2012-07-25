@@ -7,21 +7,16 @@ psa by hutty ... will be removed once restructuring is complete
 
 new stuff
 
+So ... you are interested in mapping ... 
 
-[[Introduction]]
-[[Setup]]
-[[Start]]
-[[Files]]
-[[Planning]]
-[[Textures]]
-[[Lights]]
-[[Spawns]]
-[[Weapons]]
-[[Items]]
-[[Bounces]]
-[[Teleports]]
-[[Warpzones]]
-[[Making a PK3]]
+Hopefully this tutorial section will teach you most of what you need to know ... 
+
+-- Prologue --
+[[mapping-Introduction]]
+[[mapping-Setup]]
+
+ 
+
 
 
 [[ENTITIES]] 

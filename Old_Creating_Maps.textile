@@ -1,7 +1,7 @@
 h1. Old Creating Maps
 
-!! this page is has been replaced ... I left this hear for archival purposes ... and if my page ins't good enough for you 
--- hutty --
+*!! this page has been replaced ... I left this hear for archival purposes ... and if my page ins't good enough for you 
+-- hutty --*
 
 
 h2. Introduction

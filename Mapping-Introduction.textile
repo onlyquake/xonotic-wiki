@@ -1,0 +1,43 @@
+h1. Mapping-Introduction
+
+Welcome to the wonderful world of MAPPING ...
+
+This tutorial series will guide you though how to make a finished xonotic map ... with effects and all
+
+after every section of the turorial ... you will be awarded with a mappers rank ... that you can show of in you form sig ... or something ...
+
+your rank is currently _-1 butter clicker_ ... 
+
+
+h2. REQUIREMENTS ... you will need
+
+* a computer that can run Xonotic
+* the mapping support package from the main xonotic web site (for 0.6 version clicky the link) http://dl.xonotic.org/xonotic-0.6.0-mappingsupport.zip 
+also if the main site doesn't have a download you can always get it from http://beta.xonotic.org/autobuild/ ... username xonotic ... password g-23
+* time
+
+thats about it ... snacks and things are optional ... 
+
+h2. Basic Procedure
+
+just to give an overview of what mapping involves ... 
+most maps are created using net-radiant ... blender and other 3d models are sometimes used WITH net-radiant ... you will have a hard time making a map for xonotic with nothing but blender ... 
+
+its a good idea to have your map design down on paper before you start 
+
+the procedure goes as follows ... 
+
+* drag boxes around to make map 
+* texture boxes 
+* add lights 
+* add spawns and items 
+* compile map (may take 3 sec .. or 3+ hours)
+* add bot support 
+* package up as a cute and cuddly pk3 file
+* post on forums
+* rule the world 
+* ...
+
+
+
+YAY you finished the intro :P ... you now advance to rank _0 the rankless_

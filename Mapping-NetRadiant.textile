@@ -38,7 +38,12 @@ Basic controls for 3d view (although we havn't put anything in it yet, so its ki
 
 
 
+
 thats it, no rank increase for this one 
+
+
+
+
 
 << [[mapping-Setup]] 2 [[mapping-FirstRoom]] >>
  

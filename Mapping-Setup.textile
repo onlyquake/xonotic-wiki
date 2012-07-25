@@ -1,0 +1,30 @@
+h1. Mapping-Setup
+
+h2. How to get your system all set up to start mapping ^^
+
+h3. Step 1
+
+Wait for the mapping support download I linked to in the intro to finish downloading
+
+... >.< this one http://dl.xonotic.org/xonotic-0.6.0-mappingsupport.zip
+
+h3. Step 2
+
+Un extract the .zip archive using your favorite archiving tool ... this could be 
+* winrar
+* ark 
+* on a mac you just open it like a folder 
+* any other tool that reads .zip files
+
+h3. Step 3
+
+Locate your .xonotic folder ... this step can be a little confusing ...
+
+With xonotic there are 2 locations the game looks to find data ... 
+   there is the folder that the xonotic program sits in ... this is called the _install location_
+       this is located ... wherever you put it ... if you dont know ... try a search
+
+   there is also the personal/hidden xonotic folder ... its called the _personal location_
+       on linux this should be in ~/.xonotic 
+       on windows (7) its in ~/saved games ... or something like that
+       on mac ... its in ~/libraries/appdata ?? maybe ??

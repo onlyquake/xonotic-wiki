@@ -41,3 +41,5 @@ the procedure goes as follows ...
 
 
 YAY you finished the intro :P ... you now advance to rank _0 the rankless_
+
+| [[mapping-Setup]] >>

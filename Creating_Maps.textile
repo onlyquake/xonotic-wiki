@@ -3,18 +3,20 @@ h1. Creating Maps
 
 h2. This tutorial is incomplete ... if you are looking for the old creating maps page ... click on the link at the bottom of the page
 
-new stuff
 
-So ... you are interested in mapping ... 
-
+So ... 
+you are interested in mapping ... 
 Hopefully this tutorial section will teach you most of what you need to know ... 
 
--- Prologue --
+h2. Tutorial
+
+*-- Prologue --*
 [[mapping-Introduction]]
 [[mapping-Setup]]
+[[mapping-NetRadiant]]
 
 
-h2. Need Help?
+h2. Help
 
 #xonotic.editing on irc.quakenet.org  -- live chat
 http://forums.xonotic.org             -- the forums .

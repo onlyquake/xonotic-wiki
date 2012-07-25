@@ -77,3 +77,5 @@ YAY .. you finished the hardest part of mapping ... now you advanced to rank _1 
 
 << [[mapping-Introduction]] 1 [[mapping-NetRadiant]] >>
  
+
+... [[Creating_Maps]] ...

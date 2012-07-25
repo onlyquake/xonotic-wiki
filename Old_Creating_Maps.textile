@@ -97,3 +97,5 @@ h2. Help
 http://forums.xonotic.org
 
 [[Création de cartes|Français]]
+
+<< [[Creating_Maps]]

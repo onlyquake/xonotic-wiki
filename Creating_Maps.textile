@@ -8,13 +8,22 @@ So ...
 you are interested in mapping ... 
 Hopefully this tutorial section will teach you most of what you need to know ... 
 
-h2. Tutorial
+h2. Main Tutorial
 
 *-- Prologue --*
 [[mapping-Introduction]]
 [[mapping-Setup]]
 [[mapping-NetRadiant]]
 [[mapping-FirstRoom]]]
+
+
+h2. Entity Tutorials
+
+h2. Advanced Mapping Tutorials
+
+h2. Links to Even More Tutorials 
+
+* Alpha Blended Terrain -- by tZork http://forums.xonotic.org/showthread.php?tid=3237
 
 
 h2. Help

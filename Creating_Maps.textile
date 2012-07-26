@@ -19,7 +19,25 @@ h2. Main Tutorial
 
 h2. Entity Tutorials
 
+[[mapping-entity-_decal|_decal]]
+[[mapping-entity-_skybox|_skybox]]
+[[mapping-entity-dom_controlpoint|dom_controlpoint]]
+[[mapping-entity-dom_team|dom_team]]
+[[mapping-entity-func_assault_destructable|func_assault_destructable]]
+[[mapping-entity-func_assault_wall|func_assault_wall]]
+[[mapping-entity-func_bobbing|func_bobbing]]
+[[mapping-entity-func_breakable|func_breakable]]
+[[mapping-entity-func_button|func_button]]
+
+... i'll add the rest later ...
+
+
+
+
+
 h2. Advanced Mapping Tutorials
+
+... meh ...
 
 h2. Links to Even More Tutorials 
 

@@ -1,0 +1,10 @@
+h1. Skyboxes (with blender)
+
+h2. In this tutorial we will make a very simple skybox for Xonotic
+
+h3. Requirements 
+
+* Xonotic (and a mapping setup (I use netradiant))
+* Blender (I will be using version 2.62, older versions may work)
+* gimp (I will be using 2.6, older versions may work)
+* a text editor (I'll be using kate)

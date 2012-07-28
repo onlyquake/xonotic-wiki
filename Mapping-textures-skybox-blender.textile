@@ -8,3 +8,15 @@ h3. Requirements
 * Blender (I will be using version 2.62, older versions may work)
 * gimp (I will be using 2.6, older versions may work)
 * a text editor (I'll be using kate)
+
+h3. Intro
+
+This is what we will make...
+
+!start-shot.jpg!
+
+Its actually not that hard to do, so lets get started
+
+h3. Step 1
+
+... in progress ... sorry ..

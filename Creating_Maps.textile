@@ -14,8 +14,16 @@ h2. Main Tutorial
 [[mapping-Introduction]]
 [[mapping-Setup]]
 [[mapping-NetRadiant]]
-[[mapping-FirstRoom]]]
+[[mapping-FirstRoom]]
 
+
+h2. Advanced Mapping Tutorials
+
+...
+
+h2. Advanced Texturing Tuorials
+
+[[mapping-textures-skybox-blender|skyboxes (with blender)]]
 
 h2. Entity Tutorials
 
@@ -34,10 +42,6 @@ h2. Entity Tutorials
 
 
 
-
-h2. Advanced Mapping Tutorials
-
-... meh ...
 
 h2. Links to Even More Tutorials 
 

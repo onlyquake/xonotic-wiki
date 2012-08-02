@@ -17,6 +17,13 @@ This is what we will make...
 
 Its actually not that hard to do, so lets get started
 
-h3. Step 1
+h3. Step 1 - open blender
 
-... in progress ... sorry ..
+Lets get started.
+The first thing you will need is blender, so open it up and delete the default cube, camera, and light.
+!blender-open.jpg!
+
+h3. Step 2 - Make the ground
+
+We are going to make the ground using a large plane. So hit [shift] + [a] to bring up the add menu, and add a plane. 
+!blender-add-plane.jpg!

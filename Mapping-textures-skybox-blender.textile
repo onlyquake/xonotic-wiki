@@ -27,3 +27,9 @@ h3. Step 2 - Make the ground
 
 We are going to make the ground using a large plane. So hit [shift] + [a] to bring up the add menu, and add a plane. 
 !blender-add-plane.jpg!
+
+!blender-plane.jpg!
+
+After adding the plane hit [s] and scale it up quite a bit
+
+!blender-plane-scaled.jpg!

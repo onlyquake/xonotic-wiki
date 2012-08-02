@@ -33,3 +33,8 @@ We are going to make the ground using a large plane. So hit [shift] + [a] to bri
 After adding the plane hit [s] and scale it up quite a bit.
 
 !blender-plane-scaled.jpg!
+
+Then with the plane selected hit [tab] to enter edit mode. After that find the subdivide button on the left and subdivide your plane, also move up the number of divisions to get smaller squares. (you may have to subdivide twice)
+
+!blender-plane-sub.jpg!
+ 

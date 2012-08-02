@@ -30,6 +30,6 @@ We are going to make the ground using a large plane. So hit [shift] + [a] to bri
 
 !blender-plane.jpg!
 
-After adding the plane hit [s] and scale it up quite a bit
+After adding the plane hit [s] and scale it up quite a bit.
 
 !blender-plane-scaled.jpg!

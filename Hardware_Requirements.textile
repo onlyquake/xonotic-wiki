@@ -67,7 +67,9 @@ h3. Xonotic 0.6
 | cortez | netbook | Intel Atom | 1.6 | 1 | 1G | Intel | Intel 945GM | 1.4.0 - Build 7.14.10.4926 | Windows XP | x86 | 18 | 8 | - | b) | b) | b) | b) | Acer Aspire One, 640x480 | http://ompldr.org/vY2s0Zw |
 | edh | p3-550 | Pentium 3 | 0.55 | 1 | 320M | Tungsten Graphics, Inc. | Mesa DRI R200 (RV250 4966) x86/MMX/SSE TCL DRI2 | 1.3 Mesa 7.11.2 | Linux | x86 | 11 | - | - | b) | b) | b) | b) | Radeon 9000, crashed at low | http://forums.xonotic.org/showthread.php?tid=2562&pid=35179#pid35179 |
 | edh | Craptop | Via C3-2 'Nehemiah' | 1.2 | 1 | 256M | VIA Technology | Mesa DRI CastleRock (CLE266) x86/MMX/SSE | 1.2 Mesa 7.11.2 | Linux | x86 | 9 | - | - | b) | b) | b) | b) | Display errors at low, and about 0.1fps | http://forums.xonotic.org/showthread.php?tid=2562&pid=35646#pid35646 |
-
+| zykure | whitedwarf | Intel i3-2310M | 2.1 | 4 | 4G | Tungsten Graphics, Inc |  Mesa DRI SandyBridge | 2.1 Mesa 7.11 | Linux | x64 | 107 | 103 | 83 | 59 | 39 | 25 | 13 | | http://forums.xonotic.org/showthread.php?tid=2562&pid=35646#pid35646 |
+| zykure | whitedwarf | Intel i3-2310M | 2.1 | 4 | 4G | Tungsten Graphics, Inc |  Mesa DRI SandyBridge | 3.0 Mesa 8.1-devel | Linux | x64 | 119 | 115 | 94 | 67 | 42 | 25 | 13 | using updated Mesa drivers from https://launchpad.net/~oibaf/+archive/graphics-drivers | http://forums.xonotic.org/showthread.php?tid=2562&pid=35646#pid35646 |
+| zykure | nubas | Intel Xeon E5420 | 2.5 | 8 | 16G | NVIDIA Corporation | Quadro FX3700/PCIe/SSE2 | 3.3.0 Nvidia 295.20 | Linux | x64 | 283 | 255 | 239 | 227 | 193 | 84 | 50 | | http://forums.xonotic.org/showthread.php?tid=2562&pid=35646#pid35646 |
 
 </div>
 

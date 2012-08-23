@@ -22,7 +22,7 @@ When the setup is complete, you will get a "MinGW Shell" in your start menu. Thi
 
 h3. Installing msysgit
 
-Run the installer. At the component selection screen ([[attachment:git-1-components.png|screenshot]]), uncheck the "Associate .sh files" option. Windows Explorer Integration can also optionnally be unselected -- it is only useful if you plan on contributing and do not like using git purely from the command line to do so. When you get to the PATH adjusting screen ([[attachment:git-2-path.png|screenshot]]), you need to select the second option (Run Git from the Windows Command Prompt). This ensures that git can be run from the MinGW shell, as we will not use the shell that comes with msysgit for this. Finally, in the line ending screen ([[attachment:git-3-crlf.png|screenshot]]), keep the first option selected unless you know what you're doing.
+Run the installer. At the component selection screen (screenhsot: attachment:"git-1-components.png"), uncheck the "Associate .sh files" option. Windows Explorer Integration can also optionnally be unselected -- it is only useful if you plan on contributing and do not like using git purely from the command line to do so. When you get to the PATH adjusting screen (screenshot: attachment:git-2-path.png), you need to select the second option (Run Git from the Windows Command Prompt). This ensures that git can be run from the MinGW shell, as we will not use the shell that comes with msysgit for this. Finally, in the line ending screen (screenshot: attachment:git-3-crlf.png), keep the first option selected unless you know what you're doing.
 
 h3. Installing the dependencies in MinGW
 

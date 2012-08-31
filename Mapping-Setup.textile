@@ -4,76 +4,47 @@ h2. How to get your system all set up to start mapping ^^
 
 h3. Step 1 -- Obtain mapping support
 
-Wait for the mapping support download I linked to in the intro to finish downloading
-
-... >.< this one http://dl.xonotic.org/xonotic-0.6.0-mappingsupport.zip
+If you didn't already, download this ... http://dl.xonotic.org/xonotic-0.6.0-mappingsupport.zip
 
 h3. Step 2 -- Extract zip
 
-Un extract the .zip archive using your favorite archiving tool ... this could be 
-* winrar
-* ark 
-* on a mac you just open it like a folder 
-* any other tool that reads .zip files
+Extract the .zip archive using your favorite archiving tool 
 
 h3. Step 3 -- Find the magic folders
 
-Locate your .xonotic folder ... this step can be a little confusing ...
+Locate your .xonotic folder, note that this is NOT the install location. This is the place xonotic saves your config. 
 
-With xonotic there are 2 locations the game looks to find data ... 
-
-there is the folder that the xonotic program sits in ... this is called the _install location_
-* this is located ... wherever you put it ... if you dont know ... try a search
-
-there is also the personal/hidden xonotic folder ... its called the _personal location_
 * on linux this should be in ~/.xonotic 
 * on windows (7) its in ~/saved games ... or something like that
 * on mac ... its in ~/libraries/appdata ?? maybe ??
 
 h3. Step 4 -- Understand the magic folders
 
-if/when you find both of these folders ... you will see a data folder in *BOTH* of them
-
-this data folder is treated the same ... xonotic will read data from both of them ...
-this data can include ... maps -- textures -- sound -- models -- configurations -- and more ...
-
-we will be saving stuff in the _personal location_ ... because it is both safer (doesn't get wiped when updating xonotic) and it only applies to you ... not everyone using the computer
+if/when you find both of these folders, you will see that both of them contain a data folder. Game wise these data folders are treated the same, however, it is best to save your work in the .xonotic folder so that you don't accidentally mess up your xonotic install, or so that your work doesn't get lost in an update.
 
 h3. Step 5 -- Moving stuff
 
-remember that zip we extracted? ... there should be 2 folders in it .
+remember that zip we extracted? There should be 2 folders in it.
 
 * data (yes ... another data folder)
 * mapping
 
-first open up the data folder and find the .pk3 file (may look similar to xonotic-maps-mapping.pk3)
+First open up the data folder and find the .pk3 file. (may look similar to xonotic-maps-mapping.pk3)Then take the pk3 and move it to .xonotic/data Note, .pk3 is really a renamed .zip. DONT extract it. 
 
-take the pk3 and move it to the data folder in  the _personal location_ 
-
-... if you are clever and found out that a .pk3 is really a renamed .zip *DONT EXRTACT IT* ... xonotic and netradiant read from the pk3 ... extracting is not necessary ...
-
-all done ... ok
-
-now take the mapping folder and move it to the root of _personal location_ (dont put it in any of the data folders)
+Now take the mapping folder and move it to the root of .xonotic (dont put it in any of the data folders)
 
 h3. Step 6 -- Get net-radaint working
 
-* if your on windows ... you are ready to go ... just double click on radiant.exe
-* linux users may have to compile theirs ... dont worry ... netradiant is a pretty easy compile ... i'll fill in with greater detail later
-* mac ... um ... its possible ... but complicated ... ill change this once I found that forum thread that explained how it is done
+* WINDOWS, you are ready to go just double click on radiant.exe
+* LINUX users may have to compile theirs, don't worry, netradaint is rather easy to compile. If you need help ask on the forums, or irc
+* MAC ... um ... its possible ... but complicated ... someone who knows how should edit this... and you will probably need OSX 10.5 or greater
 
 
 
 h3. Step 7 -- Setting up netradiant
 
-remember the _install location_ ... netradaint wants to know where that is ... so ... be nice and tell it ... 
+When you first start up radiant it may ask where the install location is. Simply, point it to the install location. Then net radaint should start,\ and the lower right pane should have lists of texture packs. If there are no texture packs, then refer back to step 5.
 
-If all went well you should be looking back at a nice net radiant (although the windows version is ugly) 
-also the textures window should be populated with lists of texture packs  ... if it isn't refer to step 5 ...
-
-h3. Step 8 -- Final words 
-
-YAY .. you finished the hardest part of mapping ... now you advanced to rank _1 - shape gazer_
 
 << [[mapping-Introduction]] 1 [[mapping-NetRadiant]] >>
  

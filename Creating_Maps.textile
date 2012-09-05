@@ -36,6 +36,12 @@ h2. Entity Tutorials
 [[mapping-entity-func_bobbing|func_bobbing]]
 [[mapping-entity-func_breakable|func_breakable]]
 [[mapping-entity-func_button|func_button]]
+[[mapping-entity-func_camera|func_camera]]
+[[mapping-entity-func_clientillusionary|func_clientillusionary]]
+[[mapping-entity-func_conveyor|func_conveyor]]
+[[mapping-entity-func_door|func_door]]
+
+
 
 ... i'll add the rest later ...
 

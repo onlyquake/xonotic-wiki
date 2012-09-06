@@ -2,6 +2,7 @@ h1. Creating Maps
 
 
 h2. This tutorial is incomplete ... if you are looking for the old creating maps page ... click on the link at the bottom of the page
+h2. This page is also being maintained by hutty ... if you have an issue ... or need a certain tutorial sooner ... contact him on the forums
 
 
 So ... 

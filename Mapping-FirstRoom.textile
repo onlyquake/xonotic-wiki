@@ -1,0 +1,9 @@
+h1. Mapping-FirstRoom
+
+There are three types of xonotic maps.
+
+* Indoor  (stormkeep)
+* Outdoor (space elevator)
+* Kinda both (solarium)
+
+In this tutorial we will begin creating and indoor map. The map will contain various sized rooms connected to each other, in the same way stormkeep is put together. Now, we have to start somewhere, so lets begin with the first room. 

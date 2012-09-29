@@ -50,6 +50,7 @@ h2. Gameplay
 ** [[Race CTS]]
 ** [[Rune|Runematch]]
 ** [[Team Deathmatch]]
+** [[Conquest]]
 
 * Mutators
 ** [[Dodging]]

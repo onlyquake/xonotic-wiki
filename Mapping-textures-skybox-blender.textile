@@ -39,5 +39,10 @@ Then with the plane selected hit [tab] to enter edit mode. After that find the s
 !blender-plane-sub.jpg!
 
 
+Enable proportional editing, It is in the lower left by default
+!blender-pedit.jpg!
+
+
+
 ... still working on it ... sorry ...
  

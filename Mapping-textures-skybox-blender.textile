@@ -54,6 +54,14 @@ Now you can move one face, and the nearby faces will follow suit. Note that you 
 !blender-redit2.jpg!
 
 
+Go crazy with the editing. I found that having the larger hills on outside, and a flatter area in the middle worked out best.
+
+!blender-hills1.jpg!
+
+After you are done making some hills, we are going to smooth them out. To easily do this, we simply add a subdivision surface modifier. So, first click on the modifiers tab (the little wrench). Then click the "add modifier" drop down box. And finally hit Subdivision Surface.
+
+!blender-subsurf.jpg!
+
 
 ... still working on it ... sorry ...
  

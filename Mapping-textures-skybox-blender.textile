@@ -63,5 +63,26 @@ After you are done making some hills, we are going to smooth them out. To easily
 !blender-subsurf.jpg!
 
 
+Adjust the subsurf values so the hills become nice and smooth (poly count does not matter here), then press the smooth shading button on the left. 
+
+!blender-smooth.jpg!
+
+Now we need to add the sun and sky. To do this simple go to the add menu [shift][a]  and add a "sun" light
+
+!blender-addlight!
+
+Then turn on the sky option in the light settings
+
+!blender-sky.jpg!
+
+Finally adjust the camera (add one if you dont have one already), and render a shot.
+
+!blender-render1.jpg!
+ 
+
+
+
+
+
 ... still working on it ... sorry ...
  

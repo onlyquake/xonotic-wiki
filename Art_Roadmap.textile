@@ -33,7 +33,7 @@ h2. Weapon Models
 |Fireball|||LJFHutch|INCOMPLETE|INCOMPLETE|Mesh and Textures|LJFHutch|IN PROGRESS|{{div_start_tag(a18,red)}}HIGH{{div_end_tag}}|
 |Porto|\8=.NOT ASSIGNED|{{div_start_tag(a19,green)}}LOW{{div_end_tag}}|
 |HookGun|\8=.NOT ASSIGNED|{{div_start_tag(a20,green)}}LOW{{div_end_tag}}|
-|HLAC|\8=.NOT ASSIGNED|{{div_start_tag(a20,green)}}LOWISH{{div_end_tag}}|
+|HLAC|\8=.NOT ASSIGNED...|{{div_start_tag(a20,green)}}LOWISH{{div_end_tag}}|
 
 
 h2. Items/Pickups

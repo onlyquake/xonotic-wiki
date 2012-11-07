@@ -36,8 +36,9 @@ To update your Git clone, you can repeat the commands above without the first "g
 Ubuntu Dependencies:
 
 <pre>
-sudo apt-get install build-essential xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl1.2-dev libsdl-image1.2-dev libclalsadrv-dev libasound2-dev libxext-dev libsdl1.2debian-pulseaudio git-core unzip wget
+sudo apt-get install build-essential xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl1.2-dev libsdl-image1.2-dev libclalsadrv-dev libasound2-dev libxext-dev libsdl1.2debian git-core unzip wget
 </pre>
+Note: If using i386 architecture, you can replace libdsl1.2debian by ibsdl1.2debian:i386 in the list above.
 
 For Fedora and other RPM based distro's, compiling dependencies are
 

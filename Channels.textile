@@ -9,13 +9,14 @@ For a short introduction to IRC, [[IRC#General-IRC-info-and-rules|skip to the bo
 h3. Quakenet (irc.quakenet.org:6667)
 
 p(. <pre>
-#xonotic         - General purpose channel
-#xonotic.admins  - Channel for server admins
-#xonotic.editing - Channel for mapmakers, modelers, texturers, etc.
-#xonotic.ladder  - Ladder channel
-#xonotic.ninjaz  - Xonotic Ninjaz (former Nexuiz Ninjaz)
-#xonotic.pickup  - Pickup channel
-#xonotic.tourney - Tourney channel
+#xonotic           - General purpose channel
+#xonotic.admins    - Channel for server admins
+#xonotic.editing   - Channel for mapmakers, modelers, texturers, etc.
+#xonotic.ninjaz    - Xonotic Ninjaz (former Nexuiz Ninjaz)
+#xonotic.pickup    - Pickup channel
+#exile.xonotic.cup - Cup channel
+#xdf               - Xonotic DeFrag
+#xonotic.insta     - Insta channel
 </pre>
 
 h4(. Country specific IRC channels
@@ -23,65 +24,70 @@ h4(. Country specific IRC channels
 p(. <pre>
 #xonotic.au - Xonotic Australia
 #xonotic.de - Xonotic Germany
+#xonotic.fi - Xonotic Finland
 #xonotic.it - Xonotic Italy
 #xonotic.ro - Xonotic Romania
+#xonotic.ru - Xonotic Russia
 #xonotic.se - Xonotic Sweden
+#xonotic.uk - Xonotic United Kingdom
 </pre>
 
 h4(. Clan channels
 
 p(. <pre>
-#blah.eu             - blah
 #bot.xonotic         - BOT
 #capbots             - CapBots
-#ccc.xonotic         - Cool Cats Clan
+#cf.etqw             - Combat Folk
 #conquerors          - Conquerors
 #dbc                 - DodgingBullets
 #dear                - dear
 #deathmatchers       - Deathmatchers
 #dietunichtguten     - Die Tunichtguten
+#eatseakittens       - Eat Sea Kittens
 #exile.xonotic       - eXiLe
 #menintux            - Men in Tux
 #mon.xonotic         - Monks of Nexuiz
 #nsb.nexuiz          - NSB - The Dyslexic Loser Mob
 #pb.xonotic          - PeaceBrothers
 #profoundvelocity    - Profound Velocity
+#ps.xonotic          - Paradox Space
+#psyx                - Psychos of Xonotic
 #sh.nexuiz           - Shell
+#smb                 - Super Mario Brothers
+#smokebreak          - Smoke Break
+#teamos              - OHSNAP!
 #unconnected.xonotic - Unconnected
-#xonotic.talionis    - Talionis
 </pre>
 
 h4(. Server channels
 
 p(. <pre>
+#dtg.ctf           - Die Tunichtguten server (Minsta CTF)
+#esk.xonotic       - Eat Sea Kittens server (Minsta CTF)
 #exile.xonotic.1v1 - eXiLe servers (Minstagib + Duel)
+#hoctf             - House of CTF
+#lcbx.cts          - Xonotic DeFrag server
 #mon.sa            - MoN servers (Overkill + Vehicle)
-#nightflight       - Nightflight CTF
-#simba             - Simba CTF
-#tbom              - The base of madness
-#xonotic.hoctf     - House of CTF
-#xonotic.xpm
-+ #xon.chat        - CTS XPM physics server
-#xpm               - [NL] Balance test + Race server
+#uc.xon            - Unconnected servers
 </pre>
 
 h3. FreeNode (chat.freenode.net:6667)
 
 p(. <pre>
-#xonotic - Game developer channel. Non-development subjects should be directed to the main Xonotic channel on QuakeNet.
-#xonstat - Xonotic stats support etc.
+#xonotic - Game developer channel. Non-development subjects should be directed to the main Xonotic channel on QuakeNet
 </pre>
 
-h4(. Server channels
+h3. ARCNet (irc.arcnet.vapor.com:6667)
 
 p(. <pre>
-#planetxonotic.de - Planetxonotic.de Servers
+#dcc.admins - DCC Admins
+#dccdelight - DCC Delight servers
 </pre>
 
 h3. GlobalGamers (irc.globalgamers.net:6667)
 
 p(. <pre>
-#xonotic -  General channel
+#xonotic - General channel
 </pre>
 
 h2. Jabber XMPP MUCs

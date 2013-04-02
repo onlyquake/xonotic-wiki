@@ -27,7 +27,7 @@ It does stuff ...
 
 h2. How to use it
 
-* Make a brush, with it selected, right click on the overview pane. Then go to func, and click on func_button. Then hit [n] to bring up the entity editor, and pick a direction. Up is up and down is down. For z-axis, 0 degrees is east on the 2d view, so 90 is north, 180 is west, 270 is south. *NOTE :: it defaults to z-axiz when the radio button shows up. If you want up first select something else, then select down*
+* Make a brush, with it selected, right click on the overview pane. Then go to func, and click on func_button. Then hit [n] to bring up the entity editor, and pick a direction. Up is up and down is down. For z-axis, 0 degrees is east on the 2d view, so 90 is north, 180 is west, 270 is south. *NOTE :: it defaults to z-axiz when the radio button shows up. If you want up first select something else, then select up*
 
 
 * Then we need to link it so something. To do that select the button first, then select the tartget, and hit [ctrl]+[k]. You should see a line linking to the button and the object.

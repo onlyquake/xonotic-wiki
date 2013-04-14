@@ -2,6 +2,31 @@ h1. Hardware Requirements
 
 h2. Results from the-big-benchmark
 
+This page lists benchmark results on various systems.
+
+Results are normally posted on the forums: http://forums.xonotic.org/showthread.php?tid=2562
+
+> To all users of git and autobuilds:
+>
+> please update, and then run "the big benchmark" as described on http://dev.xonotic.org/projects/xonotic/...quirements
+> 
+> Especially those of you who have performance problems are asked to run this. The test can, on older systems, take a few hours, so I'd recommend running it over night.
+> 
+> It will generate a log file. Please send me that log file (e.g. via forum PM) and also the following system details:
+> 
+> - system name
+> - CPU
+> - CPU clock frequency
+> - number of CPU cores
+> - RAM size
+> - operating system
+> - architecture (32bit or 64bit)
+> 
+> so I can add the data to the wiki page above. Alternatively, if you have editing permissions, you can add yourself to the wiki with the required data.
+> 
+> When we have this info, our goal is to describe hardware requirements of Xonotic. So please help us by providing benchmark results! Thanks.
+
+
 h3. Xonotic 0.6
 
 

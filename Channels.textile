@@ -69,6 +69,8 @@ p(. <pre>
 #hoctf             - House of CTF
 #lcbx.cts          - Xonotic DeFrag server
 #mon.sa            - MoN servers (Overkill + Vehicle)
+#prophets.minsta   - Prophets Minsta 1v1 server
+#prophets.xdf      - Propehts DeFrag server
 #uc.xon            - Unconnected servers
 </pre>
 

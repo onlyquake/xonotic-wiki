@@ -31,7 +31,7 @@ remember that zip we extracted? There should be 2 folders in it.
 
 First open up the data folder and find the .pk3 file. (may look similar to xonotic-maps-mapping.pk3)Then take the pk3 and copy it to xonotic/data Note, .pk3 is really a renamed .zip. DONT extract it. 
 
-editors note :: -is this step required ... im not sure-> Now take the mapping folder and move it to the root of .xonotic (dont put it in any of the data folders)
+editors note :: is this step required ... im not sure --> Now take the mapping folder and move it to the root of .xonotic (dont put it in any of the data folders)
 
 h3. Step 6 -- Get net-radaint working
 

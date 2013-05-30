@@ -15,7 +15,7 @@ h3. Step 3 -- Find the magic folders
 Locate your .xonotic folder, note that this is NOT the install location. This is the place xonotic saves your config. 
 
 * on linux this should be in ~/.xonotic 
-* on windows (7) its in ~/saved games ... or something like that
+* on windows (7) its in \users\user\saved games\xonotic 
 * on mac ... its in ~/libraries/appdata ?? maybe ??
 
 h3. Step 4 -- Understand the magic folders
@@ -29,9 +29,9 @@ remember that zip we extracted? There should be 2 folders in it.
 * data (yes ... another data folder)
 * mapping
 
-First open up the data folder and find the .pk3 file. (may look similar to xonotic-maps-mapping.pk3)Then take the pk3 and move it to .xonotic/data Note, .pk3 is really a renamed .zip. DONT extract it. 
+First open up the data folder and find the .pk3 file. (may look similar to xonotic-maps-mapping.pk3)Then take the pk3 and copy it to xonotic/data Note, .pk3 is really a renamed .zip. DONT extract it. 
 
-Now take the mapping folder and move it to the root of .xonotic (dont put it in any of the data folders)
+editors note :: -is this step required ... im not sure-> Now take the mapping folder and move it to the root of .xonotic (dont put it in any of the data folders)
 
 h3. Step 6 -- Get net-radaint working
 

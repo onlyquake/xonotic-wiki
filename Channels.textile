@@ -98,8 +98,8 @@ h2. Jabber XMPP MUCs
 p(. <pre>
 xonotic at conf.jabberes.org - Spanish channel
 xonotic at conference.jabber.ru - Russian channel
+xonotic at conference.jabber.org - English channel
 </pre>
-
 
 h2. General IRC info and rules
 

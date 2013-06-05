@@ -16,6 +16,7 @@ p(. <pre>
 #xonotic.insta     - Insta channel
 #xonotic.ninjaz    - Xonotic Ninjaz (former Nexuiz Ninjaz)
 #xonotic.pickup    - Pickup channel
+#xonotic.translate - Channel to discuss translation issues
 #exile.xonotic.cup - Cup channel
 #xdf               - Xonotic DeFrag
 </pre>
@@ -46,9 +47,11 @@ p(. <pre>
 #dietunichtguten     - Die Tunichtguten
 #eatseakittens       - Eat Sea Kittens
 #exile.xonotic       - eXiLe
+#lovers              - Lovers
 #menintux            - Men in Tux
 #mon.xonotic         - Monks of Nexuiz
 #nsb.nexuiz          - NSB - The Dyslexic Loser Mob
+#OHSNAP!             - OHSNAP!
 #pb.xonotic          - PeaceBrothers
 #profoundvelocity    - Profound Velocity
 #ps.xonotic          - Paradox Space
@@ -56,8 +59,7 @@ p(. <pre>
 #sh.nexuiz           - Shell
 #smb                 - Super Mario Brothers
 #smokebreak          - Smoke Break
-#teamos              - OHSNAP!
-#unconnected.xonotic - Unconnected
+#unconnected.xonotic - unconnected
 </pre>
 
 h4(. Server channels
@@ -69,8 +71,8 @@ p(. <pre>
 #hoctf             - House of CTF
 #lcbx.cts          - Xonotic DeFrag server
 #mon.sa            - MoN servers (Overkill + Vehicle)
-#prophets.minsta   - Prophets Minsta 1v1 server
-#prophets.xdf      - Propehts DeFrag server
+#Prophets.Duel     - Prophets Minsta 1v1 server
+#Prophets.XDF      - Propehts DeFrag server
 #uc.xon            - Unconnected servers
 </pre>
 

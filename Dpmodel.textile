@@ -7,7 +7,7 @@ h1. Dpm models for Xonotic
 
 > > > Maya : check here http://developer.valvesoftware.com/wiki/Maya
 
-> > > Blender : there was working smd exporter fixed by div0 at Xonotic forums. This MAY be it I'm not sure: http://ai.kurotorobert.com/xonotic/files/Blender/Exporters/hl2_smd/hl2_smd_mesh_export_div0.7z
+> > > Blender : there was working smd exporter fixed by div0 at Xonotic forums. EDIT: This MAY be it I'm not sure: http://ai.kurotorobert.com/xonotic/files/Blender/Exporters/hl2_smd/hl2_smd_mesh_export_div0.7z
 
 there are 2 types of smd files
 

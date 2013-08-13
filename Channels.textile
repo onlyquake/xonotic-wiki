@@ -46,6 +46,7 @@ p(. <pre>
 #deathmatchers       - Deathmatchers
 #dietunichtguten     - Die Tunichtguten
 #eatseakittens       - Eat Sea Kittens
+#evil.ant.colony     - Evil Ant Colony
 #exile.xonotic       - eXiLe
 #lovers              - Lovers
 #menintux            - Men in Tux

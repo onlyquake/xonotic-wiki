@@ -136,7 +136,9 @@ p(. *Result notes:*
 * a) vid_soft is disqualified at ultra and above for lack of support of: offsetmapping, reliefmapping, postprocessing
 * b) the OpenGL 1.x renderer is disqualified at normal and above for lack of support of: deluxemapping, gloss, offsetmapping, reliefmapping, postprocessing
 
-!attachment:benchmark.png!
+p(. *Benchmark results (graph FPS vs. CPU Speed):*
+* 2013-08-28: attachment:benchmark.png
+
 
 h2. How to run the benchmark
 

@@ -11,13 +11,13 @@ h3. Quakenet (irc.quakenet.org:6667)
 p(. <pre>
 #xonotic           - General purpose channel
 #xonotic.admins    - Channel for server admins
+#onotic.cup        - Cup channel
 #xonotic.duel      - Duel League channel
 #xonotic.editing   - Channel for mapmakers, modelers, texturers, etc.
 #xonotic.insta     - Insta channel
 #xonotic.ninjaz    - Xonotic Ninjaz (former Nexuiz Ninjaz)
 #xonotic.pickup    - Pickup channel
 #xonotic.translate - Channel to discuss translation issues
-#exile.xonotic.cup - Cup channel
 #xdf               - Xonotic DeFrag
 </pre>
 

@@ -20,13 +20,12 @@ Ubuntu Dependencies (independent package x11-proto-devel dependencies fill the r
 <pre>
 sudo apt-get install build-essential xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl1.2-dev libsdl-image1.2-dev libclalsadrv-dev libasound2-dev libxext-dev libsdl1.2debian libjpeg-turbo8-dev git-core unzip wget
 </pre>
-Note: If using i386 architecture, you can replace libdsl1.2debian by ibsdl1.2debian:i386 in the list above.
+Note: If using i386 architecture, you can replace libdsl1.2debian by ibsdl1.2debian:i386 in the list above. On Debian, use libjpeg8-dev if libjpeg-turbo8-dev isn't available in the package repositories. To be able to download maps from game servers when using Xonotic for online gaming, you will also need curl installed on your system.
 
 For Fedora and other RPM based distro's, compiling dependencies are as follows:
 <pre>
 x11-proto-devel, libalsa2-static-devel libjpeg62-devel libjpeg62-static-devel libSDL-devel
 </pre>
-
 
 h3. Windows
 
@@ -50,7 +49,9 @@ cd xonotic
 ./all update -l best
 </pre>
 
-The git:// protocol uses port 9418, which may be a problem if you're behind a strict firewall. You may instead use the clone url <pre>http://git.xonotic.org/xonotic/xonotic.git</pre>however using the git protocol directly is preferred for performance reasons.
+Take care do do these steps as normal user on Linux (not as a superuser), otherwise you'll have to take care about the file permissions later on.
+
+The git:// protocol uses port 9418, which may be a problem if you're behind a strict firewall. You may instead use the clone url <code>http://git.xonotic.org/xonotic/xonotic.git</code> (however, using the git protocol directly is preferred for performance reasons).
 
 After that, you have a working checkout of the repository. The game can be compiled and run with the following commands:
 <pre>

@@ -25,6 +25,7 @@ h2. Project
 h2. Gameplay
 
 * [[Halogene's Newbie Corner]]
+** [[Halogene's Newbie Corner#Movement|Movement]]
 * Game Mechanics
 ** [[Impulse map]]
 ** [[Items]]

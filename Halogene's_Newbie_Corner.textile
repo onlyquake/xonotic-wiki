@@ -1,16 +1,17 @@
 h1. Halogene's Newbie Corner
 !http://www.xonotic.org/m/uploads/2014/04/newbie-corner-banner-thumb.png(Halogene's Newbie Corner)!:http://www.xonotic.org/m/uploads/2012/09/newbie-corner-banner2.png
 
-@WORK IN PROGRESS@
+<pre>
+WORK IN PROGRESS - Last Update Apr.23, 2014
+</pre>
 
-This tutorial aims at showing all fundamental aspects of vanilla gameplay to enable new players to pick up the ropes quickly. It includes the information of all six previous blog posts of the !http://xonotic.org/tag/newbie(Newbie Corner)!:http://xonotic.org/tag/newbie as well as some new things that have changed or that I didn't think about back then.
+This tutorial aims at showing all fundamental aspects of vanilla gameplay to enable new players to pick up the ropes quickly. It includes the information of all six blog posts of the !http://xonotic.org/tag/newbie(Newbie Corner)!:http://xonotic.org/tag/newbie as well as some new things that have changed or that I didn't think about back then.
 
-Note that this applies to vanilla Xonotic. Whereas movement aspects should usually apply more or less unchanged to modified servers offering minstagib, vehicle ctf or overkill gameplay, I will not explain the specifics of these game modifications/mutators - I simply lack the expertise in non-vanilla game modes. So if you want to apply the knowledge gained from this tutorial, search for vanilla servers (Xonotic icon next to it in server browser) or use the official [HUB] ones.
-
-Even though people tend to be more interested in what the weapons do when they first try out this game, I prefer to follow the structure that I use for my live newbie tutorials and to start off with the movement. Understanding and mastering Xonotic's movement is a key success factor in this game, apart from making it incredibly fun to play once you get the hang of it. So let's get started!
-
+Note that all this applies to vanilla Xonotic. Whereas movement aspects should usually apply more or less unchanged to modified servers offering minstagib, vehicle ctf or overkill gameplay, I will not explain the specifics of these game modifications/mutators - I simply lack the expertise in non-vanilla game modes. So if you want to apply the knowledge gained from this tutorial, search for vanilla servers (Xonotic icon next to it in server browser) or use the official [HUB] ones.
 
 h2. Movement
+
+Even though people tend to be more interested in what the weapons do when they first try out this game, I prefer to follow the structure that I use for my live newbie tutorials and to start off with the movement. Understanding and mastering Xonotic's movement is a key success factor in this game, apart from making it incredibly fun to play once you get the hang of it. So let's get started!
 
 h3. Bunny Hopping
 !http://www.xonotic.org/m/uploads/2014/04/Bunnyhop-text-thumb.png(Bunny Hopping)!:http://www.xonotic.org/m/uploads/2014/01/Bunnyhop-text.png
@@ -61,103 +62,62 @@ Once you've learned how to reliably accelerate out of the stand with this techni
 h3. Ramp Jumping
 !http://www.xonotic.org/m/uploads/2014/04/RampJumping-thumb.png(Ramp Jumping)!:http://www.xonotic.org/m/uploads/2014/04/RampJumping-full.png
 
-&nbsp;
-
 Ramps are sloped surfaces that can be used for extra upwards boost when doing a jump. If done properly, you can get to places you would not be able to reach without using a jump pad or the laser (see the previous part covering laser jumps), while not making any suspicious noises nor loosing any health. This makes ramp jumps especially useful in duels or 2v2 tdm matches and generally extends your movement options in all game modes. Ramp jumps are also very much fun to do!
 In my "live" newbie tutorials, I always demonstrate the ramp jump on this spot on the map Xoylent, as it's rather easy to master and you get the idea how it actually works:
 
-&nbsp;
-
-[caption id="attachment_3029" align="aligncenter" width="480"]<a href="http://www.xonotic.org/m/uploads/2012/11/Xoylent-ramp1.final_1.png"><img class=" wp-image-3029 " title="Ramp Jump on Xoylent" alt="Xoylent ramp1.final" src="http://www.xonotic.org/m/uploads/2012/11/Xoylent-ramp1.final_1.png" width="480" height="210" /></a> Ramp Jump on Xoylent[/caption]
-
-&nbsp;
+!http://www.xonotic.org/m/uploads/2014/04/Xoylent-ramp1.final-thumb.png(Basic Ramp Jump on Xoylent)!:http://www.xonotic.org/m/uploads/2012/11/Xoylent-ramp1.final_1.png
+_click to view full size_
 
 To do a ramp jump, you simply jump onto the sloped surface and jump again. Of course you can keep the jump button pressed for convenience, as with bunny hopping you will automatically jump again when hitting the sloped surface. Now this sounds awfully easy to do, and it wouldn't be a proper challenge to master if that was all you got to do, would it. So let's have a close look at the technical aspects behind it.
 
 The easiest way to make a ramp jump boost you up high is to approach the ramp frontally (see figure below), not sideways or parallelly (unless of course you're doing a strafe turn jump upwards the ramp, but hey this is a newbie guide!). See below what I mean with "approach the ramp frontally":
 
-&nbsp;
-
-[caption id="attachment_3041" align="aligncenter" width="480"]<a href="http://www.xonotic.org/m/uploads/2012/11/rampjumping-easy.hard_.final_.jpg"><img class=" wp-image-3041 " title="How to approach Ramps" alt="rampjumping-easy.hard.final" src="http://www.xonotic.org/m/uploads/2012/11/rampjumping-easy.hard_.final_.jpg" width="480" height="200" /></a> How to approach Ramps[/caption]
-
-&nbsp;
+!http://www.xonotic.org/m/uploads/2014/04/rampjumping-easy.hard_.final-thumb.jpg(How to approach Ramps)!:http://www.xonotic.org/m/uploads/2012/11/rampjumping-easy.hard_.final_.jpg
+_click to view full size_
 
 Make sure that you hit the ramp at a flat angle (seen from the side, as in the image below). If possible, try to hit it when still going upwards from your previous jump. If you're already on your way down from the previous jump when you hit the ramp, the angle at which you hit it will be steeper - if the angle is too steep or even 90 degree you'll get slowed down and the ramp won't give you the desired upwards boost.
 
-&nbsp;
-
-[caption id="attachment_3045" align="aligncenter" width="480"]<a href="http://www.xonotic.org/m/uploads/2012/11/rampjumping-angle.final_.png"><img class=" wp-image-3045 " title="Right way to jump onto a Ramp" alt="rampjumping-angle.final" src="http://www.xonotic.org/m/uploads/2012/11/rampjumping-angle.final_.png" width="480" height="138" /></a> Right way to jump onto a Ramp[/caption]
-
-&nbsp;
+!http://www.xonotic.org/m/uploads/2014/04/rampjumping-angle.final-thumb.png(Right way to jump onto a Ramp)!:http://www.xonotic.org/m/uploads/2012/11/rampjumping-angle.final_.png
+_click to view full size_
 
 The faster you are, the higher you will get. Ramp jumps that require a higher than walking speed to do are especially tricky, since you will need to bunny hop onto them and time your jumps so you hit the ramp at a good angle. In some cases, you'll be able to ramp jump onto another ramp, which will result in a double ramp jump.
 
 You will find ramps on a lot of maps, if you look for them. Now that I've shown you the mechanics behind ramp jumping, I'll include some examples of ramp jumps in some of the stock maps for you to try out.
 
-&nbsp;
 
-<h2 style="margin-bottom: 0cm">Xoylent</h2>
-
+* *Xoylent*
 The ramp I showed as first example on Xoylent can also be used to get to the nex platform. It's easier if you use the right corner of the ramp for this jump.
-
+!http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-1-thumb.png(Ramp to Nex on Xoylent)!:http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-1.png
+_click to view full size_
 &nbsp;
-
-[caption id="attachment_3059" align="aligncenter" width="480"]<a href="http://www.xonotic.org/m/uploads/2012/11/xoylent-ramp-1.final_.png"><img class=" wp-image-3059 " title="Ramp to Nex on Xoylent" alt="xoylent-ramp-1.final" src="http://www.xonotic.org/m/uploads/2012/11/xoylent-ramp-1.final_.png" width="480" height="240" /></a> Ramp to Nex on Xoylent[/caption]
-
-&nbsp;
-
 At mega health you can do a double ramp jump up to crylink, the pipes serve as second ramp. Note that you don't have to approach these ramps frontally as you can compensate the lower upwards boost by using the second ramp.
-
+!http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-2-thumb.png(Double Ramp on Xoylent)!:http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-2.png
+_click to view full size_
 &nbsp;
+One of the most tricky ramp jumps I'm going to show you here is the one from rocket launcher to mega health. Unless you do a !http://www.xonotic.org/2013/02/a-strafe-jumping-lesson-from-hero(circle jump)!:http://www.xonotic.org/2013/02/a-strafe-jumping-lesson-from-hero, this one is not possible to my knowledge to do with walking speed, so you'll have to do a bunny hop onto the ramp. I always start between the rocket launcher's spawn point and the wall behind it, start a bunny hop and usually hit the ramp at the right time then. You'll have to experiment a bit and find the good starting point for you, then you can reproduce that jump and start to get a feeling how you can do it in-game on the fly, without stopping at your favorite starting point. When turning around after the ramp jump you can switch from the forward key to the appropriate strafe key in order to loose less speed, but it's not required to perform that jump.
+!http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-3-thumb.png(Ramp to Mega Health on Xoylent)!:http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-3-thumb.png
+_click to view full size_
 
-[caption id="attachment_3062" align="aligncenter" width="480"]<a href="http://www.xonotic.org/m/uploads/2012/11/xoylent-ramp-2.final_.png"><img class=" wp-image-3062 " title="Double Ramp on Xoylent" alt="xoylent-ramp-2.final" src="http://www.xonotic.org/m/uploads/2012/11/xoylent-ramp-2.final_.png" width="480" height="240" /></a> Double Ramp on Xoylent[/caption]
-
-&nbsp;
-
-One of the most tricky ramp jumps I'm going to show you here is the one from rocket launcher to mega health. Unless you do a <a href="http://www.xonotic.org/2013/02/a-strafe-jumping-lesson-from-hero/">circle jump</a>, this one is not possible to my knowledge to do with walking speed, so you'll have to do a bunny hop onto the ramp. I always start between the rocket launcher's spawn point and the wall behind it, start a bunny hop and usually hit the ramp at the right time then. You'll have to experiment a bit and find the good starting point for you, then you can reproduce that jump and start to get a feeling how you can do it in-game on the fly, without stopping at your favorite starting point. When turning around after the ramp jump you can switch from the forward key to the appropriate strafe key in order to loose less speed, but it's not required to perform that jump.
-
-&nbsp;
-
-[caption id="attachment_3063" align="aligncenter" width="480"]<a href="http://www.xonotic.org/m/uploads/2012/11/xoylent-ramp-3.final_.png"><img class=" wp-image-3063 " title="Ramp to Mega Health on Xoylent" alt="xoylent-ramp-3.final" src="http://www.xonotic.org/m/uploads/2012/11/xoylent-ramp-3.final_.png" width="480" height="288" /></a> Ramp to Mega Health on Xoylent[/caption]
-
-&nbsp;
-
-<h2 style="margin-bottom: 0cm">Afterslime</h2>
-
+* *Afterslime*
 On Afterslime you can walk up to the little barrel below mortar and jump just as you reach it, it will take you up to mortar. Those barrels can be a bit tricky if you use their center for jumping, it seems using the solid corners of the barrels works best for me. Approach the barrel frontally by walking, there is no need for a pre-jump.
-
+!http://www.xonotic.org/m/uploads/2014/04/afterslime-mortar-thumb.png(Ramp Jump to Mortar on Afterslime)!:http://www.xonotic.org/m/uploads/2014/04/afterslime-mortar.png
+_click to view full size_
 &nbsp;
-
-[caption id="attachment_3074" align="aligncenter" width="480"]<a href="http://www.xonotic.org/m/uploads/2012/11/afterslime-mortar.final_.png"><img class=" wp-image-3074 " title="Ramp Jump to Mortar on Afterslime" alt="afterslime-mortar.final" src="http://www.xonotic.org/m/uploads/2012/11/afterslime-mortar.final_.png" width="480" height="240" /></a> Ramp Jump to Mortar on Afterslime[/caption]
-
-&nbsp;
-
 From the stairs you can take a shortcut to the gangway where the electro is by using that fancy object over here. This can be quite useful if someone is expecting you to take the longer but more obvious way through the mortar room.
-
 &nbsp;
-
-[caption id="attachment_3075" align="aligncenter" width="480"]<a href="http://www.xonotic.org/m/uploads/2012/11/afterslime-strength.final_.png"><img class=" wp-image-3075 " title="Ramp Jump to Electro on Afterslime" alt="afterslime-strength.final" src="http://www.xonotic.org/m/uploads/2012/11/afterslime-strength.final_.png" width="480" height="240" /></a> Ramp Jump to Electro on Afterslime[/caption]
-
+!http://www.xonotic.org/m/uploads/2014/04/afterslime-electro-thumb.png(Ramp Jump to Electro Gangway on Afterslime)!:http://www.xonotic.org/m/uploads/2014/04/afterslime-electro.png
+_click to view full size_
 &nbsp;
-
 The very same jump can be done from electro gangway up to the upper passageway near strength room. Using this jump enables you to avoid making suspicious noises by using the jump pad or the laser.
-
+!http://www.xonotic.org/m/uploads/2014/04/afterslime-strength-thumb.png(Ramp Jump to Strength Room on Afterslime)!:http://www.xonotic.org/m/uploads/2014/04/afterslime-electro.png
+_click to view full size_
 &nbsp;
-
-[caption id="attachment_3079" align="aligncenter" width="480"]<a href="http://www.xonotic.org/m/uploads/2012/11/afterslime-strength.final_1.png"><img class=" wp-image-3079 " title="Ramp Jump to Strength Room on Afterslime" alt="afterslime-strength.final" src="http://www.xonotic.org/m/uploads/2012/11/afterslime-strength.final_1.png" width="480" height="240" /></a> Ramp Jump to Strength Room on Afterslime[/caption]
-
-&nbsp;
-
 A very nice trickjump is the one to mega armor. You can do this one on both sides of the mega armor room. Remember to use the solid corner of the barrel. Walk up to the barrel and jump as you reach it, keep jump button pressed and use the little ramp on the pillar for pushing you right up to the top of the pillar. This jump is very hard to do on the fly out of a bunny hop, as you'll be probably approaching the first ramp too fast which will boost you up too much to use the second ramp properly, so walking speed is recommended here.
-
+!http://www.xonotic.org/m/uploads/2014/04/afterslime-mega-armor-thumb.png(Ramp Jump to Strength Room on Afterslime)!:http://www.xonotic.org/m/uploads/2014/04/afterslime-mega-armor.png
+_click to view full size_
 &nbsp;
 
-[caption id="attachment_3073" align="aligncenter" width="480"]<a href="http://www.xonotic.org/m/uploads/2012/11/afterslime-mega-armor.final_.png"><img class=" wp-image-3073 " title="Ramp Jump to Mega Armor on Afterslime" alt="afterslime-mega-armor.final" src="http://www.xonotic.org/m/uploads/2012/11/afterslime-mega-armor.final_.png" width="480" height="280" /></a> Ramp Jump to Mega Armor on Afterslime[/caption]
-
-&nbsp;
-
-<h2 style="margin-bottom: 0cm">Stormkeep</h2>
-
+* *Stormkeep*
 Stormkeep has a lot of easy ramp jumps, as stormkeep's ramps are mostly long and therefore easy to bunny hop onto. The first one is a very easy one, you shouldn't have any difficulties with doing that one.
 
 &nbsp;

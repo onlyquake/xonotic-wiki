@@ -216,7 +216,7 @@ h3. Hagar
 
 The hagar rapidly fires small rockets with a high spread. By holding secondary you can load up to 4 rockets that you can fire simultaneously by releasing secondary fire. If you hold secondary fire too long, hagar will make a little beep and automatically release the loaded rockets so you can't run around the map and just keeping hagar loaded all the time until you find someone. Unloading hagar secondary can deal a lot of damage at close range, however you'll need to watch out not to get killed yourself by the splash damage it does. Otherwise the high spread makes this weapon most usefull against opponents standing next to a wall so the rockets that miss will at least do splash damage. On most competitive servers you'll be able to discharge the hagar secondary without firing the rockets by pressing primary again while still holding secondary.
 
-h3. Rocket
+h3. Rocket Launcher
 !http://www.xonotic.org/m/uploads/2014/04/Rocket2-thumb.png(Rocket Launcher)!:http://www.xonotic.org/m/uploads/2012/12/Rocket2.png
 
 The rocket launcher also has some very interesting features that are not very typical for this kind of weapon. First of all you can use the secondary fire to immediately detonate remotely any rocket you fired (provided of course it is still flying). No need to hit a flying target directly, just get the rocket near and, BAM, there you go. Apart from the high splash damage, the explosion also deals quite a lot of push force, so if you want to push some flying player off the map, rocket launcher is your weapon of choice as you can not only push players away from you (push direction obviously depends on the explosion's position in relation to the player).

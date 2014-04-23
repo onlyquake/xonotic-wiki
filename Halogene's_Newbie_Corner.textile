@@ -1,4 +1,5 @@
-h1. !http://www.xonotic.org/m/uploads/2014/04/newbie-corner-banner-thumb.png(Halogene's Newbie Corner)!:http://www.xonotic.org/m/uploads/2012/09/newbie-corner-banner2.png
+h1. Halogene's Newbie Corner
+!http://www.xonotic.org/m/uploads/2014/04/newbie-corner-banner-thumb.png(Halogene's Newbie Corner)!:http://www.xonotic.org/m/uploads/2012/09/newbie-corner-banner2.png
 
 @WORK IN PROGRESS@
 
@@ -11,7 +12,8 @@ Even though people tend to be more interested in what the weapons do when they f
 
 h2. Movement
 
-h3. !http://www.xonotic.org/m/uploads/2014/04/Bunnyhop-text-thumb.png(Bunny Hopping)!:http://www.xonotic.org/m/uploads/2014/01/Bunnyhop-text.png
+h3. Bunny Hopping
+!http://www.xonotic.org/m/uploads/2014/04/Bunnyhop-text-thumb.png(Bunny Hopping)!:http://www.xonotic.org/m/uploads/2014/01/Bunnyhop-text.png
 
 You may have noticed that players race around the maps at insane speeds, making them hard to hit and also hard to tell from which direction they’ll come next, should you survive an attack. You can do that too, and here's how.
 

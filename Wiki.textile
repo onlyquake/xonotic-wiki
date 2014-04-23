@@ -26,6 +26,9 @@ h2. Gameplay
 
 * [[Halogene's Newbie Corner]]
 ** [[Halogene's Newbie Corner#Movement|Movement]]
+*** [[Halogene's Newbie Corner#Bunny Hopping|Bunny Hopping]]
+*** [[Halogene's Newbie Corner#Bunny Hopping|Laser Jumping]]
+*** [[Halogene's Newbie Corner#Bunny Hopping|Wall Lasering]]
 * Game Mechanics
 ** [[Impulse map]]
 ** [[Items]]

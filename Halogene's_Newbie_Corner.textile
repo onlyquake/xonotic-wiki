@@ -359,7 +359,7 @@ If you have already set up weapon binds following the instructions [[Halogene's 
 
 <pre>r_drawviewmodel 0</pre>
 
-Now you'll only know what weapon you hold by remembering the bind you pressed last and by the color of the crosshair. But if you managed to get the weapon binds into your cerebellum, this is manageable - decide for yourself if you're ready for this. I started using this setting when publishing the !http://www.xonotic.org/2013/09/halogenes-newbie-corner-part-6-optimizing-perception(Newbie Corner #6):http://www.xonotic.org/2013/09/halogenes-newbie-corner-part-6-optimizing-perception , and feel very comfortable with it for already quite a while.
+Now you'll only know what weapon you hold by remembering the bind you pressed last and by the color of the crosshair. But if you managed to get the weapon binds into your cerebellum, this is manageable - decide for yourself if you're ready for this. I started using this setting when publishing the !http://www.xonotic.org/2013/09/halogenes-newbie-corner-part-6-optimizing-perception(Newbie Corner #6)!:http://www.xonotic.org/2013/09/halogenes-newbie-corner-part-6-optimizing-perception , and feel very comfortable with it for already quite a while.
 
 When using the zoom to improve sight in a fast paced game like Xonotic, you won't want the view to be impaired by some mask around the crosshair that generates the impression you look through some binoculars or something:
 <pre>cl_reticle 0</pre>

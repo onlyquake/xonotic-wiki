@@ -259,7 +259,7 @@ h2. Listen
 
 The fewer players you have in a match, the more important it gets to listen to the sounds they make. Each armor or health pickup size has its own distinctive pickup sound. Pickup sounds are louder and therefore easier to notice even at some distance than footsteps. If you know where which pickups are on the map you're playing, you'll be very often able to know where other players are before seeing them just by listening to the pickup sounds they make.
 
-Also note that the sound a player makes when getting hit varies depending on how low that player's health is. When you hit a player and you hear the characteristic “very low health groan” (most newbies know that sound primarily from their own player model... :D), you'll know that you'll only need to deal a few damage points to finish that player off, so you can go for fast high spread (mg, shotgun) or fast splash damage weapons (crylink). Listening is a very important part of duel gameplay.
+Also note that the sound a player makes when getting hit varies depending on how low that player's health is. When you hit a player and you hear the characteristic “very low health groan” (most newbies know that sound primarily from their own player model... :D), you'll know that you'll only need to deal a few damage points to finish that player off, so you can go for fast high spread (mg, shotgun) or fast splash damage weapons (crylink). Listening is an essential part of duel gameplay.
 
 h2. Console ABC
 !http://www.xonotic.org/m/uploads/2014/04/Console-ABC-thumb.png(Console ABC)!:http://www.xonotic.org/m/uploads/2014/04/Console-ABC.png

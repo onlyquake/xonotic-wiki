@@ -194,7 +194,7 @@ The latter can, however, be quite tricky, given the high spread crylink primary 
 "When you release primary fire, the spread of crylink primary will inverse"
 </pre>
 
-Got it? This means that if you press the primary fire button, the particles will get fired with a certain spread. As long as you keep the primary fire button pressed, the spread will stay constant. Once you release it, the spread inverses, which means *all particles traverse a single spot*. Now the trick is to time the release so that all particles hit the opponent, or at least are NEAR to the opponent. Why to be at least near the opponent? Because once ONE crylink particle of a shot detonates (i.e. hits a player), ALL of them detonate. And crylink does most of its damage per splash damage.
+Got it? This means that if you press the primary fire button, the particles will get fired with a certain spread. As long as you keep the primary fire button pressed, the spread will stay constant. Once you release it, the spread inverses, which means *all particles traverse a single spot*. Now the trick is to time the release so that all particles hit the opponent, or at least are *near* to the opponent. Why to be at least near the opponent? Because once *one* crylink particle of a shot detonates (i.e. hits a player), *all* of them detonate. And crylink does most of its damage per splash damage.
 
 Crylink secondary does not have the spread inversion feature, the particles leave the gun at a very low and constant spread. The particles of secondary fire are faster than primary fire, and they don't bounce. Their negative push force can be used on other players to break their movement (especially trick jumps) and even to pull them drastically if you manage to hit them in mid-air.
 

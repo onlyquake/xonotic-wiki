@@ -9,7 +9,7 @@ Note that all this applies to vanilla Xonotic. Whereas movement aspects should u
 
 h1. Movement
 
-Even though people tend to be more interested in what the weapons do when they first try out this game, I prefer to follow the structure that I use for my live newbie tutorials and to start off with the movement. Understanding and mastering Xonotic's movement is a key success factor in this game, apart from making it incredibly fun to play once you get the hang of it. So let's get started!
+Even though people tend to be more interested in what the weapons do when they first try out a new first person shooter, I prefer to follow the structure that I established for my live newbie tutorials and to start off with the movement. Understanding and mastering Xonotic's movement is a key success factor in this game, apart from making it incredibly fun to play once you get the hang of it. So let's get started!
 
 h2. Bunny Hopping
 !http://www.xonotic.org/m/uploads/2014/04/Bunnyhop-text-thumb.png(Bunny Hopping)!:http://www.xonotic.org/m/uploads/2014/01/Bunnyhop-text.png

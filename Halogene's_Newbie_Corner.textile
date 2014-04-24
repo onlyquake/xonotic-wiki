@@ -367,6 +367,8 @@ When using the zoom to improve sight in a fast paced game like Xonotic, you won'
 <pre>cl_reticle 0</pre>
 Also, who wants to waste time for the transition between zoom and non-zoom?
 <pre>cl_zoomspeed -1</pre>
+Ever since I configured a dedicated zoom key that I can use on all weapons (you can do so via the Menu, Settings window, Input tab), I got annoyed by the zoom getting lost upon switching the weapon, which results in loosing your aim just when it is crucial to hit. You can disable this by doing:
+<pre>cl_unpress_zoom_on_weapon_switch 0</pre>
 
 
 Bobbing effects are generally only for conveying a "realistic feel" but don't serve a purpose that's important for the gameplay. Quite to the contrary, they make your view less steady. So you might want to switch off all sorts of bobbings:

@@ -1,4 +1,3 @@
-
 !http://www.xonotic.org/m/uploads/2014/04/newbie-corner-banner-thumb.png(Halogene's Newbie Corner)!:http://www.xonotic.org/m/uploads/2012/09/newbie-corner-banner2.png
 
 h1. Preface
@@ -53,7 +52,7 @@ _click to view full size_
 
 To master wall lasering, you'll obviously need a wall. While it would seem logic to use a wall that you can laser off in a 90 degree angle with a laser shot backwards, it is at least equally effective and easier to use a wall that is parallel to your desired movement direction. For practicing this, you start off standing next to that wall and are facing into the desired movement direction. Then you start a bunny hop by pressing foward and then the jump key. While in the air from your first jump, you flick around (to approximately 8 o'clock if the wall is left from you, 4 o'clock if the wall is right to you), shoot the laser at the wall, aiming slightly above your head. If you shoot parallel or even down a bit, you'll get a high upwards boost, wasting energy into vertical acceleration, so be sure to aim a little bit upwards! After the flick shot turn back to your desired movement direction and contine to bunny hop. Do not release the jump key during the entire process.
 
-Now let's tweak this a little more. You wouldn't want to accelerate into your viewing direction when looking backwards during the flick shot, would you. That is why you should switch for the time you are not looking in your desired movement direction from the forward key to the respective strafe key (strafe right if you turn to a wall on your left, strafe left if you turn to a wall on your right). When turning back into movement direction, keep the strafe key pressed until you can switch to forward key again. You can use a smoother mouse movement for turning back at least for the last couple of degrees in order to gain extra acceleration as explained in [[Halogene's Newbie Corner#Bunny Hopping|the previous section (Bunny Hopping)]]. Also remember to release the forward key before pressing the strafe key, and vice versa!
+Now let's tweak this a little more. You wouldn't want to accelerate into your viewing direction when looking backwards during the flick shot, would you. That is why you should switch for the time you are not looking in your desired movement direction from the forward key to the respective strafe key (strafe right if you turn to a wall on your left, strafe left if you turn to a wall on your right). When turning back into movement direction, keep the strafe key pressed until you can switch to forward key again. You can use a smoother mouse movement for turning back at least for the last couple of degrees in order to gain extra acceleration as explained in [[Halogene's Newbie Corner#Bunny Hopping|the Bunny Hopping section]]. Also remember to release the forward key before pressing the strafe key, and vice versa!
 
 Once you've learned how to reliably accelerate out of the stand with this technique, you can also use it while already bunny hopping in order to gain extra horizontal speed. Just flick around when passing a wall to gain an extra boost. Note that the laser always needs to travel a bit until it hits the wall. The faster you get, the less you need to turn backwards, since you'll travel forwards while the laser is on its way to the wall. At very high speeds you will even be able to shoot at 10 o'clock or 2 o'clock respectively, so you're not even facing backwards any more! But most maps don't allow for such fast movement. Experiment and learn at which speed to use what angle, and you'll be a fast flag runner very soon!
 
@@ -386,4 +385,4 @@ Apart from all the visual stuff, you can of course also improve perception by ad
 
 h1. The End
 
-I hope this wall of text remained readable. If not, I hope you at least enjoyed looking at the pictures :) 
+I hope this wall of text remained readable. If not, I hope you at least enjoyed looking at the pictures :)

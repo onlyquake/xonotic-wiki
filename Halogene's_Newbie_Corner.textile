@@ -387,6 +387,6 @@ h2. Audio
 Apart from all the visual stuff, you can of course also improve perception by adjusting the audio settings. While there is quite some remarkably good music in Xonotic, in-game music can distract you and predominate pickup or movement sounds that you might want to hear. The same goes for ambient sounds. Whereas these greatly add to the atmosphere of the game, they can prevent you from predicting where an opponent will come from, what the player's approximate health status is and what is being picked up. So if you can do without the atmosphere, you might want to turn those off via the menu.
 
 
-h1. THE END
+h1. The End
 
 I hope this wall of text remained readable. If not, I hope you at least enjoyed looking at the pictures :) 

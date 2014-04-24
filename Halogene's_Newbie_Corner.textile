@@ -314,8 +314,8 @@ Be warned though that the sounds other players make still remain the same, so do
 <pre>cl_forceplayercolors 1</pre>
 These settings obviously have the disadvantage that you become extremely visible to everyone else, too - but it would be rather unfair if you could make everyone extremely visible while staying a grey mouse, wouldn't it?
 
-h3. Particle Effects
-!http://www.xonotic.org/m/uploads/2014/04/other-effects-thumb.png(Particle Effects)!:http://www.xonotic.org/m/uploads/2013/09/other-effects.png
+h3. Reducing Effects
+!http://www.xonotic.org/m/uploads/2014/04/other-effects-thumb.png(Reducing Effects)!:http://www.xonotic.org/m/uploads/2013/09/other-effects.png
 
 I personally strongly dislike blood splatter and gibs flying around as a matter of taste, but disabling all the gory mess also has visual advantages beyond personal preference. The more unnecessary detail gets rendered, the harder it is to filter out the information that is actually relevant. Therefore, turning off gibs is a good way to get rid of a whole bunch of effects that only get in your way if you want to keep an overview in the heat of a fight:
 <pre>cl_gentle_gibs 1 (note that you may need to restart Xonotic or reconnect for this change to take effect)</pre>
@@ -389,4 +389,4 @@ Apart from all the visual stuff, you can of course also improve perception by ad
 
 h1. THE END
 
-I hope this wall of text remained readable. If not, I hope you enjoyed looking at the pictures :)
+I hope this wall of text remained readable. If not, I hope you at least enjoyed looking at the pictures :) 

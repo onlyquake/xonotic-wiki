@@ -240,7 +240,7 @@ Of course you can combine rocket guiding and remote detonation.
 h1. Gameplay Tricks
 !http://www.xonotic.org/m/uploads/2014/04/Gameplay-Tricks-thumb.png(Gameplay Tricks)!:http://www.xonotic.org/m/uploads/2014/04/Gameplay-Tricks.png
 
-Now that we've been examining movement and weapons, the air for new newbie stuff is starting to get thinner and thinner, but there's still enough material left to be covered by one or two newbie corners, so let's get started! In this section I'll be providing some general gameplay hints that hopefully will make your life as a newbie out there on the servers easier – and longer :)
+Now that we've been examining movement and weapons, the air for new newbie stuff is starting to get thinner and thinner. In this section I'll be providing some general gameplay hints that hopefully will make your life as a newbie out there on the servers easier – and longer :)
 
 h2. Weapon Comboing
 !http://www.xonotic.org/m/uploads/2014/04/combo-thumb.png(Weapon Comboing)!:http://www.xonotic.org/m/uploads/2013/02/combo.png

@@ -271,8 +271,7 @@ In most cases you won't know the exact command to type, and this is where a spec
 
 A very important and widely used console command is the command to call a vote. If you want to see what votes are allowed on a server, type "vhelp". To call a vote (for example, to end the match), type "vcall &lt;vote&gt;" (in my example "vcall endmatch").
 
-If you'd like to know more about the Xonotic console, check out <a href="http://forums.xonotic.org/showthread.php?tid=2987">BlaXpirit's forum thread about console tips and tricks</a>. In case you find consoles a little too nerdy, you can change game settings in a similar detailedness also via the "Advanced Settings" dialog located in the Settings Window → Misc Tab. The search function there works just like the apropos command in the console.
-
+If you'd like to know more about the Xonotic console, check out !http://forums.xonotic.org/showthread.php?tid=2987(BlaXpirit's forum thread about console tips and tricks)!:http://forums.xonotic.org/showthread.php?tid=2987 . In case you find consoles a little too nerdy, you can change game settings in a similar detailedness also via the "Advanced Settings" dialog located in the Settings Window → Misc Tab. The search function there works just like the apropos command in the console.
 
 h1. Optimizing Perception
 

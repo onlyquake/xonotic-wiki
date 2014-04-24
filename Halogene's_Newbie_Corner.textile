@@ -276,7 +276,7 @@ h1. Optimizing Perception
 
 Xonotic aims to be pretty and to offer an immersive gameplay experience by using realistic lighting, complex particle effects and a harmonious sound environment. Whereas all these elements may help you to dive deeper into the game atmosphere, they also provide an overhead of information for you to process that sometimes has no other use than creating such atmosphere. In some cases this can even lead to gameplay relevant information getting lost under such overhead. This section deals with configuring Xonotic so you can see and hear well at the cost of atmosphere (a lot of which will get lost in the process).
 
-To apply the tweaks I'll resort to showing console commands mostly, simply because it is much shorter to just show the command here than to describe the menu path where to set the relevant configuration option. So be sure to have read [[Halogene's Newbie Corner#Console-ABC|the Console-ABC section]] if you're not already familiar with the Xonotic console.
+To apply the tweaks I'll resort to showing console commands mostly, simply because it is much shorter to just show the command here than to describe the menu path where to set the relevant configuration option. So be sure to have read [[Halogene's Newbie Corner#Console ABC|the Console ABC section]] if you're not already familiar with the Xonotic console.
 
 
 h2. Visuals
@@ -381,7 +381,6 @@ h2. Audio
 !http://www.xonotic.org/m/uploads/2014/04/audio-thumb.png(Audio)!:http://www.xonotic.org/m/uploads/2013/09/audio.png
 
 Apart from all the visual stuff, you can of course also improve perception by adjusting the audio settings. While there is quite some remarkably good music in Xonotic, in-game music can distract you and predominate pickup or movement sounds that you might want to hear. The same goes for ambient sounds. Whereas these greatly add to the atmosphere of the game, they can prevent you from predicting where an opponent will come from, what the player's approximate health status is and what is being picked up. So if you can do without the atmosphere, you might want to turn those off via the menu.
-
 
 h1. The End
 

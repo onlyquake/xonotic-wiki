@@ -159,6 +159,44 @@ _click to view full size_
 !http://www.xonotic.org/m/uploads/2014/04/runningman-mortar-thumb.png(Ramp Jump to Mortar on Runningman)!:http://www.xonotic.org/m/uploads/2012/11/runningman-mortar.final_.png
 _click to view full size_
 
+h3. Glowplant
+
+Glowplant is so full of ramps that I don't even know where to start. I won't be able to display all of the possible ramp jumps, just a selection to give you the general idea where to look for what kind of ramps.
+
+* These lamps are all over the place. Here you can get to strength room. You might want to make a second jump on the broken tiles if you don't get up in one jump.
+!http://www.xonotic.org/m/uploads/2014/04/glowplant-strength-thumb.png(Ramp Jump to Strength on Glowplant)!:http://www.xonotic.org/m/uploads/2014/04/glowplant-strength.png
+_click to view full size_
+
+* If you turn around where you started the jump to strength you'll find another lamp on the other side, and even on the jump pad side of the plateau below mega health (as you see here). You can use either of them to get to the upper level just below mega health without triggering the noise of the jump pad.
+!http://www.xonotic.org/m/uploads/2014/04/glowplant-below-mega-thumb.png(Ramp Jump below Mega Health on Glowplant)!:http://www.xonotic.org/m/uploads/2014/04/glowplant-below-mega.png
+_click to view full size_
+
+* From outside, you can also get to the plateau below mega health if you use one of the ramps next to the jump pad. You might want to gain some speed by pre-jumping, though it is possible to make the jump more or less out of the stand.
+!http://www.xonotic.org/m/uploads/2014/04/glowplant-pad-thumb.png(Ramp Jump from outside to plateau below Mega Health on Glowplant)!:http://www.xonotic.org/m/uploads/2014/04/glowplant-pad.png
+_click to view full size_
+
+* To get from the level below mega health up to the mega health without triggering another jump pad noise, you can use this little ramp to jump onto the broken ladder, which you then can climb through the hole.
+!http://www.xonotic.org/m/uploads/2014/04/glowplant-ladder-thumb.png(Ramp Jump to ladder leading to Mega Health on Glowplant)!:http://www.xonotic.org/m/uploads/2014/04/glowplant-ladder.png
+_click to view full size_
+
+* From Nex you can use these little lamps to get to the 50 health on the pipe.
+!http://www.xonotic.org/m/uploads/2014/04/glowplant-nex-thumb.png(Ramp Jump to 50 Health from Nex on Glowplant)!:http://www.xonotic.org/m/uploads/2014/04/glowplant-nex.png
+_click to view full size_
+
+* From bottom level outside you can get to rocket launcher using the broken pillar.
+!http://www.xonotic.org/m/uploads/2014/04/glowplant-rocket-thumb.png(Ramp Jump to Rocket Launcher on Glowplant)!:http://www.xonotic.org/m/uploads/2014/04/glowplant-rocket.png
+_click to view full size_
+
+
+* This is a very nice ramp jump that's essentially a double ramp jump with a follow-up ramp jump on the small pipe. You'll usually land on the flat level of the pipe before hitting the pipe ramp, so it doesn't really count as a triple ramp jump but still it is very useful in order to get to the rocket launcher platform without using the slow vent shaft.
+!http://www.xonotic.org/m/uploads/2014/04/glowplant-crates-thumb.png(Ramp Jump to Rocket Launcher Level via the Crates on Glowplant)!:http://www.xonotic.org/m/uploads/2014/04/glowplant-crates.png
+_click to view full size_
+
+* Those handy little lamps everywhere... here you can use one to get to the nex level from rocket launcher.
+!http://www.xonotic.org/m/uploads/2014/04/glowplant-upper-level-thumb.png(Ramp Jump to Nex Level from Rocket Launcher Level on Glowplant)!:http://www.xonotic.org/m/uploads/2014/04/glowplant-upper-level.png
+_click to view full size_
+
+
 I hope to have been able to show you with these examples how to use and where to find ramps on Xonotic maps. Keep your eyes open for ramps and interesting jumps to do with them, as most mappers put some ramps at strategic places. Ramp jumping is a lot of fun and mastering this technique can give you a real advantage over other players!
 
 h2. Weapons

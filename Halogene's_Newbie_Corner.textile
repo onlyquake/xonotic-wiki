@@ -219,10 +219,9 @@ The rocket launcher also has some very interesting features that are not very ty
 
 But not enough, you can of course also use the rocket launcher to push *yourself* around. If you happen to be flying and need some extra acceleration but there is no wall near to laser yourself off, just shoot a rocket downwards and immediately detonate it. Yes, it hurts. A lot. But it might be worth it, be it to push you back onto the map if you are falling into the void or to prolong a laser jump so you manage to reach a distant location. This technique is called "rocket flying".
 
-You think I'm already done with the rocket launcher? Not yet! In addition to this already very useful feature to remotely detonate your rockets you can also GUIDE the rockets. Just keeping the primary fire button pressed and moving the mouse enables you to do some <a href="http://www.youtube.com/watch?v=UqfqWtXwjic">interesting stuff</a> which can come in very handy in all sorts of situations.
+You think I'm already done with the rocket launcher? Not yet! In addition to this already very useful feature to remotely detonate your rockets you can also GUIDE the rockets. Just keeping the primary fire button pressed and moving the mouse enables you to do some !http://www.youtube.com/watch?v=UqfqWtXwjic(interesting stuff)!:http://www.youtube.com/watch?v=UqfqWtXwjic which can come in very handy in all sorts of situations.
 
 Of course you can combine rocket guiding and remote detonation.
-
 
 h1. Gameplay Tricks
 !http://www.xonotic.org/m/uploads/2014/04/Gameplay-Tricks-thumb.png(Gameplay Tricks)!:http://www.xonotic.org/m/uploads/2014/04/Gameplay-Tricks.png

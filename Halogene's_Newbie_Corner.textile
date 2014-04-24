@@ -1,7 +1,5 @@
 !http://www.xonotic.org/m/uploads/2014/04/newbie-corner-banner-thumb.png(Halogene's Newbie Corner)!:http://www.xonotic.org/m/uploads/2012/09/newbie-corner-banner2.png
 
-{{toc}}
-
 h1. Preface
 
 This tutorial aims at showing all fundamental aspects of vanilla gameplay to enable new players to pick up the ropes quickly. It includes the information of all six blog posts of the !http://xonotic.org/tag/newbie(Newbie Corner)!:http://xonotic.org/tag/newbie as well as some new things that have changed or that I didn't think about back then.

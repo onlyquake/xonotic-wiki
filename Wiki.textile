@@ -24,7 +24,7 @@ h2. Project
 
 h2. Gameplay
 
-* [[Halogene's Newbie Corner]]
+* [[Halogene's Newbie Corner|HALOGENE'S NEWBIE CORNER]]
 ** [[Halogene's Newbie Corner#Movement|Movement]]
 *** [[Halogene's Newbie Corner#Bunny Hopping|Bunny Hopping]]
 *** [[Halogene's Newbie Corner#Laser Jumping|Laser Jumping]]
@@ -40,6 +40,25 @@ h2. Gameplay
 *** [[Halogene's Newbie Corner#Nex|Nex]]
 *** [[Halogene's Newbie Corner#Hagar|Hagar]]
 *** [[Halogene's Newbie Corner#Rocket Launcher|Rocket Launcher]]
+** [[Halogene's Newbie Corner#Gameplay Tricks|Gameplay Tricks]]
+*** [[Halogene's Newbie Corner#Weapon Comboing|Weapon Comboing]]
+*** [[Halogene's Newbie Corner#Keyboard Setup|Keyboard Setup]]
+*** [[Halogene's Newbie Corner#Splash Damage Travels Through Walls|Splash Damage Travels Through Walls]]
+*** [[Halogene's Newbie Corner#Stay Healthy|Stay Healthy]]
+*** [[Halogene's Newbie Corner#Listen|Listen]]
+*** [[Halogene's Newbie Corner#Console ABC|Console ABC]]
+** [[Halogene's Newbie Corner#Optimizing Perception|Optimizing Perception]]
+*** [[Halogene's Newbie Corner#Visuals|Visuals]]
+**** [[Halogene's Newbie Corner#Damage Blur|Damage Blur]]
+**** [[Halogene's Newbie Corner#Field of View|Field of View]]
+**** [[Halogene's Newbie Corner#Visible Players|Visible Players]]
+**** [[Halogene's Newbie Corner#Reducing Effects|Reducing Effects]]
+**** [[Halogene's Newbie Corner#Picmip and Simple Items|Picmip and Simple Items]]
+**** [[Halogene's Newbie Corner#Crosshair|Crosshair]]
+**** [[Halogene's Newbie Corner#Fine Tuning|Fine Tuning]]
+*** [[Halogene's Newbie Corner#Audio|Audio]]
+** [[Halogene's Newbie Corner#The End|The End]]
+
 * Game Mechanics
 ** [[Impulse map]]
 ** [[Items]]

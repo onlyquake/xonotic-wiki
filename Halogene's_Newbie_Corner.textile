@@ -254,8 +254,8 @@ This leads to the problem that it's terrible difficult for any orthopedic health
 
 Don't worry, impacts on your playing skills that result from redesigning your keyboard layout will, once you found a comfortable setup, be temporary only and the change WILL pay off in the longrun. Being able to pick the right weapon for the job instantly by means of a finger reflex is a great advantage in a FPS that is as fast paced as Xonotic.
 
-h2. Splash Damage Through Walls
-!http://www.xonotic.org/m/uploads/2014/04/splash-thumb.png(Splash Damage Through Walls)!:http://www.xonotic.org/m/uploads/2013/02/splash.png
+h2. Splash Damage Travels Through Walls
+!http://www.xonotic.org/m/uploads/2014/04/splash-thumb.png(Splash Damage Travels Through Walls)!:http://www.xonotic.org/m/uploads/2013/02/splash.png
 
 Another thing you should be aware of is that splash damage travels through walls. Knowledge of this fact can come in very handy at various situations. Especially if you know or suspect someone to be on a higher level above you and the ceiling is thin, you can just try a lucky mortar or rocket shot at the ceiling. The hit indicator sound (that little beep) will tell you if your guess was right. If you're very confident about the location of your opponent, you can even unleash an electro combo (see the [[Halogene's Newbie Corner#Electro|weapons part above, electro]]) at the ceiling, which works surprisingly well and does a great amount of splash damage, but takes a bit more time to do.
 

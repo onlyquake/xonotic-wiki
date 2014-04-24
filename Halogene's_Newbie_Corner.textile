@@ -121,15 +121,20 @@ Stormkeep has a lot of easy ramp jumps, as stormkeep's ramps are mostly long and
 
 * The first one is a very easy one, you shouldn't have any difficulties with doing that one.
 !http://www.xonotic.org/m/uploads/2014/04/stormkeep-25armortunnel1-thumb.png(Easy Ramp to Tunnel on Stormkeep)!:http://www.xonotic.org/m/uploads/2012/11/stormkeep-25armortunnel1.final_.png
+_click to view full size_
 
 * Also the other side of the warpzone can be used as a ramp, you'll need a bit more speed though to do this one, so gain some by a couple of pre-jumps.
 !http://www.xonotic.org/m/uploads/2014/04/stormkeep-25armortunnel2-thumb.png(Alternative Ramp to Tunnel on Stormkeep)!:http://www.xonotic.org/m/uploads/2012/11/stormkeep-25armortunnel2.final_.png
+_click to view full size_
 
 * Probably the most useful jump on stormkeep. If you are too slow to make the jump directly to mega health from the little platform beside the stairs leading down there, head to the right and do a ramp jump up the stairs as shown here. No need to take the longer route via the small armor shards, which are placed so uniquely that any experienced player can tell EXACTLY where you are when you pick those up in a row and could intercept you before you reach the mega health.
 !http://www.xonotic.org/m/uploads/2014/04/stormkeep-megahealth-thumb.png(Ramp Jump to Mega Health on Stormkeep)!:http://www.xonotic.org/m/uploads/2012/11/stormkeep-megahealth.final_.png
+_click to view full size_
 
 * This is a nice way to get to the top of the warpzone without making any noise in order to surprise someone that you expect to come through the warpzone soon. You'll need quite some speed, it's recommended to start prejumps in the tunnel system where the small armor shards are (below Crylink).
 !http://www.xonotic.org/m/uploads/2014/04/stormkeep-warpzone-thumb.png(Ramp onto Warpzone on Stormkeep)!:http://www.xonotic.org/m/uploads/2012/11/stormkeep-warpzone.final_.png
+_click to view full size_
+
 
 h3. Runningman
 

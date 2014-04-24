@@ -60,6 +60,7 @@ h2. Ramp Jumping
 !http://www.xonotic.org/m/uploads/2014/04/RampJumping-thumb.png(Ramp Jumping)!:http://www.xonotic.org/m/uploads/2014/04/RampJumping-full.png
 
 Ramps are sloped surfaces that can be used for extra upwards boost when doing a jump. If done properly, you can get to places you would not be able to reach without using a jump pad or the laser (see the [[Halogene's Newbie Corner#Laser Jumping|section about laser jumps]]), while not making any suspicious noises nor loosing any health. This makes ramp jumps especially useful in duels or 2v2 tdm matches and generally extends your movement options in all game modes. Ramp jumps are also very much fun to do!
+
 In my "live" newbie tutorials, I always demonstrate the ramp jump on this spot on the map Xoylent, as it's rather easy to master and you get the idea how it actually works:
 
 !http://www.xonotic.org/m/uploads/2014/04/Xoylent-ramp1.final-thumb.png(Basic Ramp Jump on Xoylent)!:http://www.xonotic.org/m/uploads/2012/11/Xoylent-ramp1.final_1.png

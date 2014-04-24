@@ -43,7 +43,7 @@ h2. Gameplay
 ** [[Halogene's Newbie Corner#Gameplay Tricks|Gameplay Tricks]]
 *** [[Halogene's Newbie Corner#Weapon Comboing|Weapon Comboing]]
 *** [[Halogene's Newbie Corner#Keyboard Setup|Keyboard Setup]]
-*** [[Halogene's Newbie Corner#Splash Damage Travels Through Walls|Splash Damage Travels Through Walls]]
+*** [[Halogene's Newbie Corner#Splash Damage Through Walls|Splash Damage Through Walls]]
 *** [[Halogene's Newbie Corner#Stay Healthy|Stay Healthy]]
 *** [[Halogene's Newbie Corner#Listen|Listen]]
 *** [[Halogene's Newbie Corner#Console ABC|Console ABC]]

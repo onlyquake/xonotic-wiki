@@ -59,7 +59,7 @@ Once you've learned how to reliably accelerate out of the stand with this techni
 h2. Ramp Jumping
 !http://www.xonotic.org/m/uploads/2014/04/RampJumping-thumb.png(Ramp Jumping)!:http://www.xonotic.org/m/uploads/2014/04/RampJumping-full.png
 
-Ramps are sloped surfaces that can be used for extra upwards boost when doing a jump. If done properly, you can get to places you would not be able to reach without using a jump pad or the laser (see the previous part covering laser jumps), while not making any suspicious noises nor loosing any health. This makes ramp jumps especially useful in duels or 2v2 tdm matches and generally extends your movement options in all game modes. Ramp jumps are also very much fun to do!
+Ramps are sloped surfaces that can be used for extra upwards boost when doing a jump. If done properly, you can get to places you would not be able to reach without using a jump pad or the laser (see the [[Halogene's Newbie Corner#Laser Jumping|section about laser jumps]]), while not making any suspicious noises nor loosing any health. This makes ramp jumps especially useful in duels or 2v2 tdm matches and generally extends your movement options in all game modes. Ramp jumps are also very much fun to do!
 In my "live" newbie tutorials, I always demonstrate the ramp jump on this spot on the map Xoylent, as it's rather easy to master and you get the idea how it actually works:
 
 !http://www.xonotic.org/m/uploads/2014/04/Xoylent-ramp1.final-thumb.png(Basic Ramp Jump on Xoylent)!:http://www.xonotic.org/m/uploads/2012/11/Xoylent-ramp1.final_1.png
@@ -145,7 +145,6 @@ h3. Runningman
 !http://www.xonotic.org/m/uploads/2014/04/runningman-mortar-thumb.png(Ramp Jump to Mortar on Runningman)!:http://www.xonotic.org/m/uploads/2012/11/runningman-mortar.final_.png
 
 I hope to have been able to show you with these examples how to use and where to find ramps on Xonotic maps. Keep your eyes open for ramps and interesting jumps to do with them, as most mappers put some ramps at strategic places. Ramp jumping is a lot of fun and mastering this technique can give you a real advantage over other players!
-
 
 h2. Weapons
 !http://www.xonotic.org/m/uploads/2014/04/WEAPONS-thumb.png(The Weapons)!:http://www.xonotic.org/m/uploads/2012/12/WEAPONS.png

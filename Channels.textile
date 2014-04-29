@@ -38,7 +38,6 @@ h4(. Clan channels
 
 p(. <pre>
 #bot.xonotic         - BOT
-#capbots             - CapBots
 #cf.etqw             - Combat Folk
 #conquerors          - Conquerors
 #dbc                 - DodgingBullets
@@ -70,11 +69,11 @@ p(. <pre>
 #esk.xonotic       - Eat Sea Kittens server (Minsta CTF)
 #exile.xonotic.1v1 - eXiLe servers (Minstagib + Duel)
 #hoctf             - House of CTF
-#lcbx.cts          - Xonotic DeFrag server
 #mon.sa            - MoN servers (Overkill + Vehicle)
 #Prophets.Duel     - Prophets Minsta 1v1 server
 #Prophets.XDF      - Propehts DeFrag server
 #uc.xon            - Unconnected servers
+#xdf               - Xonotic DeFrag server
 </pre>
 
 h3. FreeNode (chat.freenode.net:6667)

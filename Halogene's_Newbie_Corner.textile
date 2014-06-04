@@ -197,7 +197,9 @@ _click to view full size_
 _click to view full size_
 
 
-I hope to have been able to show you with these examples how to use and where to find ramps on Xonotic maps. Keep your eyes open for ramps and interesting jumps to do with them, as most mappers put some ramps at strategic places. Ramp jumping is a lot of fun and mastering this technique can give you a real advantage over other players!
+These are just a few examples where to find ramps on Xonotic maps and how to use them. Keep your eyes open for ramps and interesting jumps to do with them, as most mappers put some ramps at strategic places. Ramp jumping is a lot of fun and mastering this technique can give you a real advantage over other players!
+
+Of course you can combine ramp jumping with [[Halogene's Newbie Corner#Laser Jumping|laser jumping]] to gain an !https://www.youtube.com/watch?v=TETTtt5r86s(extra strong upwards boost)!:https://www.youtube.com/watch?v=TETTtt5r86s .
 
 h2. Weapons
 !http://www.xonotic.org/m/uploads/2014/04/WEAPONS-thumb.png(The Weapons)!:http://www.xonotic.org/m/uploads/2012/12/WEAPONS.png

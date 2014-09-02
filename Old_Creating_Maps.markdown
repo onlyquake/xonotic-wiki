@@ -16,7 +16,7 @@ NetRadiant is a fork of the popular Quake-based game editor, GtkRadiant, if you 
 
 ### Compiling from Source
 
-NetRadiant is included with the git checkout from the [[Repository Access|repository]]. On a Linux/UNIX system, the basic technique for building is to change to your **./xonotic/netradiant** directory and use ‘make’ to compile it. Resolve any dependencies. The binary file is located in **./xonotic/netradiant/install**, ‘radiant.x86’.
+NetRadiant is included with the git checkout from the [Repository Access](repository). On a Linux/UNIX system, the basic technique for building is to change to your **./xonotic/netradiant** directory and use ‘make’ to compile it. Resolve any dependencies. The binary file is located in **./xonotic/netradiant/install**, ‘radiant.x86’.
 
 *directions to compile on windows \_
 h3. Builds
@@ -93,6 +93,6 @@ Help
 \#xonotic.editing on irc.quakenet.org
 http://forums.xonotic.org
 
-[[Création de cartes|Français]]
+[Création de cartes](Français)
 
 \<\< [[Creating\_Maps]]

@@ -4,7 +4,7 @@ Tech Conglomerate
 Date: Future
 Region: Andromeda Galaxy
 
-[PDF script](https://www.dropbox.com/s/ge0q9sc9n8ekh3y/script.pdf), [[Tech Conglomerate Script|Wiki formatted version]]. PDF script can be newer at times.
+[PDF script](https://www.dropbox.com/s/ge0q9sc9n8ekh3y/script.pdf), [Tech Conglomerate Script](Wiki formatted version). PDF script can be newer at times.
 
 Story outline
 -------------

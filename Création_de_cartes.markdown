@@ -14,7 +14,7 @@ Pour plus d’informations et plus en profondeur les détails, reportez-vous à 
 
 ### Compilation de la source
 
-NetRadiant est inclus avec le git checkout de la [[Accès référentiel|référentiel]]. Sur un système Linux/UNIX, la technique de base pour la construction est de changer votre dossier **./xonotic/netradiant** et d’utiliser ‘make’ pour le compiler. Résolvez toutes les dépendances. Le fichier binaire se trouve dans **./xonotic/netradiant/install**, ‘radiant.x86’.
+NetRadiant est inclus avec le git checkout de la [Accès référentiel](référentiel). Sur un système Linux/UNIX, la technique de base pour la construction est de changer votre dossier **./xonotic/netradiant** et d’utiliser ‘make’ pour le compiler. Résolvez toutes les dépendances. Le fichier binaire se trouve dans **./xonotic/netradiant/install**, ‘radiant.x86’.
 
 *Indications pour compiler sur windows \_
 h3. Constructions
@@ -91,4 +91,4 @@ Aide
 \#xonotic.editing on irc.quakenet.org
 http://forums.xonotic.org
 
-[[Creating Maps|English]]
+[Creating Maps](English)

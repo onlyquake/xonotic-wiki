@@ -26,24 +26,24 @@ Advanced Mapping Tutorials
 Advanced Texturing Tuorials
 ---------------------------
 
-[[mapping-textures-skybox-blender|skyboxes (with blender)]]
+[mapping-textures-skybox-blender](skyboxes (with blender))
 
 Entity Tutorials
 ----------------
 
-[[mapping-entity-*decal|*decal]]
-[[mapping-entity-*skybox|*skybox]]
-[[mapping-entity-dom\_controlpoint|dom\_controlpoint]]
-[[mapping-entity-dom\_team|dom\_team]]
-[[mapping-entity-func\_assault\_destructable|func\_assault\_destructable]]
-[[mapping-entity-func\_assault\_wall|func\_assault\_wall]]
-[[mapping-entity-func\_bobbing|func\_bobbing]]
-[[mapping-entity-func\_breakable|func\_breakable]]
-[[mapping-entity-func\_button|func\_button]]
-[[mapping-entity-func\_camera|func\_camera]]
-[[mapping-entity-func\_clientillusionary|func\_clientillusionary]]
-[[mapping-entity-func\_conveyor|func\_conveyor]]
-[[mapping-entity-func\_door|func\_door]]
+[mapping-entity-*decal](*decal)
+[mapping-entity-*skybox](*skybox)
+[mapping-entity-dom\_controlpoint](dom\_controlpoint)
+[mapping-entity-dom\_team](dom\_team)
+[mapping-entity-func\_assault\_destructable](func\_assault\_destructable)
+[mapping-entity-func\_assault\_wall](func\_assault\_wall)
+[mapping-entity-func\_bobbing](func\_bobbing)
+[mapping-entity-func\_breakable](func\_breakable)
+[mapping-entity-func\_button](func\_button)
+[mapping-entity-func\_camera](func\_camera)
+[mapping-entity-func\_clientillusionary](func\_clientillusionary)
+[mapping-entity-func\_conveyor](func\_conveyor)
+[mapping-entity-func\_door](func\_door)
 
 … i’ll add the rest later …
 
@@ -59,4 +59,4 @@ Help
 http://forums.xonotic.org — the forums .
 
 [[Old\_Creating\_Maps]]
-[[Création de cartes|Français]]
+[Création de cartes](Français)

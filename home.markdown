@@ -8,58 +8,58 @@ This is a wiki / development system where we can gather information for the futu
 Project
 -------
 
--   [[Faq|Frequently Asked Questions]]
+-   [Faq](Frequently Asked Questions)
 -   [Pr](Public Relations)
--   Check out our [[plan|Project Plan]] so far
+-   Check out our [plan](Project Plan) so far
 -   [[Organizational Structure]]
--   [[Roles|Roles and Skills]] of contributing community members
--   [[IRC|IRC channels]]
+-   [Roles](Roles and Skills) of contributing community members
+-   [IRC](IRC channels)
 -   [[Community development]] planning
--   [[Legal|Licensing / Legal]]
+-   [Legal](Licensing / Legal)
 -   [[Announcements]]
 -   [Roadmap to v1](http://dev.xonotic.org/versions/show/3)
 -   [[Repository Access]] (how to compile from git) (see also [[Git]])
 -   [[Website]] Plannning
 -   [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
--   Notes from brainstorming [[names|ideas for names]]
+-   Notes from brainstorming [names](ideas for names)
 -   [[Hardware Requirements]]
 
 Gameplay
 --------
 
--   [[Halogene's Newbie Corner|HALOGENE'S NEWBIE CORNER]]
-    -   [[Halogene's Newbie Corner\#Movement|Movement]]
-        -   [[Halogene's Newbie Corner\#Bunny Hopping|Bunny Hopping]]
-        -   [[Halogene's Newbie Corner\#Laser Jumping|Laser Jumping]]
-        -   [[Halogene's Newbie Corner\#Wall Lasering|Wall Lasering]]
-        -   [[Halogene's Newbie Corner\#Ramp Jumping|Ramp Jumping]]
-    -   [[Halogene's Newbie Corner\#Weapons|Weapons]]
-        -   [[Halogene's Newbie Corner\#Laser|Laser]]
-        -   [[Halogene's Newbie Corner\#Shotgun|Shotgun]]
-        -   [[Halogene's Newbie Corner\#Machinegun/Uzi|Machinegun/Uzi]]
-        -   [[Halogene's Newbie Corner\#Mortar|Mortar]]
-        -   [[Halogene's Newbie Corner\#Electro|Electro]]
-        -   [[Halogene's Newbie Corner\#Crylink|Crylink]]
-        -   [[Halogene's Newbie Corner\#Nex|Nex]]
-        -   [[Halogene's Newbie Corner\#Hagar|Hagar]]
-        -   [[Halogene's Newbie Corner\#Rocket Launcher|Rocket Launcher]]
-    -   [[Halogene's Newbie Corner\#Gameplay Tricks|Gameplay Tricks]]
-        -   [[Halogene's Newbie Corner\#Weapon Comboing|Weapon Comboing]]
-        -   [[Halogene's Newbie Corner\#Keyboard Setup|Keyboard Setup]]
-        -   [[Halogene's Newbie Corner\#Splash Damage Travels Through Walls|Splash Damage Travels Through Walls]]
-        -   [[Halogene's Newbie Corner\#Stay Healthy|Stay Healthy]]
-        -   [[Halogene's Newbie Corner\#Listen|Listen]]
-        -   [[Halogene's Newbie Corner\#Console ABC|Console ABC]]
-    -   [[Halogene's Newbie Corner\#Optimizing Perception|Optimizing Perception]]
-        -   [[Halogene's Newbie Corner\#Visuals|Visuals]]
-            -   [[Halogene's Newbie Corner\#Damage Blur|Damage Blur]]
-            -   [[Halogene's Newbie Corner\#Field of View|Field of View]]
-            -   [[Halogene's Newbie Corner\#Visible Players|Visible Players]]
-            -   [[Halogene's Newbie Corner\#Reducing Effects|Reducing Effects]]
-            -   [[Halogene's Newbie Corner\#Picmip and Simple Items|Picmip and Simple Items]]
-            -   [[Halogene's Newbie Corner\#Crosshair|Crosshair]]
-            -   [[Halogene's Newbie Corner\#Fine Tuning|Fine Tuning]]
-        -   [[Halogene's Newbie Corner\#Audio|Audio]]
+-   [Halogene's Newbie Corner](HALOGENE'S NEWBIE CORNER)
+    -   [Halogene's Newbie Corner\#Movement](Movement)
+        -   [Halogene's Newbie Corner\#Bunny Hopping](Bunny Hopping)
+        -   [Halogene's Newbie Corner\#Laser Jumping](Laser Jumping)
+        -   [Halogene's Newbie Corner\#Wall Lasering](Wall Lasering)
+        -   [Halogene's Newbie Corner\#Ramp Jumping](Ramp Jumping)
+    -   [Halogene's Newbie Corner\#Weapons](Weapons)
+        -   [Halogene's Newbie Corner\#Laser](Laser)
+        -   [Halogene's Newbie Corner\#Shotgun](Shotgun)
+        -   [Halogene's Newbie Corner\#Machinegun/Uzi](Machinegun/Uzi)
+        -   [Halogene's Newbie Corner\#Mortar](Mortar)
+        -   [Halogene's Newbie Corner\#Electro](Electro)
+        -   [Halogene's Newbie Corner\#Crylink](Crylink)
+        -   [Halogene's Newbie Corner\#Nex](Nex)
+        -   [Halogene's Newbie Corner\#Hagar](Hagar)
+        -   [Halogene's Newbie Corner\#Rocket Launcher](Rocket Launcher)
+    -   [Halogene's Newbie Corner\#Gameplay Tricks](Gameplay Tricks)
+        -   [Halogene's Newbie Corner\#Weapon Comboing](Weapon Comboing)
+        -   [Halogene's Newbie Corner\#Keyboard Setup](Keyboard Setup)
+        -   [Halogene's Newbie Corner\#Splash Damage Travels Through Walls](Splash Damage Travels Through Walls)
+        -   [Halogene's Newbie Corner\#Stay Healthy](Stay Healthy)
+        -   [Halogene's Newbie Corner\#Listen](Listen)
+        -   [Halogene's Newbie Corner\#Console ABC](Console ABC)
+    -   [Halogene's Newbie Corner\#Optimizing Perception](Optimizing Perception)
+        -   [Halogene's Newbie Corner\#Visuals](Visuals)
+            -   [Halogene's Newbie Corner\#Damage Blur](Damage Blur)
+            -   [Halogene's Newbie Corner\#Field of View](Field of View)
+            -   [Halogene's Newbie Corner\#Visible Players](Visible Players)
+            -   [Halogene's Newbie Corner\#Reducing Effects](Reducing Effects)
+            -   [Halogene's Newbie Corner\#Picmip and Simple Items](Picmip and Simple Items)
+            -   [Halogene's Newbie Corner\#Crosshair](Crosshair)
+            -   [Halogene's Newbie Corner\#Fine Tuning](Fine Tuning)
+        -   [Halogene's Newbie Corner\#Audio](Audio)
 
 -   Game Mechanics
     -   [[Impulse map]]
@@ -72,10 +72,10 @@ Gameplay
 -   Gamemodes
     -   [[Arena]]
     -   [[Assault]]
-    -   [[Capture the Flag|Capture The Flag]]
+    -   [Capture the Flag](Capture The Flag)
     -   [[Clan Arena]]
     -   [[Deathmatch]]
-        -   [[1v1\_Duel|1v1 Duel]]
+        -   [1v1\_Duel](1v1 Duel)
     -   [[Domination]]
     -   [[Freeze Tag]]
     -   [[Keepaway]]
@@ -85,7 +85,7 @@ Gameplay
     -   [[Onslaught]]
     -   [[Race]]
     -   [[Race CTS]]
-    -   [[Rune|Runematch]]
+    -   [Rune](Runematch)
     -   [[Team Deathmatch]]
     -   [[Conquest]]
 
@@ -107,7 +107,7 @@ Gameplay
     -   [[NIX]]
 
 -   Misc
-    -   [[Demo Camera|Camera for demos explained]]
+    -   [Demo Camera](Camera for demos explained)
     -   [[Xonotic Bot Orchestra]]
 
 Art & Media
@@ -115,10 +115,10 @@ Art & Media
 
 -   [[Art Roadmap]]
 -   [[Artistic Style]]
--   [[Logo|Xonotic Logo]]
+-   [Logo](Xonotic Logo)
 -   [[Maps Makeover]]
 -   [[Weapons Makeover]]
-    -   [[NamesWeapons|New weapon names discussion]]
+    -   [NamesWeapons](New weapon names discussion)
 -   [[2d art]]
 -   [[Music]]
     -   [[Music contributions]]
@@ -146,13 +146,13 @@ In this section you will find helpful information about editing Xonotic in gener
     -   [[NewQC]] - Possible changes regarding QC (compiler, syntax, ...)
 
 -   [[Modeling]]
-    -   [[Textures|Textures know-how]]
-    -   [[Normal Maps|Normal Maps know-how]]
-    -   [[Polycounts|Polygon count]] on Weapons and Models
-    -   [[framegroups|.framegroups]] file (allow self playing animations) know-how
-    -   [[Voices and sounds|.sounds]] file (player model sounds) know-how
-    -   [[dpmodel|How to compile dpm models]]
-    -   [[Weaponsystem|How to make weapons]]
+    -   [Textures](Textures know-how)
+    -   [Normal Maps](Normal Maps know-how)
+    -   [Polycounts](Polygon count) on Weapons and Models
+    -   [framegroups](.framegroups) file (allow self playing animations) know-how
+    -   [Voices and sounds](.sounds) file (player model sounds) know-how
+    -   [dpmodel](How to compile dpm models)
+    -   [Weaponsystem](How to make weapons)
     -   How to get an animated mesh from [[Blender to DPM]]
     -   [Inter-Quake Model (IQM) Format](http://lee.fov120.com/iqm/)
     -   [[Player Model Spec]]
@@ -166,7 +166,7 @@ In this section you will find helpful information about editing Xonotic in gener
     -   [Q3A Shader Manual](http://toolz.nexuizninjaz.com/shader/)
 
 -   Configuration
-    -   [[democapture|Capturing video clips and using the demo camera]]
+    -   [democapture](Capturing video clips and using the demo camera)
     -   [[Git]]
 
 -   [[Mapping]]

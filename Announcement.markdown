@@ -131,7 +131,7 @@ This agenda will lead to the following game changes in the short term:
 \# makeover of default maps
 \# new names for weapons and gamemodes
 
-We do not yet have a fixed timeline but work is well underway and we hope to have a release ready soon. You can track our progress, receive updates and contact us via our**[website](http://xonotic.org*), **[twitter](http://twitter.com/xonotic*),**[facebook](http://facebook.com/xonotic*) and IRC (\#xonotic on irc.quakenet.org).
+We do not yet have a fixed timeline but work is well underway and we hope to have a release ready soon. You can track our progress, receive updates and contact us via our**[Website](http://xonotic.org*), **[twitter](http://twitter.com/xonotic*),**[facebook](http://facebook.com/xonotic*) and IRC (\#xonotic on irc.quakenet.org).
 
 More detailed information about the project is available in **[our FAQ](http://xonotic.org/faq*)
 

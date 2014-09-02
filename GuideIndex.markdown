@@ -36,7 +36,7 @@ and to differentiate them from developer resources in the wiki index.
 \#\* Configuration Files (autoexec.cfg and co.)
 \# [GuideCommunity](Community)
 \#\* where to meet people. Forums, IRC, Clansites …
-\#\* official Media Channels (see [PR](PR)) to subscribe to
+\#\* official Media Channels (see [Pr](PR)) to subscribe to
 \# [GuideGlossary](Glossary)
 \#\* Common Terms and Abbreviations (explaining stuff like ONS (one night st... err Onslaught), CPM, ELO, …)
 \# [GuideServerAdministration](Server Administration)

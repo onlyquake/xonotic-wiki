@@ -34,6 +34,6 @@ Basic controls for 3d view (although we havn’t put anything in it yet, so its 
 \* rightclick triggers look mode
 \* while in look mode move the mouse to look around and the mousewheel to fly around the 3d scene
 
-\<\< [mapping-Setup](mapping-Setup) 2 [mapping-FirstRoom](mapping-FirstRoom) \>\>
+\<\< [Mapping-Setup](mapping-Setup) 2 [Mapping-FirstRoom](mapping-FirstRoom) \>\>
 
 … [Creating\_Maps](Creating\_Maps) …

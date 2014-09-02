@@ -10,7 +10,7 @@ Project
 
 -   [Faq](Frequently Asked Questions)
 -   [Pr](Public Relations)
--   Check out our [plan](Project Plan) so far
+-   Check out our [Plan](Project Plan) so far
 -   [Organizational Structure](Organizational Structure)
 -   [Roles](Roles and Skills) of contributing community members
 -   [IRC](IRC channels)
@@ -21,7 +21,7 @@ Project
 -   [Repository Access](Repository Access) (how to compile from git) (see also [Git](Git))
 -   [Website](Website) Plannning
 -   [Xonotic compatibility pack](Xonotic compatibility pack) a small pk3 that will rebrand a default Nexuiz install
--   Notes from brainstorming [names](ideas for names)
+-   Notes from brainstorming [Names](ideas for names)
 -   [Hardware Requirements](Hardware Requirements)
 
 Gameplay
@@ -149,9 +149,9 @@ In this section you will find helpful information about editing Xonotic in gener
     -   [Textures](Textures know-how)
     -   [Normal Maps](Normal Maps know-how)
     -   [Polycounts](Polygon count) on Weapons and Models
-    -   [framegroups](.framegroups) file (allow self playing animations) know-how
+    -   [Framegroups](.framegroups) file (allow self playing animations) know-how
     -   [Voices and sounds](.sounds) file (player model sounds) know-how
-    -   [dpmodel](How to compile dpm models)
+    -   [Dpmodel](How to compile dpm models)
     -   [Weaponsystem](How to make weapons)
     -   How to get an animated mesh from [Blender to DPM](Blender to DPM)
     -   [Inter-Quake Model (IQM) Format](http://lee.fov120.com/iqm/)
@@ -166,7 +166,7 @@ In this section you will find helpful information about editing Xonotic in gener
     -   [Q3A Shader Manual](http://toolz.nexuizninjaz.com/shader/)
 
 -   Configuration
-    -   [democapture](Capturing video clips and using the demo camera)
+    -   [Democapture](Capturing video clips and using the demo camera)
     -   [Git](Git)
 
 -   [Mapping](Mapping)

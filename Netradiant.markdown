@@ -8,7 +8,7 @@ p=. ![](logo.jpg)
 
 ![](>radiant.jpg)
 
--   [NetRadiant](NetRadiant)
+-   [Netradiant](NetRadiant)
 -   [Download NetRadiant](Download NetRadiant)
 -   [Additional map editor features](Additional map editor features)
 -   [Additional map compiler features](Additional map compiler features)

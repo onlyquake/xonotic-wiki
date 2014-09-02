@@ -13,10 +13,10 @@ Main Tutorial
 -------------
 
 **— Prologue —**
-[mapping-Introduction](mapping-Introduction)
-[mapping-Setup](mapping-Setup)
-[mapping-NetRadiant](mapping-NetRadiant)
-[mapping-FirstRoom](mapping-FirstRoom)
+[Mapping-Introduction](mapping-Introduction)
+[Mapping-Setup](mapping-Setup)
+[Mapping-NetRadiant](mapping-NetRadiant)
+[Mapping-FirstRoom](mapping-FirstRoom)
 
 Advanced Mapping Tutorials
 --------------------------
@@ -26,7 +26,7 @@ Advanced Mapping Tutorials
 Advanced Texturing Tuorials
 ---------------------------
 
-[mapping-textures-skybox-blender](skyboxes (with blender))
+[Mapping-textures-skybox-blender](skyboxes (with blender))
 
 Entity Tutorials
 ----------------

@@ -18,7 +18,7 @@ there are 2 types of smd files
 
 if you are using same skeleton for many models you can share animation files
 
-dpmodel converter takes these smd files and make single dpm file that contains all model info and animations inside, lately it started to generate .[framegroups](framegroups) file too, we will need this one, it will spit lots of other strange file but you wont need them
+dpmodel converter takes these smd files and make single dpm file that contains all model info and animations inside, lately it started to generate .[Framegroups](framegroups) file too, we will need this one, it will spit lots of other strange file but you wont need them
 
 dpmodel need configuration file, its just simple text file
 

@@ -25,8 +25,8 @@ Map Entities
 Helpful Hints and Tips
 ----------------------
 
-- Some maps can contain powerups like “[Strength][Strength]” or “[Shield][Shield]” (which usually spawn every 2 minutes). They can be useful tools to win a match!
-- [Binds][Binds] are useful to organize your team, e.g. to let them know if you are going to attack. There are several default binds on the Numpad.
+- Some maps can contain powerups like “[[Strength]]” or “[[Shield]]” (which usually spawn every 2 minutes). They can be useful tools to win a match!
+- [[Binds]] are useful to organize your team, e.g. to let them know if you are going to attack. There are several default binds on the Numpad.
 - There is always a yellow waypoint above your Flag Carrier (FC) with a bar that shows his health and obviously it shows his position. Especially if he is on very low health try to assist and help him to capture the flag.
 
 List of Demos and Videos

@@ -22,8 +22,8 @@ Map Entities
 Helpful Hints and Tips
 ----------------------
 
-- Some maps can contain powerups like “[Strength][Strength]” or “[Shield][Shield]” (which usually spawn every 2 minutes). They can be useful tools to win a match!
-- [Binds][Binds] are very useful again to coordinate the team.
+- Some maps can contain powerups like “[[Strength]]” or “[[Shield]]” (which usually spawn every 2 minutes). They can be useful tools to win a match!
+- [[Binds]] are very useful again to coordinate the team.
 - You can freeze (or get frozen) in e.g. lava too! Also if you fall into space you will respawn frozen.
 
 List of Demos and Videos

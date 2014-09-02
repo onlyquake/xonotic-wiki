@@ -8,7 +8,7 @@ Official Logo
 Original Concepts
 -----------------
 
--   ~~z~~ [Concept Art][Concept Art]
+-   ~~z~~ [[Concept Art]]
 -   [Dokujisan](http://www.nullgaming.com/stuff/x/)
     -   [Source for current official logo](http://www.nullgaming.com/stuff/x/source)
 -   [Spaceman](http://leela.org.uk/xonotic/index.htm)

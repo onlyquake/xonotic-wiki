@@ -11,4 +11,4 @@ REQUIREMENTS
     also if the main site doesn’t have a download you can always get it from http://beta.xonotic.org/autobuild/ … username xonotic … password g-23
 -   time
 
-0 [mapping-Setup][mapping-Setup] \>\>
+0 [[mapping-Setup]] \>\>

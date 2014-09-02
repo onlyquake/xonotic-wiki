@@ -9,9 +9,9 @@ and to differentiate them from developer resources in the wiki index.
 
 **Please help refine or rework this structure before we go on to create the actual pages**
 
-[GuideIndex][GuideIndex]
+[[GuideIndex]]
 \# [[GuideGetStarted|Getting started]]
-\#\* System Requirements (if we can come up with some. link to [Hardware\_Requirements][Hardware\_Requirements]?)
+\#\* System Requirements (if we can come up with some. link to [[Hardware\_Requirements]]?)
 \#\* Download the game (git, autobuild, release version links and procedures explained)
 \#\* Setup (name, playerskin, network parameters — the basics)
 \#\* Singleplayer / Campaign
@@ -36,7 +36,7 @@ and to differentiate them from developer resources in the wiki index.
 \#\* Configuration Files (autoexec.cfg and co.)
 \# [[GuideCommunity|Community]]
 \#\* where to meet people. Forums, IRC, Clansites …
-\#\* official Media Channels (see [PR][PR]) to subscribe to
+\#\* official Media Channels (see [[PR]]) to subscribe to
 \# [[GuideGlossary|Glossary]]
 \#\* Common Terms and Abbreviations (explaining stuff like ONS (one night st... err Onslaught), CPM, ELO, …)
 \# [[GuideServerAdministration|Server Administration]]

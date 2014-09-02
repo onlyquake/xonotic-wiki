@@ -91,4 +91,4 @@ Aide
 \#xonotic.editing on irc.quakenet.org
 http://forums.xonotic.org
 
-[Creating Maps](English)
+[Creating_Maps](English)

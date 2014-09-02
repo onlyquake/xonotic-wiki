@@ -16,7 +16,7 @@ NetRadiant is a fork of the popular Quake-based game editor, GtkRadiant, if you 
 
 ### Compiling from Source
 
-NetRadiant is included with the git checkout from the [Repository Access](repository). On a Linux/UNIX system, the basic technique for building is to change to your **./xonotic/netradiant** directory and use ‘make’ to compile it. Resolve any dependencies. The binary file is located in **./xonotic/netradiant/install**, ‘radiant.x86’.
+NetRadiant is included with the git checkout from the [Repository_Access](repository). On a Linux/UNIX system, the basic technique for building is to change to your **./xonotic/netradiant** directory and use ‘make’ to compile it. Resolve any dependencies. The binary file is located in **./xonotic/netradiant/install**, ‘radiant.x86’.
 
 *directions to compile on windows \_
 h3. Builds
@@ -73,7 +73,7 @@ maps/textures/tutorial-world/wall\_2.tga
 Testing Maps
 ------------
 
-You can compile your map locally or on the build server. The build server (requires [Repository Access](Repository Access)) requires a <mapname>.mapoptions file. For more info check ask in \#xonotic.editing on irc.quakenet.org
+You can compile your map locally or on the build server. The build server (requires [Repository_Access](Repository Access)) requires a <mapname>.mapoptions file. For more info check ask in \#xonotic.editing on irc.quakenet.org
 
 Maps on Servers
 ---------------
@@ -93,6 +93,6 @@ Help
 \#xonotic.editing on irc.quakenet.org
 http://forums.xonotic.org
 
-[Création de cartes](Français)
+[Création_de_cartes](Français)
 
-\<\< [Creating\_Maps](Creating\_Maps)
+\<\< [Creating_Maps](Creating\_Maps)

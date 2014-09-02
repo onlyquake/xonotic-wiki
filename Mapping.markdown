@@ -6,7 +6,7 @@ Mapping
 Basics of mapping - the NetRadiant handbook
 -------------------------------------------
 
--   [Basic mapping in Radiant](Basic mapping in Radiant) - Basic manipulation techniques
+-   [Basic_mapping_in_Radiant](Basic mapping in Radiant) - Basic manipulation techniques
 -   [Basic texturing](Basic texturing) - How to make the map look colorful and pretty
 -   [Patches](Patches) - When straight lines just don’t cut it
 -   [Lighting](Lighting) - And the Mapper said - let there be light!
@@ -18,8 +18,8 @@ Game-type specific mapping
 --------------------------
 
 -   [Deathmatch](Deathmatch) - Free-for-all
--   [Team deathmatch](Team deathmatch) - I got you covered, mate.
--   [CTF - Capture the flag](CTF - Capture the flag) - I got the flag, I GOT THE FLAG![]()!
+-   [Team_Deathmatch](Team deathmatch) - I got you covered, mate.
+-   [CTF_-_Capture_the_flag](CTF - Capture the flag) - I got the flag, I GOT THE FLAG![]()!
 -   [Domination](Domination) - Divide et impera
 -   [Onslaught](Onslaught) - Now with vehicles!
 

@@ -39,7 +39,7 @@ Entity Tutorials
 [mapping-entity-func\_assault\_wall](func\_assault\_wall)
 [mapping-entity-func\_bobbing](func\_bobbing)
 [mapping-entity-func\_breakable](func\_breakable)
-[mapping-entity-func\_button](func\_button)
+[Mapping-entity-func_button](func\_button)
 [mapping-entity-func\_camera](func\_camera)
 [mapping-entity-func\_clientillusionary](func\_clientillusionary)
 [mapping-entity-func\_conveyor](func\_conveyor)
@@ -58,5 +58,5 @@ Help
 \#xonotic.editing on irc.quakenet.org — live chat
 http://forums.xonotic.org — the forums .
 
-[Old\_Creating\_Maps](Old\_Creating\_Maps)
-[Création de cartes](Français)
+[Old_Creating_Maps](Old\_Creating\_Maps)
+[Création_de_cartes](Français)

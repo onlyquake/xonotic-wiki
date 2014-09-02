@@ -5,7 +5,7 @@ Compiling In Windows
 
 **This guide has been replaced by a shorter alternative.** This guide should still work, and get you a standalone MinGW/MSYS environment with access to msysgit. The new method only makes use of msysgit and is therefore easier and faster to set up. See the [Repository Access\#Windows](Repository Access\#Windows) page.
 
-This is an unofficial updated version of the outdated [Outdated Compiling in Windows](Compiling in Windows) page. There are no more automated tools in this version of the guide.
+This is an unofficial updated version of the outdated [Outdated_Compiling_In_Windows](Compiling in Windows) page. There are no more automated tools in this version of the guide.
 
 You will need about 10 gigabytes of disk space to keep the sources (the uncompressed texture files are quite large and git keeps a backup copy, doubling the actual size of the sources).
 

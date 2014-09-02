@@ -11,23 +11,23 @@ Project
 -   [Faq](Frequently Asked Questions)
 -   [Pr](Public Relations)
 -   Check out our [Plan](Project Plan) so far
--   [Organizational Structure](Organizational Structure)
+-   [Organizational_Structure](Organizational Structure)
 -   [Roles](Roles and Skills) of contributing community members
 -   [IRC](IRC channels)
--   [Community development](Community development) planning
+-   [Community_development](Community development) planning
 -   [Legal](Licensing / Legal)
 -   [Announcements](Announcements)
 -   [Roadmap to v1](http://dev.xonotic.org/versions/show/3)
--   [Repository Access](Repository Access) (how to compile from git) (see also [Git](Git))
+-   [Repository_Access](Repository Access) (how to compile from git) (see also [Git](Git))
 -   [Website](Website) Plannning
--   [Xonotic compatibility pack](Xonotic compatibility pack) a small pk3 that will rebrand a default Nexuiz install
+-   [Xonotic_compatibility_pack](Xonotic compatibility pack) a small pk3 that will rebrand a default Nexuiz install
 -   Notes from brainstorming [Names](ideas for names)
--   [Hardware Requirements](Hardware Requirements)
+-   [Hardware_Requirements](Hardware Requirements)
 
 Gameplay
 --------
 
--   [Halogene's Newbie Corner](HALOGENE'S NEWBIE CORNER)
+-   [Halogene's_Newbie_Corner](HALOGENE'S NEWBIE CORNER)
     -   [Halogene's Newbie Corner\#Movement](Movement)
         -   [Halogene's Newbie Corner\#Bunny Hopping](Bunny Hopping)
         -   [Halogene's Newbie Corner\#Laser Jumping](Laser Jumping)
@@ -62,7 +62,7 @@ Gameplay
         -   [Halogene's Newbie Corner\#Audio](Audio)
 
 -   Game Mechanics
-    -   [Impulse map](Impulse map)
+    -   [Impulse_map](Impulse map)
     -   [Items](Items)
     -   [Maps](Maps)
     -   [Players](Players)
@@ -72,21 +72,21 @@ Gameplay
 -   Gamemodes
     -   [Arena](Arena)
     -   [Assault](Assault)
-    -   [Capture the Flag](Capture The Flag)
-    -   [Clan Arena](Clan Arena)
+    -   [Capture_the_Flag](Capture The Flag)
+    -   [Clan_Arena](Clan Arena)
     -   [Deathmatch](Deathmatch)
-        -   [1v1\_Duel](1v1 Duel)
+        -   [1v1_Duel](1v1 Duel)
     -   [Domination](Domination)
-    -   [Freeze Tag](Freeze Tag)
+    -   [Freeze_Tag](Freeze Tag)
     -   [Keepaway](Keepaway)
-    -   [Key Hunt](Key Hunt)
-    -   [Last Man Standing](Last Man Standing)
+    -   [Key_Hunt](Key Hunt)
+    -   [Last_Man_Standing](Last Man Standing)
     -   [Nexball](Nexball)
     -   [Onslaught](Onslaught)
     -   [Race](Race)
-    -   [Race CTS](Race CTS)
+    -   [Race_CTS](Race CTS)
     -   [Rune](Runematch)
-    -   [Team Deathmatch](Team Deathmatch)
+    -   [Team_Deathmatch](Team Deathmatch)
     -   [Conquest](Conquest)
 
 -   Mutators
@@ -98,7 +98,7 @@ Gameplay
     -   [Cloak](Cloak)
     -   [Relics](Relics)
     -   [Weapon Arena](Weapon Arena)
-    -   [Grappling Hook](Grappling Hook)
+    -   [Grappling_Hook](Grappling Hook)
     -   [Jet Pack](Jet Pack)
     -   [Rocket Flying](Rocket Flying)
     -   [Pinata](Pinata)
@@ -107,31 +107,31 @@ Gameplay
     -   [NIX](NIX)
 
 -   Misc
-    -   [Demo Camera](Camera for demos explained)
-    -   [Xonotic Bot Orchestra](Xonotic Bot Orchestra)
+    -   [Demo_Camera](Camera for demos explained)
+    -   [Xonotic_Bot_Orchestra](Xonotic Bot Orchestra)
 
 Art & Media
 -----------
 
--   [Art Roadmap](Art Roadmap)
--   [Artistic Style](Artistic Style)
+-   [Art_Roadmap](Art Roadmap)
+-   [Artistic_Style](Artistic Style)
 -   [Logo](Xonotic Logo)
--   [Maps Makeover](Maps Makeover)
--   [Weapons Makeover](Weapons Makeover)
+-   [Maps_Makeover](Maps Makeover)
+-   [Weapons_Makeover](Weapons Makeover)
     -   [NamesWeapons](New weapon names discussion)
 -   [2d art](2d art)
 -   [Music](Music)
-    -   [Music contributions](Music contributions)
--   [Sound FX](Sound FX)
-    -   [Sound FX contributions](Sound FX contributions)
+    -   [Music_contributions](Music contributions)
+-   [Sound_FX](Sound FX)
+    -   [Sound_FX_contributions](Sound FX contributions)
 -   Story Themes
-    -   [Close to home](Close to home)
-    -   [Tech Conglomerate](Tech Conglomerate)
+    -   [Close_to_home](Close to home)
+    -   [Tech_Conglomerate](Tech Conglomerate)
 
 Additional Engine References
 ----------------------------
 
--   [Darkplaces Parameters](Darkplaces Parameters)
+-   [Darkplaces_Parameters](Darkplaces Parameters)
 
 Editing
 -------
@@ -139,7 +139,7 @@ Editing
 In this section you will find helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping, etc
 
 -   Programming
-    -   [Introduction to QuakeC](Introduction to QuakeC)
+    -   [Introduction_to_QuakeC](Introduction to QuakeC)
     -   [DarkPlaces Wiki](http://dpwiki.slipgateconstruct.com/)
     -   [QuakeC Specifications v1.0](http://www.gamers.org/dEngine/quake/spec/quake-spec34/qc-menu.htm)
     -   [QuakeC tutorials](http://www.inside3d.com/tutorials.php) at inside3d.com
@@ -147,16 +147,16 @@ In this section you will find helpful information about editing Xonotic in gener
 
 -   [Modeling](Modeling)
     -   [Textures](Textures know-how)
-    -   [Normal Maps](Normal Maps know-how)
+    -   [Normal_Maps](Normal Maps know-how)
     -   [Polycounts](Polygon count) on Weapons and Models
     -   [Framegroups](.framegroups) file (allow self playing animations) know-how
-    -   [Voices and sounds](.sounds) file (player model sounds) know-how
+    -   [Voices_and_sounds](.sounds) file (player model sounds) know-how
     -   [Dpmodel](How to compile dpm models)
     -   [Weaponsystem](How to make weapons)
-    -   How to get an animated mesh from [Blender to DPM](Blender to DPM)
+    -   How to get an animated mesh from [Blender_to_dpm](Blender to DPM)
     -   [Inter-Quake Model (IQM) Format](http://lee.fov120.com/iqm/)
-    -   [Player Model Spec](Player Model Spec)
-    -   [Blender to IQM](Blender to IQM)
+    -   [Player_Model_Spec](Player Model Spec)
+    -   [Blender_to_IQM](Blender to IQM)
 
 -   Texturing
     -   Tutorials [1](http://www.cgtextures.com/content.php?action=tutorials)
@@ -170,8 +170,8 @@ In this section you will find helpful information about editing Xonotic in gener
     -   [Git](Git)
 
 -   [Mapping](Mapping)
-    -   [Creating Maps](Creating Maps)
-    -   [Mapper resources](Mapper resources)
+    -   [Creating_Maps](Creating Maps)
+    -   [Mapper_resources](Mapper resources)
     -   [Map naming convention](http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330)
 
 References
@@ -179,5 +179,5 @@ References
 
 -   [Git](Git)
 -   [Redmine Wiki formatting](http://www.redmine.org/wiki/1/RedmineTextFormatting)
--   [Forbidden disposable e-mail providers](Forbidden disposable e-mail providers)
+-   [Forbidden_disposable_e-mail_providers](Forbidden disposable e-mail providers)
 

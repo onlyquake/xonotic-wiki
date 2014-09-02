@@ -91,7 +91,7 @@ Factions
     -   However, player could also specify factional allegiance (resistance is a “pacifist” movement, so factions put aside differences)
     -   Not sure how they can figure in the “Oppressor” campaign (redshirts killed quickly in the beginning of some battles?)
 
--   Factions may be adopted from the [[Close to Home]] scenario or invented anew
+-   Factions may be adopted from the [Close to Home](Close to Home) scenario or invented anew
     -   Only difference between factions is player models
 
 Note: Colors of factions are subject to change depending on which faction is in which mission (we can have at most three other factions besides the player’s faction).

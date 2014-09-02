@@ -4,7 +4,7 @@ Grappling Hook Mutator:
 Overview
 --------
 
-This mutator adds an extra weapon to each players default spawn weapons: the [Weapons\#Grappling-Hook](Grappling Hook). This weapon fires a particle beam that will travel a long distance until it hits a solid surface. Once latched onto something, the gun will immediately swing you there. It does not require external ammunition, but it has a charge that slowly regenerates over time (marked by a yellow bar above the Health and Armor meters in the HUD). The hook adds an extra challenge to fighting matches, and it also makes both surprise ambushes and miraculous escapes possible. Additionally, areas with powerups or weapons that were previously unreachable are now up for grabs, making matches involving “[[Strength]]” and “[[Shield]]” powerups much more interesting.
+This mutator adds an extra weapon to each players default spawn weapons: the [Weapons\#Grappling-Hook](Grappling Hook). This weapon fires a particle beam that will travel a long distance until it hits a solid surface. Once latched onto something, the gun will immediately swing you there. It does not require external ammunition, but it has a charge that slowly regenerates over time (marked by a yellow bar above the Health and Armor meters in the HUD). The hook adds an extra challenge to fighting matches, and it also makes both surprise ambushes and miraculous escapes possible. Additionally, areas with powerups or weapons that were previously unreachable are now up for grabs, making matches involving “[Strength](Strength)” and “[Shield](Shield)” powerups much more interesting.
 
 Mutator Details
 ---------------

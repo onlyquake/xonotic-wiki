@@ -14,7 +14,7 @@ Map Entities
 
 -   **Weapons** - These can be picked up from various places around the map or from a downed player.
 -   **Ammo** - These may be found in the form of shells, bullets, rockets, jet fuel, or power cells.
--   **Powerups** - All maps have “Health” and “Armor” powerups, which extend your lifetime. Some maps may contain powerups like “[[Strength]]” or “[[Shield]]” (which usually spawn every 2 minutes).
+-   **Powerups** - All maps have “Health” and “Armor” powerups, which extend your lifetime. Some maps may contain powerups like “[Strength](Strength)” or “[Shield](Shield)” (which usually spawn every 2 minutes).
 
 Helpful Hints and Tips
 ----------------------

@@ -5,7 +5,7 @@ Last Man Standing (LMS)
 Object of the Game
 ------------------
 
-In LMS you start with a special amount of lives (9 by default) and with every weapon (except [Weapons](Mine Layer); [Weapons](HLAC); [Weapons](T.A.G. Seeker); [Weapons](Fireball); [Weapons](Grappling Hook); [Weapons](Port-O-Launch) and the [Weapons](@\#!%’n Tuba)). For each death you lose 1 live and once you run out of your lives you will have to spectate until the end of the map. The last one that survives is the “Last Man Standing” and wins the map.
+In LMS you start with a special amount of lives (9 by default) and with every weapon (except [[Weapons|Mine Layer]]; [[Weapons|HLAC]]; [[Weapons|T.A.G. Seeker]]; [[Weapons|Fireball]]; [[Weapons|Grappling Hook]]; [[Weapons|Port-O-Launch]] and the [[Weapons|@\#!%’n Tuba]]). For each death you lose 1 live and once you run out of your lives you will have to spectate until the end of the map. The last one that survives is the “Last Man Standing” and wins the map.
 
 Map Entities
 ------------

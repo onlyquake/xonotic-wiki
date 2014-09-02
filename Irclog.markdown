@@ -5343,7 +5343,7 @@ Irclog
     Mar 05 15:20:17  I see "new file" where I can attach a file
     Mar 05 15:21:41 <}-z-{> just go to the url
     Mar 05 15:21:45 <}-z-{> or create a link in an existing page
-    Mar 05 15:21:54 <}-z-{> [my_new_page](click me for new page)
+    Mar 05 15:21:54 <}-z-{> [[my_new_page|click me for new page]]
     Mar 05 15:23:02    shouldn't we hide this channel? 
     Mar 05 15:23:14 <}-z-{> isn't it p?
     Mar 05 15:23:16 <}-z-{> omg it was
@@ -5438,7 +5438,7 @@ Irclog
     Mar 05 16:45:54 <}-z-{> I told you two ways
     Mar 05 16:46:02 <}-z-{> extend the url ...wiki/my_new_page
     Mar 05 16:46:07 <}-z-{> or create a link on an existing page
-    Mar 05 16:46:18 <}-z-{> [my_new_page](linking text)
+    Mar 05 16:46:18 <}-z-{> [[my_new_page|linking text]]
     Mar 05 16:46:19  ok
     Mar 05 16:52:37  http://dev.xonotic.org/projects/notnexuiz/wiki/Names
     Mar 05 16:52:47 <}-z-{> noice

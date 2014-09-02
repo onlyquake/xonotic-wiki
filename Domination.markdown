@@ -4,7 +4,7 @@ Domination (DOM)
 Object of the Game
 ------------------
 
-In domination, the goal is to capture and hold all control points on the map. Domination is similar to [Onslaught](Onslaught) but capturing a control point is easier in Domination, and in Domination points are given for holding a control point, and there is no generator. Rarely are maps made exclusively for Domination, generally an existing [Capture_the_Flag](CTF) or [Team_Deathmatch](TDM) map receives Domination features.
+In domination, the goal is to capture and hold all control points on the map. Domination is similar to [[Onslaught]] but capturing a control point is easier in Domination, and in Domination points are given for holding a control point, and there is no generator. Rarely are maps made exclusively for Domination, generally an existing [[Capture\_the\_Flag|CTF]] or [[Team\_Deathmatch|TDM]] map receives Domination features.
 
 Map Entities
 ------------

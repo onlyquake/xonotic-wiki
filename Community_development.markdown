@@ -91,7 +91,7 @@ Europe
 
 -   Apocalyptic xtreme Gamerz [AxG]:
 -   blah//:
--   [Bot]: Grunt, kuniuthefrogg, Lord Th90, Mirio, Misio, Rage Against The Washing Machine, weed
+-   [BOT]: Grunt, kuniuthefrogg, Lord Th90, Mirio, Misio, Rage Against The Washing Machine, weed
 -   CapBots: ItsMe
 -   Conquerors [CON]: cortez, Diomedes, killgenerals, Parp, Sless
 -   Die Tunichtguten: Mattias, Nesquick

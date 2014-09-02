@@ -11,7 +11,7 @@ and to differentiate them from developer resources in the wiki index.
 
 [GuideIndex](GuideIndex)
 \# [Getting started](GuideGetStarted)
-\#\* System Requirements (if we can come up with some. link to [Hardware\_Requirements](Hardware\_Requirements)?)
+\#\* System Requirements (if we can come up with some. link to [Hardware\_Requirements](Hardware_Requirements)?)
 \#\* Download the game (git, autobuild, release version links and procedures explained)
 \#\* Setup (name, playerskin, network parameters — the basics)
 \#\* Singleplayer / Campaign
@@ -36,7 +36,7 @@ and to differentiate them from developer resources in the wiki index.
 \#\* Configuration Files (autoexec.cfg and co.)
 \# [Community](GuideCommunity)
 \#\* where to meet people. Forums, IRC, Clansites …
-\#\* official Media Channels (see [PR](PR)) to subscribe to
+\#\* official Media Channels (see [PR](Pr)) to subscribe to
 \# [Glossary](GuideGlossary)
 \#\* Common Terms and Abbreviations (explaining stuff like ONS (one night st... err Onslaught), CPM, ELO, …)
 \# [Server Administration](GuideServerAdministration)

@@ -45,6 +45,6 @@ editors note :: is this step required … im not sure —\> Now take the mapping
 
 When you first start up radiant it may ask where the install location is. Simply, point it to the install location. Then net radaint should start,and the lower right pane should have lists of texture packs. If there are no texture packs, then refer back to step 5.
 
-\<\< [mapping-Introduction](mapping-Introduction) 1 [mapping-NetRadiant](mapping-NetRadiant) \>\>
+\<\< [mapping-Introduction](Mapping-Introduction) 1 [mapping-NetRadiant](Mapping-NetRadiant) \>\>
 
-… [Creating\_Maps](Creating\_Maps) …
+… [Creating\_Maps](Creating_Maps) …

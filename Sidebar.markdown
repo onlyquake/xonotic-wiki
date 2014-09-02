@@ -1,10 +1,10 @@
 ### Quick Resources
 
-[Repository Access](Repository Access)
+[Repository Access](Repository_Access)
 [Frequently Asked Questions](Faq)
-[QuakeC](Introduction to QuakeC)
+[QuakeC](Introduction_to_QuakeC)
 [Git](Git)
-[Art Roadmap](Art Roadmap)
+[Art Roadmap](Art_Roadmap)
 [Xonotic Logo](Logo)
 
 ### Recently Changed Pages

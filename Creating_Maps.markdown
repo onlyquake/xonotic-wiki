@@ -13,10 +13,10 @@ Main Tutorial
 -------------
 
 **— Prologue —**
-[mapping-Introduction](mapping-Introduction)
-[mapping-Setup](mapping-Setup)
-[mapping-NetRadiant](mapping-NetRadiant)
-[mapping-FirstRoom](mapping-FirstRoom)
+[mapping-Introduction](Mapping-Introduction)
+[mapping-Setup](Mapping-Setup)
+[mapping-NetRadiant](Mapping-NetRadiant)
+[mapping-FirstRoom](Mapping-FirstRoom)
 
 Advanced Mapping Tutorials
 --------------------------
@@ -26,7 +26,7 @@ Advanced Mapping Tutorials
 Advanced Texturing Tuorials
 ---------------------------
 
-[skyboxes (with blender)](mapping-textures-skybox-blender)
+[skyboxes (with blender)](Mapping-textures-skybox-blender)
 
 Entity Tutorials
 ----------------
@@ -39,7 +39,7 @@ Entity Tutorials
 [func\_assault\_wall](mapping-entity-func\_assault\_wall)
 [func\_bobbing](mapping-entity-func\_bobbing)
 [func\_breakable](mapping-entity-func\_breakable)
-[func\_button](mapping-entity-func\_button)
+[func\_button](Mapping-entity-func_button)
 [func\_camera](mapping-entity-func\_camera)
 [func\_clientillusionary](mapping-entity-func\_clientillusionary)
 [func\_conveyor](mapping-entity-func\_conveyor)
@@ -58,5 +58,5 @@ Help
 \#xonotic.editing on irc.quakenet.org — live chat
 http://forums.xonotic.org — the forums .
 
-[Old\_Creating\_Maps](Old\_Creating\_Maps)
-[Français](Création de cartes)
+[Old\_Creating\_Maps](Old_Creating_Maps)
+[Français](Création_de_cartes)

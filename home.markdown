@@ -11,18 +11,18 @@ Project
 -   [[Faq|Frequently Asked Questions]]
 -   [[Pr|Public Relations]]
 -   Check out our [[plan|Project Plan]] so far
--   [[Organizational Structure]]
+-   [Organizational Structure][]
 -   [[Roles|Roles and Skills]] of contributing community members
 -   [[IRC|IRC channels]]
--   [[Community development]] planning
+-   [Community development][] planning
 -   [[Legal|Licensing / Legal]]
--   [[Announcements]]
+-   [Announcements][]
 -   [Roadmap to v1](http://dev.xonotic.org/versions/show/3)
--   [[Repository Access]] (how to compile from git) (see also [[Git]])
--   [[Website]] Plannning
--   [[Xonotic compatibility pack]] a small pk3 that will rebrand a default Nexuiz install
+-   [Repository Access][] (how to compile from git) (see also [Git][])
+-   [Website][] Plannning
+-   [Xonotic compatibility pack][] a small pk3 that will rebrand a default Nexuiz install
 -   Notes from brainstorming [[names|ideas for names]]
--   [[Hardware Requirements]]
+-   [Hardware Requirements][]
 
 Gameplay
 --------
@@ -62,76 +62,76 @@ Gameplay
         -   [[Halogene’s Newbie Corner\#Audio|Audio]]
 
 -   Game Mechanics
-    -   [[Impulse map]]
-    -   [[Items]]
-    -   [[Maps]]
-    -   [[Players]]
-    -   [[Vehicles]]
-    -   [[Weapons]]
+    -   [Impulse map][]
+    -   [Items][]
+    -   [Maps][]
+    -   [Players][]
+    -   [Vehicles][]
+    -   [Weapons][]
 
 -   Gamemodes
-    -   [[Arena]]
-    -   [[Assault]]
+    -   [Arena][]
+    -   [Assault][]
     -   [[Capture the Flag|Capture The Flag]]
-    -   [[Clan Arena]]
-    -   [[Deathmatch]]
+    -   [Clan Arena][]
+    -   [Deathmatch][]
         -   [[1v1\_Duel|1v1 Duel]]
-    -   [[Domination]]
-    -   [[Freeze Tag]]
-    -   [[Keepaway]]
-    -   [[Key Hunt]]
-    -   [[Last Man Standing]]
-    -   [[Nexball]]
-    -   [[Onslaught]]
-    -   [[Race]]
-    -   [[Race CTS]]
+    -   [Domination][]
+    -   [Freeze Tag][]
+    -   [Keepaway][]
+    -   [Key Hunt][]
+    -   [Last Man Standing][]
+    -   [Nexball][]
+    -   [Onslaught][]
+    -   [Race][]
+    -   [Race CTS][]
     -   [[Rune|Runematch]]
-    -   [[Team Deathmatch]]
-    -   [[Conquest]]
+    -   [Team Deathmatch][]
+    -   [Conquest][]
 
 -   Mutators
-    -   [[Dodging]]
-    -   [[Midair]]
-    -   [[Vampire]]
-    -   [[Blood Loss]]
-    -   [[Low Gravity]]
-    -   [[Cloak]]
-    -   [[Relics]]
-    -   [[Weapon Arena]]
-    -   [[Grappling Hook]]
-    -   [[Jet Pack]]
-    -   [[Rocket Flying]]
-    -   [[Pinata]]
-    -   [[Weapons Stay]]
-    -   [[MinstaGib]]
-    -   [[NIX]]
+    -   [Dodging][]
+    -   [Midair][]
+    -   [Vampire][]
+    -   [Blood Loss][]
+    -   [Low Gravity][]
+    -   [Cloak][]
+    -   [Relics][]
+    -   [Weapon Arena][]
+    -   [Grappling Hook][]
+    -   [Jet Pack][]
+    -   [Rocket Flying][]
+    -   [Pinata][]
+    -   [Weapons Stay][]
+    -   [MinstaGib][]
+    -   [NIX][]
 
 -   Misc
     -   [[Demo Camera|Camera for demos explained]]
-    -   [[Xonotic Bot Orchestra]]
+    -   [Xonotic Bot Orchestra][]
 
 Art & Media
 -----------
 
--   [[Art Roadmap]]
--   [[Artistic Style]]
+-   [Art Roadmap][]
+-   [Artistic Style][]
 -   [[Logo|Xonotic Logo]]
--   [[Maps Makeover]]
--   [[Weapons Makeover]]
+-   [Maps Makeover][]
+-   [Weapons Makeover][]
     -   [[NamesWeapons|New weapon names discussion]]
--   [[2d art]]
--   [[Music]]
-    -   [[Music contributions]]
--   [[Sound FX]]
-    -   [[Sound FX contributions]]
+-   [2d art][]
+-   [Music][]
+    -   [Music contributions][]
+-   [Sound FX][]
+    -   [Sound FX contributions][]
 -   Story Themes
-    -   [[Close to home]]
-    -   [[Tech Conglomerate]]
+    -   [Close to home][]
+    -   [Tech Conglomerate][]
 
 Additional Engine References
 ----------------------------
 
--   [[Darkplaces Parameters]]
+-   [Darkplaces Parameters][]
 
 Editing
 -------
@@ -139,13 +139,13 @@ Editing
 In this section you will find helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping, etc
 
 -   Programming
-    -   [[Introduction to QuakeC]]
+    -   [Introduction to QuakeC][]
     -   [DarkPlaces Wiki](http://dpwiki.slipgateconstruct.com/)
     -   [QuakeC Specifications v1.0](http://www.gamers.org/dEngine/quake/spec/quake-spec34/qc-menu.htm)
     -   [QuakeC tutorials](http://www.inside3d.com/tutorials.php) at inside3d.com
-    -   [[NewQC]] - Possible changes regarding QC (compiler, syntax, …)
+    -   [NewQC][] - Possible changes regarding QC (compiler, syntax, …)
 
--   [[Modeling]]
+-   [Modeling][]
     -   [[Textures|Textures know-how]]
     -   [[Normal Maps|Normal Maps know-how]]
     -   [[Polycounts|Polygon count]] on Weapons and Models
@@ -153,10 +153,10 @@ In this section you will find helpful information about editing Xonotic in gener
     -   [[Voices and sounds|.sounds]] file (player model sounds) know-how
     -   [[dpmodel|How to compile dpm models]]
     -   [[Weaponsystem|How to make weapons]]
-    -   How to get an animated mesh from [[Blender to DPM]]
+    -   How to get an animated mesh from [Blender to DPM][]
     -   [Inter-Quake Model (IQM) Format](http://lee.fov120.com/iqm/)
-    -   [[Player Model Spec]]
-    -   [[Blender to IQM]]
+    -   [Player Model Spec][]
+    -   [Blender to IQM][]
 
 -   Texturing
     -   Tutorials [1](http://www.cgtextures.com/content.php?action=tutorials)
@@ -167,17 +167,17 @@ In this section you will find helpful information about editing Xonotic in gener
 
 -   Configuration
     -   [[democapture|Capturing video clips and using the demo camera]]
-    -   [[Git]]
+    -   [Git][]
 
--   [[Mapping]]
-    -   [[Creating Maps]]
-    -   [[Mapper resources]]
+-   [Mapping][]
+    -   [Creating Maps][]
+    -   [Mapper resources][]
     -   [Map naming convention](http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330)
 
 References
 ----------
 
--   [[Git]]
+-   [Git][]
 -   [Redmine Wiki formatting](http://www.redmine.org/wiki/1/RedmineTextFormatting)
--   [[Forbidden disposable e-mail providers]]
+-   [Forbidden disposable e-mail providers][]
 

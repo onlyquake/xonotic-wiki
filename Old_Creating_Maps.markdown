@@ -7,12 +7,12 @@ Old Creating Maps
 Introduction
 ------------
 
-Creating maps requires the [[Netradiant]], a gtkradiant based mapping program that generates .bsp files compiled by q3map2. It helps to have a [[well packaged map]] while reading through this article.
+Creating maps requires the [Netradiant][], a gtkradiant based mapping program that generates .bsp files compiled by q3map2. It helps to have a [well packaged map][] while reading through this article.
 
 Using Netradiant
 ----------------
 
-NetRadiant is a fork of the popular Quake-based game editor, GtkRadiant, if you have familiarity with that software or another derivative of it, this For more information and more in-depth specifics, refer to the [[Netradiant]] page.
+NetRadiant is a fork of the popular Quake-based game editor, GtkRadiant, if you have familiarity with that software or another derivative of it, this For more information and more in-depth specifics, refer to the [Netradiant][] page.
 
 ### Compiling from Source
 
@@ -73,7 +73,7 @@ maps/textures/tutorial-world/wall\_2.tga
 Testing Maps
 ------------
 
-You can compile your map locally or on the build server. The build server (requires [[Repository Access]]) requires a <mapname>.mapoptions file. For more info check ask in \#xonotic.editing on irc.quakenet.org
+You can compile your map locally or on the build server. The build server (requires [Repository Access][]) requires a <mapname>.mapoptions file. For more info check ask in \#xonotic.editing on irc.quakenet.org
 
 Maps on Servers
 ---------------
@@ -95,4 +95,4 @@ http://forums.xonotic.org
 
 [[Création de cartes|Français]]
 
-\<\< [[Creating\_Maps]]
+\<\< [Creating\_Maps][]

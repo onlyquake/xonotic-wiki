@@ -22,8 +22,8 @@ Map Entities
 Helpful Hints and Tips
 ----------------------
 
-- Some maps can contain powerups like “[[Strength]]” or “[[Shield]]” (which usually spawn every 2 minutes). They can be useful tools to win a match!
-- [[Binds]] are very useful again to coordinate the team.
+- Some maps can contain powerups like “[Strength][]” or “[Shield][]” (which usually spawn every 2 minutes). They can be useful tools to win a match!
+- [Binds][] are very useful again to coordinate the team.
 
 List of Demos and Videos
 ------------------------

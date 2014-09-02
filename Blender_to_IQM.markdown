@@ -12,7 +12,7 @@ h3. Needed/Example files
 h3. Before You Start
  \* use the bbox.blend in order to see the size that your model should be. Iqm exporter scale function untested.
  \* use the duck\_bbox.blend in order to see the size that your model should be when crouching.
- \* for more information on bbox size refer to div0’s model specs [[Player\_Model\_Spec]]
+ \* for more information on bbox size refer to div0’s model specs [Player\_Model\_Spec][Player\_Model\_Spec]
  \* naming conventions for textures and model go as follow assuming the example is the umbra model: modelname: umbra.iqm, framegroups: umbra.iqm.framegroups, textures: umbra.tga or (jpg), umbra\_norm.tga, umbra\_gloss.tga, (need to add more)
 
 h3. Exporting
@@ -20,7 +20,7 @@ h3. Exporting
  \# Go to scripts \> export \> inter-quake-model.
  \# Now make sure bounding boxes and meshes are both highlighted in the script window.
  \# Export to a file path of your choosing, /path/to/umbra.iqm. Put the names of all the animations in the animations box, using commas for multiple anims. Then hit the export button and hopefully it will work without any errors.
- \# Your model will need a .framegroups file to be used in Xonotic, look at the example file at the beginning of this article or check the [[Framegroups]] section of this wiki.
+ \# Your model will need a .framegroups file to be used in Xonotic, look at the example file at the beginning of this article or check the [Framegroups][Framegroups] section of this wiki.
 
 ### Notes
 

@@ -13,10 +13,10 @@ Main Tutorial
 -------------
 
 **— Prologue —**
-[[mapping-Introduction]]
-[[mapping-Setup]]
-[[mapping-NetRadiant]]
-[[mapping-FirstRoom]]
+[mapping-Introduction][mapping-Introduction]
+[mapping-Setup][mapping-Setup]
+[mapping-NetRadiant][mapping-NetRadiant]
+[mapping-FirstRoom][mapping-FirstRoom]
 
 Advanced Mapping Tutorials
 --------------------------
@@ -58,5 +58,5 @@ Help
 \#xonotic.editing on irc.quakenet.org — live chat
 http://forums.xonotic.org — the forums .
 
-[[Old\_Creating\_Maps]]
+[Old\_Creating\_Maps][Old\_Creating\_Maps]
 [[Création de cartes|Français]]

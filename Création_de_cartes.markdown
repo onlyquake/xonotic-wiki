@@ -4,13 +4,13 @@ Création de cartes
 Introduction
 ------------
 
-Créer des cartes nécéssite [[Netradiant]], un gtkradiant, un logiciel de fabrication de cartes qui génère des fichiers .bsp compilés en q3map2. Il aide à obtenir une [[carte bien empaquetée]] tout en lisant cet article.
+Créer des cartes nécéssite [Netradiant][Netradiant], un gtkradiant, un logiciel de fabrication de cartes qui génère des fichiers .bsp compilés en q3map2. Il aide à obtenir une [carte bien empaquetée][carte bien empaquetée] tout en lisant cet article.
 
 Utiliser Netradiant
 -------------------
 
 NetRadiant est un fork de l’éditeur de jeu Quake basé populaire, GtkRadiant, si vous avez connaissance de ce logiciel ou un autre dérivé de celui-ci, ce sera plus facile.
-Pour plus d’informations et plus en profondeur les détails, reportez-vous à la page [[Netradiant]].
+Pour plus d’informations et plus en profondeur les détails, reportez-vous à la page [Netradiant][Netradiant].
 
 ### Compilation de la source
 
@@ -71,7 +71,7 @@ maps/textures/tutorial-world/wall\_2.tga
 Tests de cartes
 ---------------
 
-Vous pouvez compiler votre carte localement ou sur le serveur de construction. Le serveur de construction (nécessite un [[référentiel d’accès]]) nécessite un fichier <nomdecarte>.nomdoptions. Pour vérifier, et plus d’info, demandez dans \#xonotic.editing sur irc.quakenet.org
+Vous pouvez compiler votre carte localement ou sur le serveur de construction. Le serveur de construction (nécessite un [référentiel d’accès][référentiel d’accès]) nécessite un fichier <nomdecarte>.nomdoptions. Pour vérifier, et plus d’info, demandez dans \#xonotic.editing sur irc.quakenet.org
 
 Cartes sur les serveurs
 -----------------------

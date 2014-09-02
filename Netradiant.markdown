@@ -8,13 +8,13 @@ p=. ![](logo.jpg)
 
 ![](>radiant.jpg)
 
--   [[NetRadiant]]
--   [[Download NetRadiant]]
--   [[Additional map editor features]]
--   [[Additional map compiler features]]
--   [[Complete list of entity keys]]
--   [[Complete list of command line parameters]]
--   [[Complete list of shader keywords]]
+-   [NetRadiant][NetRadiant]
+-   [Download NetRadiant][Download NetRadiant]
+-   [Additional map editor features][Additional map editor features]
+-   [Additional map compiler features][Additional map compiler features]
+-   [Complete list of entity keys][Complete list of entity keys]
+-   [Complete list of command line parameters][Complete list of command line parameters]
+-   [Complete list of shader keywords][Complete list of shader keywords]
 
 NetRadiant is a fork of the well-known map editor for Q3 based games, [GtkRadiant 1.5](http://zerowing.idsoftware.com/viewcvs/radiant/GtkRadiant/branches/1.5/). The focus is put on stabilizing and bugfixing the included map compiler, q3map2, so it can become a reliable tool for map authors.
 

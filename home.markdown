@@ -9,7 +9,7 @@ Project
 -------
 
 -   [Frequently Asked Questions](Faq)
--   [Pr][Public Relations]
+-   [Public Relations](Pr)
 -   Check out our [Project Plan](plan) so far
 -   [Organizational Structure](Organizational Structure)
 -   [Roles and Skills](Roles) of contributing community members

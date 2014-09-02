@@ -13,10 +13,10 @@ Main Tutorial
 -------------
 
 **— Prologue —**
-[[mapping-Introduction]]
-[[mapping-Setup]]
-[[mapping-NetRadiant]]
-[[mapping-FirstRoom]]
+[mapping-Introduction](mapping-Introduction)
+[mapping-Setup](mapping-Setup)
+[mapping-NetRadiant](mapping-NetRadiant)
+[mapping-FirstRoom](mapping-FirstRoom)
 
 Advanced Mapping Tutorials
 --------------------------
@@ -26,24 +26,24 @@ Advanced Mapping Tutorials
 Advanced Texturing Tuorials
 ---------------------------
 
-[[mapping-textures-skybox-blender|skyboxes (with blender)]]
+[skyboxes (with blender)](mapping-textures-skybox-blender)
 
 Entity Tutorials
 ----------------
 
-[[mapping-entity-*decal|*decal]]
-[[mapping-entity-*skybox|*skybox]]
-[[mapping-entity-dom\_controlpoint|dom\_controlpoint]]
-[[mapping-entity-dom\_team|dom\_team]]
-[[mapping-entity-func\_assault\_destructable|func\_assault\_destructable]]
-[[mapping-entity-func\_assault\_wall|func\_assault\_wall]]
-[[mapping-entity-func\_bobbing|func\_bobbing]]
-[[mapping-entity-func\_breakable|func\_breakable]]
-[[mapping-entity-func\_button|func\_button]]
-[[mapping-entity-func\_camera|func\_camera]]
-[[mapping-entity-func\_clientillusionary|func\_clientillusionary]]
-[[mapping-entity-func\_conveyor|func\_conveyor]]
-[[mapping-entity-func\_door|func\_door]]
+[*decal](mapping-entity-*decal)
+[*skybox](mapping-entity-*skybox)
+[dom\_controlpoint](mapping-entity-dom\_controlpoint)
+[dom\_team](mapping-entity-dom\_team)
+[func\_assault\_destructable](mapping-entity-func\_assault\_destructable)
+[func\_assault\_wall](mapping-entity-func\_assault\_wall)
+[func\_bobbing](mapping-entity-func\_bobbing)
+[func\_breakable](mapping-entity-func\_breakable)
+[func\_button](mapping-entity-func\_button)
+[func\_camera](mapping-entity-func\_camera)
+[func\_clientillusionary](mapping-entity-func\_clientillusionary)
+[func\_conveyor](mapping-entity-func\_conveyor)
+[func\_door](mapping-entity-func\_door)
 
 … i’ll add the rest later …
 
@@ -58,5 +58,5 @@ Help
 \#xonotic.editing on irc.quakenet.org — live chat
 http://forums.xonotic.org — the forums .
 
-[[Old\_Creating\_Maps]]
-[[Création de cartes|Français]]
+[Old\_Creating\_Maps](Old\_Creating\_Maps)
+[Français](Création de cartes)

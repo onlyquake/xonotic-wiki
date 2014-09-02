@@ -9,16 +9,16 @@ and to differentiate them from developer resources in the wiki index.
 
 **Please help refine or rework this structure before we go on to create the actual pages**
 
-[[GuideIndex]]
-\# [[GuideGetStarted|Getting started]]
-\#\* System Requirements (if we can come up with some. link to [[Hardware\_Requirements]]?)
+[GuideIndex](GuideIndex)
+\# [Getting started](GuideGetStarted)
+\#\* System Requirements (if we can come up with some. link to [Hardware\_Requirements](Hardware\_Requirements)?)
 \#\* Download the game (git, autobuild, release version links and procedures explained)
 \#\* Setup (name, playerskin, network parameters — the basics)
 \#\* Singleplayer / Campaign
-\# [[GuideInterface|User Interface]] — Getting comfortable
+\# [User Interface](GuideInterface) — Getting comfortable
 \#\* Menu Skins
 \#\* HUD customization
-\# [[GuideGameModes|Game modes and Mutators]]
+\# [Game modes and Mutators](GuideGameModes)
 \#\* Game modes *\_
 \#**\* Arena
 \#**\* Assault
@@ -31,19 +31,19 @@ and to differentiate them from developer resources in the wiki index.
 \#** Movement Tutorial*(trick jumps, speeding, hook etc.)\_
 \#\* Gun Techniques / Weapon Balance \_(prioritizing your weapon switching and stuff)\_
 \#\* Pickup Matches
-\# [[GuideTweaks|Tweaking the game]]
+\# [Tweaking the game](GuideTweaks)
 \#\* Advanced cvars menu
 \#\* Configuration Files (autoexec.cfg and co.)
-\# [[GuideCommunity|Community]]
+\# [Community](GuideCommunity)
 \#\* where to meet people. Forums, IRC, Clansites …
-\#\* official Media Channels (see [[PR]]) to subscribe to
-\# [[GuideGlossary|Glossary]]
+\#\* official Media Channels (see [PR](PR)) to subscribe to
+\# [Glossary](GuideGlossary)
 \#\* Common Terms and Abbreviations (explaining stuff like ONS (one night st... err Onslaught), CPM, ELO, …)
-\# [[GuideServerAdministration|Server Administration]]
+\# [Server Administration](GuideServerAdministration)
 \#\* Setup
 \#\* Configuration
 \#\* Stats server
 \#\* Banlist sharing
-\# [[GuideContribute|Contributing to the game]]
+\# [Contributing to the game](GuideContribute)
 \#\* How to help out and where to start
 \#\* (FAQ for new developers [Y U NO SWITCH ENGINE \^ 347], explain insider concepts)

@@ -7,12 +7,12 @@ After cloning the repository
 ----------------------------
 
 After you cloned the repository (using <code>git clone <url></code>) you are ready to start creating a branch to start working.
-Please check [[Repository Access]] to make sure you checked out **all** of the repositories. <code>data/</code> for example resides in its own repository.
+Please check [Repository Access](Repository Access) to make sure you checked out **all** of the repositories. <code>data/</code> for example resides in its own repository.
 
 Project structure
 -----------------
 
-The game content can be divided into several distinct parts, like the <code>data/</code> directory, and some of its subdirectories. This is why there are several repositories, and a helper script to fetch and update them all. This is described in [[Repository Access]] under “Working with the helper script ./all”
+The game content can be divided into several distinct parts, like the <code>data/</code> directory, and some of its subdirectories. This is why there are several repositories, and a helper script to fetch and update them all. This is described in [Repository Access](Repository Access) under “Working with the helper script ./all”
 
 The current structure looks as follows:
 |*.Directory|*.Repository|

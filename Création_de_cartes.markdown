@@ -4,17 +4,17 @@ Création de cartes
 Introduction
 ------------
 
-Créer des cartes nécéssite [[Netradiant]], un gtkradiant, un logiciel de fabrication de cartes qui génère des fichiers .bsp compilés en q3map2. Il aide à obtenir une [[carte bien empaquetée]] tout en lisant cet article.
+Créer des cartes nécéssite [Netradiant](Netradiant), un gtkradiant, un logiciel de fabrication de cartes qui génère des fichiers .bsp compilés en q3map2. Il aide à obtenir une [carte bien empaquetée](carte bien empaquetée) tout en lisant cet article.
 
 Utiliser Netradiant
 -------------------
 
 NetRadiant est un fork de l’éditeur de jeu Quake basé populaire, GtkRadiant, si vous avez connaissance de ce logiciel ou un autre dérivé de celui-ci, ce sera plus facile.
-Pour plus d’informations et plus en profondeur les détails, reportez-vous à la page [[Netradiant]].
+Pour plus d’informations et plus en profondeur les détails, reportez-vous à la page [Netradiant](Netradiant).
 
 ### Compilation de la source
 
-NetRadiant est inclus avec le git checkout de la [[Accès référentiel|référentiel]]. Sur un système Linux/UNIX, la technique de base pour la construction est de changer votre dossier **./xonotic/netradiant** et d’utiliser ‘make’ pour le compiler. Résolvez toutes les dépendances. Le fichier binaire se trouve dans **./xonotic/netradiant/install**, ‘radiant.x86’.
+NetRadiant est inclus avec le git checkout de la [référentiel](Accès référentiel). Sur un système Linux/UNIX, la technique de base pour la construction est de changer votre dossier **./xonotic/netradiant** et d’utiliser ‘make’ pour le compiler. Résolvez toutes les dépendances. Le fichier binaire se trouve dans **./xonotic/netradiant/install**, ‘radiant.x86’.
 
 *Indications pour compiler sur windows \_
 h3. Constructions
@@ -71,7 +71,7 @@ maps/textures/tutorial-world/wall\_2.tga
 Tests de cartes
 ---------------
 
-Vous pouvez compiler votre carte localement ou sur le serveur de construction. Le serveur de construction (nécessite un [[référentiel d’accès]]) nécessite un fichier <nomdecarte>.nomdoptions. Pour vérifier, et plus d’info, demandez dans \#xonotic.editing sur irc.quakenet.org
+Vous pouvez compiler votre carte localement ou sur le serveur de construction. Le serveur de construction (nécessite un [référentiel d’accès](référentiel d’accès)) nécessite un fichier <nomdecarte>.nomdoptions. Pour vérifier, et plus d’info, demandez dans \#xonotic.editing sur irc.quakenet.org
 
 Cartes sur les serveurs
 -----------------------
@@ -91,4 +91,4 @@ Aide
 \#xonotic.editing on irc.quakenet.org
 http://forums.xonotic.org
 
-[[Creating Maps|English]]
+[English](Creating Maps)

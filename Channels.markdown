@@ -6,7 +6,7 @@ Internet Relay Chat and Instant Messaging channels
 IRC
 ---
 
-For a short introduction to IRC, [[IRC\#General-IRC-info-and-rules|skip to the bottom of this page]].
+For a short introduction to IRC, [skip to the bottom of this page](IRC\#General-IRC-info-and-rules).
 
 ### Quakenet (irc.quakenet.org:6667)
 

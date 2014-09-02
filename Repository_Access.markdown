@@ -5,9 +5,9 @@ Repository Access
 
 Xonotic uses several Git repositories. There’s a helper script in the main repository to aid in checking out all relevant repositories and help you with building and running Xonotic.
 The repository also contains several branches next to the stable “master” branch. So if you’re interested in the progress of a certain feature, or want to help or create a new one, you can checkout the appropriate branch.
-For information on how to obtain write access, skip down to the “[[Repository Access\#Contributing-and-getting-write-access|Getting write access]]” section.
+For information on how to obtain write access, skip down to the “[Getting write access](Repository Access\#Contributing-and-getting-write-access)” section.
 
-For more information about Git we have a [[Git]] page on the wiki [[Git|here]].
+For more information about Git we have a [Git](Git) page on the wiki [here](Git).
 
 Setting up the development environment
 --------------------------------------
@@ -140,7 +140,7 @@ Further git information
 About tracking remote branches:
 http://www.gitready.com/beginner/2009/03/09/remote-tracking-branches.html
 
-This wiki’s [[Git]] page.
+This wiki’s [Git](Git) page.
 
 A tutorial for SVN users:
 http://git-scm.org/course/svn.html

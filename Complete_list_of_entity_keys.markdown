@@ -8,7 +8,7 @@ Complete list of entity keys
     -   **`targetname`:** name of the entity so it can be referenced by **`target`** keys.
 -   On brush entities, classname **`func_group`** and classname **`misc_model`**:
     -   **`_castShadows`, `_cs`:** sets whether the entity casts shadows
-    -   **`_celshader`:** [[CelShader]] to use
+    -   **`_celshader`:** [CelShader](CelShader) to use
     -   **`_lightmapsamplesize`, `_samplesize`:** sample size to use for surfaces of this entity
     -   **`_receiveShadows`, `_rs`:** sets whether the entity receives shadows
     -   **`_shadeangle`, `_smoothnormals`, `_sn`, `_smooth`:** largest angle between faces to allow to treat them part of the same nonplanar surface

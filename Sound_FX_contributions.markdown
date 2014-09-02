@@ -4,7 +4,7 @@ Sound FX contributions
 Contributions
 -------------
 
-(This was copied from the [[Music contributors]] page and modified. Needs more refinement.)
+(This was copied from the [Music contributors](Music contributors) page and modified. Needs more refinement.)
 
 |Foley Artist|Sound Pack|Status|Notes|
 |------------|----------|------|-----|

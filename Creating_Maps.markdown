@@ -1,18 +1,18 @@
 Creating Maps
 =============
 
-This tutorial is incomplete … if you are looking for the old creating maps page … click on the link at the bottom of the page
-h2. This page is also being maintained by hutty … if you have an issue … or need a certain tutorial sooner … contact him on the forums
+This tutorial is incomplete ... if you are looking for the old creating maps page ... click on the link at the bottom of the page
+h2. This page is also being maintained by hutty ... if you have an issue ... or need a certain tutorial sooner ... contact him on the forums
 --------------------------------------------------------------------------------------------------------------------------------------
 
-So …
-you are interested in mapping …
-Hopefully this tutorial section will teach you most of what you need to know …
+So ...
+you are interested in mapping ...
+Hopefully this tutorial section will teach you most of what you need to know ...
 
 Main Tutorial
 -------------
 
-**— Prologue —**
+**- Prologue -**
 [mapping-Introduction](Mapping-Introduction)
 [mapping-Setup](Mapping-Setup)
 [mapping-NetRadiant](Mapping-NetRadiant)
@@ -21,7 +21,7 @@ Main Tutorial
 Advanced Mapping Tutorials
 --------------------------
 
-…
+...
 
 Advanced Texturing Tuorials
 ---------------------------
@@ -45,18 +45,18 @@ Entity Tutorials
 [func\_conveyor](mapping-entity-func\_conveyor)
 [func\_door](mapping-entity-func\_door)
 
-… i’ll add the rest later …
+... i'll add the rest later ...
 
 Links to Even More Tutorials
 ----------------------------
 
--   Alpha Blended Terrain — by tZork http://forums.xonotic.org/showthread.php?tid=3237
+-   Alpha Blended Terrain - by tZork http://forums.xonotic.org/showthread.php?tid=3237
 
 Help
 ----
 
-\#xonotic.editing on irc.quakenet.org — live chat
-http://forums.xonotic.org — the forums .
+\#xonotic.editing on irc.quakenet.org - live chat
+http://forums.xonotic.org - the forums .
 
 [Old\_Creating\_Maps](Old_Creating_Maps)
-[Français](Création_de_cartes)
+[Français](Creation_de_cartes)

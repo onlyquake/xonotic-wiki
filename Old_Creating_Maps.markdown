@@ -1,8 +1,8 @@
 Old Creating Maps
 =================
 
-**![]() this page has been replaced … I left this hear for archival purposes … and if my page ins’t good enough for you
-— hutty —**
+**![]() this page has been replaced ... I left this hear for archival purposes ... and if my page ins't good enough for you
+- hutty -**
 
 Introduction
 ------------
@@ -16,7 +16,7 @@ NetRadiant is a fork of the popular Quake-based game editor, GtkRadiant, if you 
 
 ### Compiling from Source
 
-NetRadiant is included with the git checkout from the [repository](Repository_Access). On a Linux/UNIX system, the basic technique for building is to change to your **./xonotic/netradiant** directory and use ‘make’ to compile it. Resolve any dependencies. The binary file is located in **./xonotic/netradiant/install**, ‘radiant.x86’.
+NetRadiant is included with the git checkout from the [repository](Repository_Access). On a Linux/UNIX system, the basic technique for building is to change to your **./xonotic/netradiant** directory and use 'make' to compile it. Resolve any dependencies. The binary file is located in **./xonotic/netradiant/install**, 'radiant.x86'.
 
 *directions to compile on windows \_
 h3. Builds
@@ -25,14 +25,14 @@ h2. Map Packages
 Maps are packaged as a .zip file with a .pk3 extension. They can be opened with any program that opens zip files. The pk3 gets loaded when you start the game, ]. The engine, ] reads pk3 files as it would a normal files system. You can thus create a pk3 package with any files that the engine can normally read.
 h3. Package Design
 h4. Naming Conventions
-<mapname> should be alpha-numeric, lowercase with dashes, periods and underscores only,.pk3 — preferably they are suffixed with a version and revision. Following this convention will yield better results from scripts that use this format to help distribute your map.
+<mapname> should be alpha-numeric, lowercase with dashes, periods and underscores only,.pk3 - preferably they are suffixed with a version and revision. Following this convention will yield better results from scripts that use this format to help distribute your map.
 h4. Required Files
 maps/<mapname>.bsp - This is your compiled map file
 maps/<mapname>.map - This is an open-source game, help others learn. This file is required to be in the game.
 maps/<mapname>.mapinfo - This file has the meta information, global music track, gametype and game settings
-maps/<mapname>.tga|png|jpg - This file is a screenshot of your map. If you don’t include this, you map doesn’t have a picture in the menu or the voting screen for servers and angels cry.
-maps/<mapname>.waypoints - This is required to be added to the game, it’s for bot
-maps/gfx/<mapname>*mini.tga|png|jpg - This is required to be added to the game, it’s a radar of the map. These can be generated with the command “\<”.
+maps/<mapname>.tga|png|jpg - This file is a screenshot of your map. If you don't include this, you map doesn't have a picture in the menu or the voting screen for servers and angels cry.
+maps/<mapname>.waypoints - This is required to be added to the game, it's for bot
+maps/gfx/<mapname>*mini.tga|png|jpg - This is required to be added to the game, it's a radar of the map. These can be generated with the command "\<".
 
 #### Optional/Suggested Files
 
@@ -44,7 +44,7 @@ csprogs.dat
 progs.dat
 effectsinfo.txt
 
-By including any of the files above, you could cause undesired results. Try and use common sense about how you’re adding dimension to your map, if you have questions, ask for help.
+By including any of the files above, you could cause undesired results. Try and use common sense about how you're adding dimension to your map, if you have questions, ask for help.
 
 Examples
 --------
@@ -93,6 +93,6 @@ Help
 \#xonotic.editing on irc.quakenet.org
 http://forums.xonotic.org
 
-[Français](Création_de_cartes)
+[Français](Creation_de_cartes)
 
 \<\< [Creating\_Maps](Creating_Maps)

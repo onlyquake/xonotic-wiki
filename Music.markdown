@@ -16,7 +16,7 @@ Music Style
 
 ### Overview
 
-While we don’t want to tie us to a specific genre, the music must match the visuals of the game. As it is being discussed on [this thread](http://forums.xonotic.org/showthread.php?tid=81) seems that we are about to use a futuristic ambient for the game, so its more than likely that the kind of music that we want will fit within the Electronic genre.
+While we don't want to tie us to a specific genre, the music must match the visuals of the game. As it is being discussed on [this thread](http://forums.xonotic.org/showthread.php?tid=81) seems that we are about to use a futuristic ambient for the game, so its more than likely that the kind of music that we want will fit within the Electronic genre.
 
 ### Track Duration
 
@@ -30,7 +30,7 @@ For this the ideal way is to find a start and end sample index, so that that reg
 
 ### Complexity
 
-As this game is extremely fast we don’t want to have overly complex tracks at the point of being distracting or that one can’t even understand while playing (e.g. a mad breakbeat tune)
+As this game is extremely fast we don't want to have overly complex tracks at the point of being distracting or that one can't even understand while playing (e.g. a mad breakbeat tune)
 
 ### Variations
 
@@ -76,17 +76,17 @@ Links
     -   http://freepats.zenvoid.org/olpc-sounds/
         -   http://lopho.org/xonotic/olpc\_sound\_samples\_v2.torrent
 
-How-To’s
+How-To's
 --------
 
 **How to add a sound track to Xonotic?**
 
 -   Copy the track file to the *data/sound/cdtracks* folder
 -   Add the name of the track (without the extension) at the end of the cvar *g\_cdtracks\_remaplist*, on the file *defaultXonotic.cfg*. Count all tracks and remember the position of the added one, this information will be used on the following step.
--   Open the file <name of map>.mapinfo (*on data/xonotic-maps.pk3dir/maps*) and add a line with the text “cd loop x”. This x should be the position of the track within the cvar *g\_cdtracks\_remaplist*.
+-   Open the file <name of map>.mapinfo (*on data/xonotic-maps.pk3dir/maps*) and add a line with the text "cd loop x". This x should be the position of the track within the cvar *g\_cdtracks\_remaplist*.
 
 **How to add a sound track to a non official map?**
 
 -   Copy the track to the folder *sound/cdtracks/* (inside the pk3 file)
--   Open the file *<name of map>.mapinfo* and add a line with the text “cd loop <track filename>”
+-   Open the file *<name of map>.mapinfo* and add a line with the text "cd loop <track filename>"
 

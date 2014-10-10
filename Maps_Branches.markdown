@@ -4,7 +4,7 @@ Maps Branches
 mirceakitsune/arahia
 --------------------
 
-Very low performance (even with reflections off at most 45fps), ridiculous “LOD jumping” of the trees
+Very low performance (even with reflections off at most 45fps), ridiculous "LOD jumping" of the trees
 
 mintox/geoplanetary
 -------------------

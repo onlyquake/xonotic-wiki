@@ -79,10 +79,10 @@ Since menuQC has some funny macro: ACCUMULATE\_FUNCTIONS, it seemed like a nice 
 Variadic parameters (do not use yet)
 ------------------------------------
 
-(This might get changed to be more flexible so do not rely on this syntax…)
+(This might get changed to be more flexible so do not rely on this syntax...)
 
-Another “enhancement” is the possibility to have functions with variadic parameter lists. However, the only way to sanely access them (until pointers are allowed) is via a recursive way.
-Here’s an example that assumes float parameters and prints them one after the other:
+Another "enhancement" is the possibility to have functions with variadic parameter lists. However, the only way to sanely access them (until pointers are allowed) is via a recursive way.
+Here's an example that assumes float parameters and prints them one after the other:
 
     void printfloats(float count, float first, ...)
     {
@@ -97,4 +97,4 @@ Here’s an example that assumes float parameters and prints them one after the 
         myprint(count-1, ...);
     }
 
-So <code>myprint(4, 1, 2, 3, 4)</code> would print <code>“1, 2, 3, 4\\n”</code>
+So <code>myprint(4, 1, 2, 3, 4)</code> would print <code>"1, 2, 3, 4\\n"</code>

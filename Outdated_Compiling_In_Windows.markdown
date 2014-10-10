@@ -17,13 +17,13 @@ You first need to install a compiler and a shell environment to run the build sc
 It can be found [here](http://sourceforge.net/projects/mingw/files/) . Run the automated installer, and do not check any of the optional components, all you need from MinGW is its C compiler, which is always installed.
 **Important**: install MinGW in a path containing no spaces. The default path is good: c:
 
-Next, you need to install MSYS. The recent versions don’t have an installer, so it is easier to install [version 1.0.11](http://downloads.sourceforge.net/mingw/MSYS-1.0.11.exe) .
+Next, you need to install MSYS. The recent versions don't have an installer, so it is easier to install [version 1.0.11](http://downloads.sourceforge.net/mingw/MSYS-1.0.11.exe) .
 **Important**: again, the installation path should contain no spaces. The default is c:After it is done installing, a terminal will pop up, asking you to run the post-install script. Answer yes, and when it asks for the MinGW install path, input it as c:/mingw .
-**Note**: If the terminal window instantly closed it self and you never got a chance to input the mingw path etc (And if you’re on Vista or Win7). Then go to c:.0\\postinstalland right-click pi.bat and choose ‘Run as administrator’.
+**Note**: If the terminal window instantly closed it self and you never got a chance to input the mingw path etc (And if you're on Vista or Win7). Then go to c:.0\\postinstalland right-click pi.bat and choose 'Run as administrator'.
 
 ### msysGit
 
-You will need msysGit to download the Xonotic source files from the repositories and keep them up to date. You can get msysGit [here](http://code.google.com/p/msysgit/) . Download the “Full installer for official Git” file.
+You will need msysGit to download the Xonotic source files from the repositories and keep them up to date. You can get msysGit [here](http://code.google.com/p/msysgit/) . Download the "Full installer for official Git" file.
 The default install options should be good.
 
 Downloading the Xonotic sources
@@ -49,9 +49,9 @@ This will take a while, but you can already get started on the next step.
 Setting up the environment
 --------------------------
 
-To run and compile Xonotic, the “all” script must be able to access msysGit from MSYS, as well as wget and unzip. The xonpatch bundle patches your MSYS installation to sort this out.
+To run and compile Xonotic, the "all" script must be able to access msysGit from MSYS, as well as wget and unzip. The xonpatch bundle patches your MSYS installation to sort this out.
 
-**Important**: if you have followed a previous version of this guide where the “profile” file had to be edited manually, download the original msys1.0.11 profile file from the attachments on this page (or from [this link](http://dev.xonotic.org/attachments/84/profile.zip)), and unzip it in c:.0\\etc before applying the xonpatch.
+**Important**: if you have followed a previous version of this guide where the "profile" file had to be edited manually, download the original msys1.0.11 profile file from the attachments on this page (or from [this link](http://dev.xonotic.org/attachments/84/profile.zip)), and unzip it in c:.0\\etc before applying the xonpatch.
 
 The process is simple: download the latest xonpatch from the attachments (or from [this link](http://dev.xonotic.org/attachments/91/xonpatch_1-2.zip)), and extract it in c:.0 . Then, launch xonpatch.bat. This will make msysGit visible from MSYS, and add wget as well as unzip.
 

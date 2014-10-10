@@ -8,9 +8,9 @@ You may obviously come up with your own ideas, but please discuss them with us b
 Getting in touch
 ----------------
 
-We frequently hang out in our main irc channel: \#xonotic on Freenode. There are also many other people there who may be able to help you in your quest for information, don’t hesitate to ask!
+We frequently hang out in our main irc channel: \#xonotic on Freenode. There are also many other people there who may be able to help you in your quest for information, don't hesitate to ask!
 
-Alternatively you may contact us using the forums or email. Generally the mentors can be reached by their nickname [at] xonotic.org, if you don’t know who can mentor you please address the emails to admin [at] xonotic [you-know-what-comes-here] org, and we will find someone who can assist you.
+Alternatively you may contact us using the forums or email. Generally the mentors can be reached by their nickname [at] xonotic.org, if you don't know who can mentor you please address the emails to admin [at] xonotic [you-know-what-comes-here] org, and we will find someone who can assist you.
 
 FAQ
 ---
@@ -38,7 +38,7 @@ Knowledge required: C
 
 ### Loadable mutators
 
-Basically, a dynamic linking system for progs. Additionally to the regular game code, additional game code can be loaded from extra files. These link to the main game code by field/function names, and also have a special initialization function the engine calls at load time. This, with our existing “mutator system”, will provide a full equivalent to Unreal Engine’s “mutators”.
+Basically, a dynamic linking system for progs. Additionally to the regular game code, additional game code can be loaded from extra files. These link to the main game code by field/function names, and also have a special initialization function the engine calls at load time. This, with our existing "mutator system", will provide a full equivalent to Unreal Engine's "mutators".
 Prospective mentors: divVerent
 Effort level: medium
 Knowledge required: C
@@ -52,21 +52,21 @@ Knowledge required: Databases and some web language like PHP / Python
 
 ### Soft Particles and (real) Cel Shading for the engine
 
-Simple effects which need a **real** (defered shadow one won’t work) depth buffer to work properly, they’re also generally light on resources and wouldn’t be very harmful to real time performance.
+Simple effects which need a **real** (defered shadow one won't work) depth buffer to work properly, they're also generally light on resources and wouldn't be very harmful to real time performance.
 Prospective mentors: Samual, divVerent, perhaps LordHavoc
 Effort level: medium
 Knowledge required: C, OpenGL experience, GLSL
 
 ### Better player and movement prediction with physics
 
-Right now our player prediction really isn’t all that good, it mismatches a lot and doesn’t account for a lot of things which it needs to. If we could expand upon it and improve it for things such as ladders/hook etc then it would be really fantastic.
+Right now our player prediction really isn't all that good, it mismatches a lot and doesn't account for a lot of things which it needs to. If we could expand upon it and improve it for things such as ladders/hook etc then it would be really fantastic.
 Prospective mentors: divVerent, LordHavoc
 Effort level: Medium to high
 Knowledge required: C and probably some networking knowledge
 
 ### Scoreboard re-write/rebase upon new hud code
 
-The current scoreboard code is quite outdated and simply doesn’t fit the new panelhud very well. Remaking a lot of its structure and incorporate it as a separate “page” for the HUD will integrate it better. That in and of itself would open up new possibilities for the HUD, and allow easier extending of the scoreboard for gamemode specific tweaks.
+The current scoreboard code is quite outdated and simply doesn't fit the new panelhud very well. Remaking a lot of its structure and incorporate it as a separate "page" for the HUD will integrate it better. That in and of itself would open up new possibilities for the HUD, and allow easier extending of the scoreboard for gamemode specific tweaks.
 Prospective mentors: Samual, FruitieX
 Effort level: Low to medium
 Knowledge required: C and some 2D rendering
@@ -80,7 +80,7 @@ Knowledge required: C
 
 ### BOCC
 
-We currently use the FTEQCC project to compile our gamecode, which has quite a few problems. Mainly it lacks ways of implementing more complex optimizations and it doesn’t have very good support for some basic functions like arrays. We have a new project which in its current state cannot yet compile all the gamecode, but allows for better ways of implementing the DP1 assembler and more optimizations. This project would mainly focus on making BOCC work for all of our gamecode, and if possible some minor optimizations.
+We currently use the FTEQCC project to compile our gamecode, which has quite a few problems. Mainly it lacks ways of implementing more complex optimizations and it doesn't have very good support for some basic functions like arrays. We have a new project which in its current state cannot yet compile all the gamecode, but allows for better ways of implementing the DP1 assembler and more optimizations. This project would mainly focus on making BOCC work for all of our gamecode, and if possible some minor optimizations.
 Prospective mentors: Blub\\0, divVerent
 Effort Level: Probably high
 Knowledge required: C / C*+
@@ -90,7 +90,7 @@ Prospective mentors: Samual, divVerent
 Effort level: low to medium
 Knowledge required: QuakeC / C
 h3. Blender for Mappers
-Basically, various tools/scripts for mappers to efficiently work in Blender that can be easily called from the Blender user interface. Possibilities include: first person shooter-like camera movement ; “brush objects” ; texture alignment ; q3 shader to Blender material import; but also: using Blender to generate lightmaps for an existing .bsp file .
+Basically, various tools/scripts for mappers to efficiently work in Blender that can be easily called from the Blender user interface. Possibilities include: first person shooter-like camera movement ; "brush objects" ; texture alignment ; q3 shader to Blender material import; but also: using Blender to generate lightmaps for an existing .bsp file .
 Prospective mentors: divVerent
 Effort level: low to high, depending on subtask
 Knowledge required: Blender, Python, possibly C*+

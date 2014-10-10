@@ -12,7 +12,7 @@ Wordpress
 
 -   http://www.tevine.com/projects/voteitup/
 
--   http://wordpress.org/extend/plugins/tdo-mini-forms/ — look into this
+-   http://wordpress.org/extend/plugins/tdo-mini-forms/ - look into this
 
 -   Gallery with public and user upload
 
@@ -41,7 +41,7 @@ Needed
 SSO (Single Sign On)
 --------------------
 
-(psychcf) After talking with z, here’s what we know we want to do:
+(psychcf) After talking with z, here's what we know we want to do:
 \* Have a centralized authentication system using LDAP
 **\* Write a plugin for mybb to auth against it
 **\* Find a plugin for wordpress to auth against it
@@ -62,7 +62,7 @@ h3. Xonotic - Help & Troubleshooting
 h3. Xonotic - Bug Report
 h3. Xonotic - Editing
 Post anything to do with editing Xonotic here.
-Whether its problems you’ve had, questions, or if you just want to show off your work.
+Whether its problems you've had, questions, or if you just want to show off your work.
 h3. Xonotic - Contests
 Mapping, modding contests, FOTM, and more.
 h3. Xonotic - Gameplay

@@ -25,7 +25,7 @@ Real time lights are added and modified using the following console commands, ac
 |r\_editlights\_spawn|create a light with default settings|
 |r\_editlights\_edit command|edit selected light - more documentation below|
 |r\_editlights\_remove|remove selected light|
-|r\_editlights\_toggleshadow|toggles on/off selected light’s shadow property|
+|r\_editlights\_toggleshadow|toggles on/off selected light's shadow property|
 |r\_editlights\_importlightentitiesfrommap|reload light entities|
 |r\_editlights\_importlightsfile|reload .light file (produced by hlight)|
 |=.Edit commands (given as arguments to r\_editlights\_edit|
@@ -61,7 +61,7 @@ Real time lights are added and modified using the following console commands, ac
 
 The most important commands to remember are r\_editlights, r\_editlights\_edit (color, realtimemode and radius arguments), and of course, r\_editlights\_save. You will not see your light and its effects in real time if you do not execute r\_editlights\_realtimemode 1 while having selected the light.
 
-It is important to note that rtlights can put a serious drain on computers due to the way they work, and they should be used sparingly (don’t make an rtlight on every radiosity light, generally). However, they can easily be disabled from the client-side if a user’s machine cannot handle them.
+It is important to note that rtlights can put a serious drain on computers due to the way they work, and they should be used sparingly (don't make an rtlight on every radiosity light, generally). However, they can easily be disabled from the client-side if a user's machine cannot handle them.
 
 Radiosity lights
 ----------------

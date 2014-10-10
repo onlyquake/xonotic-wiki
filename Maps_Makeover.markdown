@@ -7,7 +7,7 @@ Main goals
 -   Remove references to Nexuiz
     All symbols and logos
 -   Increase the quality of current maps
-    Achieved by increasing the quality of textures and skyboxs with the addition of *skyboxs’s and other passive detail and effects.
+    Achieved by increasing the quality of textures and skyboxs with the addition of *skyboxs's and other passive detail and effects.
     \* Preserve backwards compatibility?*(needs more clarification)\_
     By adding detail, making sure it does not change game play of the previous revisions of the level. If changes are made to the dimensions of walk ways, paths and of doorways for example, then the level is different to the original. Therefor it is not backwards compatible, for example stormkeep and stormkeep2.
     An example of correct backwards compatibility is the difference between Aggressor in 2.5.1 and 2.5.2. It was re-textured and had the addition of passive detail such as broken pipes and broken floor tiles, which do not effect the players movement in any way.

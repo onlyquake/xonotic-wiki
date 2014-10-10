@@ -29,8 +29,8 @@ Complete list of entity keys
 -   On classname **`worldspawn`**
     -   **`_ambient`, `ambient`:** amount of ambient light
     -   **`_blocksize`, `blocksize`, `chopsize`:** block size for unconditional BSP subdivisions
-    -   **`_farplanedist`, `fogclip`, `distancecull`:** far plane distance for vis culling — this must be the shortest distance at which nothing can be seen any more due to fog
-    -   **`_floodlight`:** a quintuple of values “r g b dist intensity” to set global floodlight parameters (good defaults are 240 240 255 1024 128)
+    -   **`_farplanedist`, `fogclip`, `distancecull`:** far plane distance for vis culling - this must be the shortest distance at which nothing can be seen any more due to fog
+    -   **`_floodlight`:** a quintuple of values "r g b dist intensity" to set global floodlight parameters (good defaults are 240 240 255 1024 128)
     -   **`_fog`, `fog`:** if set, the whole map is fogged using the given shader name
     -   **`_foghull`:** must be set to a sky shader when `_fog` is used
     -   **`_ignoreleaks`, `ignoreleaks`:** when set, no leak test is performed
@@ -59,7 +59,7 @@ Complete list of entity keys
     -   **`spawnflags`:** 1 = linear attenuation (inverted in `-wolf` lighting mode)
     -   **`spawnflags`:** 2 = no angle attenuation (inverted in `-wolf` lighting mode)
     -   **`spawnflags`:** 32 = the light color is not normalized
-    -   **`spawnflags`:** 64 = force distance attenuation (why did vortex add this, this is always set…?)
+    -   **`spawnflags`:** 64 = force distance attenuation (why did vortex add this, this is always set...?)
     -   **`target`:** target of a spotlight
     -   **`targetname`:** when set, the light can be toggled in game by some engine provided way
 -   On classname **`light`**

@@ -13,7 +13,7 @@ A domination map must have at the very least 4 entities.
 
 ### dom\_team
 
-dom\_team entites declare the teams available in the game and what models are shown when they take a control point. To create it, right click and go to “domination\>dom\_team”. There must be at least 3 per map: Two teams and one empty team (for when the control point is not taken).
+dom\_team entites declare the teams available in the game and what models are shown when they take a control point. To create it, right click and go to "domination\>dom\_team". There must be at least 3 per map: Two teams and one empty team (for when the control point is not taken).
 
     // entity 244
     {
@@ -44,7 +44,7 @@ dom\_team entites declare the teams available in the game and what models are sh
     "model" "models/domination/dom_unclaimed.md3"
     }
 
-These are the three dom\_team entites you must have on your map. It does not matter where they are placed. The first two examples here declare two dom teams: blue and red. The third declares the “empty team”. It is best to copy these verbatim into your map, as their structure does not change (of course, the coordinates do change depending on where you placed them).
+These are the three dom\_team entites you must have on your map. It does not matter where they are placed. The first two examples here declare two dom teams: blue and red. The third declares the "empty team". It is best to copy these verbatim into your map, as their structure does not change (of course, the coordinates do change depending on where you placed them).
 
 ### dom\_controlpoint
 
@@ -54,7 +54,7 @@ These are the actual control points that players will capture. They do not have 
     "origin" "0.000000 2240.000000 608.000000"
     "message" " has captured ^1Red Base^3"
 
-The key here is the “message” field, which allows you to set the message shown when a controlpoint is captured. Generally, the format of this is " has captured CONTROLPOINTNAME". You can also use color codes in these messages, as shown in the above example.
+The key here is the "message" field, which allows you to set the message shown when a controlpoint is captured. Generally, the format of this is " has captured CONTROLPOINTNAME". You can also use color codes in these messages, as shown in the above example.
 
 Helpful Hints and Tips
 ----------------------

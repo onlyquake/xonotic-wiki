@@ -7,7 +7,7 @@ Nexball
 Object of the Game
 ------------------
 
-Nexball is ball sport game where 2 teams (red & blue) play against one another and try to score goals. You can’t shoot (/frag) other players here.
+Nexball is ball sport game where 2 teams (red & blue) play against one another and try to score goals. You can't shoot (/frag) other players here.
 
 There are two Nexball game-types. The first is similar to soccer/football and allows the player to direct the ball by running into it. The second one is like basketball (or team handball) and allows the player to catch, carry, and shoot the ball. The basketball game-type also allows stealing the ball from an opponent.
 

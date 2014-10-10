@@ -23,7 +23,7 @@ Fixes include:
 \* Fixed 3D display in the Windows XP Software Renderer
 \* Fixed deluxemapping when a surface is lit from both sides
 \* Fixed some buffer overruns
-\* Fixed the “expand selection to whole entities” feature
+\* Fixed the "expand selection to whole entities" feature
 \* Fixed the origin of mirrored eclassmodel entities
 \* Key bindings no longer disappear when using an international keyboard layout
 \* Plane snapping fixed (no more fall-through holes in imported model terrain)

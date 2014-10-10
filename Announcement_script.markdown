@@ -3,7 +3,7 @@ In-game announcement script by MirceaKitsune
 
 I made an announcement script that can be used on pubic servers, for notifying players in-game.
 
-To use, copy the script below in your autoexec.cfg. If you don’t already have one, create a file called autoexec.cfg in your Nexuiz data folder and put the script in it. Type “news” in the console (\~ button) to echo the message while playing.
+To use, copy the script below in your autoexec.cfg. If you don't already have one, create a file called autoexec.cfg in your Nexuiz data folder and put the script in it. Type "news" in the console (\~ button) to echo the message while playing.
 
 Please read the comment lines, especially the one about spamming! Feel free to share and modify the script to spread the information. Here it is:
 

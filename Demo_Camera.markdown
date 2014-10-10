@@ -3,7 +3,7 @@ Demo Camera
 
 The demo camera allows you to customize camera position and angles during demo playback. It was designed mainly for video recording, not for spectating complete matches although maybe you can use it for this purpose depending on the map.
 
-Note that depending on server configuration you might not see all players all the time in your demos, this is due to the anti-wallhack feature that works by not sending to you information about players you can’t see.
+Note that depending on server configuration you might not see all players all the time in your demos, this is due to the anti-wallhack feature that works by not sending to you information about players you can't see.
 
 Currently most camera options can be configured only using the console or config files. For more information about advanced configuration you can see Chapter 2 and Chapter 4 of the great [Nexuiz In Depth](http://www.youtube.com/user/NexuizInDepth) series by Green Marine. Also probably you will want to associate some camera commands to keyboard keys or mouse buttons, see this link for more information.
 
@@ -39,4 +39,4 @@ The camera has two modes: chase and free. By default the camera starts in chase 
 Advanced usage
 --------------
 
-For more advanced configuration variables look for the prefix camera\_ in the advanced settings menu: Settings~~\>Misc~~\>Advanced Settings…
+For more advanced configuration variables look for the prefix camera\_ in the advanced settings menu: Settings~~\>Misc~~\>Advanced Settings...

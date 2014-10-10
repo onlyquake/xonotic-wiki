@@ -33,19 +33,19 @@ Some supporting requirements before we make this announcement:
     -   and a forum for answering questions
 -   Setup twitter and facebook pages
 -   An FAQ page focused on the fork
-    -   we’ll add entries to it as we go
-    -   we’ll refer people to this whenever we can
+    -   we'll add entries to it as we go
+    -   we'll refer people to this whenever we can
 
 This announcement will be pushed out through the following channels:
 --------------------------------------------------------------------
 
--   Through the “HELP” system on popular Nexuiz servers, like Simba in Europe and HOCTF/HODM in US
+-   Through the "HELP" system on popular Nexuiz servers, like Simba in Europe and HOCTF/HODM in US
 -   Slashdot, digg, reddit and other social news sites
 -   Nexuiz IRC channels and private messaging
 -   Alientrap forum
 -   Email or PM to key individuals who left Nexuiz long ago (Perhaps using AT or NN forum private messaging)
 
-While our official project announcement is going to be very neutral, the Slashdot/digg/reddit posts will reflect more of the community’s overall impression of the Illfonic issue.
+While our official project announcement is going to be very neutral, the Slashdot/digg/reddit posts will reflect more of the community's overall impression of the Illfonic issue.
 
 Goals
 -----
@@ -100,7 +100,7 @@ What will change in the game?
 Timeline
 --------
 
-1.  We can’t give a timeline at this moment, but we will try to produce our first release as soon as we can
+1.  We can't give a timeline at this moment, but we will try to produce our first release as soon as we can
 2.  Instead, we will invite people to our IRC channels and to our website to keep updated
 
 The name
@@ -113,8 +113,8 @@ The name
 Summary
 -------
 
-1.  We appreciate everyone’s support
-2.  We will try to be open and supportive with new potential contributors (as opposed to an “I’m too 1337 for you” attitude)
+1.  We appreciate everyone's support
+2.  We will try to be open and supportive with new potential contributors (as opposed to an "I'm too 1337 for you" attitude)
 3.  We want to keep an active flow of information among the team members
 4.  We look forward to creating a game that everyone will enjoy
 

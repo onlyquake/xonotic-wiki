@@ -23,7 +23,7 @@ Grenade Launcher
 ### Electro
 
 Plasma gun
-Perhaps would be too confusing with previous Nexgun due to the fact that it’s a plasma rifle.
+Perhaps would be too confusing with previous Nexgun due to the fact that it's a plasma rifle.
 
 ### Crylink
 

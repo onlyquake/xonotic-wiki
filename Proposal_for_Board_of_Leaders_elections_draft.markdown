@@ -17,7 +17,7 @@ Board of Leaders:
 \* seek ways to get public attention and funding to further development
 \* responsible for proper working of Xonotic web site and code repository
 \* are in ownership of xonotic.org domain name
-\* responsible for all legal questions regarding game’s content and name
+\* responsible for all legal questions regarding game's content and name
 
 Each leader is also responsible for the flawless working of the department he is working in.
 
@@ -29,7 +29,7 @@ Art department
 -   Lead mapper
 -   Lead modeler
 
-Art department is responsible for keeping an unified look of the game, working with other artists, informing them how their creations can go in-game, setting “need to be done” tasks for other artists, supervising the quality of maps which go into base and main Xonotic maps repositories, providing artists with texture and prop sets and other art related activities.
+Art department is responsible for keeping an unified look of the game, working with other artists, informing them how their creations can go in-game, setting "need to be done" tasks for other artists, supervising the quality of maps which go into base and main Xonotic maps repositories, providing artists with texture and prop sets and other art related activities.
 
 Audio department
 ----------------
@@ -37,7 +37,7 @@ Audio department
 -   Music director
 -   Sound director
 
-Audio department is responsible for keeping an unified audio and visual experience, creating/finding new audio content which would be used by the game, creating guidelines for other audio artists, setting “need to be done” tasks for other artists and other audio related activities.
+Audio department is responsible for keeping an unified audio and visual experience, creating/finding new audio content which would be used by the game, creating guidelines for other audio artists, setting "need to be done" tasks for other artists and other audio related activities.
 
 Code department
 ---------------
@@ -45,7 +45,7 @@ Code department
 -   Lead developer and game designer
 -   Lead quality assurance engineer
 
-Code department is responsible for creating and maintaining game codebase, assuring that code is free of bugs before release is made, working with other code developers, setting “need to be done” coding tasks and other coding related activities.
+Code department is responsible for creating and maintaining game codebase, assuring that code is free of bugs before release is made, working with other code developers, setting "need to be done" coding tasks and other coding related activities.
 
 Public relationships department
 -------------------------------

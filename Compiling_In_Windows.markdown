@@ -20,13 +20,13 @@ To compile and run Xonotic in Windows, you will need to download the following. 
 
 These instructions apply to mingw-get-inst. Run the installer. When setting up the path, if you do not pick the default, make at least sure that the installation path you choose contains no space in it. Thus, Program Files is out of question.
 
-When you reach the “select components” section, you need to check “MSYS Basic System” (**not** “MinGW Developer Toolkit”). You will also need the C compiler, which should be selected by default.
+When you reach the "select components" section, you need to check "MSYS Basic System" (**not** "MinGW Developer Toolkit"). You will also need the C compiler, which should be selected by default.
 
-When the setup is complete, you will get a “MinGW Shell” in your start menu. This is a Unix-like shell that you will soon use to manage and compile the Xonotic source files. It will also be used to launch the game.
+When the setup is complete, you will get a "MinGW Shell" in your start menu. This is a Unix-like shell that you will soon use to manage and compile the Xonotic source files. It will also be used to launch the game.
 
 ### Installing msysgit
 
-Run the installer. At the component selection screen (screenhsot: attachment:“git-1-components.png”), uncheck the “Associate .sh files” option. Windows Explorer Integration can also optionnally be unselected — it is only useful if you plan on contributing and do not like using git purely from the command line to do so. When you get to the PATH adjusting screen (screenshot: attachment:git-2-path.png), you need to select the second option (Run Git from the Windows Command Prompt). This ensures that git can be run from the MinGW shell, as we will not use the shell that comes with msysgit for this. Finally, in the line ending screen (screenshot: attachment:git-3-crlf.png), keep the first option selected unless you know what you’re doing.
+Run the installer. At the component selection screen (screenhsot: attachment:"git-1-components.png"), uncheck the "Associate .sh files" option. Windows Explorer Integration can also optionnally be unselected - it is only useful if you plan on contributing and do not like using git purely from the command line to do so. When you get to the PATH adjusting screen (screenshot: attachment:git-2-path.png), you need to select the second option (Run Git from the Windows Command Prompt). This ensures that git can be run from the MinGW shell, as we will not use the shell that comes with msysgit for this. Finally, in the line ending screen (screenshot: attachment:git-3-crlf.png), keep the first option selected unless you know what you're doing.
 
 ### Installing the dependencies in MinGW
 
@@ -40,24 +40,24 @@ To close a MinGW Shell, just type
 
     exit
 
-But keep this one open, we’re going to use it some more.
+But keep this one open, we're going to use it some more.
 
 To close a MinGW Shell, just type
 
     exit
 
-But keep this one open, we’re going to use it some more.
+But keep this one open, we're going to use it some more.
 
 Step 2: downloading the Xonotic source files
 --------------------------------------------
 
-In this step, we will clone the Xonotic git repositories inside MinGW’s install directory.
+In this step, we will clone the Xonotic git repositories inside MinGW's install directory.
 
 In your MinGW Shell, type
 
     git clone git://git.xonotic.org/xonotic/xonotic.git
 
-This will clone the base repository, which contains a script called “`all`” that will manage the subrepositories. I will call this script `./all` to avoid confusion, as this is how we will be using it in the terminal.
+This will clone the base repository, which contains a script called "`all`" that will manage the subrepositories. I will call this script `./all` to avoid confusion, as this is how we will be using it in the terminal.
 
 Next, type
 
@@ -75,7 +75,7 @@ Compiling the game is quite simple. In your MinGW Shell, just type
 
 This will compile fteqcc (which is a compiler for the QuakeC language), then the game code using fteqcc, then the DarkPlaces engine.
 
-This step can take a few minutes, so be patient! When it’s over, check the last few lines to see if it reports any errors.
+This step can take a few minutes, so be patient! When it's over, check the last few lines to see if it reports any errors.
 
 Step 4: running the game!
 -------------------------

@@ -19,7 +19,7 @@ This system is based off of the texture name, with the suffix denoting what the 
 |Bump map|texturename\_bump.tga|Bump maps are like normal maps in that they allow a texture to be 3d. However, normal maps have higher priorities and so will overwrite bump maps. It is a better idea to use a normal map instead of a bump map, since the roughness of a bump map is limited by a cvar.|
 |Specular|texturename\_gloss.tga|This map will make your texture more or less shiny. There may be colors in this map.|
 |Fullbright|texturename\_glow.tga|Areas textured with this map will always glow and shadows will not affect them.|
-|Team color/custom|texturename\_pants.tga|Areas textured with this map will show the user’s custom or team color. Make it grayscale and leave same area 100% black in diffuse texture.|
+|Team color/custom|texturename\_pants.tga|Areas textured with this map will show the user's custom or team color. Make it grayscale and leave same area 100% black in diffuse texture.|
 |Shirt|texturename\_shirt.tga|Like the above, but a secondary color. **Does this still exist?**|
 
 System two

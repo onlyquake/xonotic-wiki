@@ -8,9 +8,9 @@ Basics of mapping - the NetRadiant handbook
 
 -   [Basic mapping in Radiant](Basic_mapping_in_Radiant) - Basic manipulation techniques
 -   [Basic texturing](Basic texturing) - How to make the map look colorful and pretty
--   [Patches](Patches) - When straight lines just don’t cut it
+-   [Patches](Patches) - When straight lines just don't cut it
 -   [Lighting](Lighting) - And the Mapper said - let there be light!
--   [Shaders](Shaders) - Some extra more twist to textures. If you’d like to, literally.
+-   [Shaders](Shaders) - Some extra more twist to textures. If you'd like to, literally.
 -   [Entities](Entities) - Platforms, trains, speakers, new toys, new toys
 -   [Hinting](Hinting) - Hint: there are things that might better not be seen
 

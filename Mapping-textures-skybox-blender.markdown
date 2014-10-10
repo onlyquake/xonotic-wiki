@@ -9,11 +9,11 @@ In this tutorial we will make a very simple skybox for Xonotic
 -   Xonotic (and a mapping setup (I use netradiant))
 -   Blender (I will be using version 2.62, older versions may work)
 -   gimp (I will be using 2.6, older versions may work)
--   a text editor (I’ll be using kate)
+-   a text editor (I'll be using kate)
 
 ### Intro
 
-This is what we will make…
+This is what we will make...
 
 ![](start-shot.jpg)
 
@@ -48,7 +48,7 @@ Set the proportional editing mode to random
 
 ![](blender-redit.jpg)
 
-Now you can move one face, and the nearby faces will follow suit. Note that you can adjust the radius of effect by using your mouse’s scroll wheel.
+Now you can move one face, and the nearby faces will follow suit. Note that you can adjust the radius of effect by using your mouse's scroll wheel.
 
 ![](blender-redit2.jpg)
 
@@ -56,7 +56,7 @@ Go crazy with the editing. I found that having the larger hills on outside, and 
 
 ![](blender-hills1.jpg)
 
-After you are done making some hills, we are going to smooth them out. To easily do this, we simply add a subdivision surface modifier. So, first click on the modifiers tab (the little wrench). Then click the “add modifier” drop down box. And finally hit Subdivision Surface.
+After you are done making some hills, we are going to smooth them out. To easily do this, we simply add a subdivision surface modifier. So, first click on the modifiers tab (the little wrench). Then click the "add modifier" drop down box. And finally hit Subdivision Surface.
 
 ![](blender-subsurf.jpg)
 
@@ -64,7 +64,7 @@ Adjust the subsurf values so the hills become nice and smooth (poly count does n
 
 ![](blender-smooth.jpg)
 
-Now we need to add the sun and sky. To do this simple go to the add menu [shift][a] and add a “sun” light
+Now we need to add the sun and sky. To do this simple go to the add menu [shift][a] and add a "sun" light
 
 ![](blender-addlight)
 
@@ -76,4 +76,4 @@ Finally adjust the camera (add one if you dont have one already), and render a s
 
 ![](blender-render1.jpg)
 
-… still working on it … sorry …
+... still working on it ... sorry ...

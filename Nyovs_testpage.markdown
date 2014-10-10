@@ -1,7 +1,7 @@
 /**\* this place does not exist****/
-\<div style=“position:relative;overflow:auto;border:1px solid \#000;padding:10px;;background:\#222;color:\#aaa”\>\<div style=“border-left:1px solid \#000;border-bottom:1px solid \#000;background:\#222;color:\#ff7f2f;clear:right;float:right;”\>\<div style=“border-left:1px solid \#444;border-bottom:1px solid \#333;padding:10px;”\>
+\<div style="position:relative;overflow:auto;border:1px solid \#000;padding:10px;;background:\#222;color:\#aaa"\>\<div style="border-left:1px solid \#000;border-bottom:1px solid \#000;background:\#222;color:\#ff7f2f;clear:right;float:right;"\>\<div style="border-left:1px solid \#444;border-bottom:1px solid \#333;padding:10px;"\>
 
-\<div style=“display:none;”\><!--
+\<div style="display:none;"\><!--
  This is a fucking comment! fuckyou redmine
  the wiki is missing some better syntax, so here be hacks.
  don't look too closely.
@@ -18,29 +18,29 @@ Xonotic Userguide
 \# Server Administration
 Developer Resources
 The Project
-\</div\>\</div\>\<div style=“border:1px solid \#000;padding:10px;”\>
+\</div\>\</div\>\<div style="border:1px solid \#000;padding:10px;"\>
 p!
-\<div style=“margin:10px;float:left;text-align:center;border:1px solid \#222222;” onmouseover=“this.style.border=‘1px solid \#ff7f2f’” onmouseout=“this.style.border=‘1px solid \#222222’”\>![Test](icontest.png "Test")
+\<div style="margin:10px;float:left;text-align:center;border:1px solid \#222222;" onmouseover="this.style.border='1px solid \#ff7f2f'" onmouseout="this.style.border='1px solid \#222222'"\>![Test](icontest.png "Test")
 Getting started
-\</div\>\<div style=“margin:10px;float:left;text-align:center;border:1px solid \#222222;” onmouseover=“this.style.border=‘1px solid \#ff7f2f’” onmouseout=“this.style.border=‘1px solid \#222222’”\>![Test](icontest.png "Test")
+\</div\>\<div style="margin:10px;float:left;text-align:center;border:1px solid \#222222;" onmouseover="this.style.border='1px solid \#ff7f2f'" onmouseout="this.style.border='1px solid \#222222'"\>![Test](icontest.png "Test")
 User Interface
-\</div\>\<div style=“margin:10px;float:left;text-align:center;border:1px solid \#222222;” onmouseover=“this.style.border=‘1px solid \#ff7f2f’” onmouseout=“this.style.border=‘1px solid \#222222’”\>![Test](icontest.png "Test")
+\</div\>\<div style="margin:10px;float:left;text-align:center;border:1px solid \#222222;" onmouseover="this.style.border='1px solid \#ff7f2f'" onmouseout="this.style.border='1px solid \#222222'"\>![Test](icontest.png "Test")
 Modes and Mutators
-\</div\>\<div style=“margin:10px;float:left;text-align:center;border:1px solid \#222222;” onmouseover=“this.style.border=‘1px solid \#ff7f2f’” onmouseout=“this.style.border=‘1px solid \#222222’”\>![Test](icontest.png "Test")
+\</div\>\<div style="margin:10px;float:left;text-align:center;border:1px solid \#222222;" onmouseover="this.style.border='1px solid \#ff7f2f'" onmouseout="this.style.border='1px solid \#222222'"\>![Test](icontest.png "Test")
 Guides
 \</div\>
-\<div style=“clear:left;”\>\</div\>
-\<div style=“margin:10px;float:left;text-align:center;border:1px solid \#222222;” onmouseover=“this.firstChild.src=‘/attachments/download/326’” onmouseout=“this.firstChild.src=‘/attachments/download/327’”\>![Test](icontest2-5.png "Test")
+\<div style="clear:left;"\>\</div\>
+\<div style="margin:10px;float:left;text-align:center;border:1px solid \#222222;" onmouseover="this.firstChild.src='/attachments/download/326'" onmouseout="this.firstChild.src='/attachments/download/327'"\>![Test](icontest2-5.png "Test")
 Tweaking the game
-\</div\>\<div style=“margin:10px;float:left;text-align:center;border:1px solid \#222222;” onmouseover=“this.firstChild.src=‘/attachments/download/326’” onmouseout=“this.firstChild.src=‘/attachments/download/327’”\>![Test](icontest2-5.png "Test")
+\</div\>\<div style="margin:10px;float:left;text-align:center;border:1px solid \#222222;" onmouseover="this.firstChild.src='/attachments/download/326'" onmouseout="this.firstChild.src='/attachments/download/327'"\>![Test](icontest2-5.png "Test")
 Community
-\</div\>\<div style=“margin:10px;float:left;text-align:center;border:1px solid \#222222;” onmouseover=“this.firstChild.src=‘/attachments/download/326’” onmouseout=“this.firstChild.src=‘/attachments/download/327’”\>![Test](icontest2-5.png "Test")
+\</div\>\<div style="margin:10px;float:left;text-align:center;border:1px solid \#222222;" onmouseover="this.firstChild.src='/attachments/download/326'" onmouseout="this.firstChild.src='/attachments/download/327'"\>![Test](icontest2-5.png "Test")
 Glossary
-\</div\>\<div style=“margin:10px;float:left;text-align:center;border:1px solid \#222222;” onmouseover=“this.firstChild.src=‘/attachments/download/326’” onmouseout=“this.firstChild.src=‘/attachments/download/327’”\>![Test](icontest2-5.png "Test")
+\</div\>\<div style="margin:10px;float:left;text-align:center;border:1px solid \#222222;" onmouseover="this.firstChild.src='/attachments/download/326'" onmouseout="this.firstChild.src='/attachments/download/327'"\>![Test](icontest2-5.png "Test")
 Server Administration
 \</div\>
-\<div style=“clear:left;”\>\</div\>
-\<div style=“border:1px solid \#fff;margin:10px;float:left;”\>
+\<div style="clear:left;"\>\</div\>
+\<div style="border:1px solid \#fff;margin:10px;float:left;"\>
 h3. Getting started
 ** System Requirements
 \* Download the game!
@@ -83,7 +83,7 @@ h3. Getting started
 ### Community
 
 -   where to meet people.
--   Forums, IRC, Clansites …
+-   Forums, IRC, Clansites ...
 
 </div>
 <div style="border:1px solid #fff;margin:10px;float:left;">

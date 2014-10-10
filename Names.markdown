@@ -5,22 +5,22 @@ Names
 
 We agreed we should TAKE OUR TIME in picking out a proper name.
 We have a plan A/B for ideal name choice
-A) A name with an available .com (we’ll of course get the .org too)
+A) A name with an available .com (we'll of course get the .org too)
 B) A name without an available .com - but some variation like <name>game.com available
 
 - We should have name that is unique (as much as possible)
 - We should have a name without an existing meaning (like nexuiz)
 - We should have a name that people can pronounce
-- We need to think of a symbol for our game as well (aside from the kanji “n” that nexuiz uses)
+- We need to think of a symbol for our game as well (aside from the kanji "n" that nexuiz uses)
 
 INSTRUCTIONS
 ------------
 
-PICK FROM THE LIST YOUR TOP CHOICES and send dokujisan your list. Keep in mind that you’re picking the
-ones that don’t completely suck. They dont have to be perfect, but they can give us a direction.
+PICK FROM THE LIST YOUR TOP CHOICES and send dokujisan your list. Keep in mind that you're picking the
+ones that don't completely suck. They dont have to be perfect, but they can give us a direction.
 We need to start with a bulk list. We still hve more brainstorming for names to do.
 
-**This isn’t the final list**
+**This isn't the final list**
 
 You guys picking from this list will help with future brainstorming.
 
@@ -242,7 +242,7 @@ xelecon
 zeniux
 zeonix
 
-Morphed’s picks
+Morphed's picks
 ---------------
 
 ### NOT AVAILABLE .COMs
@@ -276,7 +276,7 @@ nexot
 nodium
 xelod
 
-Doku’s picks
+Doku's picks
 ------------
 
 ### NOT AVAILABLE .COMs
@@ -306,7 +306,7 @@ xundem
 xuniox
 zeonix
 
-~~z~~’s Picks
+~~z~~'s Picks
 -------------
 
 devion
@@ -317,7 +317,7 @@ zeniux
 zenux
 zeonix
 
-C.Brutail’s Picks
+C.Brutail's Picks
 -----------------
 
 xenotic
@@ -334,43 +334,43 @@ Suggestions:
 My favorite pick would be:
 Itoma
 
-These are just suggestions, I’m not happy with any of them tbh (except Pheonix, but that was really shot down by other :D )
+These are just suggestions, I'm not happy with any of them tbh (except Pheonix, but that was really shot down by other :D )
 Reborn
 NeXT
 Pheonix
 
-mand1nga’s Picks
+mand1nga's Picks
 ----------------
 
 ### Japanese
 
-tairyoku ….. stamina
-chikara ….. force / strength
-utsu ….. hit
-kenryoku ….. power
-ryushutsu ….. exodus
-ikio ….. momentum
-komyuniti ….. community
-eirian ….. aliens
-bakuhatsu ….. explosion
-tatakau ….. fight
-bödö ….. riot
-böei ….. defense
-yoroi ….. armor
-hitobito ….. people
-bömey ….. exile
-hashiru ….. run
-shïrudo ….. shield
-danryoku ….. resilience
-gijutsu ….. skill
-noryoku ….. ability
-sanran ….. spawn
-hiraku ….. open
-gense ….. source
-furaito ….. flight
-kaizoku ….. pirate
-kessaku ….. masterpiece
-hikage ….. shade
+tairyoku ..... stamina
+chikara ..... force / strength
+utsu ..... hit
+kenryoku ..... power
+ryushutsu ..... exodus
+ikio ..... momentum
+komyuniti ..... community
+eirian ..... aliens
+bakuhatsu ..... explosion
+tatakau ..... fight
+bödö ..... riot
+böei ..... defense
+yoroi ..... armor
+hitobito ..... people
+bömey ..... exile
+hashiru ..... run
+shïrudo ..... shield
+danryoku ..... resilience
+gijutsu ..... skill
+noryoku ..... ability
+sanran ..... spawn
+hiraku ..... open
+gense ..... source
+furaito ..... flight
+kaizoku ..... pirate
+kessaku ..... masterpiece
+hikage ..... shade
 
 ### English
 
@@ -387,19 +387,19 @@ dimensions
 crux
 turning point
 
-FruitieX ’s Picks
+FruitieX 's Picks
 -----------------
 
 Xenotic
 
-divVerent’s Picks
+divVerent's Picks
 -----------------
 
 MragMest (Russian origin, Dark Place)
 MIPAS (Mutuaully Inexclusive Posts Are Stupid)
-BRLOGENSHFEGLE (not really, we’ll settle on that if we don’t find anything within 1 week from retrieving this wiki page)
+BRLOGENSHFEGLE (not really, we'll settle on that if we don't find anything within 1 week from retrieving this wiki page)
 
-tZork’s picks
+tZork's picks
 -------------
 
 insurgi
@@ -409,11 +409,11 @@ Kinky Polka Police, zone xi nut :D
 The voting
 ----------
 
-**As to stay true and share a little laugh, here’s the piratepad copy of actual names, votes, and whatnot that happened during brainstorming:**
+**As to stay true and share a little laugh, here's the piratepad copy of actual names, votes, and whatnot that happened during brainstorming:**
 
 ### Picks
 
-Suggested names by everyone, please don’t repeat
+Suggested names by everyone, please don't repeat
 Lets just combine them in a large list, no names added. This will remove redundancy.
 
 ### Criteria:
@@ -425,10 +425,10 @@ Lets just combine them in a large list, no names added. This will remove redunda
 ### Criteria Discussion:
 
 8 or less chars? 10 would be a better max why? I like shorter, but good names can be longer :) then why not up it to 20 why 10?
-Hard limit isn’t good, it’s able to be recognized when a name is insanely long.
+Hard limit isn't good, it's able to be recognized when a name is insanely long.
 
 Logo example http://www.nullgaming.com/stuff/forkuiz\_logo\_idea1.jpg
-//I know it’s only an example, but it looks like an xray of a vertebra (backbone)
+//I know it's only an example, but it looks like an xray of a vertebra (backbone)
 whatever, just imagine some phoenix inspired image
 //http://dclips.fundraw.com/pngmax/doctormo\_Phoeonix.png very large png, beware
 
@@ -438,11 +438,11 @@ http://dev.cankill.us/projects/notnexuiz/wiki/Names
 </add.names.here>
 
 Why do you think it would be a good idea?
-\* Neuxiom: Portmanteau of New and Axiom, pronoucable, has only 1 hit on Google, and uses most of the letters from Nexuiz, thus enhancing recognition. difficult to pronounce Logical truncation of it is “Neux”, which is ambiguous when pronounced (Nukes vs Neux)
-It’s suppose to be pronoucned as French, but NewX also works Neu-ee-om? Neu-ecks I mean the full name. Alone I’d pronounce Neux as in veux, but inside “Neuxiom” I’d use a hard X. (Nooks-ee-om is also possible). That’s intended, it’s a combination of New Axiom into one word
-\* Itoma: In Japanese it means “free, free time, and to wave goodbye” Also, simple.
-\* Xonotic: Sounds badass, and low hits on google. and very unique… it’s like aquatic but some space-alien type of origin.
-\* Akion: Hehh, it’s C.Brutail’s other nickname, it can’t be anything but cool :D no, seriously, it’s just considered good by others, I strongly dislike it… however…
+\* Neuxiom: Portmanteau of New and Axiom, pronoucable, has only 1 hit on Google, and uses most of the letters from Nexuiz, thus enhancing recognition. difficult to pronounce Logical truncation of it is "Neux", which is ambiguous when pronounced (Nukes vs Neux)
+It's suppose to be pronoucned as French, but NewX also works Neu-ee-om? Neu-ecks I mean the full name. Alone I'd pronounce Neux as in veux, but inside "Neuxiom" I'd use a hard X. (Nooks-ee-om is also possible). That's intended, it's a combination of New Axiom into one word
+\* Itoma: In Japanese it means "free, free time, and to wave goodbye" Also, simple.
+\* Xonotic: Sounds badass, and low hits on google. and very unique... it's like aquatic but some space-alien type of origin.
+\* Akion: Hehh, it's C.Brutail's other nickname, it can't be anything but cool :D no, seriously, it's just considered good by others, I strongly dislike it... however...
 \* Akionix: Sounds fine, easy to pronounce, and only 33 hits from google
 
 Does not meet criteria: Akion (25000 hits), Itoma (639,000 hits), kenryoku (60,600 hits), pulse (65,500,000 hits), crux (5,980,000 hits, is also a noun, Linux distro), Xenatic (33,600 hits), Maven (10,200,000 hits, it is english word and means expert ), Xenoty (5,140 hits), Nexotic (9,710 hits), Yennu (17,600 hits)
@@ -463,17 +463,17 @@ Doku: xonotic, akion, itoma (in that order)
 Votes Count
 <we will count votes sometime in the future so no one is influenced>
 
-and the name is (drumroll) …. :
+and the name is (drumroll) .... :
 
 Archive
-//I suggest 2 criteria: 1) The names must not names of medicine/disease 2) They must have less than 1000 hits on Google; IMO that’s too arbitrary. A project I contribute too tops our rankings, but there are over 100,000 unrelated hits.
+//I suggest 2 criteria: 1) The names must not names of medicine/disease 2) They must have less than 1000 hits on Google; IMO that's too arbitrary. A project I contribute too tops our rankings, but there are over 100,000 unrelated hits.
 //This is a NEW project, a unique name is critical
 // News releases will rapidly bring any name used to the top of the results, I think.
 // Most of our links come from the reviewers, or message boards
 // That should already be a couple.
-//Just consider this, it’s best to be innovative with names, that’s how they get remembered
-// I maintain that 1000 is too low, it’ll disqualify nearly all names that aren’t extremely unique.
-// Best of the best, I’d say…
+//Just consider this, it's best to be innovative with names, that's how they get remembered
+// I maintain that 1000 is too low, it'll disqualify nearly all names that aren't extremely unique.
+// Best of the best, I'd say...
 // thats why we need a name like ARHEULRCEH<RYGCRDIEMONTU or so
 // New criteria: It needs to be shorter than 12 letters
 // Memorable trumps unique, I think. E.g. Ubuntu
@@ -482,6 +482,6 @@ Archive
 // if this pad is crawled by google then we should substract 1 to the amount of hits :>
 //This pad is WIP, and in javascript.
 
-//Bad news, xenotic.com/.org is taken… so what now? - Xenoty :)))
+//Bad news, xenotic.com/.org is taken... so what now? - Xenoty :)))
 //We can use these criteria to filter our potential names
-//The reason why we need less than a certain number of hits, is because we won’t be found on a search engine if we don’t, this is why Nexuiz is not an existing noun
+//The reason why we need less than a certain number of hits, is because we won't be found on a search engine if we don't, this is why Nexuiz is not an existing noun

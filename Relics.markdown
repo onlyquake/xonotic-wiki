@@ -1,7 +1,7 @@
 Relics mutator:
 ===============
 
-The Relics mutator spawns several relics around the map, as items that players can pick up and hold. Each player can carry one relic at a time, and drops it when they die or press the “drop relic” button. If not picked up after some time, a relic will respawn in another location. Each relic grants a special ability to the player carrying it. Currently, there are 16 relics in Xonotic.
+The Relics mutator spawns several relics around the map, as items that players can pick up and hold. Each player can carry one relic at a time, and drops it when they die or press the "drop relic" button. If not picked up after some time, a relic will respawn in another location. Each relic grants a special ability to the player carrying it. Currently, there are 16 relics in Xonotic.
 
 *NOTE: This mutator is not committed to master yet. To test it, see the branch mirceakitsune/mutator\_relics in GIT.*
 
@@ -16,7 +16,7 @@ Relic types:
 
 **1 - Resistance:** The Resistance relic protects the player carrying it, by making him take less damage. Does not work while you have the Shield powerup.
 
-**2 - Regeneration:** This relic slowly regenerates the carrier’s health. It’s not available when normal health regeneration is enabled, and therefore will not spawn by default.
+**2 - Regeneration:** This relic slowly regenerates the carrier's health. It's not available when normal health regeneration is enabled, and therefore will not spawn by default.
 
 **3 - Vampire:** The carrier of this relic is healed based on the damage he deals to his opponent. This relic will not spawn when the vampire mutator is enabled.
 
@@ -27,12 +27,12 @@ Relic types:
 **6 - Splash Damage:** When the holder shoots someone, the damage is transmitted to those around the victim, harming them as well.
 *TODO: Make this relic not affect team mates.*
 
-**7 - Firing Speed:** The player’s weapons fire faster.
+**7 - Firing Speed:** The player's weapons fire faster.
 
 **8 - Disability:** A player shot by the owner of this relic is cursed for several seconds. Curses include: Slower movement, lower jump height, slower firing rate.
 ~~*TODO: Add effects to the players cursed by this relic, such as particles and sounds.*~~ DONE
 
-**9 - Team Boost:** Players carrying this relic boost team mates that get close to them. The boost also lasts for a few seconds after they leave the carrier’s radius. This relic will only spawn in team games.
+**9 - Team Boost:** Players carrying this relic boost team mates that get close to them. The boost also lasts for a few seconds after they leave the carrier's radius. This relic will only spawn in team games.
 ~~*TODO: Add effects to the players boosted by this relic, such as particles and sounds.*~~ DONE
 
 **10 - Speed:** Owners of this relic can run faster.

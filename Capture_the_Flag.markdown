@@ -7,7 +7,7 @@ Capture The Flag (CTF)
 Object of the Game
 ------------------
 
-In CTF there are 2 teams (red & blue), while each team got a base with their flag. The goal is to steal the other teams’ flag and bring it to your own to capture it. That’s only possible if your own flag is in your base and not taken by the other team. Usually a team needs 10 captures (caps) to win a map.
+In CTF there are 2 teams (red & blue), while each team got a base with their flag. The goal is to steal the other teams' flag and bring it to your own to capture it. That's only possible if your own flag is in your base and not taken by the other team. Usually a team needs 10 captures (caps) to win a map.
 
 How To:
 
@@ -15,7 +15,7 @@ How To:
 
 - Get the flag? Just walk over it.
 - Return our flag? Kill the enemy and walk over the flag.
-- Capture the flag? Hold the enemy’s flag and walk over your own in your base.
+- Capture the flag? Hold the enemy's flag and walk over your own in your base.
 
 Map Entities
 ------------
@@ -25,7 +25,7 @@ Map Entities
 Helpful Hints and Tips
 ----------------------
 
-- Some maps can contain powerups like “[Strength](Strength)” or “[Shield](Shield)” (which usually spawn every 2 minutes). They can be useful tools to win a match!
+- Some maps can contain powerups like "[Strength](Strength)" or "[Shield](Shield)" (which usually spawn every 2 minutes). They can be useful tools to win a match!
 - [Binds](Binds) are useful to organize your team, e.g. to let them know if you are going to attack. There are several default binds on the Numpad.
 - There is always a yellow waypoint above your Flag Carrier (FC) with a bar that shows his health and obviously it shows his position. Especially if he is on very low health try to assist and help him to capture the flag.
 

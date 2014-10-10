@@ -21,4 +21,4 @@ Click on a point on the grid, and drag to make a square.
 ![](drag-0002.gif)
 Done.
 
-——tutorial unfinished ————-
+--tutorial unfinished -----

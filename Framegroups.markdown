@@ -10,7 +10,7 @@ For modelers
 
 It is named <modelname.extension>.framegroups. So if you are editing Ignis, it would be called <code>ignis.iqm.framegroups</code>.
 
-Inside the file, the playermodel’s animations are defined one per line.
+Inside the file, the playermodel's animations are defined one per line.
 
 Syntax:
 <code>

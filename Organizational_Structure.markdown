@@ -3,7 +3,7 @@ Core Team
 
 {{\>toc}}
 
-The Core team consists of 6 members who discuss and vote on large project changes. This international group of leaders is a classic group of collaborators who above all else, will try and do what’s best for the game and community.
+The Core team consists of 6 members who discuss and vote on large project changes. This international group of leaders is a classic group of collaborators who above all else, will try and do what's best for the game and community.
 
 -   [divVerent](http://forums.xonotic.org/member.php?action=profile&uid=4)
 -   [~~z~~](http://forums.xonotic.org/member.php?action=profile&uid=1)
@@ -15,7 +15,7 @@ The Core team consists of 6 members who discuss and vote on large project change
 Coordinators
 ============
 
-Coordinators are here to guide contributors, provide information both in and outside their area of expertise and act as liasons to the core team to ensure the most important information doesn’t go overlooked. Coordinators will be the people to ask questions to regarding their subjects. If you’re feeling lost, contact these people, their names are linked to their forum accounts.
+Coordinators are here to guide contributors, provide information both in and outside their area of expertise and act as liasons to the core team to ensure the most important information doesn't go overlooked. Coordinators will be the people to ask questions to regarding their subjects. If you're feeling lost, contact these people, their names are linked to their forum accounts.
 
 Art
 ---
@@ -74,7 +74,7 @@ Legal
 
 **Note:** Many of the core members are serving double roles as coordinators. This is not a considered a conflict of interests in decision making because these members are largely filling the role until someone else who fits the description can fill it.
 
-These coordination positions are time-consuming roles that require dedication, knowledge of the area and sharpened communication skills. If you believe you can be of assistance in this area, you may contact the team at admin@xonotic.org. Don’t forget, you can still contribute in other ways without the responsibilities of a coordinator.
+These coordination positions are time-consuming roles that require dedication, knowledge of the area and sharpened communication skills. If you believe you can be of assistance in this area, you may contact the team at admin@xonotic.org. Don't forget, you can still contribute in other ways without the responsibilities of a coordinator.
 
 Other Contributors
 ==================
@@ -98,6 +98,6 @@ To customize redmine for the project needs.
 
 ### PHP Developers
 
-To write MyBB plugins for the project’s needs.
+To write MyBB plugins for the project's needs.
 
 Apply on the [forum](http://forums.xonotic.org/showthread.php?tid=604) or contact Team Xonotic at admin@xonotic.org

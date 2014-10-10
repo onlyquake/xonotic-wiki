@@ -118,7 +118,7 @@ Number: Effect [alias]
 241: Minsta Nex
 242: Grappling Hook
 243: Heavy Laser Assault Cannon
-244: `!\#%’n Tuba
+244: `!\#%'n Tuba
 245: Rifle
 246: Fireball
 247: T.A.G. Seeker

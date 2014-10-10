@@ -8,7 +8,7 @@ REQUIREMENTS
 
 -   a computer that can run Xonotic
 -   the mapping support package from the main xonotic web site (for 0.6 version clicky the link) http://dl.xonotic.org/xonotic-0.6.0-mappingsupport.zip
-    also if the main site doesn’t have a download you can always get it from http://beta.xonotic.org/autobuild/ … username xonotic … password g-23
+    also if the main site doesn't have a download you can always get it from http://beta.xonotic.org/autobuild/ ... username xonotic ... password g-23
 -   time
 
 0 [mapping-Setup](Mapping-Setup) \>\>

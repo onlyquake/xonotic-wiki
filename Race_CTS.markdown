@@ -14,8 +14,8 @@ Map Entities
 Helpful Hints and Tips
 ----------------------
 
-- The physics are different in Race CTS if a server runs the mod ‘[Xonotic Pro Mode](Xonotic Pro Mode)’.
-- You can’t push (/frag) other players like in Race.
+- The physics are different in Race CTS if a server runs the mod '[Xonotic Pro Mode](Xonotic Pro Mode)'.
+- You can't push (/frag) other players like in Race.
 
 List of Demos and Videos
 ------------------------

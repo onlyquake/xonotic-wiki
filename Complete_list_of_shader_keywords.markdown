@@ -10,8 +10,8 @@ Inside shader stages
 
 -   **`map` texture:** loads a texture and displays it repeating
 -   **`clampMap` texture:** loads a texture and displays it non-repeating
--   **`animMap` fps texture texture…:** loads an animation and displays it repeating
--   **`clampAnimMap` fps texture texture…:** loads an animation and displays it non-repeating
+-   **`animMap` fps texture texture...:** loads an animation and displays it repeating
+-   **`clampAnimMap` fps texture texture...:** loads an animation and displays it non-repeating
 -   **`mapComp` texture:** ?
     \* **`mapNoComp` texture:**?
 
@@ -20,7 +20,7 @@ In the shader preamble:
 
 -   **`cull none`, `cull disable`, `cull twosided`:** treat the surface as two sided for lighting
 -   **`damageShader` shadername:** sets the given shader as damage shader (for SoF2 mods)
--   **`fogparms` …:** marks the brush as a fog volume; otherwise handled by the engine
+-   **`fogparms` ...:** marks the brush as a fog volume; otherwise handled by the engine
 -   **`implicitBlend`:** ?
     \* **`implicitMap`:**?
 -   **`implicitMask`:** ?
@@ -98,14 +98,14 @@ In the shader preamble:
 -   **`surfaceparm` hint:** use this surface as a hint to generate BSP splits
 -   **`surfaceparm` lava:** Stef hates this brush
 -   **`surfaceparm` lightfilter:** use the color channel of the shader image as shadow mask
--   **`surfaceparm` monsterclip:** monsters can’t go through this brush, but shots can
+-   **`surfaceparm` monsterclip:** monsters can't go through this brush, but shots can
 -   **`surfaceparm` nodraw:** do not generate draw surfaces
--   **`surfaceparm` nodrop:** items can’t be dropped on this brush
+-   **`surfaceparm` nodrop:** items can't be dropped on this brush
 -   **`surfaceparm` nolightmap, `surfaceparm` pointlight:** do not lightmap this surface
 -   **`surfaceparm` nomarks:** this surface is stain free
 -   **`surfaceparm` nonsolid:** do not make this surface solid
 -   **`surfaceparm` origin:** the center of this brush shall be the origin of this brush model
--   **`surfaceparm` playerclip:** players can’t go through this brush, but shots can
+-   **`surfaceparm` playerclip:** players can't go through this brush, but shots can
 -   **`surfaceparm` sky:** this surface shows the skybox
 -   **`surfaceparm` slime:** this brush contains more poisonous stuff than dihydrogene monoxide
 -   **`surfaceparm` structural:** use this surface for vis

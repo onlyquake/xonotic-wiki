@@ -3,9 +3,9 @@ Our announcement
 
 (Here is where the announcement copy will start)
 
-We’d like to formally announce the beginnings of our new community project, Xonotic. The founders of Xonotic were first Nexuiz[link] developers, contributors and believers. On March 3rd 2010 IllFonic announced[AT link] their aquisition of nexuiz.com[link], rights to the name and a commercial license from Id Software[link] for the original Quake 1 game engine, so build a closed source console version of Nexuiz. A large portion of the community was very upset by this surprise because Lee Vermeulen failed to complete his due diligence to contributors and more importantly the development team known as ‘Alientrap’, which in this deal only consisted of Lee Vermeulen and Forest Hale (Darkplaces Engine creator).
+We'd like to formally announce the beginnings of our new community project, Xonotic. The founders of Xonotic were first Nexuiz[link] developers, contributors and believers. On March 3rd 2010 IllFonic announced[AT link] their aquisition of nexuiz.com[link], rights to the name and a commercial license from Id Software[link] for the original Quake 1 game engine, so build a closed source console version of Nexuiz. A large portion of the community was very upset by this surprise because Lee Vermeulen failed to complete his due diligence to contributors and more importantly the development team known as 'Alientrap', which in this deal only consisted of Lee Vermeulen and Forest Hale (Darkplaces Engine creator).
 
-An open-letter[link] fell on deaf ears, Vermeulen didn’t apologize and trust has been lost.
+An open-letter[link] fell on deaf ears, Vermeulen didn't apologize and trust has been lost.
 
 Developers and contributors joined together to create Xonotic. Beyond being a first person shooter based on Nexuiz (GPL) 2.5.2svn[link], Xonotic aims to be a rethink and reorganization of how we share a GPL video game and organize the services around it.
 
@@ -30,10 +30,10 @@ Xonotic 1.0 is planned to be released in about 6 months. Today a compatibilty pa
 
 Team Xonotic
 
-v3, edited by a grue — re-edited by ~~z~~
+v3, edited by a grue - re-edited by ~~z~~
 =========================================
 
-On March 3rd, 2010, game developer IllFonic[link] announced that they had acquired a commercial, closed-source license for Nexuiz[link], its engine (darkplaces[link]) and the rights to the game’s name from Alientrap. Much to the surprise of everyone who considered themselves part of Alientrap, only Lee Vermeulen (Nexuiz’s original creator) was ‘Alientrap’ in this deal. After exhausting all options for compromise with Lee and IllFonic, including an open letter from the community[link], it became clear that the deal had been finalized and the trust was gone. A large portion of the community, including several major Nexuiz developers and contributors, joined together to continue development under a new name, to preserve freedoms and better distribute power for such decisions.
+On March 3rd, 2010, game developer IllFonic[link] announced that they had acquired a commercial, closed-source license for Nexuiz[link], its engine (darkplaces[link]) and the rights to the game's name from Alientrap. Much to the surprise of everyone who considered themselves part of Alientrap, only Lee Vermeulen (Nexuiz's original creator) was 'Alientrap' in this deal. After exhausting all options for compromise with Lee and IllFonic, including an open letter from the community[link], it became clear that the deal had been finalized and the trust was gone. A large portion of the community, including several major Nexuiz developers and contributors, joined together to continue development under a new name, to preserve freedoms and better distribute power for such decisions.
 
 While functionality-wise being a direct successor to Nexuiz, the Xonotic[link] project is a rethink and reorganization of how a community creates an open source video game and organizes the services around it. The idea is to bring game development and design under the community control and streamline the contribution process. A major organizational structure change is that decisions affecting the game at large will be made by an elected group of three to six people, XSG (Xonotic Steering Group), with no single person maintaining total control.
 
@@ -48,11 +48,11 @@ Game Changes:
 \# new set of player models
 \# new set of sounds
 \# default maps will get a makeover
-\# new names for some weapons and gamemodes, especially ones using the “nex” prefix
+\# new names for some weapons and gamemodes, especially ones using the "nex" prefix
 
 An explanation is due regarding the name choice. It was decided by a voting from a list of names, which was compiled based on several factors, primarily availability of the domain name and pronouncability. The choice had to be kept secret to avoid cybersquatting attempts.
 
-While we don’t have a specific timeline for the first release under the new title, you can track the progress and updates here, the new website[link] and on IRC:
+While we don't have a specific timeline for the first release under the new title, you can track the progress and updates here, the new website[link] and on IRC:
 
 \#xonotic on irc.quakenet.org - general discussion
 \#xonotic on irc.freenode.org - development discussion
@@ -66,7 +66,7 @@ v4, edited by merlijn
 
 **[Xonotic](http://xonotic.org) is a free software game project, which runs on Microsoft Windows, Mac OSX and Linux. It is not a new project, but it attempts to pick up where the [Nexuiz project](http://alientrap.org/nexuiz) came to a halt. Due to recent events, we felt the need to start with a clean slate which will benefit everyone involved. Xonotic will stay true to the values we have grown to love about Nexuiz, namely high quality graphics and very fast gameplay.**
 
-On March 3rd, 2010, game development company **[IllFonic](http://illfonic.com*) announced that they had acquired a commercial, closed-source license for**[Nexuiz](http://alientrap.org/nexuiz*), its engine ([darkplaces](http://icculus.org/twilight/darkplaces/)) and the rights to the games name and domain from Alientrap. Much to the surprise of everyone who considered themselves part of Alientrap, only Lee Vermeulen (Nexuiz’s original creator) was ‘Alientrap’ in this deal. After exhausting all options for compromise with Lee and IllFonic, including an open letter from the community ****, it became clear that the deal had been finalized and the trust in leadership was gone. A large portion of the community, including several major Nexuiz developers and contributors, joined together to continue development under a new name, to preserve freedoms and better distribute power for such decisions.
+On March 3rd, 2010, game development company **[IllFonic](http://illfonic.com*) announced that they had acquired a commercial, closed-source license for**[Nexuiz](http://alientrap.org/nexuiz*), its engine ([darkplaces](http://icculus.org/twilight/darkplaces/)) and the rights to the games name and domain from Alientrap. Much to the surprise of everyone who considered themselves part of Alientrap, only Lee Vermeulen (Nexuiz's original creator) was 'Alientrap' in this deal. After exhausting all options for compromise with Lee and IllFonic, including an open letter from the community ****, it became clear that the deal had been finalized and the trust in leadership was gone. A large portion of the community, including several major Nexuiz developers and contributors, joined together to continue development under a new name, to preserve freedoms and better distribute power for such decisions.
 While functionality-wise being a direct successor to Nexuiz, the**[Xonotic project](http://xonotic.org*) is a rethink and reorganization of how a community creates an open source video game and organizes the services around it. The idea is to bring game development and design under the community control and streamline the contribution process. A major organizational structure change is that decisions affecting the game at large will be made by an elected group of three to six people, XSG , with no single person maintaining total control.
 Without getting into much detail, a few other mentionable changes in planning are:
 Project Changes:
@@ -77,8 +77,8 @@ Game Changes:
 \# new set of player models
 \# new set of sounds
 \# default maps will get a makeover
-\# new names for some weapons and gamemodes, especially ones using the “nex” prefix
-While we don’t have a specific timeline for the first release under the new title, you can track the progress and updates here, the new website[link] and on IRC:
+\# new names for some weapons and gamemodes, especially ones using the "nex" prefix
+While we don't have a specific timeline for the first release under the new title, you can track the progress and updates here, the new website[link] and on IRC:
 \#xonotic on irc.quakenet.org - general discussion
 \#xonotic on irc.freenode.org - development discussion
 We look forward to creating a game that everyone can feel a part of. You are very much welcome to help in any way you can, please contact us to discuss your ideas.
@@ -102,9 +102,9 @@ Some of the plans so far include:
 \# new set of sounds
 \# new music
 \# default maps will get a makeover
-\# new names for weapons and gamemodes (especially ones using the “nex” prefix)
+\# new names for weapons and gamemodes (especially ones using the "nex" prefix)
 
-While we don’t have a specific timeline for the first release under the new title, you can track the progress and updates on **[our website](http://xonotic.org*), on**[twitter](http://twitter.com/xonotic*) , **[facebook](http://facebook.com/xonotic*) and in IRC: \#xonotic on irc.quakenet.org
+While we don't have a specific timeline for the first release under the new title, you can track the progress and updates on **[our website](http://xonotic.org*), on**[twitter](http://twitter.com/xonotic*) , **[facebook](http://facebook.com/xonotic*) and in IRC: \#xonotic on irc.quakenet.org
 Before you visit us in IRC, please visit our**[FAQ Page](http://xonotic.org/faq*) for more detailed information about this project.
 
 We look forward to creating a game that everyone can feel a part of. You are very much welcome to help in any way you can. We appreciate all of your support.
@@ -141,9 +141,9 @@ The Xonotic team.
 \> h1. Notes
 \> \# This is just a first draft
 \> \# Perhaps add a passage about who the Xonotic team is and an open invitation to for others to get involved.
-\> \# I’ve re-ordered the project changes to place emphasis on the community focus and artistic direction of the project. Most users couldn’t care less about the VCS or general PR but will be excited about a new artistic direction and more contributions.
-\> \# Maybe change “birth” to “launch”.
-\> \# Original opener : “All too often the paths that lie ahead of us lead us to crossroads which we had not foreseen. The Nexuiz [link] community recently arrived at such a crossroad [link]…”
+\> \# I've re-ordered the project changes to place emphasis on the community focus and artistic direction of the project. Most users couldn't care less about the VCS or general PR but will be excited about a new artistic direction and more contributions.
+\> \# Maybe change "birth" to "launch".
+\> \# Original opener : "All too often the paths that lie ahead of us lead us to crossroads which we had not foreseen. The Nexuiz [link] community recently arrived at such a crossroad [link]..."
 
 h1. v7, edited by Dokujisan
 **Combining some ideas from V5 and V6\*
@@ -161,7 +161,7 @@ While technically being a direct successor of Nexuiz, the**[Xonotic](http://xono
 \# New music
 \# Default maps will get a makeover
 \# New stronger bot AI
-\# New names for weapons and gamemodes (especially ones using the “nex” prefix)
+\# New names for weapons and gamemodes (especially ones using the "nex" prefix)
 \# Low quality content will be dropped and replaced with higher quality ones
 
 **Project Changes:**
@@ -174,7 +174,7 @@ While technically being a direct successor of Nexuiz, the**[Xonotic](http://xono
 \# More frequent releases
 \# Global player stats tracking system, supporting anonymous player as well
 
-While we don’t have a specific timeline for the first release under the new title, you can track the progress and updates on **[our website](http://xonotic.org*), on**[twitter](http://twitter.com/xonotic*) , **[facebook](http://facebook.com/xonotic*) and in IRC: \#xonotic on irc.quakenet.org
+While we don't have a specific timeline for the first release under the new title, you can track the progress and updates on **[our website](http://xonotic.org*), on**[twitter](http://twitter.com/xonotic*) , **[facebook](http://facebook.com/xonotic*) and in IRC: \#xonotic on irc.quakenet.org
 Please visit our**[FAQ Page](http://xonotic.org/faq*) for more detailed information about this project.
 
 We look forward to creating a game that everyone can feel a part of. You are very much welcome to help in any way you can. We appreciate all of your support.

@@ -8,7 +8,7 @@ Dpm models for Xonotic
 
 \> \> \> Maya : check here http://developer.valvesoftware.com/wiki/Maya
 
-\> \> \> Blender : there was working smd exporter fixed by div0 at Xonotic forums. This MAY be it I’m not sure: http://ai.kurotorobert.com/xonotic/files/Blender/Exporters/hl2\_smd/hl2\_smd\_mesh\_export\_div0.7z
+\> \> \> Blender : there was working smd exporter fixed by div0 at Xonotic forums. This MAY be it I'm not sure: http://ai.kurotorobert.com/xonotic/files/Blender/Exporters/hl2\_smd/hl2\_smd\_mesh\_export\_div0.7z
 
 there are 2 types of smd files
 
@@ -44,4 +44,4 @@ I think that comments explained it all quite well :)
 
 you run dpmodel.exe configfile.txt
 
-and that’s all
+and that's all

@@ -6,14 +6,14 @@ Capturing video clips in Xonotic is easy, and does not need any external tools s
 cl\_capturevideo
 ----------------
 
-To capture a demo to a video clip you first start playing the demo and toggle the cl\_capturevideo cvar. When it’s on (1), the engine will start capturing screen frames and save them as either ogg or avi. The engine will slow down the demo enough to be able to capture all frames, which it can’t do if you are recording while playing. Toggling the cvar to 0 will stop recording.
+To capture a demo to a video clip you first start playing the demo and toggle the cl\_capturevideo cvar. When it's on (1), the engine will start capturing screen frames and save them as either ogg or avi. The engine will slow down the demo enough to be able to capture all frames, which it can't do if you are recording while playing. Toggling the cvar to 0 will stop recording.
 
 To work around the problem of a visible console in the beginning and end of a recording, you will have to bind cl\_capturevideo to a key as follows:
 
     bind x "toggle cl_capturevideo"
 
 where x can be any key (any letter or number (0-9), pgup, pgdn, alt etc.)
-Note that the ‘toggle’ command simply toggles the value of cl\_capturevideo. This means that recording starts the first time you hit the key and stops when you hit it again.
+Note that the 'toggle' command simply toggles the value of cl\_capturevideo. This means that recording starts the first time you hit the key and stops when you hit it again.
 
 To switch between Ogg Theora and avi, use one of the following commands:
 
@@ -38,7 +38,7 @@ Other useful cvars:
 Fast forwarding
 ---------------
 
-To fast forward, play a demo and type eg. “slowmo 50” into the console to fast forward 50 times faster. Set slowmo back to 1 when you want to start recording to return to normal speed. As of yet there’s unfortunately no way to rewind other than restarting the demo, which kind of sucks (!). Hope that’ll be fixed in the future…
+To fast forward, play a demo and type eg. "slowmo 50" into the console to fast forward 50 times faster. Set slowmo back to 1 when you want to start recording to return to normal speed. As of yet there's unfortunately no way to rewind other than restarting the demo, which kind of sucks (!). Hope that'll be fixed in the future...
 
 Using the demo camera
 =====================
@@ -77,17 +77,17 @@ To reset the camera, use:
 \<pre\>
 toggle camera\_reset
 \</pre\>
-You can get a list of all camera cvars and their descriptions by typing “camera\_” into the console and then hitting tab. You’ll also see the current value as well as the default value inside brackets, so don’t be shy to fiddle around with them :)
+You can get a list of all camera cvars and their descriptions by typing "camera\_" into the console and then hitting tab. You'll also see the current value as well as the default value inside brackets, so don't be shy to fiddle around with them :)
 h1. Advanced capturing
 There are a couple of tricks which you can do to eg. change shooting angle of the camera and hide HUD elements.
 h2. Changing shooting angles
-To change the angles of the camera you’ll have to create many video clips which you later have to merge in a video editor, but luckily you don’t need to restart the demo for each angle. Instead you could use some simple scripting to “pause” the demo exactly at the moment you stop recording a clip.
+To change the angles of the camera you'll have to create many video clips which you later have to merge in a video editor, but luckily you don't need to restart the demo for each angle. Instead you could use some simple scripting to "pause" the demo exactly at the moment you stop recording a clip.
 The console commands to accomplish this look something like this:
 \<pre\>
-bind x “slowmo 0;cl\_capturevideo 0”
-bind y “cl\_capturevideo 1;slowmo 1”
-\</pre\>This’ll make the x key stop recording as well as pause the demo, giving you time to set up the next shooting angle and settings for the camera. The y key will start recording and immediately unpause.
-Don’t forget you can put all commands and cvars into an autoexec.cfg file in your data/ directory. Then they will be set at each startup of Xonotic, you can simply copy & paste them from here and don’t need to type them in manually each time.
+bind x "slowmo 0;cl\_capturevideo 0"
+bind y "cl\_capturevideo 1;slowmo 1"
+\</pre\>This'll make the x key stop recording as well as pause the demo, giving you time to set up the next shooting angle and settings for the camera. The y key will start recording and immediately unpause.
+Don't forget you can put all commands and cvars into an autoexec.cfg file in your data/ directory. Then they will be set at each startup of Xonotic, you can simply copy & paste them from here and don't need to type them in manually each time.
 h2. Hiding HUD elements
 **\* r\_letterbox –1 hides most HUD elements, including the kill messages.
 **\* If you instead only want to hide the HUD, use viewsize 120

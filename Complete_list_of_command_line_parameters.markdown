@@ -17,7 +17,7 @@ Common options
 BSP stage
 ---------
 
--   **`-bsp` … filename.map:** Switch that enters this stage
+-   **`-bsp` ... filename.map:** Switch that enters this stage
 -   **`-altsplit`:** Alternate BSP tree splitting weights (should give more fps)
 -   **`-celshader` shadername:** Sets a global cel shader name
 -   **`-custinfoparms`:** Read scripts/custinfoparms.txt
@@ -47,7 +47,7 @@ BSP stage
 -   **`-np` A:** Force all surfaces to be nonplanar with a given shade angle
 -   **`-onlyents`:** Only update entities in the BSP
 -   **`-patchmeta`:** Turn patches into triangle meshes for display
--   **`-rename`:** Append “bsp” suffix to miscmodel shaders (needed for SoF2)
+-   **`-rename`:** Append "bsp" suffix to miscmodel shaders (needed for SoF2)
 -   **`-samplesize` N:** Sets default lightmap resolution in luxels/qu
 -   **`-skyfix`:** Turn sky box into six surfaces to work around ATI problems
 -   **`-snap` N:** Snap brush bevel planes to the given number of units
@@ -59,9 +59,9 @@ BSP stage
 VIS stage
 ---------
 
--   **`-vis` … filename.map:** Switch that enters this stage
+-   **`-vis` ... filename.map:** Switch that enters this stage
 -   **`-fast`:** Very fast and crude vis calculation
--   **`-mergeportals`:** The less crude half of `-merge`, makes vis sometimes much faster but doesn’t hurt fps usually
+-   **`-mergeportals`:** The less crude half of `-merge`, makes vis sometimes much faster but doesn't hurt fps usually
 -   **`-merge`:** Faster but still okay vis calculation
 -   **`-nopassage`:** Just use PortalFlow vis (usually less fps)
 -   **`-nosort`:** Do not sort the portals before calculating vis (usually slower)
@@ -73,8 +73,8 @@ VIS stage
 LIGHT stage
 -----------
 
--   **`-light` … filename.map:** Switch that enters this stage
--   **`-vlight` … filename.map:** Deprecated alias for `-light -fast` … filename.map
+-   **`-light` ... filename.map:** Switch that enters this stage
+-   **`-vlight` ... filename.map:** Deprecated alias for `-light -fast` ... filename.map
 -   **`-approx` N:** Vertex light approximation tolerance (never use in conjunction with deluxemapping)
 -   **`-areascale` F, `-area` F:** Scaling factor for area lights (surfacelight)
 -   **`-border`:** Add a red border to lightmaps for debugging
@@ -159,13 +159,13 @@ LIGHT stage
 Analyzing BSP-like file structure
 ---------------------------------
 
--   **`-analyze` … filename.bsp:** Switch that enters this mode
+-   **`-analyze` ... filename.bsp:** Switch that enters this mode
 -   **`-lumpswap`:** Swap byte order in the lumps
 
 Converting & Decompiling
 ------------------------
 
--   **`-convert` … filename.bsp:** Switch that enters this mode
+-   **`-convert` ... filename.bsp:** Switch that enters this mode
 -   **`-de` number:** Distance epsilon for the conversion
 -   **`-format` converter:** Select the converter (available: map, ase, or game names)
 -   **`-ne` F:** Normal epsilon for the conversion
@@ -191,7 +191,7 @@ Importing lightmaps
 MiniMap
 -------
 
--   **`-minimap` … filename.bsp:** Creates a minimap of the BSP, by default writes to `../gfx/filename_mini.tga`
+-   **`-minimap` ... filename.bsp:** Creates a minimap of the BSP, by default writes to `../gfx/filename_mini.tga`
 -   **`-black`:** Write the minimap as a black-on-transparency RGBA32 image
 -   **`-boost` F:** Sets the contrast boost value (higher values make a brighter image); contrast boost is somewhat similar to gamma, but continuous even at zero
 -   **`-border` F:** Sets the amount of border pixels relative to the total image size

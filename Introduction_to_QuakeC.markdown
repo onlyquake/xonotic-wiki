@@ -98,7 +98,7 @@ Scope
 A variable declared in the global scope has global scope, and is visible starting from its declaration to the end of the code. The order the code is read in by the compiler is defined in the file progs.src.
 A variable declared inside a function has block scope, and is visible starting from its declaration to the end of the smallest block that contains its declaration.
 
-Some variables are declared in [sys.qh](http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=blob_plain;f=qcsrc/server/sys.qh;hb=HEAD). Their declarations or names should never be changed, as they have to match the order and names of the variables in the file file [progdefs.h](http://svn.icculus.org/twilight/trunk/darkplaces/progdefs.h?view=markup) of the engine exactly, or the code won’t load. The special markers *end\_sys\_globals* and *end\_sys\_fields* are placed to denote the end of this shared declaration section.
+Some variables are declared in [sys.qh](http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=blob_plain;f=qcsrc/server/sys.qh;hb=HEAD). Their declarations or names should never be changed, as they have to match the order and names of the variables in the file file [progdefs.h](http://svn.icculus.org/twilight/trunk/darkplaces/progdefs.h?view=markup) of the engine exactly, or the code won't load. The special markers *end\_sys\_globals* and *end\_sys\_fields* are placed to denote the end of this shared declaration section.
 
 Types
 =====
@@ -116,7 +116,7 @@ h2. vector
 This type is basically three floats together. By declaring a *vector v*, you also create three floats *v\_x*, *v\_y* and *v\_z* that contain the components of the vector.
 Vectors can be used with the usual mathematical operators in the usual way used in mathematics. For example, *vector + vector* simply returns the sum of the vectors, and *vector \* float* scales the vector by the given factor. Note however that dividing a vector by a float is NOT supported, one has to use *vector \* \_ instead. Multiplying two vectors yields their dot product of type float.
 Common functions to be used on vectors are*vlen\_ , *normalize* .
-Vector literals are written like ‘1 0 0’.
+Vector literals are written like '1 0 0'.
 **COMPILER BUG:** Always use *vector = vector \* float* instead of *vector **= float*, as the latter creates incorrect code!
 h2. string
 A*string\_ in QuakeC is an immutable reference to a null-terminated character string stored in the engine. It is not possible to change a character in a string, but there are various functions to create new strings:
@@ -144,8 +144,8 @@ myglobal = strzone);
 strunzone;
 </code>\</pre\>
 \* **Engine-owned strings**, such as *netname*. These should be treated just like temporary strings: if you want to keep them in your own variables, *strzone* them.
-\* **Constant strings:** A string literal like *“foo”* gets permanent storage assigned by the compiler. There is no need to *strzone* such strings.
-\* **The null string:** A global uninitialized *string* variable has the special property that is is usually treated like the constant, empty, string *“”* , but it is the only string that evaluates to FALSE in an if expression . As this is a useful property, Xonotic code declares such a string variable of the name *string\_null*. That means that the following patterns are commonly used for allocating strings:
+\* **Constant strings:** A string literal like *"foo"* gets permanent storage assigned by the compiler. There is no need to *strzone* such strings.
+\* **The null string:** A global uninitialized *string* variable has the special property that is is usually treated like the constant, empty, string *""* , but it is the only string that evaluates to FALSE in an if expression . As this is a useful property, Xonotic code declares such a string variable of the name *string\_null*. That means that the following patterns are commonly used for allocating strings:
 **\* Assigning to a global string variable:
 \<pre\>
 if
@@ -179,7 +179,7 @@ h2. fields
 A reference to such a field can be stored too, in a field variable. It is declared and used like
 \<pre\>
  .float myfield;
- // …
+ // ...
  // and in some function:
  var .float myfieldvar;
  myfieldvar = myfield;
@@ -199,7 +199,7 @@ However, the syntax to declare function pointers is simplified:
  op3func\_t g;
  f = sum3;
  g = f;
- print), “”); // prints 6
+ print), ""); // prints 6
 \</pre\>
 Also note that the *var* keyword is used again to disambiguate from a global function declaration.
 In original QuakeC by iD Software, this simplified function pointer syntax also was the only way to define functions :
@@ -215,7 +215,7 @@ A special kind of functions are the built-in functions, which are defined by the
 h2. void
 Just like in C, the *void* type is a special placeholder type to declare that a function returns nothing. However, unlike in C, it is possible to declare variables of this type, although the only purpose of this is to declare a variable name without allocating space for it. The only occasion where this is used is the special *end\_sys\_globals* and *end\_sys\_fields* marker variables.
 h2. arrays
-As the QuakeC virtual machine provides no pointers or similar ways to handle arrays, array support is added by FTEQCC and very limited. Arrays can only be global, must have a fixed size , and are a bit buggy and slow. Almost as great as in FORTRAN, except they can’t be multidimensional either!
+As the QuakeC virtual machine provides no pointers or similar ways to handle arrays, array support is added by FTEQCC and very limited. Arrays can only be global, must have a fixed size , and are a bit buggy and slow. Almost as great as in FORTRAN, except they can't be multidimensional either!
 You declare arrays like in C:
 \<pre\>
  \#define MAX\_ASSASSINS 16
@@ -252,23 +252,23 @@ This section deals with language constructs in FTEQCC that are not similar to an
 h2. if not
 There is a second way to do a negated *if*:
  if not
- …
+ ...
 It compiles to slightly more efficient code than
  if
- …
+ ...
 and has the notable difference that
  if not
- …
+ ...
 will not execute , but
  if
- …
+ ...
 will execute .
 
 h1. Common patterns
 Some patterns in code that are often encountered in Xonotic are listed here, in no particular order.
 h2. Classes in Quake
 The usual way to handle classes in Quake is using *fields*, function pointers and the special property *classname*.
-But first, let’s look at how the engine creates entities when the map is loaded.
+But first, let's look at how the engine creates entities when the map is loaded.
 Assume you have the following declarations in your code:
  entity self;
  .string classname;
@@ -276,22 +276,22 @@ Assume you have the following declarations in your code:
  .float height;
 and the engine encounters the entity
  {
- “classname” “func\_bobbing”
- “height” “128”
- “origin” “0 32 ~~64"
+ "classname" "func\_bobbing"
+ "height" "128"
+ "origin" "0 32 ~~64"
  }
 then it will, during loading the map, behave as if the following QuakeC code was executed:
  self = spawn;
  self.classname = "func\_bobbing";
  self.height = 128;
- self.origin = ’0 32~~64’;
+ self.origin = '0 32~~64';
  spawnfunc\_func\_bobbing();
 We learn from this:
- \* The special global *entity* variable *self* is used when”methods" of an object are called, like - in this case - the “constructor” or spawn function *spawnfunc\_func\_bobbing*.
+ \* The special global *entity* variable *self* is used when"methods" of an object are called, like - in this case - the "constructor" or spawn function *spawnfunc\_func\_bobbing*.
 ** Before calling the spawn function, the engine sets the mapper specified fields to the values. String values can be treated by the QC code as if they are constant strings, that means there is no need to *strzone* them.
  \* Spawn functions always have the *spawnfunc*\_ name prefix and take no arguments.
  \* The *string* field *classname* always contains the name of the entity class when it was created by the engine.
- \* As the engine uses this pattern when loading maps and this can’t be changed, it makes very much sense to follow this pattern for all entities, even for internal use. Especially making sure *classname* is set to a sensible value is very helpful.
+ \* As the engine uses this pattern when loading maps and this can't be changed, it makes very much sense to follow this pattern for all entities, even for internal use. Especially making sure *classname* is set to a sensible value is very helpful.
 Methods are represented as fields of function type:
  .void think;
 and are assigned to the function to be called in the spawn function, like:
@@ -301,14 +301,14 @@ and are assigned to the function to be called in the spawn function, like:
  }
  void spawnfunc\_func\_bobbing
  {
- // … even more stuff …
+ // ... even more stuff ...
  self.think = func\_bobbing\_think;
  }
 To call a method of the same object, you would use
  self.think;
 but to call a method of another object, you first have to set *self* to that other object, but you typically need to restore *self* to its previous value when done:
  entity oldself;
- // …
+ // ...
  oldself = self;
  self.think;
  self = oldself;
@@ -325,7 +325,7 @@ If *nextthink* is not zero, the object gets an attached timer: as soon as *time*
  }
  void spawnfunc\_func\_awesome
  {
- // …
+ // ...
  self.think = func\_awesome\_think;
  self.nextthink = time + 2;
  }
@@ -336,19 +336,19 @@ repeatedly. This function is defined as follows:
  \* if *start* is *world*, the first entity *e* with *e.fieldmatch\_ is returned
   \* otherwise, the entity \_e\_ \*\*after\*\* \_start\_ in the entity order with \_e.fieldmatch* is returned
  \* if no such entity exists, *world* is returned
-It can be used to enumerate all entities of a given type, for example *“info\_player\_deathmatch”*:
+It can be used to enumerate all entities of a given type, for example *"info\_player\_deathmatch"*:
  entity e;
  for); )
- print, “”);
+ print, "");
 There are many other functions that can be used in find loops, for example *findfloat*, *findflags*, *findentity*.
 Note that the function *findradius* is misnamed and is not used as part of a find loop, but instead sets up a linked list of the entities found.
 h2. Linked lists
-An alternate way to loop through a set of entities is a linked list. I assume you are already familiar with the concept, so I’ll skip information about how to manage them.
+An alternate way to loop through a set of entities is a linked list. I assume you are already familiar with the concept, so I'll skip information about how to manage them.
 It is however noteworthy that some built-in functions create such linked lists using the *entity* field *chain* as list pointer. Some of these functions are the aforementioned *findradius*, and *findchain*, *findchainfloat*, *findchainflags* and *findchainentity*.
 A loop like the following could be used with these:
  entity e;
  for; e; e = e.chain)
- print, “”);
+ print, "");
 The main advantage of linked lists however is that you can keep them in memory by using other fields than *chain* for storing their pointers. That way you can avoid having to search all entities over and over again when you commonly need to work with the same type of entities.
 h2. Error handling
 Error handling is virtually non-existent in QuakeC code. There is no way to throw and handle exceptions.
@@ -369,22 +369,22 @@ To QuakeC, these are just strings~~ to actually use the connection, one would us
 h2. the enemy field and its friends
 As the find loop for*target\_ and *targetname* causes the engine to loop through all entities and compare their *targetname* field, it may make sense to do this only once when the map is loaded.
 For this, a common pattern is using the pre-defined *enemy* field to store the target of an entity.
-However, this can’t be done during spawning of the entities yet, as the order in which entities are loaded is defined by the map editor and tends to be random. So instead, one should do that at a later time, for example when the entity is first used, in a think function, or~~ the preferred way in the Xonotic code base - in an *InitializeEntity* function:
+However, this can't be done during spawning of the entities yet, as the order in which entities are loaded is defined by the map editor and tends to be random. So instead, one should do that at a later time, for example when the entity is first used, in a think function, or~~ the preferred way in the Xonotic code base - in an *InitializeEntity* function:
 
 void teleport\_findtarget()
  {
- // …
+ // ...
  self.enemy = find(world, targetname, self.target);
  if(!self.enemy)
- // some error handling…
- // …
+ // some error handling...
+ // ...
  }
 
 void spawnfunc\_trigger\_teleport()
  {
- // …
+ // ...
  InitializeEntity(self, teleport\_findtarget, INITPRIO\_FINDTARGET);
- // …
+ // ...
  }
 
 *InitializeEntity* functions are guaranteed to be executed at the beginning of the next frame, before the *think* functions are run, and are run in an order according to their priorities (the *INITPRIO*\_ constants).
@@ -394,11 +394,11 @@ if-chains
 
 With default compile options (i.e. if the option *~~flo\_ is not passed to the compiler), boolean expressions are evaluated fully. This means that in
  if)
- …
+ ...
 *SomeCompexFunction* is always evaluated, even if *flag* is true. To avoid this, one can use:
  if
  if)
- …
+ ...
 h2. Tracing
 
 h1. Pitfalls and compiler bugs
@@ -406,9 +406,9 @@ h2. complex operators
 Do not count on the modifying and reading operators like *+=* or *++* to always work. Using them in simple cases like:
  a *= 42;
  for
- …
+ ...
 is generally safe, but complex constructs like:
- self.enemy.frags*= self.value—;
+ self.enemy.frags*= self.value-;
 are doomed. Instead, split up such expressions into simpler steps:
  self.enemy.frags = self.enemy.frags + self.value;
  self.value~~= 1;
@@ -420,16 +420,16 @@ functions VS. arrays
 
 Mixing function calls with array dereferencing, or doing more than one array dereferencing in the same expression, is known to create incorrect code. Avoid constructs like:
 
-print(ftos(floatarray[i]), " —\> “, stringarray[i], anotherstringarray[i],”“);
+print(ftos(floatarray[i]), " -\> ", stringarray[i], anotherstringarray[i],"");
 as the array dereferencings and the *ftos* return value are likely to overwrite each other. Instead, simplify it:
 \<pre\>
 float f;
 string s, s2;
-// …
+// ...
 f = floatarray[i];
 s = stringarray[i];
 s2 = anotherstringarray[i];
-print(ftos(f),” —\> “, s, s2,”“);
+print(ftos(f)," -\> ", s, s2,"");
 \</pre\>
 h2. vectoangles does not match makevectors
 The pitch angle is inverted between these two functions. You have to negate the pitch (i.e. the *x* component of the vector representing the euler angles) to make it fit the other function.
@@ -438,7 +438,7 @@ h1. Entry points
 The server-side code calls the following entry points of the QuakeC code:
  \* **void ClientDisconnect**: called when a player leaves the server. Do not forget to *strunzone* all *strings* stored in the player entity here, and do not forget to clear all references to the player!
 ****void SV\_Shutdown()**: called when the map changes or the server is quit. A good place to store persistent data like the database of race records.
-** **void SV\_ChangeTeam**: called when a player changes his team. Can be used to disallow team changes, or to clear the player’s scores.
+** **void SV\_ChangeTeam**: called when a player changes his team. Can be used to disallow team changes, or to clear the player's scores.
 ****void ClientKill()**: called when the player uses the "kill" console command to suicide.
 ** **void RestoreGame**: called directly after loading a save game. Useful to, for example, load the databases from disk again.
 ****void ClientConnect()**: called as soon as a client has connected, downloaded everything, and is ready to play. This is the typical place to initialize the player entity.
@@ -446,7 +446,7 @@ The server-side code calls the following entry points of the QuakeC code:
 ****.float SendEntity(entity to, float sendflags)**: called when the engine requires a CSQC networked entity to send itself to a client, referenced by *to*. Should write some data to *MSG\_ENTITY*. *FALSE* can be returned to make the entity not send. See *EXT\_CSQC* for information on this.
 ** **void URI\_Get\_Callback**:
 ****void GameCommand(string command)**: called when the "sv\_cmd" console command is used, which is commonly used to add server console commands to the game. It should somehow handle the command, and print results to the server console.
-** **void SV\_OnEntityNoSpawnFunction**: called when there is no matching spawn function for an entity. Just ignore this…
+** **void SV\_OnEntityNoSpawnFunction**: called when there is no matching spawn function for an entity. Just ignore this...
 ****void SV\_OnEntityPreSpawnFunction**: called before even looking for the spawn function, so you can even change its classname in there. If it removes the entity, the spawn function will not be looked for.
 ** **void SV\_OnEntityPostSpawnFunction**: called ONLY after its spawn function or SV\_OnEntityNoSpawnFunction was called, and skipped if the entity got removed by either.
  \* **void SetNewParms**:
@@ -462,4 +462,4 @@ The server-side code calls the following entry points of the QuakeC code:
 ** **void StartFrame**: called at the beginning of each server frame, before anything else is done.
 ****void EndFrame()**: called at the end of each server frame, just before waiting until the next frame is due.
 ** **void SV\_PlayerPhysics**: allows to replace the player physics with your own code. The movement the player requests can be found in the *vector* field *movement*, and the currently pressed buttons are found in various fields, whose names are aliased to the *BUTTON*\_ macros.
-****void SV\_ParseClientCommand(string command)\*: handles commands sent by the client to the server using”cmd …". Unhandled commands can be passed to the built-in function *clientcommand* to execute the normal engine behaviour.
+****void SV\_ParseClientCommand(string command)\*: handles commands sent by the client to the server using"cmd ...". Unhandled commands can be passed to the built-in function *clientcommand* to execute the normal engine behaviour.

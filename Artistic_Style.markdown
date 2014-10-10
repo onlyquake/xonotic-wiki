@@ -1,7 +1,7 @@
 Artistic Style
 ==============
 
-This is a community project, so feel free to add new keywords, and elaborate on any part of this document. The wiki keeps every version of the page around, so you can also remove stuff which doesn’t fit anymore, since we can always go back to the previous versions.
+This is a community project, so feel free to add new keywords, and elaborate on any part of this document. The wiki keeps every version of the page around, so you can also remove stuff which doesn't fit anymore, since we can always go back to the previous versions.
 
 As soon as some work is done, we can add screenshots to support the description. For now, a textual description might suffice.
 If you **do** decide to add images, use thumbnails!

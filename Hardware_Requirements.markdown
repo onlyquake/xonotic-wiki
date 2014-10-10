@@ -10,9 +10,9 @@ Results are normally posted on the forums: http://forums.xonotic.org/showthread.
 
 \> To all users of git and autobuilds:
 \>
-\> please update, and then run “the big benchmark” as described on http://dev.xonotic.org/projects/xonotic/…quirements
+\> please update, and then run "the big benchmark" as described on http://dev.xonotic.org/projects/xonotic/...quirements
 \>
-\> Especially those of you who have performance problems are asked to run this. The test can, on older systems, take a few hours, so I’d recommend running it over night.
+\> Especially those of you who have performance problems are asked to run this. The test can, on older systems, take a few hours, so I'd recommend running it over night.
 \>
 \> It will generate a log file. Please send me that log file (e.g. via forum PM) and also the following system details:
 \>
@@ -32,7 +32,7 @@ Results are normally posted on the forums: http://forums.xonotic.org/showthread.
 
 ### Xonotic 0.6 / 0.7
 
-p(. Note: The benchmark list is sorted by “normal” FPS as primary sort key, “med” FPS as secondary, and so on towards lower detail presets.
+p(. Note: The benchmark list is sorted by "normal" FPS as primary sort key, "med" FPS as secondary, and so on towards lower detail presets.
 
 |*/2.Username |*/2.System |*/2.CPU |*/2.GHz|*/2.Cores|*/2.RAM|*/2.GPU Vendor |*/2.GPU Card |*/2.Graphics Driver |*/2.OS |*/2.Arch |*=.FPS |*/2.Notes |*/2.Log Download |
  | omg | low | med | normal| high | ultra | ultimate |
@@ -83,7 +83,7 @@ p(. Note: The benchmark list is sorted by “normal” FPS as primary sort key, 
 | cortez | desktop | Core 2 Quad Q6600 | 2 | 4 | 4G | NVIDIA Corporation | GeForce GTX 260/PCI/SSE2 | 3.3.0 | Windows 7 | x86 | 121 | 126 | 114 | 111 | 106 | 65 | 59 | | http://ompldr.org/vY21qeg |
 | tZork | SPAKULATORN | Intel Core i5 CPU M 450 | 2.4 | 2 | 6G | ATI Technologies Inc. | ATI Mobility Radeon HD 5470 | 3.2.9751 Compatibility Profile Context | Windows 7 | x64 | 167 | 152 | 136 | 107 | 70 | 51 | 29 | | http://ompldr.org/vY21keA |
 | halogene | whisper | AMD Athlon™ 64 X2 Dual Core Processor 3800+ | 2.0 | 2 | 1G | NVIDIA Corporation | GeForce 7950 GT/PCIe/SSE2 | 2.1.2 NVIDIA 304.88 | Linux | x86\_64 | 130 | 124 | 112 | 105 | 90 | 75 | 46 | after tweaking some desktop effects | http://forums.xonotic.org/showthread.php?tid=2562&pid=60299\#pid60299 |
-| halogene | whisper | AMD Athlon™ 64 X2 Dual Core Processor 3800+ | 2.0 | 2 | 1G | NVIDIA Corporation | GeForce 7950 GT/PCIe/SSE2 | 2.1.2 NVIDIA 304.88 | Linux | x86\_64 | 126 | 121 | 107 | 103 | 86 | 68 | 41 | OUTDATED, see entry for “whisper” above | http://forums.xonotic.org/showthread.php?tid=2562&pid=60057\#pid60057 |
+| halogene | whisper | AMD Athlon™ 64 X2 Dual Core Processor 3800+ | 2.0 | 2 | 1G | NVIDIA Corporation | GeForce 7950 GT/PCIe/SSE2 | 2.1.2 NVIDIA 304.88 | Linux | x86\_64 | 126 | 121 | 107 | 103 | 86 | 68 | 41 | OUTDATED, see entry for "whisper" above | http://forums.xonotic.org/showthread.php?tid=2562&pid=60057\#pid60057 |
 | Unknown[NF] | Xenon | Phenom X6 1090T | 3.2 | 6 | 16G | NVIDIA Corporation | GeForce 8800 GTX/PCIe/SSE2 | 3.3.0 | Windows 8 | X64 | 100 | 102 | 96 | 94 | 86 | 68 | 53 | Consumer Preview 296.17 Driver | http://ompldr.org/vY3o4dg |
 | Mirio | nn | Athlon 64 X2 3800+ | 2.0 | 2 | 1G | NVIDIA Corporation | GeForce 9800 GT/PCI/SSE2/3DNOW! | 3.1.0 | Windows XP (Home) | x86 | 106 | 105 | 96 | 92 | 86 | 55 | 45 | | http://ompldr.org/vY2lydA |
 | zgreg | - | | | | | ATI Technologies Inc. | AMD Radeon HD 6670 | 4.2.12217 Compatibility Profile Context 12.104.0.0 | Windows 7 | x64 | 105 | 89 | 91 | 83 | 71 | 67 | 51 | | http://greg.kinoho.net/big-benchmark.tar.xz |
@@ -106,7 +106,7 @@ p(. Note: The benchmark list is sorted by “normal” FPS as primary sort key, 
 | Ronan | laptop-2007 | Core Duo T2600 | 2.16 | 2 | 3G | ATI Technologies Inc | ATI MOBILITY RADEON X2300 | 2.1.8545 Release | Windows 7 | x86 | 38 | 35 | 32 | 24 | - | - | - | Legacy modded drivers | http://ompldr.org/vY2l3aw |
 | Sless | Optidrex 760 | Intel Core 2 Duo E7400 | 2.8 | 2 | 2G | Intel | Intel Eaglelake | 2.0.0 - Build 7.15.10.1545 | Windows Vista | x86 | 37 | 23 | 21 | 23 | 10 | 11 | 6 | Dell Optiplex 760 | http://dl.dropbox.com/u/51677128/misc/the-big-benchmark\_760.log |
 | edh | lastdecade/2 | Athlon XP 2000+ Palomino | 1.66 | ? | 768M | NVIDIA Corporation | Geforce FX5900 128Mb (BIOS modded to FX5950 Ultra) | 2.0.3 | Windows XP Pro | x86 | 50 | 48 | 41 | 21 | 15 | - | - | no offset mapping | http://forums.xonotic.org/showthread.php?tid=2562&pid=55084\#pid55084 |
-| edh | lastdecade/6 | Athlon XP 2400+ Thoroughbred | 2.025 | ? | 768M | NVIDIA Corporation | Radeon 9550 (BIOS modded to 9600, OC’ed) | 2.1 Mesa 9.0.1 | Linux | x86 | 56 | 45 | 38 | 21 | 16 | - | - | no offset mapping | http://forums.xonotic.org/showthread.php?tid=2562&pid=55084\#pid55084 |
+| edh | lastdecade/6 | Athlon XP 2400+ Thoroughbred | 2.025 | ? | 768M | NVIDIA Corporation | Radeon 9550 (BIOS modded to 9600, OC'ed) | 2.1 Mesa 9.0.1 | Linux | x86 | 56 | 45 | 38 | 21 | 16 | - | - | no offset mapping | http://forums.xonotic.org/showthread.php?tid=2562&pid=55084\#pid55084 |
 | edh | lastdecade/3 | Athlon XP 2000+ Palomino | 1.66 | ? | 768M | NVIDIA Corporation | Geforce FX5900 128Mb (BIOS modded to FX5950 Ultra) | 2.1.2 NVIDIA 173.14.36 | Linux | x86 | 52 | 48 | 41 | 20 | 15 | - | - | no offset mapping | http://forums.xonotic.org/showthread.php?tid=2562&pid=55084\#pid55084 |
 | freefang | OldMac | Intel Core 2 Duo | 2.16 | 2 | 2G | NVIDIA Corporation | NVIDIA GeForce 7300 GT OpenGL Engine | 2.1 NVIDIA-1.6.36 | OS X 10.6 | x86 | 59 | 57 | 46 | 18 | 7 | 6 | 4 | | http://ompldr.org/vY2xpYg |
 | Ronan | desktop | Core i7 920 | 3.36 | 4 | 24G | - | - | - | Linux | x64 | 71 | 48 | 40 | 16 | 15 | a) | a) | *vid\_soft 1 | http://ompldr.org/vY21mZg |
@@ -128,9 +128,9 @@ p(. Note: The benchmark list is sorted by “normal” FPS as primary sort key, 
 | divVerent | whitenot | Intel® Celeron® M processor| 0.63 | 1 | 2G | Tungsten Graphics, Inc | Mesa DRI Intel® 915GM x86/MMX/SSE2 | 1.4 Mesa 7.11.2 | Linux | x86 | 19 | 7 | 3 | b) | b) | b) | b) | Eee PC 701, 800x480 | http://ompldr.org/vY21jNg |
 | edh | LianLi | Pentium 3 Tualatin 256Kb | 1.0 | 2 | 384M | nouveau | Gallium 0.4 on NV31 | 1.5 Mesa 7.11.2 | Linux | x86 | 20 | 13 | - | b) | b) | b) | b) | Geforce FX5600 256Mb | http://forums.xonotic.org/showthread.php?tid=2562&pid=35521\#pid35521 |
 | cortez | netbook | Intel Atom | 1.6 | 1 | 1G | Intel | Intel 945GM | 1.4.0 - Build 7.14.10.4926 | Windows XP | x86 | 18 | 8 | - | b) | b) | b) | b) | Acer Aspire One, 640x480 | http://ompldr.org/vY2s0Zw |
-| edh | lastdecade/4 | Athlon XP 2000+ Palomino | 1.66 | ? | 768M | NVIDIA Corporation | Geforce FX5900 128Mb (BIOS modded to FX5950 Ultra) | 1.5 Mesa 9.0.1 | Linux | x86 | 49 | - | - | - | - | - | - | Nouveau driver, graphical errors after “omg” | http://forums.xonotic.org/showthread.php?tid=2562&pid=55084\#pid55084 |
+| edh | lastdecade/4 | Athlon XP 2000+ Palomino | 1.66 | ? | 768M | NVIDIA Corporation | Geforce FX5900 128Mb (BIOS modded to FX5950 Ultra) | 1.5 Mesa 9.0.1 | Linux | x86 | 49 | - | - | - | - | - | - | Nouveau driver, graphical errors after "omg" | http://forums.xonotic.org/showthread.php?tid=2562&pid=55084\#pid55084 |
 | edh | p3-550 | Pentium 3 | 0.55 | 1 | 320M | Tungsten Graphics, Inc. | Mesa DRI R200 (RV250 4966) x86/MMX/SSE TCL DRI2 | 1.3 Mesa 7.11.2 | Linux | x86 | 11 | - | - | b) | b) | b) | b) | Radeon 9000, crashed at low | http://forums.xonotic.org/showthread.php?tid=2562&pid=35179\#pid35179 |
-| edh | Craptop | Via C3-2 ‘Nehemiah’ | 1.2 | 1 | 256M | VIA Technology | Mesa DRI CastleRock (CLE266) x86/MMX/SSE | 1.2 Mesa 7.11.2 | Linux | x86 | 9 | - | - | b) | b) | b) | b) | Display errors at low, and about 0.1fps | http://forums.xonotic.org/showthread.php?tid=2562&pid=35646\#pid35646 |
+| edh | Craptop | Via C3-2 'Nehemiah' | 1.2 | 1 | 256M | VIA Technology | Mesa DRI CastleRock (CLE266) x86/MMX/SSE | 1.2 Mesa 7.11.2 | Linux | x86 | 9 | - | - | b) | b) | b) | b) | Display errors at low, and about 0.1fps | http://forums.xonotic.org/showthread.php?tid=2562&pid=35646\#pid35646 |
 |*/2.Username |*/2.System |*/2.CPU |*/2.GHz|*/2.Cores|*/2.RAM|*/2.GPU Vendor |*/2.GPU Card |*/2.Graphics Driver |*/2.OS |*/2.Arch |*/2=.FPS |*/2.Notes |*/2.Log Download |
 
 p(. **Result notes:**
@@ -145,9 +145,9 @@ How to run the benchmark
 
 First turn off any screen savers you may be running.
 
-Then, in misc/tools/the-big-benchmark/, run the-big-benchmark.sh or the-big-benchmark.bat depending on OS. Wait for about 1 hour, then - if it’s not done yet - you are allowed to quit the process by entering “quit” on the game console. The results will be saved in data/the-big-benchmark.log. Upload this file, and analyze it and enter the values here!
+Then, in misc/tools/the-big-benchmark/, run the-big-benchmark.sh or the-big-benchmark.bat depending on OS. Wait for about 1 hour, then - if it's not done yet - you are allowed to quit the process by entering "quit" on the game console. The results will be saved in data/the-big-benchmark.log. Upload this file, and analyze it and enter the values here!
 
-The lists are sorted by the “normal” column in descending order, where a - (test not been done due to taking too long) is still better than a disqualification. In case of equality, further sort criteria are chosen to the left.
+The lists are sorted by the "normal" column in descending order, where a - (test not been done due to taking too long) is still better than a disqualification. In case of equality, further sort criteria are chosen to the left.
 
 The fields have the following meanings and are extracted as follows:
 
@@ -221,7 +221,7 @@ MED: 10510 frames 157.8243561 seconds 66.5930168 fps, one-second fps min/avg/max
 
 lead to: 219, 215, 196, 186, 169, 103, 66
 
-If a run was not made (you then have less MED: lines), or if a run was incomplete for some reason (then the corresponding MIN: line does not show the same frame count as MAX:), a dash (“-”) is to be entered.
+If a run was not made (you then have less MED: lines), or if a run was incomplete for some reason (then the corresponding MIN: line does not show the same frame count as MAX:), a dash ("-") is to be entered.
 
 ### Notes
 

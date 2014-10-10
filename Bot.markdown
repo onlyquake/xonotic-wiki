@@ -30,7 +30,7 @@ Pathfinding
     ** Able to get out of lava, acid, etc
     **\* Ideally it should request quickly a new path to the pathfinder, instead of improvising on the movement code
     ** Never, ever, get stuck in the same place. Wander around if there nothing better to do.
-    \* Able to rocket-jump*(as a last resource measure, when they’re thrown into space void)\_
+    \* Able to rocket-jump*(as a last resource measure, when they're thrown into space void)\_
 
 -   Plan A - Waypoint based
     -   Avoid path congestion \_(this happens when more than one bot on the same team are traveling over the same path)\_

@@ -9,7 +9,7 @@ This will be made up of a group of select people from each regional community (N
 The purpose of XCT is to help plan and execute tasks related to community activity, such as building up clan activity and managing tournaments.
 
 Dokujisan is the community director of Xonotic and his main role is to help establish the organization of community activities.
-The activity that stems from the efforts of XCT won’t be based on Dokujisan’s decisions alone. The planning will be done in a group fashion.
+The activity that stems from the efforts of XCT won't be based on Dokujisan's decisions alone. The planning will be done in a group fashion.
 Of course, the activities decide by those in XCT need to be okay with the rest of **Team Xonotic**.
 
 So far, we have the following XCT members. These groups will group and change overtime.
@@ -61,7 +61,7 @@ Main elements of Xonotic community development
 The following will have more detail added soon. For now, here is an overview
 
 1.  Build interest from active players in clan activity
-2.  Establish “Batcave” like servers for pickup matches and training
+2.  Establish "Batcave" like servers for pickup matches and training
 3.  Utilize the \#xonotic.pickup channel for regular pickup matches
 4.  Plan tournaments
 5.  Create bootcamp training system for helping newcomers to jump to intermediate skill level quickly
@@ -110,7 +110,7 @@ Australia/New Zealand
 
 ### Clan Members
 
--   Bounty Hunters [\$] - alfredthetomato, BOGAN, [clan]clan, CARNAG3, DUST’N’BONES, kaepora\_gaebora
+-   Bounty Hunters [\$] - alfredthetomato, BOGAN, [clan]clan, CARNAG3, DUST'N'BONES, kaepora\_gaebora
 -   lzr - aurix, bones\_was\_here, killquick, wayno
 -   Old Farts [3\<**] - chooksta, Mickrip, MONK, Tinason, TurdMan2.0, Turkey Shoot, Zoltan,
     ** Questionable [?] - Fishman, Lithrem, Weasel
@@ -132,7 +132,7 @@ Southeast Asia
 
 ### Players in clans
 
--   MONK (he’s in an aussie clan, but lives in Japan)
+-   MONK (he's in an aussie clan, but lives in Japan)
 
 ### Intermediate or above palyers who are not in clans
 

@@ -4,7 +4,7 @@ Music contributions
 Contributions
 -------------
 
-This is the list of pre-selected tracks that we have so far **. Artist names are ordered alphabetically. Tracks not followed by “(S)” are missing sources, and therefore are not GPL or the source for them exists but has not been found. If the is no link, the sources are in our git repository, on http://www.xonotic.org/mapping/recommended-music-for-maps/ or on http://www.xonotic.org/mapping/recommended-music-for-maps/.waiting/
+This is the list of pre-selected tracks that we have so far **. Artist names are ordered alphabetically. Tracks not followed by "(S)" are missing sources, and therefore are not GPL or the source for them exists but has not been found. If the is no link, the sources are in our git repository, on http://www.xonotic.org/mapping/recommended-music-for-maps/ or on http://www.xonotic.org/mapping/recommended-music-for-maps/.waiting/
 |*.Artists|*.Tracks|Status|
 |/5.[blkrbt](http://soundcloud.com/blkrbt|*"Quiet":http://blkrbt.googlepages.com/nexuiz_quiet.ogg) ([S](http://blkrbt.googlepages.com/nexuiz_quiet.xrns)*|ACCEPTED|)
 |**[Traveler](http://blkrbt.googlepages.com/nexuiz_traveler.ogg) **|NEXT POLL|
@@ -24,22 +24,22 @@ This is the list of pre-selected tracks that we have so far **. Artist names are
 |[Unnecessary](http://pisarowitz.com/kay/Unnecessary.mp3|NEED) SOURCE|
 |[Scanning](http://pisarowitz.com/kay/Scanning.mp3|NEED) SOURCE|
 |[Sad Face](http://pisarowitz.com/kay/SadFace.mp3|NEED) SOURCE|
-|[Rat’s Heaven](http://pisarowitz.com/kay/ratsheaven.mp3|NEED) SOURCE|
+|[Rat's Heaven](http://pisarowitz.com/kay/ratsheaven.mp3|NEED) SOURCE|
 |[High End](http://pisarowitz.com/kay/HighEnd.mp3|NEED) SOURCE|
 |[Brutal](http://pisarowitz.com/kay/brutal.mp3|NEED) SOURCE|
 |[Breakfast](http://pisarowitz.com/kay/Breakfast.mp3|NEED) SOURCE|
 |[Sad Jungle](http://pisarowitz.com/kay/Sad%20Jungle2.mp3|NEED) SOURCE|
 |[DB7](http://pisarowitz.com/kay/DB7.mp3|NEED) SOURCE|
-|/7.[michaelb](http://michaelb.org/|"Forgotten) Tides“:http://www.jamendo.com/en/track/145959|NEED SOURCE|
-|”Symmetry“:http://www.jamendo.com/en/track/145611|NEED SOURCE|
-|”Twenty Six Hundred“:http://www.jamendo.com/en/track/145612|NEED SOURCE|
-|”Alive“:http://www.jamendo.com/en/track/145559|NEED SOURCE|
-|”Unexpected Incident“:http://www.jamendo.com/en/track/145616|NEED SOURCE|
-|”Controlled decay“:http://www.jamendo.com/en/track/145567|NEED SOURCE|
-|”Battle Sequence“:http://michaelb.org/music/music/symphonic/michaelb-battle\_sequence.mp3|NEED SOURCE|
-|/15.”SC0RP“:http://soundcloud.com/sc0rp|”Xonotic Theme Tune v2“:http://soundcloud.com/sc0rp/xonotic-theme-tune-v-2|NEED SOURCE|
-|”Electrolosis“:http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP\_ELECTROLOSIS.ogg|NEED SOURCE|
-|”In A Dream“:http://soundcloud.com/sc0rp/in-a-dream|NEED SOURCE|
+|/7.[michaelb](http://michaelb.org/|"Forgotten) Tides":http://www.jamendo.com/en/track/145959|NEED SOURCE|
+|"Symmetry":http://www.jamendo.com/en/track/145611|NEED SOURCE|
+|"Twenty Six Hundred":http://www.jamendo.com/en/track/145612|NEED SOURCE|
+|"Alive":http://www.jamendo.com/en/track/145559|NEED SOURCE|
+|"Unexpected Incident":http://www.jamendo.com/en/track/145616|NEED SOURCE|
+|"Controlled decay":http://www.jamendo.com/en/track/145567|NEED SOURCE|
+|"Battle Sequence":http://michaelb.org/music/music/symphonic/michaelb-battle\_sequence.mp3|NEED SOURCE|
+|/15."SC0RP":http://soundcloud.com/sc0rp|"Xonotic Theme Tune v2":http://soundcloud.com/sc0rp/xonotic-theme-tune-v-2|NEED SOURCE|
+|"Electrolosis":http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP\_ELECTROLOSIS.ogg|NEED SOURCE|
+|"In A Dream":http://soundcloud.com/sc0rp/in-a-dream|NEED SOURCE|
 |**[Inner Peace](http://soundcloud.com/sc0rp/inner-peace) **|NEXT POLL|
 |**[Meltdown](http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_MELTDOWN.ogg) **|ADDED|
 |**[Neon](http://mand1nga.com.ar/xonotic/music/SC0RP/SC0RP_NEON.ogg) **|ACCEPTED|
@@ -70,9 +70,9 @@ This is the list of pre-selected tracks that we have so far **. Artist names are
 |[Ribcage 2](http://www.mickrippon.com/temp/ribcage2.ogg|REJECTED|)
 |/1.divVerent|**[Foo hundred and eighty](http://rm.endoftheinternet.org/~xonotic/foo180.ogg) **|NEXT POLL|
 h2. Status legend
-** NEED SOURCE: the track needs source files and won’t be considered until source is presented
+** NEED SOURCE: the track needs source files and won't be considered until source is presented
 ** NEXT POLL: the track will appear in the next poll
-** REJECTED: track was decided to not to be used in Xonotic for now. However, a new map using that track, especially if it works very well with it, can possibly bring the track”back to life".
+** REJECTED: track was decided to not to be used in Xonotic for now. However, a new map using that track, especially if it works very well with it, can possibly bring the track"back to life".
 ** ACCEPTED: the track is provided on http://www.xonotic.org/mapping/recommended-music-for-maps/ and is just waiting for someone to use it on an official map
 ** ADDED: the track has been added to the git repository
 
@@ -82,6 +82,6 @@ Potential contributors
 People interested in contributing music:
 \* ProfessorKliq
 **\* http://professorkliq.com/guns.html
-**\* He’s willing to work with *Tenshihan* and *michaelb* for an orchestral + Techno sort of style.
+**\* He's willing to work with *Tenshihan* and *michaelb* for an orchestral + Techno sort of style.
 \* d3adrocks
 \*\* http://forums.xonotic.org/showthread.php?tid=245

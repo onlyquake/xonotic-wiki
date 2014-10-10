@@ -19,7 +19,7 @@ These maps are often the same shape as rectangular maps, but have many different
 
 **Levels**: Mikectf, moonstone
 **Advantages**: Interesting game play, making confrontation with the enemy less frequent, bringing the game back to capture the flag. Deference is a little harder unless spawn points are in base.
-**Disadvantages**: Carrier is easily hidden. Often resulting in a stalemates which slows game play. Players have to work all positions on the field to be successful. Game becomes very “chase to flag carrier through the tunnels”
+**Disadvantages**: Carrier is easily hidden. Often resulting in a stalemates which slows game play. Players have to work all positions on the field to be successful. Game becomes very "chase to flag carrier through the tunnels"
 
 S- or Z-shaped
 --------------

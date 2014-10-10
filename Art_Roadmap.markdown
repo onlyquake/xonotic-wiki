@@ -1,4 +1,4 @@
-THIS PAGE IS OUT OF DATE ….
+THIS PAGE IS OUT OF DATE ....
 ===========================
 
 3D Art Roadmap
@@ -33,7 +33,7 @@ h2. Weapon Models
 |Fireball|||LJFHutch|INCOMPLETE|INCOMPLETE|Mesh and Textures|LJFHutch|IN PROGRESS|{{div\_start\_tag}}HIGH{{div\_end\_tag}}|
 |Porto|=.NOT ASSIGNED|{{div\_start\_tag}}LOW{{div\_end\_tag}}|
 |HookGun|=.NOT ASSIGNED|{{div\_start\_tag}}LOW{{div\_end\_tag}}|
-|HLAC|=.NOT ASSIGNED…|}LOWISH{{div\_end\_tag}}|
+|HLAC|=.NOT ASSIGNED...|}LOWISH{{div\_end\_tag}}|
 
 h2. Items/Pickups
 |*.Name|*.Style|*.Thread(s)|*.Concept|*.Mesh|*.Textures|*.TODO|*.Artist|*.Status|*.Git Branch|*.Priority|
@@ -105,7 +105,7 @@ Textures
 |trak4x|Brick, walls, tiles|NA|trak4|NA|trak, tZork|COMPLETED|MASTER|
 |trak5x|Black futuristic|NA|trak5|NA|trak, tZork|COMPLETED|MASTER|
 |eXx|Rusty Metal|NA|eX|NA|Original Artist(unsure),tZork|COMPLETED|MASTER|
-|facility114|White clean Futuristic|“1”:http://forums.xonotic.org/showthread.php?tid=337&highlight=facility114|NA|NA|Oblivion|COMPLETED|MASTER|
+|facility114|White clean Futuristic|"1":http://forums.xonotic.org/showthread.php?tid=337&highlight=facility114|NA|NA|Oblivion|COMPLETED|MASTER|
 |techpanels|Rusty metal|NA|NA|Add gloss and two or three more textures|theShadow|IN PROGRESS|NA|
 |untitled|NA|NA|NA|Make textures|nifrek|IN PROGRESS|NA|
 
@@ -137,7 +137,7 @@ Logo and Collateral
 
 |Name|Description|Thread(s)|TODO|Artist(s)|Status|
 |----|-----------|---------|----|---------|------|
-|Logo Refinement|The current logo is a little rough around the edges and needs more available source, problems identified more in depth in [thread 442]|“1”:http://forums.xonotic.org/showthread.php?tid=442|NA|~~z~~, others?|In Progress|
+|Logo Refinement|The current logo is a little rough around the edges and needs more available source, problems identified more in depth in [thread 442]|"1":http://forums.xonotic.org/showthread.php?tid=442|NA|~~z~~, others?|In Progress|
 |Icon|This can be argued to fall under the logo refinement but we need a standard size icon set in various color and black and white|NA|NA|~~z~~, others?|In Progress|
 
 Web Design/PR

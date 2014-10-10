@@ -1,0 +1,86 @@
+Website
+=======
+
+{{\>toc}}
+
+An integrated wordpress and mybb system.
+
+Wordpress
+---------
+
+### Plugins & Features
+
+-   http://www.tevine.com/projects/voteitup/
+
+-   http://wordpress.org/extend/plugins/tdo-mini-forms/ — look into this
+
+-   Gallery with public and user upload
+
+-   Map Repository
+
+-   User Surveys/Polls
+
+MyBB
+----
+
+### Plugins & Features
+
+Goals
+-----
+
+-   Create a theme for Wordpress and MyBB to share
+
+Needed
+------
+
+### Art
+
+-   Splash image for the login / waiting screen on the forum
+-   Website design
+
+SSO (Single Sign On)
+--------------------
+
+(psychcf) After talking with z, here’s what we know we want to do:
+\* Have a centralized authentication system using LDAP
+**\* Write a plugin for mybb to auth against it
+**\* Find a plugin for wordpress to auth against it
+**\* The reasoning behind this would be that it would be easier to add other web apps to it later, and even have the dev site and git server auth against the ldap server.
+** Later down the road we want to do an in-game community sort of thing
+**\* There would be achievements and statistics, server listings, possibly a friend/clan management thing, etc.
+**\* This would be accessible through the game through an exposed RPC service of some sort
+**\* For achievements, we need to come up with some way of preventing people from cheating by just calling the RPC functions from some script
+** We could use django or some other framework to do this pretty quickly
+**\* In-game chat between players/clan members could be done by running a jabber server on the hosting side, then writing some sort of client for it in the game, although this would be more complicated.
+
+h2. Forum structure
+h3. General
+Post anything about anything here
+h3. Xonotic - News & Announcements
+Comment on the news and view past news
+h3. Xonotic - Help & Troubleshooting
+h3. Xonotic - Bug Report
+h3. Xonotic - Editing
+Post anything to do with editing Xonotic here.
+Whether its problems you’ve had, questions, or if you just want to show off your work.
+h3. Xonotic - Contests
+Mapping, modding contests, FOTM, and more.
+h3. Xonotic - Gameplay
+Discuss Xonotic gameplay here.
+h3. Xonotic - Configuration Tips
+Tips on how to tweak Xonotic for the best performance, gameplay, etc
+h3. Xonotic - Development
+Developer discussion of experimental fixes, changes, and improvements.
+h3. Xonotic - Map Releases
+
+h3. Xonotic - Map Reviews
+Community reviews of maps .
+\_Comment: This is likely to be confused with the Map Releases section. Do we want to keep this section? \_
+h3. Xonotic - Server Administration
+h3. Xonotic - Competition
+** Clan Discussion
+\* Clan League
+\* 1v1 Matches
+\* 2v2 Matches
+\* CTF Matches
+\* Tournaments

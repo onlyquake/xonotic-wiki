@@ -27,7 +27,7 @@ Project
 Gameplay
 --------
 
--   [HALOGENE'S NEWBIE CORNER](Halogene's_Newbie_Corner)
+-   [HALOGENE'S NEWBIE CORNER](Halogenes_Newbie_Corner)
     -   [Movement](Halogene's Newbie Corner\#Movement)
         -   [Bunny Hopping](Halogene's Newbie Corner\#Bunny Hopping)
         -   [Laser Jumping](Halogene's Newbie Corner\#Laser Jumping)

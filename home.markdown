@@ -1,7 +1,6 @@
 Xonotic Wiki
 ============
 
-{{\>toc}}
 
 This is a wiki / development system where we can gather information for the future of this project.
 

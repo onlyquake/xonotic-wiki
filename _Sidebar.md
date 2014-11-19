@@ -1,4 +1,4 @@
-**Quick Resources**
+### Quick Resources
 
 [[Repository Access|Repository\_Access]]
 [[Frequently Asked Questions|Faq]]
@@ -6,4 +6,3 @@
 [[Git]]
 [[Art Roadmap|Art\_Roadmap]]
 [[Xonotic Logo|Logo]]
-

@@ -1,8 +1,6 @@
 QuakeC
 ======
 
-{{\>toc}}
-
 Article TODO
 ------------
 

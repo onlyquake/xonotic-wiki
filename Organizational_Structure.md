@@ -1,8 +1,6 @@
 Core Team
 =========
 
-{{\>toc}}
-
 The Core team consists of 6 members who discuss and vote on large project changes. This international group of leaders is a classic group of collaborators who above all else, will try and do what’s best for the game and community.
 
 -   [divVerent](http://forums.xonotic.org/member.php?action=profile&uid=4)
@@ -91,10 +89,6 @@ To help organize and guide the growth of the community / street team.
 ### Writers
 
 To write articles about xonotic and related things.
-
-### Ruby Developers
-
-To customize redmine for the project needs.
 
 ### PHP Developers
 

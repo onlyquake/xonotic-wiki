@@ -1,8 +1,6 @@
 Textures in Xonotic
 ===================
 
-{{\>toc}}
-
 There are 2 material/texture systems in Xonotic that can work together.
 
 System one

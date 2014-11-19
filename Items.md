@@ -1,8 +1,6 @@
 Items
 =====
 
-{{\>toc}}
-
 Health
 ------
 

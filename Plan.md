@@ -1,8 +1,6 @@
 Organization
 ============
 
-{{\>toc}}
-
 -   3-6 leaders at the top
     -   board or committee of community members who act as liaisons between developers, players, leaders and other communities to help make sure the most important information is getting to the leaders
 -   “big” decisions (like whole new gameplay balance) should be approved by ALL leaders, who stand personally for the community

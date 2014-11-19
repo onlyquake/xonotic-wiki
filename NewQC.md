@@ -1,8 +1,6 @@
 New QC Syntax
 =============
 
-{{\>toc}}
-
 It is possible that at some point we decide to switch QC-compiler which requires some changes to the code.
 
 **For more information see** http://dev.xonotic.org/projects/bocc

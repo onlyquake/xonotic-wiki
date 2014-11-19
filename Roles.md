@@ -1,8 +1,6 @@
 Roles and Skills
 ================
 
-{{\>toc}}
-
 This page provides an overview of many of the roles/skills of contributing community members.
 
 Game Development

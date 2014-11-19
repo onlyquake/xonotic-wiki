@@ -1,8 +1,6 @@
 Names
 =====
 
-{{\>toc}}
-
 We agreed we should TAKE OUR TIME in picking out a proper name.
 We have a plan A/B for ideal name choice
 A) A name with an available .com (we’ll of course get the .org too)

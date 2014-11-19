@@ -1,8 +1,6 @@
 Music
 =====
 
-{{\>toc}}
-
 Requirements
 ------------
 

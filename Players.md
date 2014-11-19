@@ -1,8 +1,6 @@
 Players
 =======
 
-{{\>toc}}
-
 Erebus
 ------
 

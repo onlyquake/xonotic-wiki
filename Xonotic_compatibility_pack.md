@@ -1,8 +1,6 @@
 Xonotic compatibility pack
 ==========================
 
-{{\>toc}}
-
 The following images and sounds have Nexuiz branding and ‘n’ logos or are associated with the Nexuiz game. They need to be changed ASAP.
 
 Some of these items may be deleted. If they are (and not replaced), and are map-time data (like shader or textures) they need to go into the Nexuiz compatibility package.

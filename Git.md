@@ -1,8 +1,6 @@
 Git
 ===
 
-{{\>toc}}
-
 After cloning the repository
 ----------------------------
 

@@ -1,8 +1,6 @@
 Community development
 =====================
 
-{{\>toc}}
-
 Dokujisan is forming a group called the XCT or Xonotic Community Team
 This will be made up of a group of select people from each regional community (North america, Europe, Australia.
 

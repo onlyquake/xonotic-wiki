@@ -1,8 +1,6 @@
 .framegroups File
 =================
 
-{{\>toc}}
-
 This file is needed to make md3, dpm, or iqm models play some animations in Xonotic.
 
 For modelers

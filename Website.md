@@ -1,8 +1,6 @@
 Website
 =======
 
-{{\>toc}}
-
 An integrated wordpress and mybb system.
 
 Wordpress

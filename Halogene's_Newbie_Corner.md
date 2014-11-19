@@ -1,7 +1,5 @@
 ![Halogene's Newbie Corner](http://www.xonotic.org/m/uploads/2014/04/newbie-corner-banner-thumb.png "Halogene's Newbie Corner"):http://www.xonotic.org/m/uploads/2012/09/newbie-corner-banner2.png
 
-{{\>toc}}
-
 Preface
 =======
 

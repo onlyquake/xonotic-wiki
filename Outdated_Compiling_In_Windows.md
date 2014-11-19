@@ -1,8 +1,6 @@
 Compiling in Windows
 ====================
 
-{{\>toc}}
-
 **THIS IS OUTDATED**: the versions of MinGW and MSYS are not recent enough to compile Xonotic. **Do not use xonpatch.** If you want to set up a build environment, you will need the tools mentioned in this deprecated article in more recent versions. Feel free to ask for assistance on the forums or on ouc IRC channels. If you succeed, please consider updating this page.
 
 **NOTE**: there is an experimental automated building pack for Windows that uses a portable version of the tools mentioned in this article.

@@ -1,8 +1,6 @@
 Xonotic Wiki
 ============
 
-{{\>toc}}
-
 This is a wiki / development system where we can gather information for the future of this project.
 
 Project
@@ -13,7 +11,7 @@ Project
 -   Check out our [[Project Plan|Plan]] so far
 -   [[Organizational Structure|Organizational\_Structure]]
 -   [[Roles and Skills|Roles]] of contributing community members
--   [[IRC channels|IRC]]
+-   [[IRC channels|Channels]]
 -   [[Community development|Community\_development]] planning
 -   [[Licensing / Legal|Legal]]
 -   [[Announcements]]
@@ -178,6 +176,5 @@ References
 ----------
 
 -   [[Git]]
--   [Redmine Wiki formatting](http://www.redmine.org/wiki/1/RedmineTextFormatting)
 -   [[Forbidden disposable e-mail providers|Forbidden\_disposable\_e-mail\_providers]]
 

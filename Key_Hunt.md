@@ -1,7 +1,8 @@
 Key Hunt (KH)
 =============
 
-![](http://pics.nexuizninjaz.com/images/6498jb823699s0xkz726.jpg) ![](http://pics.nexuizninjaz.com/images/wwkcbz3r5gtyuhwi.jpg)
+![](http://pics.nexuizninjaz.com/images/6498jb823699s0xkz726.jpg)
+![](http://pics.nexuizninjaz.com/images/wwkcbz3r5gtyuhwi.jpg)
 
 Object of the Game
 ------------------

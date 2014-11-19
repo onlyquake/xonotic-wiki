@@ -5,17 +5,17 @@ Official Xonotic Media Channels for PR
 --------------------------------------
 
 News updates
-\* Blog - http://www.xonotic.org/team/blog/
-\* Twitter - http://www.twitter.com/xonotic
-\* Identica - http://identi.ca/xonotic
-\* Desura - http://www.desura.com/games/xonotic
-\* Facebook - http://www.facebook.com/xonotic
+-   Blog - http://www.xonotic.org/team/blog/
+-   Twitter - http://www.twitter.com/xonotic
+-   Identica - http://identi.ca/xonotic
+-   Desura - http://www.desura.com/games/xonotic
+-   Facebook - http://www.facebook.com/xonotic
 
 Video content
-\* YouTube - http://www.youtube.com/xonotic
+-   YouTube - http://www.youtube.com/xonotic
 
 Informational
-\* Wikipedia - http://en.wikipedia.org/wiki/Xonotic
+-   Wikipedia - http://en.wikipedia.org/wiki/Xonotic
 
 Public Relations
 ================
@@ -122,7 +122,8 @@ Details or topics we will not mention in our announcement
 ---------------------------------------------------------
 
 (better to spread them out for future announcements)
-\# Central user system
-\# Website features
-\# Details about roles
+
+1.  Central user system
+2.  Website features
+3.  Details about roles
 

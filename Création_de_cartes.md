@@ -35,12 +35,12 @@ Les cartes sont emballé comme un fichier .zip avec une extension .pk3. Ils peuv
 
 #### Fichiers requis
 
-maps/<mapname>.bsp - Ceci est votre fichier de carte compilé
-maps/<mapname>.map - Ceci est un jeu open-source, aider les autres à apprendre. Ce fichier est requis pour être dans le match.
-maps/<mapname>.mapinfo - Ce fichier a la méta-information, le suivi mondial de la musique, mode de jeu (s) et les paramètres de jeu
-maps/<mapname>.tga|png|jpg - Ce fichier est une capture d’écran de votre carte. Si vous n’incluez pas cela, vous carte ne possède pas de photo dans le menu ou l’écran de vote pour les serveurs et pleurer les anges.
-maps/<mapname>.waypoints - Ceci est nécessaire pour être ajouté au jeu, c’est pour les bots [[ajouter des points de passages|points de passages]
-maps/gfx/<mapname>\_mini.tga|png|jpg - Ceci est nécessaire pour être ajouté au jeu, c’est un radar de la carte. Ceux-ci peuvent être générés avec la commande “\<”.
+`maps/<mapname>.bsp` - Ceci est votre fichier de carte compilé
+`maps/<mapname>.map` - Ceci est un jeu open-source, aider les autres à apprendre. Ce fichier est requis pour être dans le match.
+`maps/<mapname>.mapinfo` - Ce fichier a la méta-information, le suivi mondial de la musique, mode de jeu (s) et les paramètres de jeu
+`maps/<mapname>.tga|png|jpg` - Ce fichier est une capture d’écran de votre carte. Si vous n’incluez pas cela, vous carte ne possède pas de photo dans le menu ou l’écran de vote pour les serveurs et pleurer les anges.
+`maps/<mapname>.waypoints` - Ceci est nécessaire pour être ajouté au jeu, c’est pour les bots [[ajouter des points de passages|points de passages]
+`maps/gfx/<mapname>\_mini.tga|png|jpg` - Ceci est nécessaire pour être ajouté au jeu, c’est un radar de la carte. Ceux-ci peuvent être générés avec la commande “\<”.
 
 #### Facultatif / Fichiers suggérée
 
@@ -48,33 +48,33 @@ Ce n’est pas une liste exhaustive, souvenez-vous, vous pouvez inclure presque 
 
 #### Fichiers que vous devriez jamais inclure
 
-csprogs.dat
-progs.dat
-effectsinfo.txt
+csprogs.dat  
+progs.dat  
+effectsinfo.txt  
 
 En incluant l’un des fichiers ci-dessus, vous pourriez provoquer des résultats indésirables. Essayez d’utiliser le sens commun sur la façon dont vous ajoutez dimension à votre carte, si vous avez des questions, demandez de l’aide.
 
 Exemples
 --------
 
-maps/tutorial-world-v1\_r2.bsp
-maps/tutorial-world-v1\_r2.map
-maps/tutorial-world-v1\_r2.mapinfo
-maps/tutorial-world-v1\_r2.png
-maps/tutorial-world-v1\_r2.waypoints
-maps/gfx/tutorial-world-v1\_r2\_mini.png
-maps/models/tutorial-world/crate.md3
-maps/models/tutorial-world/jumppad.md3
-scripts/tutorial-world/map-tutorial-world.shader
-maps/sound/cdtracks/tutorial-world/main-room.ogg
-maps/sound/tutorial-world/jumppad.ogg
-maps/sound/tutorial-world/wind.ogg
-maps/textures/tutorial-world/base\_1.tga
-maps/textures/tutorial-world/floor\_1.tga
-maps/textures/tutorial-world/floor\_2.tga
-maps/textures/tutorial-world/floor\_1.tga
-maps/textures/tutorial-world/wall\_1.tga
-maps/textures/tutorial-world/wall\_2.tga
+maps/tutorial-world-v1\_r2.bsp  
+maps/tutorial-world-v1\_r2.map  
+maps/tutorial-world-v1\_r2.mapinfo  
+maps/tutorial-world-v1\_r2.png  
+maps/tutorial-world-v1\_r2.waypoints  
+maps/gfx/tutorial-world-v1\_r2\_mini.png  
+maps/models/tutorial-world/crate.md3  
+maps/models/tutorial-world/jumppad.md3  
+scripts/tutorial-world/map-tutorial-world.shader  
+maps/sound/cdtracks/tutorial-world/main-room.ogg  
+maps/sound/tutorial-world/jumppad.ogg  
+maps/sound/tutorial-world/wind.ogg  
+maps/textures/tutorial-world/base\_1.tga  
+maps/textures/tutorial-world/floor\_1.tga  
+maps/textures/tutorial-world/floor\_2.tga  
+maps/textures/tutorial-world/floor\_1.tga  
+maps/textures/tutorial-world/wall\_1.tga  
+maps/textures/tutorial-world/wall\_2.tga  
 
 *ajoutez une carte bien emballée*
 
@@ -101,5 +101,5 @@ Aide
 \#xonotic.editing on irc.quakenet.org
 http://forums.xonotic.org
 
-[[Creating Maps|English]]
+[[English|Creating_Maps]]
 

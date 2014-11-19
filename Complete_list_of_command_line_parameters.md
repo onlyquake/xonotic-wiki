@@ -17,7 +17,7 @@ Common options
 BSP stage
 ---------
 
--   **`-bsp` … filename.map:** Switch that enters this stage
+-   **`-bsp` ... filename.map:** Switch that enters this stage
 -   **`-altsplit`:** Alternate BSP tree splitting weights (should give more fps)
 -   **`-celshader` shadername:** Sets a global cel shader name
 -   **`-custinfoparms`:** Read scripts/custinfoparms.txt
@@ -59,7 +59,7 @@ BSP stage
 VIS stage
 ---------
 
--   **`-vis` … filename.map:** Switch that enters this stage
+-   **`-vis` ... filename.map:** Switch that enters this stage
 -   **`-fast`:** Very fast and crude vis calculation
 -   **`-mergeportals`:** The less crude half of `-merge`, makes vis sometimes much faster but doesn’t hurt fps usually
 -   **`-merge`:** Faster but still okay vis calculation
@@ -73,8 +73,8 @@ VIS stage
 LIGHT stage
 -----------
 
--   **`-light` … filename.map:** Switch that enters this stage
--   **`-vlight` … filename.map:** Deprecated alias for `-light -fast` … filename.map
+-   **`-light` ... filename.map:** Switch that enters this stage
+-   **`-vlight` ... filename.map:** Deprecated alias for `-light -fast` ... filename.map
 -   **`-approx` N:** Vertex light approximation tolerance (never use in conjunction with deluxemapping)
 -   **`-areascale` F, `-area` F:** Scaling factor for area lights (surfacelight)
 -   **`-border`:** Add a red border to lightmaps for debugging
@@ -159,19 +159,22 @@ LIGHT stage
 Analyzing BSP-like file structure
 ---------------------------------
 
--   **`-analyze` … filename.bsp:** Switch that enters this mode
+-   **`-analyze` ... filename.bsp:** Switch that enters this mode
 -   **`-lumpswap`:** Swap byte order in the lumps
 
 Converting & Decompiling
 ------------------------
 
--   **`-convert` … filename.bsp:** Switch that enters this mode
+-   **`-convert` ... filename.bsp:** Switch that enters this mode
 -   **`-de` number:** Distance epsilon for the conversion
 -   **`-format` converter:** Select the converter (available: map, ase, or game names)
 -   **`-ne` F:** Normal epsilon for the conversion
--   **`-shadersasbitmap`:** (only for ase) use the shader names as **BITMAP key so they work as prefabs
-    h2. Exporting lightmaps
-    ** **`-export` filename.bsp:** Copies lightmaps from the BSP to filename/lightmap\_0000.tga ff
+-   **`-shadersasbitmap`:** (only for ase) use the shader names as \*BITMAP key so they work as prefabs
+
+Exporting lightmaps
+-------------------
+
+-   **`-export` filename.bsp:** Copies lightmaps from the BSP to `filename/lightmap_0000.tga` ff
 
 Fixing AAS checksum
 -------------------
@@ -186,12 +189,12 @@ Get info about BSP file
 Importing lightmaps
 -------------------
 
--   **`-import` filename.bsp:** Copies lightmaps from filename/lightmap\_0000.tga ff into the BSP
+-   **`-import` filename.bsp:** Copies lightmaps from `filename/lightmap_0000.tga` ff into the BSP
 
 MiniMap
 -------
 
--   **`-minimap` … filename.bsp:** Creates a minimap of the BSP, by default writes to `../gfx/filename_mini.tga`
+-   **`-minimap` ... filename.bsp:** Creates a minimap of the BSP, by default writes to `../gfx/filename_mini.tga`
 -   **`-black`:** Write the minimap as a black-on-transparency RGBA32 image
 -   **`-boost` F:** Sets the contrast boost value (higher values make a brighter image); contrast boost is somewhat similar to gamma, but continuous even at zero
 -   **`-border` F:** Sets the amount of border pixels relative to the total image size

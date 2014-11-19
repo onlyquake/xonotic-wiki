@@ -20,7 +20,7 @@ Instantly you will be able to look anywhere and change the camera position using
 
 ### Camera angles
 
-Like I said before you can control vertical and horizontal angles using the mouse. To rotate the view you need to use the commands +roll\_right and +roll\_left. Probably you will want to bind them to keyboard keys with something like:
+Like I said before you can control vertical and horizontal angles using the mouse. To rotate the view you need to use the commands `+roll_right` and `+roll_left`. Probably you will want to bind them to keyboard keys with something like:
 
     bind e +roll_right
     bind q +roll_left
@@ -39,5 +39,5 @@ The camera has two modes: chase and free. By default the camera starts in chase 
 Advanced usage
 --------------
 
-For more advanced configuration variables look for the prefix camera\_ in the advanced settings menu: Settings-\>Misc-\>Advanced Settings…
+For more advanced configuration variables look for the prefix `camera_` in the advanced settings menu: Settings-\>Misc-\>Advanced Settings...
 

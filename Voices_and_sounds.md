@@ -1,7 +1,7 @@
 Voices and sounds
 =================
 
-Each player model should have a .sounds file, named with the syntax <code><name of model><format of mode>\_0.sounds</code>. So for Ignis, the sound file would be <code>ignis.iqm\_0.sounds</code>. This file will give a voice to the player model, allowing it to make noises and so on.
+Each player model should have a .sounds file, named with the syntax `<name of model><format of mode>_0.sounds`. So for Ignis, the sound file would be `ignis.iqm_0.sounds`. This file will give a voice to the player model, allowing it to make noises and so on.
 
 There are 32 lines in a .sounds file, which looks something like this:
 
@@ -42,15 +42,13 @@ The first line is not read by the game, it is simply for humans to tell which vo
 
 For every line after that, the format is the same:
 
-<code>
-<sound name> <sound path> <variations of sound>
-</code>
+    <sound name> <sound path> <variations of sound>
 
-Sound name is the name of the sound, as can be seen in the example .sounds file above. Sound path is the path to the sound file, relative to xonotic root. The last argument is the number of variations of the sound. For instance, insurrectionist has 3 teamshoot sound files, named <code>teamshoot1.ogg</code>, <code>teamshoot2.ogg</code>, and <code>teamshoot3.ogg</code>. This is why the last number in line 22 is a 3. However, insurrectionist has only one attack sound, <code>attack.ogg</code>, so the last number in line 3 is 0.
+Sound name is the name of the sound, as can be seen in the example .sounds file above. Sound path is the path to the sound file, relative to xonotic root. The last argument is the number of variations of the sound. For instance, insurrectionist has 3 teamshoot sound files, named `teamshoot1.ogg`, `teamshoot2.ogg`, and `teamshoot3.ogg`. This is why the last number in line 22 is a 3. However, insurrectionist has only one attack sound, `attack.ogg`, so the last number in line 3 is 0.
 
-The <code>//</code> you see in certain lines means that the voice pack used in the file does not have those sounds. They are sort of like a comment - the game throws an error while parsing them, but it does not affect anything else.
+The `//` you see in certain lines means that the voice pack used in the file does not have those sounds. They are sort of like a comment - the game throws an error while parsing them, but it does not affect anything else.
 
-Entries up to line 23 are voice entries, meaning that in a perfect world a player can evoke them using <code>cmd voice <name of voice></code>, but few of them are supported in game code. Line 23 and onward are voices the player makes automatically, when falling, taking damage, fragging, and so on.
+Entries up to line 23 are voice entries, meaning that in a perfect world a player can evoke them using `cmd voice <name of voice>`, but few of them are supported in game code. Line 23 and onward are voices the player makes automatically, when falling, taking damage, fragging, and so on.
 
 Unfortunately, these 9 voice packs only have a few sounds in common, as voice packs frequently lack certain voices. The easiest way to fix this problem would be to include new voice packs in xonotic, but this may not happen due to a lack of people with voices and microphones.
 

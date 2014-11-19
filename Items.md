@@ -39,8 +39,6 @@ Armor
 
 ![](http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png)
 
-**\_
-
 Ammo
 ----
 

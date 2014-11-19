@@ -5,7 +5,7 @@ First Public announcement
 -------------------------
 
 -   [[Announcement]] drafts
--   [[Announcement vote]]
--   [[Announcement vote results|Vote results]]
--   [[Announcement script|In-game announcement script]]
+-   [[Announcement vote|Announcement_vote]]
+-   [[Vote results|Announcement_vote_results]]
+-   [[In-game announcement script|Announcement_script]]
 

@@ -3,9 +3,9 @@ Repository Access
 
 Xonotic uses several Git repositories. There’s a helper script in the main repository to aid in checking out all relevant repositories and help you with building and running Xonotic.
 The repository also contains several branches next to the stable “master” branch. So if you’re interested in the progress of a certain feature, or want to help or create a new one, you can checkout the appropriate branch.
-For information on how to obtain write access, skip down to the “[[Repository Access\#Contributing-and-getting-write-access|Getting write access]]” section.
+For information on how to obtain write access, skip down to the “[Getting write access](Repository_Access#contributing-and-getting-write-access)” section.
 
-For more information about Git we have a [[Git]] page on the wiki [[Git|here]].
+For more information about Git we have a [[Git]] page on the wiki [[here|Git]].
 
 Setting up the development environment
 --------------------------------------
@@ -129,7 +129,7 @@ Starts a Xonotic dedicated server
 General contributor guidelines
 ------------------------------
 
-1.  Before creating your local branch and committing to it, make sure you’ve configured your user settings such as your name which will display in the logs (in TortoiseGit: Settings ~~\> Git~~ \> Config).
+1.  Before creating your local branch and committing to it, make sure you’ve configured your user settings such as your name which will display in the logs (in TortoiseGit: Settings > Git > Config).
 2.  Try naming your branch myname/mychange for each patch. For instance, if your name is Alex and the change you are committing is a menu fix, use something like alex/menufix.
 
 Further git information
@@ -138,8 +138,8 @@ Further git information
 About tracking remote branches:
 http://www.gitready.com/beginner/2009/03/09/remote-tracking-branches.html
 
-This wiki’s [[Git]] page.
+This wiki’s [Git](Git) page.
 
-A tutorial for SVN users:
+A tutorial to Git for SVN users:
 http://git-scm.org/course/svn.html
 

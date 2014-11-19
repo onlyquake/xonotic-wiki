@@ -1,17 +1,18 @@
 Capture The Flag (CTF)
 ======================
 
-![](http://pics.nexuizninjaz.com/images/zh1xq7e8jbjjwxk6ggh.jpg):http://pics.nexuizninjaz.com/images/r9bwz58b2dli06rrqdsx.jpg ![](http://pics.nexuizninjaz.com/images/hm0x93hvbm1npbecvi30.jpg):http://pics.nexuizninjaz.com/images/r9d27gmnj4kv5piexh6t.jpg
-*<span class="pictures bigger for Click"></span>*
+[![](http://pics.nexuizninjaz.com/images/zh1xq7e8jbjjwxk6ggh.jpg)](http://pics.nexuizninjaz.com/images/r9bwz58b2dli06rrqdsx.jpg)
+[![](http://pics.nexuizninjaz.com/images/hm0x93hvbm1npbecvi30.jpg)](http://pics.nexuizninjaz.com/images/r9d27gmnj4kv5piexh6t.jpg)  
+*Click for bigger pictures*
 
 Object of the Game
 ------------------
 
 In CTF there are 2 teams (red & blue), while each team got a base with their flag. The goal is to steal the other teams’ flag and bring it to your own to capture it. That’s only possible if your own flag is in your base and not taken by the other team. Usually a team needs 10 captures (caps) to win a map.
 
-How To:
+![](http://pics.nexuizninjaz.com/images/tn6dbyyeq2hjoq1rwwu7.jpg)
 
-![](>http://pics.nexuizninjaz.com/images/tn6dbyyeq2hjoq1rwwu7.jpg)
+How To:
 
 - Get the flag? Just walk over it.
 - Return our flag? Kill the enemy and walk over the flag.

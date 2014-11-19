@@ -1,8 +1,8 @@
 ### Quick Resources
 
-[[Repository Access|Repository\_Access]]
-[[Frequently Asked Questions|Faq]]
-[[QuakeC|Introduction\_to\_QuakeC]]
-[[Git]]
-[[Art Roadmap|Art\_Roadmap]]
-[[Xonotic Logo|Logo]]
+[Repository Access](Repository_Access)  
+[Frequently Asked Questions](Faq)  
+[QuakeC](Introduction_to_QuakeC)  
+[Git](Git)  
+[Art Roadmap](Art_Roadmap)  
+[Xonotic Logo](Logo)  

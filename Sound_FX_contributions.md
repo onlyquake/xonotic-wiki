@@ -4,11 +4,11 @@ Sound FX contributions
 Contributions
 -------------
 
-(This was copied from the [[Music contributors]] page and modified. Needs more refinement.)
+(This was copied from the [Music contributors](Music_contributions) page and modified. Needs more refinement.)
 
 |Foley Artist|Sound Pack|Status|Notes|
 |------------|----------|------|-----|
-|tenshihan|[Sound Pack v6.6](http://www.nullgaming.com/xonotic/sound/tenshihan-nexuiz.v6.6.pk3) (S: None)|\_.ADDED|Created immediately after Xonotic fork, before the name was chosen.|
+|tenshihan|[Sound Pack v6.6](http://www.nullgaming.com/xonotic/sound/tenshihan-nexuiz.v6.6.pk3) (S: None)|**ADDED**|Created immediately after Xonotic fork, before the name was chosen.|
 
 Status legend
 -------------
@@ -24,5 +24,4 @@ Potential contributors
 ----------------------
 
 People interested in contributing sounds:
-\* T0olbox
-
+-   T0olbox

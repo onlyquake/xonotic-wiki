@@ -4,7 +4,7 @@ Core Team
 The Core team consists of 6 members who discuss and vote on large project changes. This international group of leaders is a classic group of collaborators who above all else, will try and do what’s best for the game and community.
 
 -   [divVerent](http://forums.xonotic.org/member.php?action=profile&uid=4)
--   [~~z~~](http://forums.xonotic.org/member.php?action=profile&uid=1)
+-   [-z-](http://forums.xonotic.org/member.php?action=profile&uid=1)
 -   [merlijn](http://forums.xonotic.org/member.php?action=profile&uid=34)
 -   [morphed](http://forums.xonotic.org/member.php?action=profile&uid=8)
 -   [mand1nga](http://forums.xonotic.org/member.php?action=profile&uid=13)
@@ -23,7 +23,7 @@ Art
 2D Art/Web Development
 ----------------------
 
--   [~~z~~](http://forums.xonotic.org/member.php?action=profile&uid=1) (Web/Game)
+-   [-z-](http://forums.xonotic.org/member.php?action=profile&uid=1) (Web/Game)
 -   [FrutieX](http://forums.xonotic.org/member.php?action=profile&uid=29) (Game/Web)
 -   [Antibody](http://forums.xonotic.org/member.php?action=profile&uid=530) (Web)
 
@@ -60,7 +60,7 @@ Game Code
 Marketing/PR
 ------------
 
--   [~~z~~](http://forums.xonotic.org/member.php?action=profile&uid=1)
+-   [-z-](http://forums.xonotic.org/member.php?action=profile&uid=1)
 -   [mand1nga](http://forums.xonotic.org/member.php?action=profile&uid=13)
 -   [Antibody](http://forums.xonotic.org/member.php?action=profile&uid=530)
 

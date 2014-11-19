@@ -1,7 +1,7 @@
 Nexball
 =======
 
-![](http://pics.nexuizninjaz.com/images/x0mrwezkq8c1nqd1fr6y.jpg)
+![](http://pics.nexuizninjaz.com/images/x0mrwezkq8c1nqd1fr6y.jpg)  
 *The ball*
 
 Object of the Game

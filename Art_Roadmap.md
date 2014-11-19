@@ -1,5 +1,5 @@
-THIS PAGE IS OUT OF DATE ….
-===========================
+THIS PAGE IS OUT OF DATE
+========================
 
 3D Art Roadmap
 ==============
@@ -7,66 +7,75 @@ THIS PAGE IS OUT OF DATE ….
 Player Models
 -------------
 
-|*.Name|*.Species|*.Thread(s)|*.Mesh|*.Textures|*.Animations|*.LOD1|*.LOD2|*.TODO|*.Artist(s)|*.Status|*.Git Branch|*.Priority|
-|[Umbra](http://dev.xonotic.org/projects/xonotic/wiki/Players#Umbra|Human|"1":http://dev.xonotic.org/issues/25) [2](http://www.alientrap.org/forum/viewtopic.php?f=2&t=6051|COMPLETED|IN) PROGRESS|COMPLETED|INCOMPLETE|INCOMPLETE|Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/umbraplayermodel|{{div\_start\_tag(a1,red)}}HIGH{{div\_end\_tag}}|
-|[Pyria](http://dev.xonotic.org/projects/xonotic/wiki/Players#Pyria|Human|"1":http://www.alientrap.org/forum/viewtopic.php?f=2&t=6088&p=76962&hilit=pyria#p76962|COMPLETED|IN) PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Animations, Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/pyriaplayermodel|{{div\_start\_tag(a2,red)}}HIGH{{div\_end\_tag}}|
-|[Ignis-3 versions](http://dev.xonotic.org/projects/xonotic/wiki/Players#Ignis|Human|"1":http://dev.xonotic.org/issues/39) [2](http://forums.xonotic.org//showthread.php?tid=498) [3](http://forums.xonotic.org//showthread.php?tid=500|COMPLETED|COMPLETED|COMPLETED|IN) PROGRESS|IN PROGRESS|LODs|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/ignisplayermodel|{{div\_start\_tag(a3,red)}}HIGH{{div\_end\_tag}}|
-|[Gak-3 versions](http://dev.xonotic.org/projects/xonotic/wiki/Players#Gak|Alien|"1":http://forums.xonotic.org//showthread.php?tid=497) [2](http://www.alientrap.org/forum/viewtopic.php?f=2&t=5997|COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs), merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|[Erebus](http://dev.xonotic.org/projects/xonotic/wiki/Players#Erebus|Cyborg||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs|Oblivion), DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
-|[Nyx](http://dev.xonotic.org/projects/xonotic/wiki/Players#Nyx|Cyborg||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs|Oblivion), DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
-|[Seraphina-2 versions](http://dev.xonotic.org/projects/xonotic/wiki/Players#Seraphina|Human||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs), use more glow|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
-h2. Weapon Models
-|*.Name|*.Thread(s)|*.Concept|*.Mesh|*.Textures|*.TODO|*.Artist(s)|*.Status|*.Git Branch|*.Priority|
-|Tuba|=.NOT ASSIGNED|{{div\_start\_tag(a5,red)}}HIGH{{div\_end\_tag}}|
-|Laser|=.NOT ASSIGNED|{{div\_start\_tag(a6,red)}}HIGH{{div\_end\_tag}}|
-|Shotgun|[1](http://forums.xonotic.org/showthread.php?tid=54|Shotgun) Cannon, (possibly fireball with the reintroduction of TAG seeker)|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|{{div\_start\_tag(a7,yellow)}}MEDIUM{{div\_end\_tag}}|
-|MachineGun|=.NOT ASSIGNED|{{div\_start\_tag(a7,green)}}LOW{{div\_end\_tag}}|
-|Rifle|[1](http://forums.xonotic.org/showthread.php?tid=219|NA|IN) PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|{{div\_start\_tag(a9,yellow)}}MEDIUM{{div\_end\_tag}}|
-|Mortar|=.NOT ASSIGNED|{{div\_start\_tag(a10,green)}}LOW{{div\_end\_tag}}|
-|Electro|=.NOT ASSIGNED|{{div\_start\_tag(a11,green)}}LOW{{div\_end\_tag}}|
-|Crylink|=.NOT ASSIGNED|{{div\_start\_tag(a12,green)}}LOW{{div\_end\_tag}}|
-|Nex|[1](http://forums.xonotic.org/showthread.php?tid=219|NA|COMPLETED|COMPLETED|NA|theShadow), Oblivion, DiaboliK|COMPLETED|MASTER|NA|
-|MinstaNex|=.NOT ASSIGNED|{{div\_start\_tag(a14,green)}}LOW{{div\_end\_tag}}|
-|Hagar|=.NOT ASSIGNED|{{div\_start\_tag(a15,green)}}LOW{{div\_end\_tag}}|
-|RocketLauncher|[1](http://forums.xonotic.org/showthread.php?tid=219|NA|IN) PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|{{div\_start\_tag(a16,yellow)}}MEDIUM{{div\_end\_tag}}|
-|Seeker|||LJFHutch|IN PROGRESS|INCOMPLETE|Mesh and Textures|LJFHutch, theShadow|IN PROGRESS|{{div\_start\_tag(a17,red)}}HIGH{{div\_end\_tag}}|
-|Fireball|||LJFHutch|INCOMPLETE|INCOMPLETE|Mesh and Textures|LJFHutch|IN PROGRESS|{{div\_start\_tag(a18,red)}}HIGH{{div\_end\_tag}}|
-|Porto|=.NOT ASSIGNED|{{div\_start\_tag(a19,green)}}LOW{{div\_end\_tag}}|
-|HookGun|=.NOT ASSIGNED|{{div\_start\_tag(a20,green)}}LOW{{div\_end\_tag}}|
-|HLAC|=.NOT ASSIGNED…|{{div\_start\_tag(a20,green)}}LOWISH{{div\_end\_tag}}|
+|Name|Species|Thread(s)|Mesh|Textures|Animations|LOD1|LOD2|TODO|Artist(s)|Status|Git Branch|Priority|
+|----|-------|---------|----|--------|----------|----|----|----|---------|------|----------|--------|
+|[Umbra](http://dev.xonotic.org/projects/xonotic/wiki/Players#Umbra)|Human|[1](http://dev.xonotic.org/issues/25) [2](http://www.alientrap.org/forum/viewtopic.php?f=2&t=6051)|COMPLETED|IN PROGRESS|COMPLETED|INCOMPLETE|INCOMPLETE|Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/umbraplayermodel|HIGH|
+|[Pyria](http://dev.xonotic.org/projects/xonotic/wiki/Players#Pyria)|Human|[1](http://www.alientrap.org/forum/viewtopic.php?f=2&t=6088&p=76962&hilit=pyria#p76962)|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Animations, Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/pyriaplayermodel|HIGH|
+|[Ignis-3 versions](http://dev.xonotic.org/projects/xonotic/wiki/Players#Ignis)|Human|[1](http://dev.xonotic.org/issues/39) [2](http://forums.xonotic.org//showthread.php?tid=498) [3](http://forums.xonotic.org//showthread.php?tid=500)|COMPLETED|COMPLETED|COMPLETED|IN PROGRESS|IN PROGRESS|LODs|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/ignisplayermodel|HIGH|
+|[Gak-3 versions](http://dev.xonotic.org/projects/xonotic/wiki/Players#Gak)|Alien|[1](http://forums.xonotic.org//showthread.php?tid=497) [2](http://www.alientrap.org/forum/viewtopic.php?f=2&t=5997)|COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs, merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
+|[Erebus](http://dev.xonotic.org/projects/xonotic/wiki/Players#Erebus)|Cyborg||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
+|[Nyx](http://dev.xonotic.org/projects/xonotic/wiki/Players#Nyx)|Cyborg||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
+|[Seraphina-2 versions](http://dev.xonotic.org/projects/xonotic/wiki/Players#Seraphina)|Human||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs, use more glow|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
 
-h2. Items/Pickups
-|*.Name|*.Style|*.Thread(s)|*.Concept|*.Mesh|*.Textures|*.TODO|*.Artist(s)|*.Status|*.Git Branch|*.Priority|
-|10 Armor|NA|NA|Shoulder Pad|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|25 Armor|NA|NA|Double Shoulder Pads (Shin Pads?)|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|50 Armor|NA|NA|Armor|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|100 Armor|NA|NA|Armor w/ Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|10 Health|=.NOT ASSIGNED|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|25 Health|=.NOT ASSIGNED|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|50 Health|=.NOT ASSIGNED|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|100 Health|=.NOT ASSIGNED|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|Strength|=.NOT ASSIGNED|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|Shield|=.NOT ASSIGNED|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|RocketAmmo|Futuristic|NA|[1](http://img37.imageshack.us/img37/5294/20100612xonoticammo2roc.jpg|IN) PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|BulletAmmo|Futuristic|NA|[1](http://img145.imageshack.us/img145/1856/20100612xonoticammo2bul.jpg|IN) PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|ShellAmmo|Futuristic|NA|[1](http://img99.imageshack.us/img99/4475/20100612xonoticammo2she.jpg|IN) PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|PlasmaAmmo|Futuristic|NA|[1](http://img541.imageshack.us/img541/7389/20100612xonoticammo2cel.jpg) [2](http://img6.imageshack.us/img6/7389/20100612xonoticammo2cel.jpg|IN) PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|FuelAmmo|Futuristic|NA|[1](http://img37.imageshack.us/img37/1849/20100612xonoticammo2fue.jpg|IN) PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|CTF Flag|=.NOT ASSIGNED|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
+Weapon Models
+-------------
+
+|Name|Thread(s)|Concept|Mesh|Textures|TODO|Artist(s)|Status|Git Branch|Priority|
+|----|---------|-------|----|--------|----|---------|------|----------|--------|
+|Tuba|NOT ASSIGNED||||||||HIGH|
+|Laser|NOT ASSIGNED||||||||HIGH|
+|Shotgun|[1](http://forums.xonotic.org/showthread.php?tid=54|Shotgun) Cannon, (possibly fireball with the reintroduction of TAG seeker)|COMPLETED|IN PROGRESS|Texture/Rigging|Lamoot|IN PROGRESS|NA|MEDIUM|
+|MachineGun|NOT ASSIGNED||||||||LOW|
+|Rifle|[1](http://forums.xonotic.org/showthread.php?tid=219)|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow|IN PROGRESS|NA|MEDIUM|
+|Mortar|NOT ASSIGNED||||||||LOW|
+|Electro|NOT ASSIGNED||||||||LOW|
+|Crylink|NOT ASSIGNED||||||||LOW|
+|Nex|[1](http://forums.xonotic.org/showthread.php?tid=219)|NA|COMPLETED|COMPLETED|NA|theShadow, Oblivion, DiaboliK|COMPLETED|MASTER|NA|
+|MinstaNex|NOT ASSIGNED||||||||LOW|
+|Hagar|NOT ASSIGNED||||||||LOW|
+|RocketLauncher|[1](http://forums.xonotic.org/showthread.php?tid=219)|NA|IN PROGRESS|IN PROGRESS|Mesh|theShadow, Oblivion(maybe?)|IN PROGRESS|NA|MEDIUM|
+|Seeker|||LJFHutch|IN PROGRESS|INCOMPLETE|Mesh and Textures|LJFHutch, theShadow|IN PROGRESS|HIGH|
+|Fireball|||LJFHutch|INCOMPLETE|INCOMPLETE|Mesh and Textures|LJFHutch|IN PROGRESS|HIGH|
+|Porto|NOT ASSIGNED||||||||LOW|
+|HookGun|NOT ASSIGNED||||||||LOW|
+|HLAC|NOT ASSIGNED||||||||LOWISH|
+
+Items/Pickups
+-------------
+
+|Name|Style|Thread(s)|Concept|Mesh|Textures|TODO|Artist(s)|Status|Git Branch|Priority|
+|----|-----|---------|-------|----|--------|----|---------|------|----------|--------|
+|10 Armor|NA|NA|Shoulder Pad|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
+|25 Armor|NA|NA|Double Shoulder Pads (Shin Pads?)|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
+|50 Armor|NA|NA|Armor|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
+|100 Armor|NA|NA|Armor w/ Shoulder Pads|IN PROGRESS|IN PROGRESS|NA|Morphed|IN PROGRESS|NA|HIGH|
+|10 Health|NOT ASSIGNED|||||||||HIGH|
+|25 Health|NOT ASSIGNED|||||||||HIGH|
+|50 Health|NOT ASSIGNED|||||||||HIGH|
+|100 Health|NOT ASSIGNED|||||||||HIGH|
+|Strength|NOT ASSIGNED|||||||||HIGH|
+|Shield|NOT ASSIGNED|||||||||HIGH|
+|RocketAmmo|Futuristic|NA|[1](http://img37.imageshack.us/img37/5294/20100612xonoticammo2roc.jpg)|IN PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|HIGH|
+|BulletAmmo|Futuristic|NA|[1](http://img145.imageshack.us/img145/1856/20100612xonoticammo2bul.jpg)|IN PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|HIGH|
+|ShellAmmo|Futuristic|NA|[1](http://img99.imageshack.us/img99/4475/20100612xonoticammo2she.jpg)|IN PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|HIGH|
+|PlasmaAmmo|Futuristic|NA|[1](http://img541.imageshack.us/img541/7389/20100612xonoticammo2cel.jpg) [2](http://img6.imageshack.us/img6/7389/20100612xonoticammo2cel.jpg)|IN PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|HIGH|
+|FuelAmmo|Futuristic|NA|[1](http://img37.imageshack.us/img37/1849/20100612xonoticammo2fue.jpg)|IN PROGRESS|IN PROGRESS|NA|LJFHutch, theShadow|IN PROGRESS|NA|HIGH|
+|CTF Flag|NOT ASSIGNED|||||||||HIGH|
 
 Maps
 ----
 
-|*.Name|*.Gametype|*.Style|*.Thread(s)/Link(s)|*.Concept|*.TODO|*.Artist(s)|*.Status|*.Git Branch|*.Priority|
-|Space Elevator|CTF|Space|[1](http://dev.xonotic.org/issues/10|GasolinePowered||FruitieX), Cuinnton|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|Dance(rename possibly)|CTF|Space|[1](http://dev.xonotic.org/issues/11|Dance||FruitieX|IN) PROGRESS|fruitiex/dance|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|Condenser|CTF|Closed|[1](http://dev.xonotic.org/issues/57|Castles||FruitieX), Cuinnton|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|Stormkeep2|DM|Closed|[1](http://dev.xonotic.org/issues/12|Stormkeep||FruitieX|IN) PROGRESS|fruitiex/stormkeep2|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|Evilspace2|DM|Space|[1](http://dev.xonotic.org/issues/43|Evilspace||Cortez666|IN) PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|Downer2|DM|Closed|[1](http://forums.xonotic.org/showthread.php?tid=334&highlight=downer|Downer||Cortez666|DONE|NA|---|)
-|Toxic2|DM|Closed|NA|Toxic||Cuinnton|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
-|Space|CTF|Space|[1](http://dev.xonotic.org/issues/18|cbctf1||C). Brutail|IN PROGRESS|NA|{{div\_start\_tag(a4,red)}}HIGH{{div\_end\_tag}}|
+|Name|Gametype|Style|Thread(s)/Link(s)|Concept|TODO|Artist(s)|Status|Git Branch|Priority|
+|----|--------|-----|-----------------|-------|----|---------|------|----------|--------|
+|Space Elevator|CTF|Space|[1](http://dev.xonotic.org/issues/10)|GasolinePowered||FruitieX, Cuinnton|IN PROGRESS|NA|HIGH|
+|Dance(rename possibly)|CTF|Space|[1](http://dev.xonotic.org/issues/11)|Dance||FruitieX|IN PROGRESS|fruitiex/dance|HIGH|
+|Condenser|CTF|Closed|[1](http://dev.xonotic.org/issues/57)|Castles||FruitieX, Cuinnton|IN PROGRESS|NA|HIGH|
+|Stormkeep2|DM|Closed|[1](http://dev.xonotic.org/issues/12)|Stormkeep||FruitieX|IN PROGRESS|fruitiex/stormkeep2|HIGH|
+|Evilspace2|DM|Space|[1](http://dev.xonotic.org/issues/43)|Evilspace||Cortez666|IN PROGRESS|NA|HIGH|
+|Downer2|DM|Closed|[1](http://forums.xonotic.org/showthread.php?tid=334&highlight=downer)|Downer||Cortez666|DONE|NA|---|
+|Toxic2|DM|Closed|NA|Toxic||Cuinnton|IN PROGRESS|NA|HIGH|
+|GlowArena|DM|Closed|NA|GlowArena||tZork|IN PROGRESS|NA|HIGH|
+|Space|CTF|Space|[1](http://dev.xonotic.org/issues/18)|cbctf1||C. Brutail|IN PROGRESS|NA|HIGH|
 
 Vehicles
 --------
@@ -80,7 +89,8 @@ Vehicles
 Turrets
 -------
 
-|*.Name|*.Style|*.Thread(s)|*.Concept|*.Mesh|*.Textures|*.TODO|*.Artist(s)|*.Status|*.Git Branch|
+|Name|Style|Thread(s)|Concept|Mesh|Textures|TODO|Artist(s)|Status|Git Branch|
+|----|-----|---------|-------|----|--------|----|---------|------|----------|
 |Plasma||NA|NA|COMPLETED|COMPLETED|NA|Morphed|COMPLETED|MASTER|
 |Dual plasma||NA|NA|COMPLETED|COMPLETED|NA|Morphed|COMPLETED|MASTER|
 |Mlrs(multibay rl)||NA|NA|COMPLETED|COMPLETED|NA|Morphed|COMPLETED|MASTER|
@@ -105,7 +115,7 @@ Textures
 |trak4x|Brick, walls, tiles|NA|trak4|NA|trak, tZork|COMPLETED|MASTER|
 |trak5x|Black futuristic|NA|trak5|NA|trak, tZork|COMPLETED|MASTER|
 |eXx|Rusty Metal|NA|eX|NA|Original Artist(unsure),tZork|COMPLETED|MASTER|
-|facility114|White clean Futuristic|“1”:http://forums.xonotic.org/showthread.php?tid=337&highlight=facility114|NA|NA|Oblivion|COMPLETED|MASTER|
+|facility114|White clean Futuristic|[1](http://forums.xonotic.org/showthread.php?tid=337&highlight=facility114)|NA|NA|Oblivion|COMPLETED|MASTER|
 |techpanels|Rusty metal|NA|NA|Add gloss and two or three more textures|theShadow|IN PROGRESS|NA|
 |untitled|NA|NA|NA|Make textures|nifrek|IN PROGRESS|NA|
 
@@ -114,9 +124,9 @@ Game Graphics
 
 |Name|Style|Thread(s)|Concept|TODO|Artist(s)|Status|Git Branch|
 |----|-----|---------|-------|----|---------|------|----------|
-|HUD Dock|Grunge|NA|NA|NA|~~z~~|COMPLETED|MASTER|
-|Scoreboard Background|Grunge|NA|NA|NA|~~z~~|COMPLETED|MASTER|
-|Accuracy Background|Grunge|NA|NA|NA|~~z~~|COMPLETED|MASTER|
+|HUD Dock|Grunge|NA|NA|NA|-z-|COMPLETED|MASTER|
+|Scoreboard Background|Grunge|NA|NA|NA|-z-|COMPLETED|MASTER|
+|Accuracy Background|Grunge|NA|NA|NA|-z-|COMPLETED|MASTER|
 |Shotgun Ammo|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
 |Bullets Ammo|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
 |Rockets Ammo|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
@@ -128,8 +138,8 @@ Game Graphics
 |Voting Screen|NA|NA|NA|NA|Sev|COMPLETED|MASTER|
 |Health Icon|NA|NA|NA|NA|Morphed|COMPLETED|MASTER|
 |Armor Icon|NA|NA|NA|NA|Morphed|IN PROGRESS|NA|
-|Flag Icons|NA|NA|NA|NA|~~z~~|COMPLETED|MASTER|
-|Keyhunt Icons|NA|NA|NA|NA|~~z~~|COMPLETED|MASTER|
+|Flag Icons|NA|NA|NA|NA|-z-|COMPLETED|MASTER|
+|Keyhunt Icons|NA|NA|NA|NA|-z-|COMPLETED|MASTER|
 |Race Awards|NA|NA|NA|NA|Sev|COMPLETED|MASTER|
 
 Logo and Collateral
@@ -137,17 +147,17 @@ Logo and Collateral
 
 |Name|Description|Thread(s)|TODO|Artist(s)|Status|
 |----|-----------|---------|----|---------|------|
-|Logo Refinement|The current logo is a little rough around the edges and needs more available source, problems identified more in depth in [thread 442]|“1”:http://forums.xonotic.org/showthread.php?tid=442|NA|~~z~~, others?|In Progress|
-|Icon|This can be argued to fall under the logo refinement but we need a standard size icon set in various color and black and white|NA|NA|~~z~~, others?|In Progress|
+|Logo Refinement|The current logo is a little rough around the edges and needs more available source, problems identified more in depth in [thread 442]|[1](http://forums.xonotic.org/showthread.php?tid=442)|NA|-z-, others?|In Progress|
+|Icon|This can be argued to fall under the logo refinement but we need a standard size icon set in various color and black and white|NA|NA|-z-, others?|In Progress|
 
 Web Design/PR
 -------------
 
 |Name|Description|Thread(s)|TODO|Artist(s)|Status|
 |----|-----------|---------|----|---------|------|
-|Website Design|Branch across both mainsite and forum to give a consistant feel|NA|NA|~~z~~ (others welcome)|In progress - refining the basic themes to segway us into a more serious overhaul|
-|Mainsite Template Slicing|Branch across both mainsite and forum to give a consistant feel|NA|NA|~~z~~|In progress - refining the basic themes to segway us into a more serious overhaul|
-|Forum Template Slicing|Branch across both mainsite and forum to give a consistant feel|NA|NA|~~z~~|In progress - refining the basic themes to segway us into a more serious overhaul|
+|Website Design|Branch across both mainsite and forum to give a consistant feel|NA|NA|-z- (others welcome)|In progress - refining the basic themes to segway us into a more serious overhaul|
+|Mainsite Template Slicing|Branch across both mainsite and forum to give a consistant feel|NA|NA|-z-|In progress - refining the basic themes to segway us into a more serious overhaul|
+|Forum Template Slicing|Branch across both mainsite and forum to give a consistant feel|NA|NA|-z-|In progress - refining the basic themes to segway us into a more serious overhaul|
 |Standard Size Web Banners|provide all the popular blog / myspace / facebook sized advertisments and add them to a page as a media toolkot|NA|NA|NA|NA|
 
 

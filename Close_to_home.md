@@ -5,7 +5,7 @@ Background
 ----------
 
 Date: Late 24th century, AD
-Region: Local Interstellar Cloud, distance inhibited by space travel technology. Antimatter drives offer speeds up to 78% of the speed of light. http://en.wikipedia.org/wiki/Local\_Interstellar\_Cloud
+Region: Local Interstellar Cloud, distance inhibited by space travel technology. Antimatter drives offer speeds up to 78% of the speed of light. http://en.wikipedia.org/wiki/Local_Interstellar_Cloud
 
 Gameplay
 --------
@@ -24,9 +24,10 @@ As Global Industries shifted focused on controlling other star systems…
 Factions
 --------
 
-|*.Name|*.Native Color|*.Species|*.Place of Origin|*.Bio|*.Player Models|
+|Name|Native Color|Species|Place of Origin|Bio|Player Models|
+|----|------------|-------|---------------|---|-------------|
 |Global Indutries|Blue/Cyan|Cyborg|Earth - Sol http://en.wikipedia.org/wiki/Earth|Those who stayed on earth indulged in taking evolution entirely into there own hands using technology. With augmentations put to the extremes, with digestive systems removed and replaced with fusion cells, entire nervous systems and limbs replaced for enhanced dexterity, and even large parts of the brain were replaced.|Umbra|
-|?|Red/Orange|Martians|Mars - Sol http://en.wikipedia.org/wiki/Terraforming\_mars|After humankind’s gradual terra-forming of Mars was completed, sanctions were imposed agents capitalism in-order to prevent the degradation of the newly formed environment. Superior through genetics, via eugenics and socialist rule, the martians accelerated their evolution, only allowing the strongest to survive. Have various other out posts in the local interstellar cloud and are at a constant cold war with the Cyborgs.|Ignis, Pyria|
-|UAF (United Artificial Federation)|Yellow/Grey|Robots|Planet X - Alpha Centauri 4.37 light years away from Sol http://en.wikipedia.org/wiki/Alpha\_Centauri|After computer power increased, due to a enormous amounts of research from the push of capitalism, robots with artificial intelligence began to appear. The artificial species segregated on earth, only kept slaves on, one by one escaped. First inhabiting the moons of Saturn. Eventually the robotic was slowly push out of Sol until it made its way to the star system Alpha Centauri. Once the system was inhabited, no cyborgs where permitted within. Although they do have close relations to the Martians.||
-|?|Green/Purple|Aliens|Planet Y - Epsilon Eridani 10.5 light years away from Sol http://en.wikipedia.org/wiki/Epsilon\_Eridani|First and only alien race discovered in the galaxy. Their umanoid appearance only suggests that both humans and aliens eventuated from the same origin, hence the hunt for the origin of life and Xonotic (what ever that may be; possibly an ancient alien race that are so evolved, that they are inter-dimensional god-like beings). They have 3 fingers and have green blood. Are in regular trade with the Cyborgs.|Gak|
+|?|Red/Orange|Martians|Mars - Sol http://en.wikipedia.org/wiki/Terraforming_mars|After humankind’s gradual terra-forming of Mars was completed, sanctions were imposed agents capitalism in-order to prevent the degradation of the newly formed environment. Superior through genetics, via eugenics and socialist rule, the martians accelerated their evolution, only allowing the strongest to survive. Have various other out posts in the local interstellar cloud and are at a constant cold war with the Cyborgs.|Ignis, Pyria|
+|UAF (United Artificial Federation)|Yellow/Grey|Robots|Planet X - Alpha Centauri 4.37 light years away from Sol http://en.wikipedia.org/wiki/Alpha_Centauri|After computer power increased, due to a enormous amounts of research from the push of capitalism, robots with artificial intelligence began to appear. The artificial species segregated on earth, only kept slaves on, one by one escaped. First inhabiting the moons of Saturn. Eventually the robotic was slowly push out of Sol until it made its way to the star system Alpha Centauri. Once the system was inhabited, no cyborgs where permitted within. Although they do have close relations to the Martians.||
+|?|Green/Purple|Aliens|Planet Y - Epsilon Eridani 10.5 light years away from Sol http://en.wikipedia.org/wiki/Epsilon_Eridani|First and only alien race discovered in the galaxy. Their umanoid appearance only suggests that both humans and aliens eventuated from the same origin, hence the hunt for the origin of life and Xonotic (what ever that may be; possibly an ancient alien race that are so evolved, that they are inter-dimensional god-like beings). They have 3 fingers and have green blood. Are in regular trade with the Cyborgs.|Gak|
 

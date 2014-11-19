@@ -97,7 +97,7 @@ Europe
 -   Deathmatchers DMs||: FruitieX, kojn, kyre, Morfar, Unknown[NF]
 -   Laidback [LDB]: BOnZa, C.Brutail, esteel
 -   Legion of Caps [LoC]:
--   Monks of Nexuiz [MoN]: chooksta, CriboZai, Dhraakellian, Hhondar, mand1nga, Morphed, narvik86, Ronan, Secret Squirrel, SoulKeeper\_p, tZork
+-   Monks of Nexuiz [MoN]: chooksta, CriboZai, Dhraakellian, Hhondar, mand1nga, Morphed, narvik86, Ronan, Secret Squirrel, SoulKeeper_p, tZork
 -   PeaceBrothers: divVerent, FruitieX, MrBougo, ohaii, Rad Ished
 -   shell [sh]: atheros, L29Ah, lda17h, naryl, shogun assassin, waterlaz
 -   The Badass Choobs: Akari
@@ -108,11 +108,11 @@ Australia/New Zealand
 
 ### Clan Members
 
--   Bounty Hunters [\$] - alfredthetomato, BOGAN, [clan]clan, CARNAG3, DUST’N’BONES, kaepora\_gaebora
--   lzr - aurix, bones\_was\_here, killquick, wayno
--   Old Farts [3\<**] - chooksta, Mickrip, MONK, Tinason, TurdMan2.0, Turkey Shoot, Zoltan,
+-   Bounty Hunters [\$] - alfredthetomato, BOGAN, [clan]clan, CARNAG3, DUST’N’BONES, kaepora_gaebora
+-   lzr - aurix, bones_was_here, killquick, wayno
+-   Old Farts [3\<\*] - chooksta, Mickrip, MONK, Tinason, TurdMan2.0, Turkey Shoot, Zoltan,
     ** Questionable [?] - Fishman, Lithrem, Weasel
--   zero [0] - Charmander, harry\_ftw, ICE MAN, MDWGUNS, PAGEY, viscous
+-   zero [0] - Charmander, harry_ftw, ICE MAN, MDWGUNS, PAGEY, viscous
 -   pride - deathdoG, Hew, rabs, Trev, Wolskie, 2stan
 -   ! - B3RZ3RK, Chez, cuinnton, ensignricky, Viktor
 

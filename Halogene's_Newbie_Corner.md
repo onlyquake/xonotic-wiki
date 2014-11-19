@@ -73,19 +73,19 @@ Ramps are sloped surfaces that can be used for extra upwards boost when doing a 
 
 In my “live” newbie tutorials, I always demonstrate the ramp jump on this spot on the map Xoylent, as it’s rather easy to master and you get the idea how it actually works:
 
-![Basic Ramp Jump on Xoylent](http://www.xonotic.org/m/uploads/2014/04/Xoylent-ramp1.final-thumb.png "Basic Ramp Jump on Xoylent"):http://www.xonotic.org/m/uploads/2012/11/Xoylent-ramp1.final\_1.png
+![Basic Ramp Jump on Xoylent](http://www.xonotic.org/m/uploads/2014/04/Xoylent-ramp1.final-thumb.png "Basic Ramp Jump on Xoylent"):http://www.xonotic.org/m/uploads/2012/11/Xoylent-ramp1.final_1.png
 *click to view full size*
 
 To do a ramp jump, you simply jump onto the sloped surface and jump again. Of course you can keep the jump button pressed for convenience, as with bunny hopping you will automatically jump again when hitting the sloped surface. Now this sounds awfully easy to do, and it wouldn’t be a proper challenge to master if that was all you got to do, would it. So let’s have a close look at the technical aspects behind it.
 
 The easiest way to make a ramp jump boost you up high is to approach the ramp frontally (see figure below), not sideways or parallelly (unless of course you’re doing a strafe turn jump upwards the ramp, but hey this is a newbie guide!). See below what I mean with [approach the ramp frontally]()
 
-![How to approach Ramps](http://www.xonotic.org/m/uploads/2014/04/rampjumping-easy.hard_.final-thumb.jpg "How to approach Ramps"):http://www.xonotic.org/m/uploads/2012/11/rampjumping-easy.hard\_.final\_.jpg
+![How to approach Ramps](http://www.xonotic.org/m/uploads/2014/04/rampjumping-easy.hard_.final-thumb.jpg "How to approach Ramps"):http://www.xonotic.org/m/uploads/2012/11/rampjumping-easy.hard_.final_.jpg
 *click to view full size*
 
 Make sure that you hit the ramp at a flat angle (seen from the side, as in the image below). If possible, try to hit it when still going upwards from your previous jump. If you’re already on your way down from the previous jump when you hit the ramp, the angle at which you hit it will be steeper - if the angle is too steep or even 90 degree you’ll get slowed down and the ramp won’t give you the desired upwards boost.
 
-![Right way to jump onto a Ramp](http://www.xonotic.org/m/uploads/2014/04/rampjumping-angle.final-thumb.png "Right way to jump onto a Ramp"):http://www.xonotic.org/m/uploads/2012/11/rampjumping-angle.final\_.png
+![Right way to jump onto a Ramp](http://www.xonotic.org/m/uploads/2014/04/rampjumping-angle.final-thumb.png "Right way to jump onto a Ramp"):http://www.xonotic.org/m/uploads/2012/11/rampjumping-angle.final_.png
 *click to view full size*
 
 The faster you are, the higher you will get. Ramp jumps that require a higher than walking speed to do are especially tricky, since you will need to bunny hop onto them and time your jumps so you hit the ramp at a good angle. In some cases, you’ll be able to ramp jump onto another ramp, which will result in a double ramp jump.
@@ -129,37 +129,37 @@ You will find ramps on a lot of maps, if you look for them. Now that I’ve show
 Stormkeep has a lot of easy ramp jumps, as stormkeep’s ramps are mostly long and therefore easy to bunny hop onto.
 
 -   The first one is a very easy one, you shouldn’t have any difficulties with doing that one.
-    ![Easy Ramp to Tunnel on Stormkeep](http://www.xonotic.org/m/uploads/2014/04/stormkeep-25armortunnel1-thumb.png "Easy Ramp to Tunnel on Stormkeep"):http://www.xonotic.org/m/uploads/2012/11/stormkeep-25armortunnel1.final\_.png
+    ![Easy Ramp to Tunnel on Stormkeep](http://www.xonotic.org/m/uploads/2014/04/stormkeep-25armortunnel1-thumb.png "Easy Ramp to Tunnel on Stormkeep"):http://www.xonotic.org/m/uploads/2012/11/stormkeep-25armortunnel1.final_.png
     *click to view full size*
 
 -   Also the other side of the warpzone can be used as a ramp, you’ll need a bit more speed though to do this one, so gain some by a couple of pre-jumps.
-    ![Alternative Ramp to Tunnel on Stormkeep](http://www.xonotic.org/m/uploads/2014/04/stormkeep-25armortunnel2-thumb.png "Alternative Ramp to Tunnel on Stormkeep"):http://www.xonotic.org/m/uploads/2012/11/stormkeep-25armortunnel2.final\_.png
+    ![Alternative Ramp to Tunnel on Stormkeep](http://www.xonotic.org/m/uploads/2014/04/stormkeep-25armortunnel2-thumb.png "Alternative Ramp to Tunnel on Stormkeep"):http://www.xonotic.org/m/uploads/2012/11/stormkeep-25armortunnel2.final_.png
     *click to view full size*
 
 -   Probably the most useful jump on stormkeep. If you are too slow to make the jump directly to mega health from the little platform beside the stairs leading down there, head to the right and do a ramp jump up the stairs as shown here. No need to take the longer route via the small armor shards, which are placed so uniquely that any experienced player can tell EXACTLY where you are when you pick those up in a row and could intercept you before you reach the mega health.
-    ![Ramp Jump to Mega Health on Stormkeep](http://www.xonotic.org/m/uploads/2014/04/stormkeep-megahealth-thumb.png "Ramp Jump to Mega Health on Stormkeep"):http://www.xonotic.org/m/uploads/2012/11/stormkeep-megahealth.final\_.png
+    ![Ramp Jump to Mega Health on Stormkeep](http://www.xonotic.org/m/uploads/2014/04/stormkeep-megahealth-thumb.png "Ramp Jump to Mega Health on Stormkeep"):http://www.xonotic.org/m/uploads/2012/11/stormkeep-megahealth.final_.png
     *click to view full size*
 
 -   This is a nice way to get to the top of the warpzone without making any noise in order to surprise someone that you expect to come through the warpzone soon. You’ll need quite some speed, it’s recommended to start prejumps in the tunnel system where the small armor shards are (below Crylink).
-    ![Ramp onto Warpzone on Stormkeep](http://www.xonotic.org/m/uploads/2014/04/stormkeep-warpzone-thumb.png "Ramp onto Warpzone on Stormkeep"):http://www.xonotic.org/m/uploads/2012/11/stormkeep-warpzone.final\_.png
+    ![Ramp onto Warpzone on Stormkeep](http://www.xonotic.org/m/uploads/2014/04/stormkeep-warpzone-thumb.png "Ramp onto Warpzone on Stormkeep"):http://www.xonotic.org/m/uploads/2012/11/stormkeep-warpzone.final_.png
     *click to view full size*
 
 ### Runningman
 
 -   On runningman, you can use the very tiny ramp at the edge of the floor to jump up to the higher level where crylink is placed. You’ll have to jump just before you bump into the wall in order to make it, it takes some practice but it is doable reliably once you figured it out.
-    ![Ramp Jump to Crylink on Runningman](http://www.xonotic.org/m/uploads/2014/04/runningman-crylink-thumb.png "Ramp Jump to Crylink on Runningman"):http://www.xonotic.org/m/uploads/2012/11/runningman-crylink.final\_.png
+    ![Ramp Jump to Crylink on Runningman](http://www.xonotic.org/m/uploads/2014/04/runningman-crylink-thumb.png "Ramp Jump to Crylink on Runningman"):http://www.xonotic.org/m/uploads/2012/11/runningman-crylink.final_.png
     *click to view full size*
 
 -   You can bend the jump above so it takes you directly to the mega armor. However, this requires a lot of practice to reliably succeed. In-game I’d recommend to stick with the jump to crylink side and from there jump over to mega armor unless you know for sure you master the bended jump. I consider this jump the hardest one of all that I show you here.
-    ![Ramp Jump to Mega Armor on Runningman](http://www.xonotic.org/m/uploads/2014/04/runningman-megaarmor-thumb.png "Ramp Jump to Mega Armor on Runningman"):http://www.xonotic.org/m/uploads/2012/11/runningman-megaarmor.final\_.png
+    ![Ramp Jump to Mega Armor on Runningman](http://www.xonotic.org/m/uploads/2014/04/runningman-megaarmor-thumb.png "Ramp Jump to Mega Armor on Runningman"):http://www.xonotic.org/m/uploads/2012/11/runningman-megaarmor.final_.png
     *click to view full size*
 
 -   The ledges at hagar also serve as ramps, you can use them for a double ramp jump from the lower level up to the higher one like this. Note that when you are doing this on the fly out of a bunny hop, you might even be able to skip the upper ramp jump as the first one will take you all the way up already if you have enough speed.
-    ![Double Ramp Jump at Hagar on Runningman](http://www.xonotic.org/m/uploads/2014/04/runningman-hagar-double-thumb.png "Double Ramp Jump at Hagar on Runningman"):http://www.xonotic.org/m/uploads/2012/11/runningman-hagar-double.final\_.png
+    ![Double Ramp Jump at Hagar on Runningman](http://www.xonotic.org/m/uploads/2014/04/runningman-hagar-double-thumb.png "Double Ramp Jump at Hagar on Runningman"):http://www.xonotic.org/m/uploads/2012/11/runningman-hagar-double.final_.png
     *click to view full size*
 
 -   This jump up to mortar works most reliably for me when I walk up to the ramp and jump just before I touch it. It’s the easiest way to get get up there without having to traverse the very open space or making a laser jump (which makes noise).
-    ![Ramp Jump to Mortar on Runningman](http://www.xonotic.org/m/uploads/2014/04/runningman-mortar-thumb.png "Ramp Jump to Mortar on Runningman"):http://www.xonotic.org/m/uploads/2012/11/runningman-mortar.final\_.png
+    ![Ramp Jump to Mortar on Runningman](http://www.xonotic.org/m/uploads/2014/04/runningman-mortar-thumb.png "Ramp Jump to Mortar on Runningman"):http://www.xonotic.org/m/uploads/2012/11/runningman-mortar.final_.png
     *click to view full size*
 
 ### Glowplant

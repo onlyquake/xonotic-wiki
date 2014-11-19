@@ -2,22 +2,23 @@ Proposal for Board of Leaders elections draft
 =============================================
 
 Board of Leaders consist of 8 members, who are split to 4 departments by 2:
-\# Art department
-\# Audio department
-\# Code department
-\# Public relations department
+
+1.  Art department
+1.  Audio department
+1.  Code department
+1.  Public relations department
 
 Board of Leaders are responsible for fostering and foreseeing the growth of Xonotic.
 
 Board of Leaders:
-\* listen to the community wishes
-\* set the project goals in accordance to what they think is the best to the project
-\* accept or reject content into the main Xonotic repository, which are they responsible for (be it art, audio, code, documentation, maps, models)
-\* strive to make Xonotic unified, unique and attractive for public
-\* seek ways to get public attention and funding to further development
-\* responsible for proper working of Xonotic web site and code repository
-\* are in ownership of xonotic.org domain name
-\* responsible for all legal questions regarding game’s content and name
+-   listen to the community wishes
+-   set the project goals in accordance to what they think is the best to the project
+-   accept or reject content into the main Xonotic repository, which are they responsible for (be it art, audio, code, documentation, maps, models)
+-   strive to make Xonotic unified, unique and attractive for public
+-   seek ways to get public attention and funding to further development
+-   responsible for proper working of Xonotic web site and code repository
+-   are in ownership of xonotic.org domain name
+-   responsible for all legal questions regarding game’s content and name
 
 Each leader is also responsible for the flawless working of the department he is working in.
 
@@ -68,17 +69,19 @@ Election process
 ----------------
 
 Voting is done by all those who are registered at development tracker at dev.xonotic.org Those supposedly are community members who help game development and have clues how inner game development is going on. Leaders are elected for 2 year terms and can be reelected again after their service time finished. If somebody leaves the board during the service time, new elections are made and elected person serves the remaining time until new elections.
-Votes are counted using Borda Count method: http://en.wikipedia.org/wiki/Borda\_count
+Votes are counted using Borda Count method: http://en.wikipedia.org/wiki/Borda_count
 
 For example, in an election for a leader position with 6 candidates, the rankings are scored as follows:
-rank points
- 1\_*6
- 25
- 34
- 43
- 52
- 61
- none*\_\_0
+
+    rank points
+    1______6
+    2______5
+    3______4
+    4______3
+    5______2
+    6______1
+    none___0
+
 Thus, refusing to rank someone denies them any points at all. Of course each rank can be assigned to at most one candidate.
 Candidate with the highest point total is elected to the board to fill the position he was elected for.
 

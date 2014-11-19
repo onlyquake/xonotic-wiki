@@ -59,7 +59,7 @@ Complete list of entity keys
     -   **`spawnflags`:** 1 = linear attenuation (inverted in `-wolf` lighting mode)
     -   **`spawnflags`:** 2 = no angle attenuation (inverted in `-wolf` lighting mode)
     -   **`spawnflags`:** 32 = the light color is not normalized
-    -   **`spawnflags`:** 64 = force distance attenuation (why did vortex add this, this is always set…?)
+    -   **`spawnflags`:** 64 = force distance attenuation (why did vortex add this, this is always set...?)
     -   **`target`:** target of a spotlight
     -   **`targetname`:** when set, the light can be toggled in game by some engine provided way
 -   On classname **`light`**

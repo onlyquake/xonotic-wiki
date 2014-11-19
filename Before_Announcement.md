@@ -8,7 +8,7 @@ This is a quick list of the tasks that we want to get done before making public 
     -   Review and make public our FAQ
 
 -   Other
-    -   Create Facebook group *<span class="name the reserve to just"></span>*
+    -   Create Facebook group _(just to reserve the name)_
     -   Create Twitter feed
     -   Make redistributable versions of the logo so it can be linked from other sites
 

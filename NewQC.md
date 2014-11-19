@@ -13,16 +13,16 @@ A clean syntax is needed, the current implementation uses the following:
 
 |definition|meaning|
 |----------|-------|
-|<code>float foo</code>|global variable|
-|<code>float .foo</code>|entity field|
-|<code>.float foo</code>|fieldpointer|
-|<code>.float .foo</code>|entity field of type fieldpointer|
-|<code>float foo(void)</code>|function|
-|<code>float foo\*(void)</code>|function pointer|
-|<code>.float foo(void)</code>|function returning a fieldpointer .float|
-|<code>.float foo\*(void)</code>|function pointer, returning a fieldpointer .float|
-|<code>float .foo(void)</code>|entity field of type function returning float|
-|<code>.float .foo(void)</code>|entity field of type function returning fieldpointer|
+|`float foo`|global variable|
+|`float .foo`|entity field|
+|`.float foo`|fieldpointer|
+|`.float .foo`|entity field of type fieldpointer|
+|`float foo(void)`|function|
+|`float foo*(void)`|function pointer|
+|`.float foo(void)`|function returning a fieldpointer .float|
+|`.float foo*(void)`|function pointer, returning a fieldpointer .float|
+|`float .foo(void)`|entity field of type function returning float|
+|`.float .foo(void)`|entity field of type function returning fieldpointer|
 
 Function definitions:
 ---------------------
@@ -95,5 +95,5 @@ Here’s an example that assumes float parameters and prints them one after the 
         myprint(count-1, ...);
     }
 
-So <code>myprint(4, 1, 2, 3, 4)</code> would print <code>“1, 2, 3, 4\\n”</code>
+So `myprint(4, 1, 2, 3, 4)` would print "1, 2, 3, 4\\n"
 

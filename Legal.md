@@ -33,7 +33,7 @@ It is required to provide sources for any audio files to be included. What your 
 
 If you created the music in another way, let’s say you just played it on the piano and recorded it, it may be unclear what your ‘source’ is. Commonly a musical score would be accepted, or if you completely improvised it may be accepted without any source at all. Generally many programs can export the musical score or provide a midi format. This makes it easier for others to work on what you created, and would be nice to be provided additionally to any project files. If you’re unclear what your source is, ask yourself “What would I use if I wanted to modify it?”, the answer is likely to be accepted as source.
 
-You may also reuse samples created by others, *as long as they are licensed under the GPL, CC-BY, Artistic License or the MIT License* (note that ShareAlike and NonCommercial are NOT compatible). *<span class="here resources legal known of list a Provide">.</span>*
+You may also reuse samples created by others, *as long as they are licensed under the GPL, CC-BY, Artistic License or the MIT License* (note that ShareAlike and NonCommercial are NOT compatible). _(Provide a list of known legal resources here)._
 
 Xonotic name
 ------------

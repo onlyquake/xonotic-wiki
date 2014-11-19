@@ -4,7 +4,7 @@ Race CTS (= Complete The Stage)
 Object of the Game
 ------------------
 
-This is an advanced mode of [[Race]]. Difference here is that you - instead of running laps - have to reach the finish. The player who sets the fastest time wins after the time is over.
+This is an advanced mode of [Race](Race). Difference here is that you - instead of running laps - have to reach the finish. The player who sets the fastest time wins after the time is over.
 
 Map Entities
 ------------

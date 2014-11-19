@@ -5,9 +5,9 @@ Requirements
 ------------
 
 -   Vorbis OGG -q4 or above (-q7 or above preferred), or a format good enough for being able to be converted to that (e.g. FLAC, WAV)
--   GPL v2 compatible *<span class="page [[legal]] our see information more for"></span>*
+-   GPL v2 compatible _(for more information see our [[legal]] page)_
 -   About 3 to 10 minutes
--   Preferably with matching ending and beginning *<span class="smoothly loops track the so"></span>*
+-   Preferably with matching ending and beginning _(so the track loops smoothly)_
 
 Music Style
 -----------
@@ -49,12 +49,12 @@ Electronica, Drum and Bass, House, Jungle, 8 bit, Fake bit, Techno, Hybrid, Ambi
 
 Following tracks could be taken as a reference of the style that we want
 
-[Forgotten Tides](http://www.jamendo.com/en/track/145959)
-[Foregone Destruction](http://www.youtube.com/watch?v=yNrI6N2jQCk&feature=related)
-[Skyward Fire](http://www.youtube.com/watch?v=2bFUNKg0mzg&feature=related)
-[Botpack 9](http://www.youtube.com/watch?v=6gwdsQDwAb8&feature=related)
-[Stairs](http://blkrbt.googlepages.com/stairs.ogg)
-[Rabble Rouser](http://www.youtube.com/watch?v=ki71pm8yDKI&hd=1)
+[Forgotten Tides](http://www.jamendo.com/en/track/145959)  
+[Foregone Destruction](http://www.youtube.com/watch?v=yNrI6N2jQCk&feature=related)  
+[Skyward Fire](http://www.youtube.com/watch?v=2bFUNKg0mzg&feature=related)  
+[Botpack 9](http://www.youtube.com/watch?v=6gwdsQDwAb8&feature=related)  
+[Stairs](http://blkrbt.googlepages.com/stairs.ogg)  
+[Rabble Rouser](http://www.youtube.com/watch?v=ki71pm8yDKI&hd=1)  
 
 Links
 -----
@@ -79,12 +79,12 @@ How-To’s
 
 **How to add a sound track to Xonotic?**
 
--   Copy the track file to the *data/sound/cdtracks* folder
--   Add the name of the track (without the extension) at the end of the cvar *g\_cdtracks\_remaplist*, on the file *defaultXonotic.cfg*. Count all tracks and remember the position of the added one, this information will be used on the following step.
--   Open the file <name of map>.mapinfo (*on data/xonotic-maps.pk3dir/maps*) and add a line with the text “cd loop x”. This x should be the position of the track within the cvar *g\_cdtracks\_remaplist*.
+-   Copy the track file to the `data/sound/cdtracks` folder
+-   Add the name of the track (without the extension) at the end of the cvar `g_cdtracks_remaplist`, on the file `defaultXonotic.cfg`. Count all tracks and remember the position of the added one, this information will be used on the following step.
+-   Open the file `<name of map>.mapinfo` (on `data/xonotic-maps.pk3dir/maps`) and add a line with the text `cd loop x`. This `x` should be the position of the track within the cvar `g_cdtracks_remaplist`.
 
 **How to add a sound track to a non official map?**
 
--   Copy the track to the folder *sound/cdtracks/* (inside the pk3 file)
--   Open the file *<name of map>.mapinfo* and add a line with the text “cd loop <track filename>”
+-   Copy the track to the folder `sound/cdtracks/` (inside the pk3 file)
+-   Open the file `<name of map>.mapinfo` and add a line with the text `cd loop <track filename>`
 

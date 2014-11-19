@@ -4,29 +4,29 @@ Mapping-entity-func button
 What Radiant Says
 -----------------
 
-`When a button is touched by a player, it moves in the direction set by the "angle" key, triggers all its targets, stays pressed by an amount of time set by the "wait" key, then returns to it's original position where it can be operated again.
--------- KEYS --------
-angle : determines the direction in which the button will move (up = -1, down = -2).
-target : all entities with a matching targetname will be triggered.
-target2 : all entities with a matching targetname will be triggered.
-target3 : all entities with a matching targetname will be triggered.
-target4 : all entities with a matching targetname will be triggered.
-target_random : instead of triggering ALL matched entities, trigger ONE of them by random
-speed : speed of button's displacement (default 40).
-platmovetype : movement type (1 = linear, 2 = cosine [default])
-wait : number of seconds button stays pressed (default 1, -1 = return immediately).
-lip : lip remaining at end of move (default 4 units).
-health : (default 0) if set to any non-zero value, the button must take damage (any amount) to activate.
--------- SPAWNFLAGS --------
-NOSPLASH : if set, splash damage cannot activate the door, only direct damage can (requires health to be set)`
+    When a button is touched by a player, it moves in the direction set by the "angle" key, triggers all its targets, stays pressed by an amount of time set by the "wait" key, then returns to it's original position where it can be operated again.
+    -------- KEYS --------
+    angle : determines the direction in which the button will move (up = -1, down = -2).
+    target : all entities with a matching targetname will be triggered.
+    target2 : all entities with a matching targetname will be triggered.
+    target3 : all entities with a matching targetname will be triggered.
+    target4 : all entities with a matching targetname will be triggered.
+    target_random : instead of triggering ALL matched entities, trigger ONE of them by random
+    speed : speed of button's displacement (default 40).
+    platmovetype : movement type (1 = linear, 2 = cosine [default])
+    wait : number of seconds button stays pressed (default 1, -1 = return immediately).
+    lip : lip remaining at end of move (default 4 units).
+    health : (default 0) if set to any non-zero value, the button must take damage (any amount) to activate.
+    -------- SPAWNFLAGS --------
+    NOSPLASH : if set, splash damage cannot activate the door, only direct damage can (requires health to be set)
 
 What NetRadiant Means
 ---------------------
 
-A button entity is exactly as it sounds …
-A button …
-You push it …
-It does stuff …
+A button entity is exactly as it sounds …  
+A button …  
+You push it …  
+It does stuff …  
 
 How to use it
 -------------

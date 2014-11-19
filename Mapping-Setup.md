@@ -1,8 +1,8 @@
 Mapping-Setup
 =============
 
-How to get your system all set up to start mapping <sup></sup>
---------------------------------------------------------------
+How to get your system all set up to start mapping
+--------------------------------------------------
 
 ### Step 1 — Obtain mapping support
 
@@ -16,9 +16,9 @@ Extract the .zip archive using your favorite archiving tool
 
 Locate your .xonotic folder, note that this is NOT the install location. This is the place xonotic saves your config.
 
--   on linux this should be in <sub>/.xonotic
-    \*\\ on\\ windows\\ (7)\\ its\\ in\\ games\\xonotic
-    \*\\ on\\ mac\\ …\\ its\\ in</sub>/libraries/appdata ?? maybe ??
+-   on linux this should be in `~/.xonotic`
+-   on windows (7) its in `\users\user\saved games\xonotic`
+-   on mac … its in `~/libraries/appdata` ?? maybe ??
 
 ### Step 4 — Understand the magic folders
 
@@ -47,5 +47,5 @@ When you first start up radiant it may ask where the install location is. Simply
 
 \<\< [[mapping-Introduction]] 1 [[mapping-NetRadiant]] \>\>
 
-… [[Creating\_Maps]] …
+… [[Creating_Maps]] …
 

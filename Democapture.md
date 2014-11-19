@@ -6,14 +6,14 @@ Capturing video clips in Xonotic is easy, and does not need any external tools s
 cl\_capturevideo
 ----------------
 
-To capture a demo to a video clip you first start playing the demo and toggle the cl\_capturevideo cvar. When it’s on (1), the engine will start capturing screen frames and save them as either ogg or avi. The engine will slow down the demo enough to be able to capture all frames, which it can’t do if you are recording while playing. Toggling the cvar to 0 will stop recording.
+To capture a demo to a video clip you first start playing the demo and toggle the `cl_capturevideo` cvar. When it’s on (1), the engine will start capturing screen frames and save them as either ogg or avi. The engine will slow down the demo enough to be able to capture all frames, which it can’t do if you are recording while playing. Toggling the cvar to 0 will stop recording.
 
-To work around the problem of a visible console in the beginning and end of a recording, you will have to bind cl\_capturevideo to a key as follows:
+To work around the problem of a visible console in the beginning and end of a recording, you will have to bind `cl_capturevideo` to a key as follows:
 
     bind x "toggle cl_capturevideo"
 
 where x can be any key (any letter or number (0-9), pgup, pgdn, alt etc.)
-Note that the ‘toggle’ command simply toggles the value of cl\_capturevideo. This means that recording starts the first time you hit the key and stops when you hit it again.
+Note that the ‘toggle’ command simply toggles the value of `cl_capturevideo`. This means that recording starts the first time you hit the key and stops when you hit it again.
 
 To switch between Ogg Theora and avi, use one of the following commands:
 
@@ -54,26 +54,26 @@ Camera modes
 
 ### Chase mode (default)
 
-**** Can be enabled with: camera\_free 0
-**** Allows you to chase the player, and by default rotate and move the camera freely
-**** You can smooth out the camera path with: camera\_chase\_smoothly
-**** You can have the camera aim at the player with: camera\_look\_player
+* Can be enabled with: `camera_free 0`
+* Allows you to chase the player, and by default rotate and move the camera freely
+* You can smooth out the camera path with: `camera_chase_smoothly`
+* You can have the camera aim at the player with: `camera_look_player`
 
 ### Free fly mode
 
-**** Can be enabled with: camera\_free 1
-**** Allows you to move and rotate the camera freely, and does not follow the player
-**** You can have the camera aim at the player with: camera\_look\_player
+* Can be enabled with: `camera_free 1`
+* Allows you to move and rotate the camera freely, and does not follow the player
+* You can have the camera aim at the player with: `camera_look_player`
 
 Changing speeds
 ---------------
 
-**** Change the treshold for ignoring small mouse movements: camera\_mouse\_treshold
-**** Change the camera rotation AND camera movement attenuation (why are these both in one cvar?): camera\_speed\_attenuation
-**** Change the camera movement speed in chase mode: camera\_speed\_chase, and free mode: camera\_speed\_free
-**** Change camera roll speed: camera\_speed\_roll
+* Change the treshold for ignoring small mouse movements: `camera_mouse_treshold`
+* Change the camera rotation AND camera movement attenuation (why are these both in one cvar?): `camera_speed_attenuation`
+* Change the camera movement speed in chase mode: `camera_speed_chase`, and free mode: `camera_speed_free`
+* Change camera roll speed: `camera_speed_roll`
 
-The camera can be moved with the same keys as you move with in the game, as well as +moveup, +movedown, +roll\_left and +roll\_right. These keys can be bound to a key as follows (eg):
+The camera can be moved with the same keys as you move with in the game, as well as `+moveup`, `+movedown`, `+roll_left` and `+roll_right`. These keys can be bound to a key as follows (eg):
 
     bind x +moveup
 
@@ -83,7 +83,7 @@ To reset the camera, use:
 
 (to mand1nga: why is this a cvar, not a command?)
 
-You can get a list of all camera cvars and their descriptions by typing “camera\_” into the console and then hitting tab. You’ll also see the current value as well as the default value inside brackets, so don’t be shy to fiddle around with them :)
+You can get a list of all camera cvars and their descriptions by typing `camera_` into the console and then hitting tab. You’ll also see the current value as well as the default value inside brackets, so don’t be shy to fiddle around with them :)
 
 Advanced capturing
 ==================
@@ -105,9 +105,9 @@ Don’t forget you can put all commands and cvars into an autoexec.cfg file (whi
 Hiding HUD elements
 -------------------
 
-**** r\_letterbox –1 hides most HUD elements, including the kill messages.
-**** If you instead only want to hide the HUD, use viewsize 120 (100 is default)
-**** To hide the weapon, use r\_drawviewmodel 0
-**** To hide the crosshair, use crosshair 0
-**** To hide waypointsprites, use cl\_hidewaypoints 1
+* `r_letterbox –1` hides most HUD elements, including the kill messages.
+* If you instead only want to hide the HUD, use `viewsize 120` (100 is default)
+* To hide the weapon, use `r_drawviewmodel 0`
+* To hide the crosshair, use `crosshair 0`
+* To hide waypointsprites, use `cl_hidewaypoints 1`
 

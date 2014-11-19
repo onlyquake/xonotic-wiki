@@ -4,15 +4,13 @@ Internet Relay Chat and Instant Messaging channels
 IRC
 ---
 
-For a short introduction to IRC, [[Channels\#General-IRC-info-and-rules|skip to the bottom of this page]].
+For a short introduction to IRC, [skip to the bottom of this page](Channels#general-irc-info-and-rules).
 
 ### Quakenet (irc.quakenet.org:6667)
 
-p(.
-
     #xonotic           - General purpose channel
     #xonotic.admins    - Channel for server admins
-    #onotic.cup        - Cup channel
+    #xonotic.cup       - Cup channel
     #xonotic.duel      - Duel League channel
     #xonotic.editing   - Channel for mapmakers, modelers, texturers, etc.
     #xonotic.insta     - Insta channel
@@ -21,9 +19,7 @@ p(.
     #xonotic.translate - Channel to discuss translation issues
     #xdf               - Xonotic DeFrag
 
-h4(. Country specific IRC channels
-
-p(.
+#### Country specific IRC channels
 
     #xonotic.au - Xonotic Australia
     #xonotic.de - Xonotic Germany
@@ -34,9 +30,7 @@ p(.
     #xonotic.se - Xonotic Sweden
     #xonotic.uk - Xonotic United Kingdom
 
-h4(. Clan channels
-
-p(.
+#### Clan channels
 
     #bot.xonotic         - BOT
     #cf.etqw             - Combat Folk
@@ -62,9 +56,7 @@ p(.
     #smokebreak          - Smoke Break
     #unconnected.xonotic - unconnected
 
-h4(. Server channels
-
-p(.
+#### Server channels
 
     #dtg.ctf           - Die Tunichtguten server (Minsta CTF)
     #esk.xonotic       - Eat Sea Kittens server (Minsta CTF)
@@ -78,27 +70,19 @@ p(.
 
 ### FreeNode (chat.freenode.net:6667)
 
-p(.
-
     #xonotic - Game developer channel. Non-development subjects should be directed to the main Xonotic channel on QuakeNet
 
 ### ARCNet (irc.arcnet.vapor.com:6667)
-
-p(.
 
     #dcc.admins - DCC Admins
     #dccdelight - DCC Delight servers
 
 ### GlobalGamers (irc.globalgamers.net:6667)
 
-p(.
-
     #xonotic - General channel
 
 Jabber XMPP MUCs
 ----------------
-
-p(.
 
     xonotic at conf.jabberes.org - Spanish channel
     xonotic at conference.jabber.ru - Russian channel

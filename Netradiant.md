@@ -1,39 +1,35 @@
-Netradiant
-==========
-
 NetRadiant - A Stabilized Q3 Map Editor
 =======================================
 
-p=. ![](logo.jpg)
-
+![](logo.jpg)
 ![](>radiant.jpg)
 
 -   [[NetRadiant]]
 -   [[Download NetRadiant]]
 -   [[Additional map editor features]]
 -   [[Additional map compiler features]]
--   [[Complete list of entity keys]]
--   [[Complete list of command line parameters]]
--   [[Complete list of shader keywords]]
+-   [Complete list of entity keys](Complete_list_of_entity_keys)
+-   [Complete list of command line parameters](Complete_list_of_command_line_parameters)
+-   [Complete list of shader keywords](Complete_list_of_shader_keywords)
 
 NetRadiant is a fork of the well-known map editor for Q3 based games, [GtkRadiant 1.5](http://zerowing.idsoftware.com/viewcvs/radiant/GtkRadiant/branches/1.5/). The focus is put on stabilizing and bugfixing the included map compiler, q3map2, so it can become a reliable tool for map authors.
 
 Fixes include:
-\* Better decompiling by q3map2 (texcoords no longer get lost)
-\* Fixed 3D display in the Windows XP Software Renderer
-\* Fixed deluxemapping when a surface is lit from both sides
-\* Fixed some buffer overruns
-\* Fixed the “expand selection to whole entities” feature
-\* Fixed the origin of mirrored eclassmodel entities
-\* Key bindings no longer disappear when using an international keyboard layout
-\* Plane snapping fixed (no more fall-through holes in imported model terrain)
-\* Various other map compiler fixes
+-   Better decompiling by q3map2 (texcoords no longer get lost)
+-   Fixed 3D display in the Windows XP Software Renderer
+-   Fixed deluxemapping when a surface is lit from both sides
+-   Fixed some buffer overruns
+-   Fixed the “expand selection to whole entities” feature
+-   Fixed the origin of mirrored eclassmodel entities
+-   Key bindings no longer disappear when using an international keyboard layout
+-   Plane snapping fixed (no more fall-through holes in imported model terrain)
+-   Various other map compiler fixes
 
 Games supported by included game packs:
-\* [DarkPlaces](http://icculus.org/twilight/darkplaces/)
-\* [Nexuiz](http://www.nexuiz.com/)
-\* [Quake2World](http://www.quake2world.net/)
-\* [Warsow](http://www.warsow.net/)
+-   [DarkPlaces](http://icculus.org/twilight/darkplaces/)
+-   [Nexuiz](http://www.nexuiz.com/)
+-   [Quake2World](http://www.quake2world.net/)
+-   [Warsow](http://www.warsow.net/)
 
 For licensing reasons, no other game packs are included yet. Other games can very well be added into the default distribution, if their license is GPL compatible. However, for these games there are downloadable game packs that are likely to work inside NetRadiant (the links go to download locations for the packs):
 

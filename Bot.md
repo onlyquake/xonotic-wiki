@@ -18,7 +18,7 @@ Pathfinding
 
 -   A\* based
 
--   Cached nodes *<span class="plans both to applies"></span>*
+-   Cached nodes _(applies to both plans)_
     -   This means that most of map discovery or waypoint creation will be done offline
 
 Navigation
@@ -38,10 +38,10 @@ Navigation
 
 -   Never, ever, get stuck in the same place. Wander around if there nothing better to do.
 
--   Able to rocket-jump *<span class="void space into thrown they're when measure, resource last a as"></span>*
+-   Able to rocket-jump _(as a last resource measure, when they're thrown into space void)_
 
 -   Plan A - Waypoint based
-    -   Avoid path congestion *<span class="path same the over traveling are team same the on bot one than more when happens this"></span>*
+    -   Avoid path congestion _(this happens when more than one bot on the same team are traveling over the same path)_
 
 -   Filter insanely quick movements (aka shaking)
 

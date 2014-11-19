@@ -1,4 +1,5 @@
-h1. Sound FX
+Sound FX
+========
 
 New placeholder for Sound FX page
 (Previous one was apparently deleted)
@@ -6,3 +7,4 @@ New placeholder for Sound FX page
 Needed: guidelines for Sound FX similar to the [[Music]] page.
 
 In the meantime, view the [[Sound FX contributions]] page.
+

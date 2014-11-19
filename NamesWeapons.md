@@ -1,57 +1,59 @@
-h1. New names for weapons
+New names for weapons
+=====================
 
 Suggest your names below each weapon
 
-h3. Laser
+### Laser
 
 Pulse, Pulse Gun, Blaster
 
-h3. Shotgun
+### Shotgun
 
-Do we want to rename this? 
+Do we want to rename this?
 Maybe rename as super shotgun and make it separate.
 
-h3. Machinegun
+### Machinegun
 
 Do we want to rename this?
 
-h3. Mortar
+### Mortar
 
 Grenade Launcher
 
-h3. Electro
+### Electro
 
 Plasma gun
-Perhaps would be too confusing with previous Nexgun due to the fact that it's a plasma rifle.
+Perhaps would be too confusing with previous Nexgun due to the fact that it’s a plasma rifle.
 
-h3. Crylink
+### Crylink
 
-h3. Hagar
+### Hagar
 
-h3. Nexgun
+### Nexgun
 
 If projectile has no mass - gluon rifle, photon rifle, photon cannon
 
 If projectile has mass - Gauss Rifle, Rail Gun, Mass Driver
 
-h3. Rocket Launcher
+### Rocket Launcher
 
 Devastator
 
-h3. Minstanex
+### Minstanex
 
 Gauss Rifle, Rail Gun, Mass Driver, Minsta Gun
 
-h3. HLAC
+### HLAC
 
 Laser Cannon
 
-h3. Portal Gun
+### Portal Gun
 
-h3. Fireball Gun
+### Fireball Gun
 
-Phoenix 
+Phoenix
 
-h3. Rifle
+### Rifle
 
-Sniper?, 
+Sniper?,
+

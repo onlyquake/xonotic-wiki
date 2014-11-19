@@ -1,19 +1,25 @@
-h1. Arena
+Arena
+=====
 
-h2. Object of the Game
+Object of the Game
+------------------
 
 In Arena there are always 2 players playing (like little 1vs1 duels) and try to frag the other one. Other players have to spectate in meanwhile. If one player dies he has to spectate and the player which survived is allowed to stay. Now some of the other spectators joins and tries to frag the other player.
 
-h2. Map Entities
+Map Entities
+------------
 
 <Insert Map Entities here>
 
-h2. Helpful Hints and Tips
+Helpful Hints and Tips
+----------------------
 
-* <Insert Hints Here>
+-   <Insert Hints Here>
 
-h2. List of Demos and Videos
+List of Demos and Videos
+------------------------
 
-* Demo: <Insert Demo or Video Here>
-* Players: <Insert Player Names Here>
-* Key Points: <Insert key points in match here>
+-   Demo: <Insert Demo or Video Here>
+-   Players: <Insert Player Names Here>
+-   Key Points: <Insert key points in match here>
+

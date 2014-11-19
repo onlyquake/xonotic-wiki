@@ -1,20 +1,25 @@
-h1. Clan Arena (CA)
+Clan Arena (CA)
+===============
 
-h2. Object of the Game
+Object of the Game
+------------------
 
-Clan Arena is basically Team [[Last_Man_Standing|LMS]] (you spawn with almost all weapons as well) where 2 teams (red & blue) fight against each other. Once you die you have to spectate. If 1 team is 100% dead the other team gets 1 point. 10 points to win a map.
+Clan Arena is basically Team [[Last\_Man\_Standing|LMS]] (you spawn with almost all weapons as well) where 2 teams (red & blue) fight against each other. Once you die you have to spectate. If 1 team is 100% dead the other team gets 1 point. 10 points to win a map.
 
-
-h2. Map Entities
+Map Entities
+------------
 
 <Insert Map Entities here>
 
-h2. Helpful Hints and Tips
+Helpful Hints and Tips
+----------------------
 
--	Team [[binds]] are again useful to show your position (e.g. “Roaming” bind on 8 [Numpad]) or to show enemy’s position.
+- Team [[binds]] are again useful to show your position (e.g. “Roaming” bind on 8 [Numpad]) or to show enemy’s position.
 
-h2. List of Demos and Videos
+List of Demos and Videos
+------------------------
 
-* Demo: <Insert Demo or Video Here>
-* Players: <Insert Player Names Here>
-* Key Points: <Insert key points in match here>
+-   Demo: <Insert Demo or Video Here>
+-   Players: <Insert Player Names Here>
+-   Key Points: <Insert key points in match here>
+

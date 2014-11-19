@@ -1,27 +1,33 @@
-h1. Deathmatch (DM)
+Deathmatch (DM)
+===============
 
-h2. Object of the Game
+Object of the Game
+------------------
 
-Deathmatch is one of the most popular classic gamemodes in Xonotic (and also the easiest). It is a simple free-for-all fight to the death where everyone plays versus everyone. There are no teams or alliances, each player is on his/her own and one must fight for their own survival. 
-* Each kill you make (known in-game as a *frag*) awards you 1 point.
-* You will lose 1 point if you *suicide* (e.g. fall off the map into space, sink into lava, or kill yourself with a weapon).
-* The first player to score 30 points wins the match.
+Deathmatch is one of the most popular classic gamemodes in Xonotic (and also the easiest). It is a simple free-for-all fight to the death where everyone plays versus everyone. There are no teams or alliances, each player is on his/her own and one must fight for their own survival.
+\* Each kill you make (known in-game as a **frag**) awards you 1 point.
+\* You will lose 1 point if you **suicide** (e.g. fall off the map into space, sink into lava, or kill yourself with a weapon).
+\* The first player to score 30 points wins the match.
 
-h2. Map Entities
+Map Entities
+------------
 
-* *Weapons* - These can be picked up from various places around the map or from a downed player.
-* *Ammo* - These may be found in the form of shells, bullets, rockets, jet fuel, or power cells.
-* *Powerups* - All maps have "Health" and "Armor" powerups, which extend your lifetime. Some maps may contain powerups like “[[Strength]]” or “[[Shield]]” (which usually spawn every 2 minutes).
+-   **Weapons** - These can be picked up from various places around the map or from a downed player.
+-   **Ammo** - These may be found in the form of shells, bullets, rockets, jet fuel, or power cells.
+-   **Powerups** - All maps have “Health” and “Armor” powerups, which extend your lifetime. Some maps may contain powerups like “[[Strength]]” or “[[Shield]]” (which usually spawn every 2 minutes).
 
-h2. Helpful Hints and Tips
+Helpful Hints and Tips
+----------------------
 
-* Always keep moving. This can be especially true for smaller maps and/or very crowded matches. If you stay in one place for too long, you risk becoming an easy target.
-* If your map contains powerups such as the ones mentioned above, make good use of them. They can be useful tools to win a match!
-* Keep your suicides at a minimum. Your point counter _can_ enter into the negatives, so always avoid self-injury.
-* If a player is approaching you fast and there are "Mega Health" or "Mega Armor" powerups nearby, grab them first! This can deprive the opponent of a chance to heal himself once shot.
+-   Always keep moving. This can be especially true for smaller maps and/or very crowded matches. If you stay in one place for too long, you risk becoming an easy target.
+-   If your map contains powerups such as the ones mentioned above, make good use of them. They can be useful tools to win a match!
+-   Keep your suicides at a minimum. Your point counter *can* enter into the negatives, so always avoid self-injury.
+-   If a player is approaching you fast and there are “Mega Health” or “Mega Armor” powerups nearby, grab them first! This can deprive the opponent of a chance to heal himself once shot.
 
-h2. List of Demos and Videos
+List of Demos and Videos
+------------------------
 
-* Demo: <Insert Demo or Video Here>
-* Players: <Insert Player Names Here>
-* Key Points: <Insert key points in match here>
+-   Demo: <Insert Demo or Video Here>
+-   Players: <Insert Player Names Here>
+-   Key Points: <Insert key points in match here>
+

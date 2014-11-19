@@ -1,9 +1,11 @@
-h1. Nexball
+Nexball
+=======
 
-!http://pics.nexuizninjaz.com/images/x0mrwezkq8c1nqd1fr6y.jpg!
-_The ball_
+![](http://pics.nexuizninjaz.com/images/x0mrwezkq8c1nqd1fr6y.jpg)
+*The ball*
 
-h2. Object of the Game
+Object of the Game
+------------------
 
 Nexball is ball sport game where 2 teams (red & blue) play against one another and try to score goals. You can’t shoot (/frag) other players here.
 
@@ -11,26 +13,29 @@ There are two Nexball game-types. The first is similar to soccer/football and al
 
 How To:
 
-_Soccer/football_
--	Push the ball? Just move at it and the ball will jump in that direction.
--	Score a goal? Push the ball into the goal of the other team.
+*Soccer/football*
+- Push the ball? Just move at it and the ball will jump in that direction.
+- Score a goal? Push the ball into the goal of the other team.
 
-_Basketball_
--	Catch or pick up the ball? Just run into the ball.
--	Steal the ball? Click or press alternate-fire while close to a ball carrier.
--	Shoot the ball? Click or press fire.
+*Basketball*
+- Catch or pick up the ball? Just run into the ball.
+- Steal the ball? Click or press alternate-fire while close to a ball carrier.
+- Shoot the ball? Click or press fire.
 
-
-h2. Map Entities
+Map Entities
+------------
 
 <Insert Map Entities here>
 
-h2. Helpful Hints and Tips
+Helpful Hints and Tips
+----------------------
 
--	Be careful: players can score own goals too.
+- Be careful: players can score own goals too.
 
-h2. List of Demos and Videos
+List of Demos and Videos
+------------------------
 
-* Demo: <Insert Demo or Video Here>
-* Players: <Insert Player Names Here>
-* Key Points: <Insert key points in match here> 
+-   Demo: <Insert Demo or Video Here>
+-   Players: <Insert Player Names Here>
+-   Key Points: <Insert key points in match here>
+

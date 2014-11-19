@@ -1,104 +1,111 @@
-h1. Website
+Website
+=======
 
-{{>toc}}
+{{\>toc}}
 
 An integrated wordpress and mybb system.
 
-h2. Wordpress
+Wordpress
+---------
 
-h3. Plugins & Features
+### Plugins & Features
 
-* http://www.tevine.com/projects/voteitup/
+-   http://www.tevine.com/projects/voteitup/
 
-* http://wordpress.org/extend/plugins/tdo-mini-forms/ -- look into this
+-   http://wordpress.org/extend/plugins/tdo-mini-forms/ — look into this
 
-* Gallery with public and user upload
+-   Gallery with public and user upload
 
-* Map Repository
+-   Map Repository
 
-* User Surveys/Polls
+-   User Surveys/Polls
 
-h2. MyBB
+MyBB
+----
 
-h3. Plugins & Features
+### Plugins & Features
 
-h2. Goals
+Goals
+-----
 
-* Create a theme for Wordpress and MyBB to share
+-   Create a theme for Wordpress and MyBB to share
 
-h2. Needed
+Needed
+------
 
-h3. Art 
+### Art
 
-* Splash image for the login / waiting screen on the forum
-* Website design
+-   Splash image for the login / waiting screen on the forum
+-   Website design
 
-h2. SSO (Single Sign On) 
+SSO (Single Sign On)
+--------------------
 
-(psychcf) After talking with z, here's what we know we want to do:
-* Have a centralized authentication system using LDAP
-** Write a plugin for mybb to auth against it
-** Find a plugin for wordpress to auth against it
-** The reasoning behind this would be that it would be easier to add other web apps to it later, and even have the dev site and git server auth against the ldap server.
-* Later down the road we want to do an in-game community sort of thing
-** There would be achievements and statistics, server listings, possibly a friend/clan management thing, etc.
-** This would be accessible through the game through an exposed RPC service of some sort
-*** For achievements, we need to come up with some way of preventing people from cheating by just calling the RPC functions from some script
+(psychcf) After talking with z, here’s what we know we want to do:
+\* Have a centralized authentication system using LDAP
+**** Write a plugin for mybb to auth against it
+**** Find a plugin for wordpress to auth against it
+**** The reasoning behind this would be that it would be easier to add other web apps to it later, and even have the dev site and git server auth against the ldap server.
+\* Later down the road we want to do an in-game community sort of thing
+**** There would be achievements and statistics, server listings, possibly a friend/clan management thing, etc.
+**** This would be accessible through the game through an exposed RPC service of some sort
+**\* For achievements, we need to come up with some way of preventing people from cheating by just calling the RPC functions from some script
 ** We could use django or some other framework to do this pretty quickly
-** In-game chat between players/clan members could be done by running a jabber server on the hosting side, then writing some sort of client for it in the game, although this would be more complicated.
+**** In-game chat between players/clan members could be done by running a jabber server on the hosting side, then writing some sort of client for it in the game, although this would be more complicated.
 
+Forum structure
+---------------
 
-h2. Forum structure
-
-h3. General
+### General
 
 Post anything about anything here
-	
-h3. Xonotic - News & Announcements
 
-Comment on the news and view past news 
-	
-h3. Xonotic - Help & Troubleshooting
+### Xonotic - News & Announcements
 
-h3. Xonotic - Bug Report
+Comment on the news and view past news
 
-h3. Xonotic - Editing
+### Xonotic - Help & Troubleshooting
 
-Post anything to do with editing Xonotic here. 
-Whether its problems you've had, questions, or if you just want to show off your work.
+### Xonotic - Bug Report
 
-h3. Xonotic - Contests
+### Xonotic - Editing
+
+Post anything to do with editing Xonotic here.
+Whether its problems you’ve had, questions, or if you just want to show off your work.
+
+### Xonotic - Contests
 
 Mapping, modding contests, FOTM, and more.
 
-h3. Xonotic - Gameplay
+### Xonotic - Gameplay
 
 Discuss Xonotic gameplay here.
 
-h3. Xonotic - Configuration Tips
+### Xonotic - Configuration Tips
 
 Tips on how to tweak Xonotic for the best performance, gameplay, etc
 
-h3. Xonotic - Development
+### Xonotic - Development
 
 Developer discussion of experimental fixes, changes, and improvements.
 
-h3. Xonotic - Map Releases
+### Xonotic - Map Releases
 
-(Locked section, with sticky thread which points people to dev.xonotic.org "How to report bugs")
+(Locked section, with sticky thread which points people to dev.xonotic.org “How to report bugs”)
 
-h3. Xonotic - Map Reviews
+### Xonotic - Map Reviews
 
 Community reviews of maps (both official and user-made).
-_Comment: This is likely to be confused with the Map Releases section. Do we want to keep this section? (this section is the least active on AT forum)_
+*Comment: This is likely to be confused with the Map Releases section. Do we want to keep this section? (this section is the least active on AT forum)*
 
-h3. Xonotic - Server Administration
+### Xonotic - Server Administration
 
-h3. Xonotic - Competition
+### Xonotic - Competition
 
-* Clan Discussion
-* Clan League
-* 1v1 Matches
-* 2v2 Matches
-* CTF Matches
-* Tournaments
+-   Clan Discussion
+-   Clan League
+-   1v1 Matches
+-   2v2 Matches
+-   CTF Matches
+-   Tournaments
+

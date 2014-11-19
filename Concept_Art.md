@@ -1,8 +1,11 @@
-h1. Concept Art
+Concept Art
+===========
 
-h2. Logos and Emblems
+Logos and Emblems
+-----------------
 
-!http://dev.xonotic.org/attachments/14/xonotic_phoenix-1g.png!
-http://dev.xonotic.org/attachments/15/xonotic_phoenix-1g.svg
+![](http://dev.xonotic.org/attachments/14/xonotic_phoenix-1g.png)
+http://dev.xonotic.org/attachments/15/xonotic\_phoenix-1g.svg
 
-Phoenix 1b Concept by -z-
+Phoenix 1b Concept by ~~z~~
+

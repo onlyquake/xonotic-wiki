@@ -1,8 +1,11 @@
-h1. Announcements
+Announcements
+=============
 
-h2. First Public announcement
+First Public announcement
+-------------------------
 
-* [[Announcement]] drafts
-* [[Announcement vote]]
-* [[Announcement vote results|Vote results]]
-* [[Announcement script|In-game announcement script]]
+-   [[Announcement]] drafts
+-   [[Announcement vote]]
+-   [[Announcement vote results|Vote results]]
+-   [[Announcement script|In-game announcement script]]
+

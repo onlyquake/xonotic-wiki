@@ -1,4 +1,4 @@
-h3. Quick Resources
+### Quick Resources
 
 [[Repository Access]]
 [[Faq|Frequently Asked Questions]]
@@ -7,6 +7,7 @@ h3. Quick Resources
 [[Art Roadmap]]
 [[Logo|Xonotic Logo]]
 
-h3. Recently Changed Pages
+### Recently Changed Pages
 
 {{recent}}
+

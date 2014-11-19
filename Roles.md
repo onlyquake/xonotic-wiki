@@ -1,10 +1,12 @@
-h1. Roles and Skills
+Roles and Skills
+================
 
-{{>toc}}
+{{\>toc}}
 
 This page provides an overview of many of the roles/skills of contributing community members.
 
-h2. Game Development
+Game Development
+----------------
 
 aurix
 blub (CSQC)
@@ -20,9 +22,10 @@ Samual
 Spaceman
 tZork
 
-h2. Website Development
+Website Development
+-------------------
 
--z-
+~~z~~
 aurix
 Dokujisan
 jayvee
@@ -33,18 +36,20 @@ Psychcf
 SoulKeeper
 tZork
 
-h2. Community/Project Management
+Community/Project Management
+----------------------------
 
--z-
+~~z~~
 Dokujisan
 C.Brutail
 mand1nga
 merlijn
 tZork
 
-h2. Moderators
+Moderators
+----------
 
--z-
+~~z~~
 C.Brutail
 Dokujisan
 esteel
@@ -54,7 +59,8 @@ merlijn
 MrBougo
 Rabs
 
-h2. Mappers
+Mappers
+-------
 
 Clueless Newbie
 cortez666
@@ -82,14 +88,16 @@ tZork
 Unknown/alphagod
 hutty
 
-h2. Modeling
+Modeling
+--------
 
 Diabolik
 Morphed
 Oblivion
 tZork
 
-h2. Artists
+Artists
+-------
 
 JulianaStein
 Morphed
@@ -97,11 +105,12 @@ Oblivion
 Soulkeeper
 Unknown/Alphagod
 
-h3. Vector artists
+### Vector artists
 
 PlasmaSheep
 
-h2. Music and Sounds
+Music and Sounds
+----------------
 
 chooksta
 JulianaStein
@@ -109,10 +118,11 @@ MickRip
 toolbox
 Tenshihan? - already sent in a soundpack :)
 
-h2. Linux SysAdmins
+Linux SysAdmins
+---------------
 
--z-
-bones_was_here
+~~z~~
+bones\_was\_here
 div0
 FruitieX
 jayvee
@@ -123,16 +133,17 @@ merlijn
 Willis
 Unknown/Alphagod
 
-h2. Server Admins
+Server Admins
+-------------
 
--z-
+~~z~~
 aurix
-bones_was_here
+bones\_was\_here
 C.Brutail
 Dokujisan
 esteel
 FruitieX
-harry_ftw
+harry\_ftw
 Hew
 john galt
 Kadaverjack
@@ -142,7 +153,9 @@ pavlvs
 rabs
 Unknown/Alphagod
 
-h2. Release Engineering
+Release Engineering
+-------------------
 
 divVerent
 mand1nga
+

@@ -1,63 +1,68 @@
-h1. Items
+Items
+=====
 
-{{>toc}}
+{{\>toc}}
 
-h2. Health
+Health
+------
 
-h3. Mega (100)
+### Mega (100)
 
-!http://pics.nexuizninjaz.com/images/s92ftsza0q7r8daau47z.png!
+![](http://pics.nexuizninjaz.com/images/s92ftsza0q7r8daau47z.png)
 
-h3. Big (50)
+### Big (50)
 
-!http://pics.nexuizninjaz.com/images/qxiffzan7xx91qj9x1.png!
+![](http://pics.nexuizninjaz.com/images/qxiffzan7xx91qj9x1.png)
 
-h3. Medium (25)
+### Medium (25)
 
-!http://pics.nexuizninjaz.com/images/mulmtdwq27dwh2zwrpa.png!
+![](http://pics.nexuizninjaz.com/images/mulmtdwq27dwh2zwrpa.png)
 
-h3. Small (5)
+### Small (5)
 
-!http://pics.nexuizninjaz.com/images/91w9h1tomsbml5ukj8re.png!
+![](http://pics.nexuizninjaz.com/images/91w9h1tomsbml5ukj8re.png)
 
-h2. Armor
+Armor
+-----
 
-h3. Mega (100)
+### Mega (100)
 
-!http://pics.nexuizninjaz.com/images/havtb83g2yglb201q84t.png!
+![](http://pics.nexuizninjaz.com/images/havtb83g2yglb201q84t.png)
 
-h3. Big (50)
+### Big (50)
 
-!http://pics.nexuizninjaz.com/images/jyi1aj1vx6rrrckx7zgt.png!
+![](http://pics.nexuizninjaz.com/images/jyi1aj1vx6rrrckx7zgt.png)
 
-h3. Medium (25)
+### Medium (25)
 
-!http://pics.nexuizninjaz.com/images/ijq1xmxw797e1klv1l.png!
+![](http://pics.nexuizninjaz.com/images/ijq1xmxw797e1klv1l.png)
 
-h3. Small (5)
+### Small (5)
 
-!http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png!
+![](http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png)
 
-_______________________________
+**\_
 
-h2. Ammo
+Ammo
+----
 
-h3. Shells
+### Shells
 
-!http://pics.nexuizninjaz.com/images/f9hojpjhgcvc21a48916.png!
+![](http://pics.nexuizninjaz.com/images/f9hojpjhgcvc21a48916.png)
 
-h3. Bullets
+### Bullets
 
-!http://pics.nexuizninjaz.com/images/6ra03dq3kvnolzdtk33.png!
+![](http://pics.nexuizninjaz.com/images/6ra03dq3kvnolzdtk33.png)
 
-h3. Cells
+### Cells
 
-!http://pics.nexuizninjaz.com/images/jnyi12r4hchzq795rx07.png!
+![](http://pics.nexuizninjaz.com/images/jnyi12r4hchzq795rx07.png)
 
-h3. Rockets
+### Rockets
 
-!http://pics.nexuizninjaz.com/images/w9bizye85ta3o2iwh2b.png!
+![](http://pics.nexuizninjaz.com/images/w9bizye85ta3o2iwh2b.png)
 
-h3. Fuel
+### Fuel
 
-!http://pics.nexuizninjaz.com/images/q3r7qf87u22oz4el1dvm.png!
+![](http://pics.nexuizninjaz.com/images/q3r7qf87u22oz4el1dvm.png)
+

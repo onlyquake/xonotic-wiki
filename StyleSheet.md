@@ -1,14 +1,15 @@
 .red {
-color: #ff0000 !important;
+color: \#ff0000 !important;
 font-weight: bold;
 }
 
 .yellow {
-color: #E4B645 !important;
+color: \#E4B645 !important;
 font-weight: bold;
 }
 
 .green {
-color: #008800 !important;
+color: \#008800 !important;
 font-weight: bold;
 }
+

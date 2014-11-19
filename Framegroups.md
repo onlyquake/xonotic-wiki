@@ -1,14 +1,16 @@
-h1. .framegroups File
+.framegroups File
+=================
 
-{{>toc}}
+{{\>toc}}
 
 This file is needed to make md3, dpm, or iqm models play some animations in Xonotic.
 
-h2. For modelers
+For modelers
+------------
 
 It is named <modelname.extension>.framegroups. So if you are editing Ignis, it would be called <code>ignis.iqm.framegroups</code>.
 
-Inside the file, the playermodel's animations are defined one per line.
+Inside the file, the playermodel’s animations are defined one per line.
 
 Syntax:
 <code>
@@ -22,36 +24,38 @@ Ex.
 Defines a 100 frame death animation that start at frame 1, plays at 30 frames per second and does not loop.
 
 Animations must be in this order (these are the values for animname):
-# <code>dieone</code>
-# <code>dietwo</code>
-# <code>draw</code> *
-# <code>duck</code>
-# <code>duckwalk</code> *
-# <code>duckjump</code>
-# <code>duckidle</code> *
-# <code>idle</code> *
-# <code>jump</code>
-# <code>painone</code>
-# <code>paintwo</code>
-# <code>shoot</code> *
-# <code>taunt</code> *
-# <code>run</code> *
-# <code>runbackwards</code> *
-# <code>strafeleft</code> *
-# <code>straferight</code> *
-# <code>deadone</code>
-# <code>deadtwo</code>
-# <code>forwardright</code> *
-# <code>forwardleft</code> *
-# <code>backright</code> *
-# <code>backleft</code> *
-# <code>melee</code>
+\# <code>dieone</code>
+\# <code>dietwo</code>
+\# <code>draw</code> \*
+\# <code>duck</code>
+\# <code>duckwalk</code> \*
+\# <code>duckjump</code>
+\# <code>duckidle</code> \*
+\# <code>idle</code> \*
+\# <code>jump</code>
+\# <code>painone</code>
+\# <code>paintwo</code>
+\# <code>shoot</code> \*
+\# <code>taunt</code> \*
+\# <code>run</code> \*
+\# <code>runbackwards</code> \*
+\# <code>strafeleft</code> \*
+\# <code>straferight</code> \*
+\# <code>deadone</code>
+\# <code>deadtwo</code>
+\# <code>forwardright</code> \*
+\# <code>forwardleft</code> \*
+\# <code>backright</code> \*
+\# <code>backleft</code> \*
+\# <code>melee</code>
 
-Lines marked with a * need to loop (last number on the line should be <code>1</code>).
+Lines marked with a \* need to loop (last number on the line should be <code>1</code>).
 
-If you make 1 looping animation and place model on map as misc_gamemodel it will be animated.
+If you make 1 looping animation and place model on map as misc\_gamemodel it will be animated.
 
-h2. For coders
+For coders
+----------
 
 To play such a self-playing animation you just use <code>self.frame=1</code> to play 1st animation, <code>self.frame=2</code> to play 2nd animation, etc.
 If the animation does not loop, it will just stop at the last frame and stay there until you run another animation.
+

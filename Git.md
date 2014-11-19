@@ -1,18 +1,21 @@
-h1. Git
+Git
+===
 
-{{>toc}}
+{{\>toc}}
 
-h2. After cloning the repository
+After cloning the repository
+----------------------------
 
 After you cloned the repository (using <code>git clone <url></code>) you are ready to start creating a branch to start working.
-Please check [[Repository Access]] to make sure you checked out *all* of the repositories. <code>data/</code> for example resides in its own repository.
+Please check [[Repository Access]] to make sure you checked out **all** of the repositories. <code>data/</code> for example resides in its own repository.
 
-h2. Project structure
+Project structure
+-----------------
 
-The game content can be divided into several distinct parts, like the <code>data/</code> directory, and some of its subdirectories. This is why there are several repositories, and a helper script to fetch and update them all. This is described in [[Repository Access]] under "Working with the helper script ./all"
+The game content can be divided into several distinct parts, like the <code>data/</code> directory, and some of its subdirectories. This is why there are several repositories, and a helper script to fetch and update them all. This is described in [[Repository Access]] under “Working with the helper script ./all”
 
 The current structure looks as follows:
-|_.Directory|_.Repository|
+|*.Directory|*.Repository|
 |<code>/</code>|git://git.xonotic.org/xonotic/xonotic.git|
 |<code>/bocc</code>|git://git.xonotic.org/xonotic/bocc.git|
 |<code>/darkplaces</code>|git://git.xonotic.org/xonotic/darkplaces.git|
@@ -25,82 +28,83 @@ The current structure looks as follows:
 |<code>/data/xonotic-nexcompat.pk3dir</code>|git://git.xonotic.org/xonotic/xonotic-nexcompat.pk3dir.git|
 |<code>/xonotic</code>|git://git.xonotic.org/xonotic/xonotic.git|
 
-When using the ssh protocol, the xonotic/ directory is skipped, so it's just: git.xonotic.org/xonotic.git
+When using the ssh protocol, the xonotic/ directory is skipped, so it’s just: git.xonotic.org/xonotic.git
 
 You can still use the <code>data/</code> directory as base for the game since darkplaces now supports <code>.pk3dir</code> directories natively.
 
-h2. Creating a new branch
+Creating a new branch
+---------------------
 
 By convention, branches are usually called <yourname>/<branch>.
 Before creating a branch, you first have to choose a base of your branch. Then you can create your branch:
-Let's assume your name is <code>me</code>, your branch will be called <code>feature1</code> and your base will be <code>master</code>.
+Let’s assume your name is <code>me</code>, your branch will be called <code>feature1</code> and your base will be <code>master</code>.
 There are several ways of creating a branch:
 You can simply create it by doing this from the xonotic directory and selecting where to branch:
-<pre>./all branch me/feature1</pre>
+
+    ./all branch me/feature1
+
 This will create the branch locally and nothing else. It will not checkout the branch. You can do this now with:
-<pre>git checkout me/feature1</pre>
+
+    git checkout me/feature1
 
 Another possibility would be to checkout your base, and then use <code>git checkout -b me/feature1</code>. This is usually nice if you already are on your base branch because it is a single command.
 
 In case you want to make it available publicly, the most efficient way would be to first push the base branch as your branch on the remote:
-<pre>git push origin master:refs/heads/me/feature1
-git branch --track me/feature1 origin/me/feature1
-git checkout me/feature1</pre>
+
+    git push origin master:refs/heads/me/feature1
+    git branch --track me/feature1 origin/me/feature1
+    git checkout me/feature1
 
 The reason for this are tracking branches.
 
-h4. Tracking branches
+#### Tracking branches
 
 Whenever you are working with a branch that is available to the public, you want to know the state of your branch on the remote repository.
 You can either do this manually by getting diffs and logs from <code>origin/me/feature1..me/feature1</code> using
-<pre>git log origin/me/feature1..me/feature1
-git diff origin/me/feature1..me/feature1</pre>
+
+    git log origin/me/feature1..me/feature1
+    git diff origin/me/feature1..me/feature1
+
 Or you make sure you have tracking branches.
-This can be done by using <code>git branch --track ...</code> to create the branch.
+This can be done by using <code>git branch —track …</code> to create the branch.
 
-h4. Making a non-tracking branch a tracking branch
+#### Making a non-tracking branch a tracking branch
 
-Most of gits magic is done in the config file. A tracking branch simple has merge information in the config. If your branch is not a tracking one and you wish to make it one, you can either push it, then remove the local version, and use <code>git branch --track me/feature1 origin/me/feature1</code> to recreate it as a tracking one, or you add the necessary config lines:
-<pre>git config branch.me/feature1.remote origin
-git config branch.me/feature1.merge refs/heads/me/feature1</pre>
+Most of gits magic is done in the config file. A tracking branch simple has merge information in the config. If your branch is not a tracking one and you wish to make it one, you can either push it, then remove the local version, and use <code>git branch —track me/feature1 origin/me/feature1</code> to recreate it as a tracking one, or you add the necessary config lines:
 
-h2. Committing changes
+    git config branch.me/feature1.remote origin
+    git config branch.me/feature1.merge refs/heads/me/feature1
+
+Committing changes
+------------------
 
 After editing the code, you need to commit your changes. Since in git all your changes are local and you usually push to the repository after you added a set of changes, it is usually a good idea to make small commits with a good commit-message, instead of committing huge chunks of changes.
 
 Some useful commands:
 
-* To add new files to the index to be committed on git commit: <pre>git add file1 [file2...]</pre>
-* To commit the files which have been added using <code>git add</code>: <pre>git commit</pre> or <pre>git commit -m "message"</pre>
-* To commit ALL changed files (without adding new files): <pre>git commit -a</pre> or again: <pre>git commit -am "message"</pre>
+-   To add new files to the index to be committed on git commit: \<pre\>git add file1 [file2…]\</pre\>
+-   To commit the files which have been added using <code>git add</code>: \<pre\>git commit\</pre\> or \<pre\>git commit -m “message”\</pre\>
+-   To commit ALL changed files (without adding new files): \<pre\>git commit -a\</pre\> or again: \<pre\>git commit ~~am “message”\</pre\>
+    In git all your changes are local. This includes your commits! If you want your branch to be updated on the remote repository, you have to push it.
+    \* Usually, you can push your changes doing: \<pre\>git push me/feature1\</pre\>
+    \* If your branch is not a tracking branch: \<pre\>git push origin me/feature1\</pre\> or if you have an older git version you may have to do \<pre\>git push origin me/feature1:refs/heads/me/feature1\</pre\>
+    h2. Reverting
+    Remember that <code>git revert</code> creates a **new commit** which reverts the changes of the commit you are reverting.
+    This is important to avoid conflicts for others who pull from your branch.
+    If the change you are reverting is not yet pushed to any repository, you can also try to erase it from the history.
+    TODO: Add information about removing a commit from the history, and about how to remove the last commit by checkout out the previous one.
+    h2. Merging and rebasing
+    In git you have two ways of combining two branches: You can either merge them, which does exactly what its name suggests: it merges the commits together. Or you can rebase the branch.
+    Rebasing means that all your changes will be put at the end. This works by first collecting and removing all your changes, then replacing your branch with the base branch, then applying all your changes to it. Whenever something fails to apply you’ll be asked to fix it, and then issue a <code>git rebase —continue</code>
+    \* Merging master into me/feature1: \<pre\>git checkout me/feature1
+    git merge master\</pre\>
+    \* Merging some other branches into me/feature1: \<pre\>git checkout me/feature1
+    git merge branch1 branch2 brnach3\</pre\>
+    \* Rebasing my branch~~ you should only do this when the branch is not pushed to a remote repository regularly: \<pre\>git checkout me/feature1
+    git rebase master
+    in case of conflicts, edit the conflicting files, then do:
+    git add conflicting\_file1 [conflicting\_file2…]
+    git rebase —continue\</pre\>
 
-In git all your changes are local. This includes your commits! If you want your branch to be updated on the remote repository, you have to push it.
+TODO…
 
-* Usually, you can push your changes doing: <pre>git push me/feature1</pre>
-* If your branch is not a tracking branch: <pre>git push origin me/feature1</pre> or if you have an older git version you may have to do <pre>git push origin me/feature1:refs/heads/me/feature1</pre>
-
-h2. Reverting
-
-Remember that <code>git revert</code> creates a *new commit* which reverts the changes of the commit you are reverting.
-This is important to avoid conflicts for others who pull from your branch.
-If the change you are reverting is not yet pushed to any repository, you can also try to erase it from the history.
-
-TODO: Add information about removing a commit from the history, and about how to remove the last commit by checkout out the previous one.
-
-h2. Merging and rebasing
-
-In git you have two ways of combining two branches: You can either merge them, which does exactly what its name suggests: it merges the commits together. Or you can rebase the branch.
-
-Rebasing means that all your changes will be put at the end. This works by first collecting and removing all your changes, then replacing your branch with the base branch, then applying all your changes to it. Whenever something fails to apply you'll be asked to fix it, and then issue a <code>git rebase --continue</code>
-
-* Merging master into me/feature1: <pre>git checkout me/feature1
-git merge master</pre>
-* Merging some other branches into me/feature1: <pre>git checkout me/feature1
-git merge branch1 branch2 brnach3</pre>
-* Rebasing my branch - you should only do this when the branch is not pushed to a remote repository regularly: <pre>git checkout me/feature1
-git rebase master
-in case of conflicts, edit the conflicting files, then do:
-git add conflicting_file1 [conflicting_file2...]
-git rebase --continue</pre>
-
-TODO...

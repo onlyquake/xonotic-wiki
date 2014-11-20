@@ -10,7 +10,7 @@ Results are normally posted on the forums: http://forums.xonotic.org/showthread.
 
 > To all users of git and autobuilds:
 >
-> please update, and then run “the big benchmark” as described on http://dev.xonotic.org/projects/xonotic/...quirements
+> please update, and then run “the big benchmark” as described at [[How to run the benchmark|Hardware_Requirements#how-to-run-the-benchmark]]
 >
 > Especially those of you who have performance problems are asked to run this. The test can, on older systems, take a few hours, so I’d recommend running it over night.
 >
@@ -131,6 +131,8 @@ Note: The benchmark list is sorted by “normal” FPS as primary sort key, “m
 | edh                    | lastdecade/4          | Athlon XP 2000+ Palomino                      | 1.66      | ?           | 768M      | NVIDIA Corporation                    | Geforce FX5900 128Mb (BIOS modded to FX5950 Ultra)   | 1.5 Mesa 9.0.1                                       | Linux                   | x86         | 49      | -       | -       | -        | -       | -       | -          | Nouveau driver, graphical errors after “omg”                                              | http://forums.xonotic.org/showthread.php?tid=2562&pid=55084#pid55084               |
 | edh                    | p3-550                | Pentium 3                                     | 0.55      | 1           | 320M      | Tungsten Graphics, Inc.               | Mesa DRI R200 (RV250 4966) x86/MMX/SSE TCL DRI2      | 1.3 Mesa 7.11.2                                      | Linux                   | x86         | 11      | -       | -       | b)       | b)      | b)      | b)         | Radeon 9000, crashed at low                                                               | http://forums.xonotic.org/showthread.php?tid=2562&pid=35179#pid35179               |
 | edh                    | Craptop               | Via C3-2 ‘Nehemiah’                           | 1.2       | 1           | 256M      | VIA Technology                        | Mesa DRI CastleRock (CLE266) x86/MMX/SSE             | 1.2 Mesa 7.11.2                                      | Linux                   | x86         | 9       | -       | -       | b)       | b)      | b)      | b)         | Display errors at low, and about 0.1fps                                                   | http://forums.xonotic.org/showthread.php?tid=2562&pid=35646#pid35646               |
+| ---------------------- | --------------------- | --------------------------------------------- | --------- | ----------- | --------- | ------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ----------------------- | ----------- | ------- | ------- | ------- | -------- | ------- | ------- | ---------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Username               | System                | CPU                                           | GHz       | Cores       | RAM       | GPU Vendor                            | GPU Card                                             | Graphics Driver                                      | OS                      | Arch        | omg     | low     | med     | normal   | high    | ultra   | ultimate   | Notes                                                                                     | Log Download                                                                       |
 
 **Result notes:**
  * a) vid\_soft is disqualified at ultra and above for lack of support of: offsetmapping, reliefmapping, postprocessing
@@ -150,78 +152,78 @@ The lists are sorted by the “normal” column in descending order, where a - (
 
 The fields have the following meanings and are extracted as follows:
 
-### Username
+#### Username
 
 The user name on the tracker here.
 
-### System
+#### System
 
 A host identifier (e.g. host name)
 
-### CPU
+#### CPU
 
-The CPU in the system. On Linux, get this from /proc/cpuinfo.
+The CPU in the system. On Linux, get this from `/proc/cpuinfo`.
 
-### GHz
+#### GHz
 
 The CPU clock frequency.
 
-### Cores
+#### Cores
 
-The number of CPU cores in the system. On Linux, get this from /proc/cpuinfo.
+The number of CPU cores in the system. On Linux, get this from `/proc/cpuinfo`.
 
-### RAM
+#### RAM
 
-The total physical memory of the system. On Linux, get this from \`free\`.
+The total physical memory of the system. On Linux, get this from `free`.
 
-### Vendor
+#### Vendor
 
 The vendor string (typically graphics card vendor). Get this from the-big-benchmark.log, as in:
 
-GL\_VENDOR: NVIDIA Corporation
+    GL_VENDOR: NVIDIA Corporation
 
-### Card
+#### Card
 
 The renderer string (typically graphics card name). Get this from the-big-benchmark.log, as in:
 
-GL\_RENDERER: GeForce GTS 250/PCI/SSE2
+    GL_RENDERER: GeForce GTS 250/PCI/SSE2
 
 Sometimes this just lists the series of the chipset, and not the exact chipset number. In that case, please write the proper chipset number in the Notes column!
 
-### Driver
+#### Driver
 
 The version string (typically driver version). Get this from the-big-benchmark.log, as in:
 
-GL\_VERSION: 3.3.0 NVIDIA 290.10
+    GL_VERSION: 3.3.0 NVIDIA 290.10
 
-### OS
+#### OS
 
 The operating system. One of Windows XP, Vista, Windows 7, Linux, OS X 10.5, OS X 10.6, OS X 10.7.
 
-### Arch
+#### Arch
 
 The operating system architecture. Typically one of x86, x64.
 
-### Notes
+#### Notes
 
 Special notes for the run.
 
-### omg, low, med, normal, high, ultra, ultimate
+#### omg, low, med, normal, high, ultra, ultimate
 
 In this order, the integer part (part before the . - yes, we round downwards) from the fps number from the MED: lines of the-big-benchmark.log. For example, the following lines:
 
-MED: 10510 frames 47.8206480 seconds 219.7795398 fps, one-second fps min/avg/max: 127 227 439 (336 seconds)
-MED: 10510 frames 48.7275059 seconds 215.6892663 fps, one-second fps min/avg/max: 128 225 476 (336 seconds)
-MED: 10510 frames 53.5346079 seconds 196.3216023 fps, one-second fps min/avg/max: 109 209 468 (336 seconds)
-MED: 10510 frames 56.3927591 seconds 186.3714450 fps, one-second fps min/avg/max: 97 199 449 (336 seconds)
-MED: 10510 frames 62.1347530 seconds 169.1484957 fps, one-second fps min/avg/max: 91 181 399 (336 seconds)
-MED: 10510 frames 101.2439241 seconds 103.8086985 fps, one-second fps min/avg/max: 23 123 241 (336 seconds)
-MED: 10510 frames 157.8243561 seconds 66.5930168 fps, one-second fps min/avg/max: 21 74 138 (336 seconds)
+    MED: 10510 frames 47.8206480 seconds 219.7795398 fps, one-second fps min/avg/max: 127 227 439 (336 seconds)
+    MED: 10510 frames 48.7275059 seconds 215.6892663 fps, one-second fps min/avg/max: 128 225 476 (336 seconds)
+    MED: 10510 frames 53.5346079 seconds 196.3216023 fps, one-second fps min/avg/max: 109 209 468 (336 seconds)
+    MED: 10510 frames 56.3927591 seconds 186.3714450 fps, one-second fps min/avg/max: 97 199 449 (336 seconds)
+    MED: 10510 frames 62.1347530 seconds 169.1484957 fps, one-second fps min/avg/max: 91 181 399 (336 seconds)
+    MED: 10510 frames 101.2439241 seconds 103.8086985 fps, one-second fps min/avg/max: 23 123 241 (336 seconds)
+    MED: 10510 frames 157.8243561 seconds 66.5930168 fps, one-second fps min/avg/max: 21 74 138 (336 seconds)
 
 lead to: 219, 215, 196, 186, 169, 103, 66
 
 If a run was not made (you then have less MED: lines), or if a run was incomplete for some reason (then the corresponding MIN: line does not show the same frame count as MAX:), a dash (“-”) is to be entered.
 
-### Notes
+#### Notes
 
 Differences to normal test environment (e.g. different resolution than the intended resolution of the test, which is 1024x768), or problems that happened during the test.

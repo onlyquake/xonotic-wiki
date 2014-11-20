@@ -7,12 +7,12 @@ Old Creating Maps
 Introduction
 ------------
 
-Creating maps requires the [[Netradiant]], a gtkradiant based mapping program that generates .bsp files compiled by q3map2. It helps to have a [[well packaged map]] while reading through this article.
+Creating maps requires the [Netradiant](Netradiant), a gtkradiant based mapping program that generates .bsp files compiled by q3map2. It helps to have a [well packaged map](well packaged map) while reading through this article.
 
 Using Netradiant
 ----------------
 
-NetRadiant is a fork of the popular Quake-based game editor, GtkRadiant, if you have familiarity with that software or another derivative of it, this For more information and more in-depth specifics, refer to the [[Netradiant]] page.
+NetRadiant is a fork of the popular Quake-based game editor, GtkRadiant, if you have familiarity with that software or another derivative of it, this For more information and more in-depth specifics, refer to the [Netradiant](Netradiant) page.
 
 ### Compiling from Source
 
@@ -27,7 +27,7 @@ http://www.icculus.org/netradiant/files/
 Map Packages
 ------------
 
-Maps are packaged as a .zip file with a .pk3 extension. They can be opened with any program that opens zip files. The pk3 gets loaded when you start the game, [[Xonotic]]. The engine, [[Darkplaces]] reads pk3 files as it would a normal files system. You can thus create a pk3 package with any files that the engine can normally read. (needs well packaged map example pk3)
+Maps are packaged as a .zip file with a .pk3 extension. They can be opened with any program that opens zip files. The pk3 gets loaded when you start the game, [Xonotic](Xonotic). The engine, [Darkplaces](Darkplaces) reads pk3 files as it would a normal files system. You can thus create a pk3 package with any files that the engine can normally read. (needs well packaged map example pk3)
 
 ### Package Design
 
@@ -41,7 +41,7 @@ Maps are packaged as a .zip file with a .pk3 extension. They can be opened with 
 `maps/<mapname>.map` - This is an open-source game, help others learn. This file is required to be in the game.  
 `maps/<mapname>.mapinfo` - This file has the meta information, global music track, gametype(s) and game settings  
 `maps/<mapname>.tga|png|jpg` - This file is a screenshot of your map. If you don’t include this, you map doesn’t have a picture in the menu or the voting screen for servers and angels cry.  
-`maps/<mapname>.waypoints` - This is required to be added to the game, it’s for bot [[waypoints|adding_waypoints]]  
+`maps/<mapname>.waypoints` - This is required to be added to the game, it’s for bot [waypoints](adding_waypoints)  
 `maps/gfx/<mapname>_mini.tga|png|jpg` - This is required to be added to the game, it’s a radar of the map. These can be generated with the command `<`.  
 
 #### Optional/Suggested Files
@@ -103,6 +103,6 @@ Help
 \#xonotic.editing on irc.quakenet.org  
 http://forums.xonotic.org  
 
-[[Creation_de_cartes]]
+[Creation_de_cartes](Creation_de_cartes)
 
-[[Creating_Maps]]
+[Creating_Maps](Creating_Maps)

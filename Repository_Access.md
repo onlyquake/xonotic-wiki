@@ -5,7 +5,7 @@ Xonotic uses several Git repositories. There’s a helper script in the main rep
 The repository also contains several branches next to the stable “master” branch. So if you’re interested in the progress of a certain feature, or want to help or create a new one, you can checkout the appropriate branch.
 For information on how to obtain write access, skip down to the “[Getting write access](Repository_Access#contributing-and-getting-write-access)” section.
 
-For more information about Git we have a [[Git]] page on the wiki [[here|Git]].
+For more information about Git we have a [Git](Git) page on the wiki [here](Git).
 
 Setting up the development environment
 --------------------------------------

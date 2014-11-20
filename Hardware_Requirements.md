@@ -10,7 +10,7 @@ Results are normally posted on the forums: http://forums.xonotic.org/showthread.
 
 > To all users of git and autobuilds:
 >
-> please update, and then run “the big benchmark” as described at [[How to run the benchmark|Hardware_Requirements#how-to-run-the-benchmark]]
+> please update, and then run “the big benchmark” as described at [How to run the benchmark](Hardware_Requirements#how-to-run-the-benchmark)
 >
 > Especially those of you who have performance problems are asked to run this. The test can, on older systems, take a few hours, so I’d recommend running it over night.
 >

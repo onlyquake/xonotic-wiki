@@ -6,7 +6,7 @@ Freeze Tag
 Object of the Game
 ------------------
 
-Freeze Tag is basically like [[TDM|Team_Deathmatch]], with 2 teams (red & blue). But instead of fragging your enemies – you freeze them into an ice cube. Once a team is 100% frozen the other team gets 1 point (10 to win).
+Freeze Tag is basically like [TDM](Team_Deathmatch), with 2 teams (red & blue). But instead of fragging your enemies – you freeze them into an ice cube. Once a team is 100% frozen the other team gets 1 point (10 to win).
 But (!): Frozen players can be unfrozen (“revived”).
 
 How To:
@@ -22,8 +22,8 @@ Map Entities
 Helpful Hints and Tips
 ----------------------
 
-- Some maps can contain powerups like “[[Strength]]” or “[[Shield]]” (which usually spawn every 2 minutes). They can be useful tools to win a match!
-- [[Binds]] are very useful again to coordinate the team.
+- Some maps can contain powerups like “[Strength](Strength)” or “[Shield](Shield)” (which usually spawn every 2 minutes). They can be useful tools to win a match!
+- [Binds](Binds) are very useful again to coordinate the team.
 - You can freeze (or get frozen) in e.g. lava too! Also if you fall into space you will respawn frozen.
 
 List of Demos and Videos

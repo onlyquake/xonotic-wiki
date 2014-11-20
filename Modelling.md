@@ -12,7 +12,7 @@ Blender when exporting to iqm
 
 *   use the bbox.blend in order to see the size that your model should be. Iqm exporter scale function untested.
 *   use the duck\_bbox.blend in order to see the size that your model should be when crouching.
-*   for more information on bbox size refer to div0’s model specs [[Player_Model_Spec]]
+*   for more information on bbox size refer to div0’s model specs [Player_Model_Spec](Player_Model_Spec)
 *   naming conventions for textures and model go as follow assuming the example is the umbra model: modelname: umbra.iqm, framegroups: umbra.iqm.framegroups, textures: umbra.tga or (jpg), umbra\_norm.tga, umbra\_gloss.tga, (need to add more)
 
 ### Before exporting

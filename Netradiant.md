@@ -4,10 +4,10 @@ NetRadiant - A Stabilized Q3 Map Editor
 ![](logo.jpg)
 ![](>radiant.jpg)
 
--   [[NetRadiant]]
--   [[Download NetRadiant]]
--   [[Additional map editor features]]
--   [[Additional map compiler features]]
+-   [NetRadiant](NetRadiant)
+-   [Download NetRadiant](Download NetRadiant)
+-   [Additional map editor features](Additional map editor features)
+-   [Additional map compiler features](Additional map compiler features)
 -   [Complete list of entity keys](Complete_list_of_entity_keys)
 -   [Complete list of command line parameters](Complete_list_of_command_line_parameters)
 -   [Complete list of shader keywords](Complete_list_of_shader_keywords)

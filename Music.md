@@ -5,7 +5,7 @@ Requirements
 ------------
 
 -   Vorbis OGG -q4 or above (-q7 or above preferred), or a format good enough for being able to be converted to that (e.g. FLAC, WAV)
--   GPL v2 compatible _(for more information see our [[legal]] page)_
+-   GPL v2 compatible _(for more information see our [legal](legal) page)_
 -   About 3 to 10 minutes
 -   Preferably with matching ending and beginning _(so the track loops smoothly)_
 
@@ -60,7 +60,7 @@ Links
 -----
 
 -   Licensing
-    -   Our [[Legal]] wiki page
+    -   Our [Legal](Legal) wiki page
     -   http://wiki.creativecommons.org/GarageBand
 -   Tools
     -   OpenMPT http://www.lpchip.com/modplug

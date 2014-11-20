@@ -59,5 +59,5 @@ Help
 http://forums.xonotic.org -- the forums .  
 
 [[Old_Creating_Maps]]  
-[[Français|Création de cartes]]  
+[[Français|Creation_de_cartes]]  
 

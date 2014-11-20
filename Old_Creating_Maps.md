@@ -103,6 +103,6 @@ Help
 \#xonotic.editing on irc.quakenet.org  
 http://forums.xonotic.org  
 
-[[Création_de_cartes]]
+[[Creation_de_cartes]]
 
 [[Creating_Maps]]

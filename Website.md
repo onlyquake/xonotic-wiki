@@ -89,7 +89,7 @@ Developer discussion of experimental fixes, changes, and improvements.
 
 ### Xonotic - Map Releases
 
-(Locked section, with sticky thread which points people to dev.xonotic.org “How to report bugs”)
+(Locked section, with sticky thread which points people to https://gitlab.com/xonotic/xonotic/wikis/home “How to report bugs”)
 
 ### Xonotic - Map Reviews
 

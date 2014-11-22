@@ -139,7 +139,8 @@ Note: The benchmark list is sorted by “normal” FPS as primary sort key, “m
  * b) the OpenGL 1.x renderer is disqualified at normal and above for lack of support of: deluxemapping, gloss, offsetmapping, reliefmapping, postprocessing
 
 **Benchmark results :**
- * 2013-08-28: attachment:benchmark.png
+ * 2013-08-28:  
+   ![Benchmark results](assets/images/benchmark.png)
 
 How to run the benchmark
 ------------------------

@@ -68,7 +68,7 @@ Board of Leaders can create other groups on demand with some special purpose. Ex
 Election process
 ----------------
 
-Voting is done by all those who are registered at development tracker at dev.xonotic.org Those supposedly are community members who help game development and have clues how inner game development is going on. Leaders are elected for 2 year terms and can be reelected again after their service time finished. If somebody leaves the board during the service time, new elections are made and elected person serves the remaining time until new elections.
+Voting is done by all those who are registered at development tracker at dev.xonotic.org [Ed. Note: Now at https://gitlab.com/xonotic] Those supposedly are community members who help game development and have clues how inner game development is going on. Leaders are elected for 2 year terms and can be reelected again after their service time finished. If somebody leaves the board during the service time, new elections are made and elected person serves the remaining time until new elections.
 Votes are counted using Borda Count method: http://en.wikipedia.org/wiki/Borda_count
 
 For example, in an election for a leader position with 6 candidates, the rankings are scored as follows:

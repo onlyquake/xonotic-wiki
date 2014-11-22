@@ -174,7 +174,7 @@ v7, edited by Dokujisan
 
 We would like to formally announce the arrival of **[Xonotic](http://xonotic.org)** - A free (GPL), fast-paced first-person shooter that works on Microsoft Windows, Mac OSX and Linux. Xonotic is a direct successor of the **[Nexuiz Project](http://alientrap.org/nexuiz)**.
 
-Xonotic came about in the wake of recent troublesome **[changes](http://dev.xonotic.org/projects/xonotic/wiki/Faq#What-prompted-the-split-from-Nexuiz)** to the Nexuiz project, changes that have left many of the core contributors and community members feeling that the project has been **[mishandled](http://alientrap.org/forum/viewtopic.php?f=4&t=6079)**. As a result, we felt the need to organize a departure to start with a clean slate.
+Xonotic came about in the wake of recent troublesome **[changes](Faq#what-prompted-the-split-from-nexuiz)** to the Nexuiz project, changes that have left many of the core contributors and community members feeling that the project has been **[mishandled](http://alientrap.org/forum/viewtopic.php?f=4&t=6079)**. As a result, we felt the need to organize a departure to start with a clean slate.
 
 **[Xonotic](http://xonotic.org)** will place focus on the things we love about Nexuiz, and extend our goals to become the game that many thought Nexuiz should have been.
 While technically being a direct successor of Nexuiz, the **[Xonotic](http://xonotic.org)** project is a rethink of the Nexuiz project that recognizes the **community** around it as its principal driving force and will restructure itself to respect that. This means that there will never be a single person with total control over the project. In addition to the stronger focus on the community, Xonotic will also pursue a clearer agenda including the following:

@@ -6,7 +6,7 @@ and now .. lets vote for our official Announcement !!!
 Candidates
 ----------
 
-See current candidates at http://dev.xonotic.org/projects/xonotic/wiki/Announcement
+See current candidates at [Announcement](Announcement)
 
 v1 by -z-  
 v2 by Spaceman  

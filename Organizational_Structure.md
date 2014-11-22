@@ -77,7 +77,7 @@ These coordination positions are time-consuming roles that require dedication, k
 Other Contributors
 ==================
 
-See the [Development Home Page](http://dev.xonotic.org/projects/xonotic) for the most up-to-date list of contributors and supporters.
+See the [Development Home Page](https://gitlab.com/xonotic) for the most up-to-date list of contributors and supporters.
 
 Needed Positions
 ----------------

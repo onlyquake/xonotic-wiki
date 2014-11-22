@@ -87,7 +87,7 @@ The cleaned and tidied votes
 **Spaceman**  
 1. Morphed xonoticlogo11.jpg  
 2. Dokujisan \#6 or \#7  
-3. -Z- http://dev.xonotic.org/attachments/15/xonotic_phoenix-1g.svg  
+3. -Z- [xonotic_phoenix-1g.svg](assets/images/xonotic_phoenix-1g.svg)  
 
 **Oblivion**  
 1. Doku \#28  
@@ -107,11 +107,11 @@ The cleaned and tidied votes
 **lda17h**  
 1. http://img196.imageshack.us/img196/3679/xonoticlogo13.jpg  
 2. http://www.nullgaming.com/stuff/x/ \#9  
-3. http://dev.xonotic.org/attachments/download/18/logo_idea_7.jpg  
+3. [logo_idea_7.jpg](assets/images/logo_idea_7.jpg)  
 
 **rabs**  
 1. Doku \#28 http://www.nullgaming.com/stuff/x/xonotic_logo_idea28.jpg  
-2. -z- main picture at http://dev.xonotic.org/projects/xonotic/wiki/Concept_Art  
+2. -z- main picture at [Concept_Art](Concept_Art)  
 3. Doku \#7 http://www.nullgaming.com/stuff/x/xonotic_logo_idea9.jpg  
 
 **RoKenn**  

@@ -11,8 +11,9 @@ Step 1: installing the prerequisites
 ------------------------------------
 
 To compile and run Xonotic in Windows, you will need to download the following. Do not install anything yet, this is covered in the next section.
-\* The latest version of [MinGW](http://sourceforge.net/projects/mingw/files/). At the time of writing this guide, mingw provides an installer (mingw-get-inst). More up-to-date information on how to get MinGW can be found on http://mingw.org
-\* [msysgit](https://code.google.com/p/msysgit/downloads/list). Make sure you get the latest **full installer for official Git** (not the self-contained packages). At the time of writing this, the latest installer is called Git-1.7.11-preview20120710.exe.
+
+-   The latest version of [MinGW](http://sourceforge.net/projects/mingw/files/). At the time of writing this guide, mingw provides an installer (mingw-get-inst). More up-to-date information on how to get MinGW can be found on http://mingw.org
+-   [msysgit](https://code.google.com/p/msysgit/downloads/list). Make sure you get the latest **full installer for official Git** (not the self-contained packages). At the time of writing this, the latest installer is called Git-1.7.11-preview20120710.exe.
 
 ### Installing MinGW
 
@@ -24,7 +25,20 @@ When the setup is complete, you will get a “MinGW Shell” in your start menu.
 
 ### Installing msysgit
 
-Run the installer. At the component selection screen (screenhsot: attachment:“git-1-components.png”), uncheck the “Associate .sh files” option. Windows Explorer Integration can also optionnally be unselected — it is only useful if you plan on contributing and do not like using git purely from the command line to do so. When you get to the PATH adjusting screen (screenshot: attachment:git-2-path.png), you need to select the second option (Run Git from the Windows Command Prompt). This ensures that git can be run from the MinGW shell, as we will not use the shell that comes with msysgit for this. Finally, in the line ending screen (screenshot: attachment:git-3-crlf.png), keep the first option selected unless you know what you’re doing.
+Run the installer.
+At the component selection screen (screenshot), uncheck the “Associate .sh files” option.  
+
+![](assets/images/git-1-components.png)
+
+Windows Explorer Integration can also optionnally be unselected — it is only useful if you plan on contributing and do not like using git purely from the command line to do so.
+When you get to the PATH adjusting screen (screenshot), you need to select the second option (Run Git from the Windows Command Prompt).  
+
+![](assets/images/git-2-path.png)
+
+This ensures that git can be run from the MinGW shell, as we will not use the shell that comes with msysgit for this.
+Finally, in the line ending screen (screenshot), keep the first option selected unless you know what you’re doing.  
+
+![](assets/images/git-3-crlf.png)
 
 ### Installing the dependencies in MinGW
 

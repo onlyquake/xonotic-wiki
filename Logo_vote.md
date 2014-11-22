@@ -5,7 +5,7 @@ Candidates
 ----------
 
 -z-  
- http://dev.xonotic.org/projects/xonotic/wiki/Concept_Art  
+ [Concept_Art](Concept_Art)  
 
 Dokujisan (with some of morphed’s on there too, like \#29)  
  http://www.nullgaming.com/stuff/x/  
@@ -18,12 +18,12 @@ Morphed
  http://www.morphed.planetnexuiz.com/xonotich264v3.mp4  
 
 MirceaKitsune  
- http://dev.xonotic.org/attachments/download/17/logo_idea_5.jpg (blue)  
- http://dev.xonotic.org/attachments/download/18/logo_idea_7.jpg (red)  
- http://dev.xonotic.org/attachments/download/20/logo_idea_8.jpg (blue nodetail)  
- http://dev.xonotic.org/attachments/download/21/logo_idea_9.jpg (red nodetail)  
- http://dev.xonotic.org/attachments/download/23/logo_idea_10.jpg (blue on red nodetail)  
- http://dev.xonotic.org/attachments/download/24/logo_idea_11.jpg (red on blue nodetail)  
+ [logo_idea_5.jpg](assets/images/logo_idea_5.jpg) (blue)  
+ [logo_idea_7.jpg](assets/images/logo_idea_7.jpg) (red)  
+ [logo_idea_8.jpg](assets/images/logo_idea_8.jpg) (blue nodetail)  
+ [logo_idea_9.jpg](assets/images/logo_idea_9.jpg) (red nodetail)  
+ [logo_idea_10.jpg](assets/images/logo_idea_10.jpg) (blue on red nodetail)  
+ [logo_idea_11.jpg](assets/images/logo_idea_11.jpg) (red on blue nodetail)  
 
 Deiz  
  http://deiz2.ath.cx/firebird.png  
@@ -77,7 +77,7 @@ morphs flamy one.
 Spaceman  
 1. Morphed xonoticlogo11.jpg  
 2. Dokujisan \#6 or \#7  
-3. -z- http://dev.xonotic.org/attachments/15/xonotic_phoenix-1g.svg  
+3. -z- [xonotic_phoenix-1g.svg](assets/images/xonotic_phoenix-1g.svg)  
 
 Oblivion  
 1. Doku \#28  
@@ -99,11 +99,11 @@ I like Dokujisan’s logos and those using their exact design. From his list:
 lda17h:  
 1. http://img196.imageshack.us/img196/3679/xonoticlogo13.jpg  
 2. http://www.nullgaming.com/stuff/x/ \#9  
-3. http://dev.xonotic.org/attachments/download/18/logo_idea_7.jpg  
+3. [logo_idea_7.jpg](assets/images/logo_idea_7.jpg)  
 
 rabs  
 1. Doku \#28 http://www.nullgaming.com/stuff/x/xonotic_logo_idea28.jpg  
-2. -z- main picture at http://dev.xonotic.org/projects/xonotic/wiki/Concept_Art  
+2. -z- main picture at [Concept_Art](Concept_Art)  
 3. Doku \#7 http://www.nullgaming.com/stuff/x/xonotic_logo_idea9.jpg  
 
 RoKenn  

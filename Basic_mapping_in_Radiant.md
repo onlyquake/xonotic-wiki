@@ -6,7 +6,7 @@ Layout of Radiant
 
 This section will introduce the Radiant interface. Before you begin mapping, one must become acquainted with the basic user interface first. Radiant has five main sections by default, as numbered in the screenshot below. Let’s examine these panels a bit more in depth:
 
-[![]({width:200px}radiant_sections_thumb.png)](http://dev.xonotic.org/attachments/download/87/radiant_sections.png)
+[![Radient](assets/images/radiant_sections_thumb.png)](assets/images/radiant_sections.png)
 
 The Workspace
 -------------

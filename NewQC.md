@@ -3,7 +3,10 @@ New QC Syntax
 
 It is possible that at some point we decide to switch QC-compiler which requires some changes to the code.
 
-**For more information see** http://dev.xonotic.org/projects/bocc
+~~For more information see http://dev.xonotic.org/projects/bocc~~
+
+(Update: Blub's bocc compiler didn't make it, but someone else came along, both devs [joined forces](https://github.com/graphitemaster/gmqcc/graphs/contributors) and brought us [GMQCC](https://graphitemaster.github.io/gmqcc/doc.html).
+ This is now the QuakeC compiler used by the Xonotic project.)
 
 Clean syntax:
 -------------

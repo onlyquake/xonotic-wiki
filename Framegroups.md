@@ -6,7 +6,7 @@ This file is needed to make md3, dpm, or iqm models play some animations in Xono
 For modelers
 ------------
 
-It is named <modelname.extension>.framegroups. So if you are editing Ignis, it would be called `ignis.iqm.framegroups`.
+It is named `<modelname.extension>.framegroups`. So if you are editing Ignis, it would be called `ignis.iqm.framegroups`.
 
 Inside the file, the playermodel’s animations are defined one per line.
 

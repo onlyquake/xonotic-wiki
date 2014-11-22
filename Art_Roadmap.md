@@ -9,13 +9,13 @@ Player Models
 
 |Name|Species|Thread(s)|Mesh|Textures|Animations|LOD1|LOD2|TODO|Artist(s)|Status|Git Branch|Priority|
 |----|-------|---------|----|--------|----------|----|----|----|---------|------|----------|--------|
-|[Umbra](http://dev.xonotic.org/projects/xonotic/wiki/Players#Umbra)|Human|[1](http://dev.xonotic.org/issues/25) [2](http://www.alientrap.org/forum/viewtopic.php?f=2&t=6051)|COMPLETED|IN PROGRESS|COMPLETED|INCOMPLETE|INCOMPLETE|Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/umbraplayermodel|HIGH|
-|[Pyria](http://dev.xonotic.org/projects/xonotic/wiki/Players#Pyria)|Human|[1](http://www.alientrap.org/forum/viewtopic.php?f=2&t=6088&p=76962&hilit=pyria#p76962)|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Animations, Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/pyriaplayermodel|HIGH|
-|[Ignis-3 versions](http://dev.xonotic.org/projects/xonotic/wiki/Players#Ignis)|Human|[1](http://dev.xonotic.org/issues/39) [2](http://forums.xonotic.org//showthread.php?tid=498) [3](http://forums.xonotic.org//showthread.php?tid=500)|COMPLETED|COMPLETED|COMPLETED|IN PROGRESS|IN PROGRESS|LODs|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/ignisplayermodel|HIGH|
-|[Gak-3 versions](http://dev.xonotic.org/projects/xonotic/wiki/Players#Gak)|Alien|[1](http://forums.xonotic.org//showthread.php?tid=497) [2](http://www.alientrap.org/forum/viewtopic.php?f=2&t=5997)|COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs, merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
-|[Erebus](http://dev.xonotic.org/projects/xonotic/wiki/Players#Erebus)|Cyborg||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
-|[Nyx](http://dev.xonotic.org/projects/xonotic/wiki/Players#Nyx)|Cyborg||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
-|[Seraphina-2 versions](http://dev.xonotic.org/projects/xonotic/wiki/Players#Seraphina)|Human||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs, use more glow|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
+|[Umbra](Players#umbra)|Human|[1](http://dev.xonotic.org/issues/25) [2](http://www.alientrap.org/forum/viewtopic.php?f=2&t=6051)|COMPLETED|IN PROGRESS|COMPLETED|INCOMPLETE|INCOMPLETE|Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/umbraplayermodel|HIGH|
+|[Pyria](Players#pyria)|Human|[1](http://www.alientrap.org/forum/viewtopic.php?f=2&t=6088&p=76962&hilit=pyria#p76962)|COMPLETED|IN PROGRESS|Fix duckwalk|INCOMPLETE|INCOMPLETE|Animations, Merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/pyriaplayermodel|HIGH|
+|[Ignis-3 versions](Players#ignis)|Human|[1](http://dev.xonotic.org/issues/39) [2](http://forums.xonotic.org//showthread.php?tid=498) [3](http://forums.xonotic.org//showthread.php?tid=500)|COMPLETED|COMPLETED|COMPLETED|IN PROGRESS|IN PROGRESS|LODs|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|diabolik/ignisplayermodel|HIGH|
+|[Gak-3 versions](Players#gak)|Alien|[1](http://forums.xonotic.org//showthread.php?tid=497) [2](http://www.alientrap.org/forum/viewtopic.php?f=2&t=5997)|COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs, merge pants to glow|Oblivion, tZork, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
+|[Erebus](Players#erebus)|Cyborg||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
+|[Nyx](Players#nyx)|Cyborg||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
+|[Seraphina-2 versions](Players#seraphina)|Human||COMPLETED|COMPLETED|COMPLETED|INCOMPLETE|INCOMPLETE|LODs, use more glow|Oblivion, DiaboliK, theShadow|IN PROGRESS|NA|HIGH|
 
 Weapon Models
 -------------

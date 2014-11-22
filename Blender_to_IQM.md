@@ -6,9 +6,9 @@ Blender when exporting to IQM
 
 ### Needed/Example files
 
-* Bounding Box for Stand and Crouch: http://dev.xonotic.org/attachments/download/33/bbox_crouch_stand.zip
-* Erebus example blend: http://dev.xonotic.org/attachments/download/291/erebus.blend
-* Erebus example framegroups: http://dev.xonotic.org/attachments/download/292/erebus.iqm.framegroups
+* Bounding Box for Stand and Crouch: [bbox_crouch.blend](assets/files/bbox_crouch_stand/bbox_crouch.blend), [bbox_standing.blend](assets/files/bbox_crouch_stand/bbox_standing.blend)
+* Erebus example blend: [erebus.blend](https://gitlab.com/xonotic/mediasource/raw/master/models/player/erebus.blend)
+* Erebus example framegroups: [erebus.iqm.framegroups](https://gitlab.com/xonotic/xonotic-data.pk3dir/raw/master/models/player/erebus.iqm.framegroups)
 * Link to exporter: http://sauerbraten.org/iqm/
 
 ### Before You Start

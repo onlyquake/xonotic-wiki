@@ -9,17 +9,17 @@ In Race you have to run a special path in a map (you always have to reach the ne
 Map Entities
 ------------
 
-<Insert Map Entities here>
+_(Insert Map Entities here)_
 
 Helpful Hints and Tips
 ----------------------
 
--   <Insert Hints Here>
+-   _(Insert Hints Here)_
 
 List of Demos and Videos
 ------------------------
 
--   Demo: <Insert Demo or Video Here>
--   Players: <Insert Player Names Here>
--   Key Points: <Insert key points in match here>
+-   Demo: _(Insert Demo or Video Here)_
+-   Players: _(Insert Player Names Here)_
+-   Key Points: _(Insert key points in match here)_
 

@@ -9,7 +9,7 @@ This is an advanced mode of [Race](Race). Difference here is that you - instead 
 Map Entities
 ------------
 
-<Insert Map Entities here>
+_(Insert Map Entities here)_
 
 Helpful Hints and Tips
 ----------------------
@@ -20,7 +20,7 @@ Helpful Hints and Tips
 List of Demos and Videos
 ------------------------
 
--   Demo: <Insert Demo or Video Here>
--   Players: <Insert Player Names Here>
--   Key Points: <Insert key points in match here>
+-   Demo: _(Insert Demo or Video Here)_
+-   Players: _(Insert Player Names Here)_
+-   Key Points: _(Insert key points in match here)_
 

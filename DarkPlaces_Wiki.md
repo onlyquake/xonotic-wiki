@@ -1,7 +1,7 @@
 DarkPlaces Wiki
 ===============
 
-_(These pages were created from a 2011 snapshot of the now defunct Wiki at http://dpwiki.slipgateconstruct.com/.
+_(These pages were created from a 2011 snapshot of the now defunct Wiki at [http://dpwiki.slipgateconstruct.com/](https://web.archive.org/web/20120904111557/http://dpwiki.slipgateconstruct.com/index.php?title=Main_Page).
 You are welcome to update or improve them.)_
 
 ![DarkPlaces Logo](assets/images/darkplaces.png)

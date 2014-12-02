@@ -137,8 +137,8 @@ In this section you will find helpful information about editing Xonotic in gener
 
 -   Programming
     -   [Introduction to QuakeC](Introduction_to_QuakeC)
-    -   [DarkPlaces Wiki](http://dpwiki.slipgateconstruct.com/)
-    -   [QuakeC Specifications v1.0](http://www.gamers.org/dEngine/quake/spec/quake-spec34/qc-menu.htm)
+    -   [DarkPlaces Wiki](DarkPlaces_Wiki)
+    -   [QuakeC Specifications v1.0](QuakeC_Wiki)
     -   [QuakeC tutorials](http://www.inside3d.com/tutorials.php) at inside3d.com
     -   [NewQC](NewQC) - Possible changes regarding QC (compiler, syntax, …)
 

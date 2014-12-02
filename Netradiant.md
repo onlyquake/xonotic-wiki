@@ -1,8 +1,7 @@
 NetRadiant - A Stabilized Q3 Map Editor
 =======================================
 
-![](logo.jpg)
-![](>radiant.jpg)
+![](assets/images/netradiant.png)
 
 -   [NetRadiant](NetRadiant)
 -   [Download NetRadiant](Download NetRadiant)
@@ -12,7 +11,8 @@ NetRadiant - A Stabilized Q3 Map Editor
 -   [Complete list of command line parameters](Complete_list_of_command_line_parameters)
 -   [Complete list of shader keywords](Complete_list_of_shader_keywords)
 
-NetRadiant is a fork of the well-known map editor for Q3 based games, [GtkRadiant 1.5](http://zerowing.idsoftware.com/viewcvs/radiant/GtkRadiant/branches/1.5/). The focus is put on stabilizing and bugfixing the included map compiler, q3map2, so it can become a reliable tool for map authors.
+NetRadiant is a fork of the well-known map editor for Q3 based games, [GtkRadiant 1.5](https://github.com/TTimo/GtkRadiant/tree/1.5) ([Homepage](https://icculus.org/gtkradiant/)).
+The focus is put on stabilizing and bugfixing the included map compiler, q3map2, so it can become a reliable tool for map authors.
 
 Fixes include:
 -   Better decompiling by q3map2 (texcoords no longer get lost)

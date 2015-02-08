@@ -17,16 +17,16 @@ The current structure looks as follows:
 | Directory | Repository |
 | --------- | ---------- |
 |`/`|git://git.xonotic.org/xonotic/xonotic.git|
-|`/bocc`|git://git.xonotic.org/xonotic/bocc.git|
+|`/d0_blind_id`|git://git.xonotic.org/xonotic/d0_blind_id.git|
 |`/darkplaces`|git://git.xonotic.org/xonotic/darkplaces.git|
-|`/mediasource`|git://git.xonotic.org/xonotic/mediasource.git|
-|`/netradiant-xonoticpack`|git://git.xonotic.org/xonotic/netradiant-xonoticpack.git|
-|`/netradiant`|git://git.xonotic.org/xonotic/netradiant.git|
 |`/data/xonotic-data.pk3dir`|git://git.xonotic.org/xonotic/xonotic-data.pk3dir.git|
 |`/data/xonotic-maps.pk3dir`|git://git.xonotic.org/xonotic/xonotic-maps.pk3dir.git|
 |`/data/xonotic-music.pk3dir`|git://git.xonotic.org/xonotic/xonotic-music.pk3dir.git|
 |`/data/xonotic-nexcompat.pk3dir`|git://git.xonotic.org/xonotic/xonotic-nexcompat.pk3dir.git|
-|`/xonotic`|git://git.xonotic.org/xonotic/xonotic.git|
+|`/gmqcc`|git://git.xonotic.org/xonotic/gmqcc.git|
+|`/mediasource`|git://git.xonotic.org/xonotic/mediasource.git|
+|`/netradiant`|git://git.xonotic.org/xonotic/netradiant.git|
+|`/netradiant-xonoticpack`|git://git.xonotic.org/xonotic/netradiant-xonoticpack.git|
 
 When using the ssh protocol, the xonotic/ directory is skipped, so it’s just: git.xonotic.org/xonotic.git
 
@@ -70,7 +70,7 @@ This can be done by using `git branch —track ...` to create the branch.
 
 #### Making a non-tracking branch a tracking branch
 
-Most of gits magic is done in the config file. A tracking branch simple has merge information in the config. If your branch is not a tracking one and you wish to make it one, you can either push it, then remove the local version, and use `git branch —track me/feature1 origin/me/feature1` to recreate it as a tracking one, or you add the necessary config lines:
+Most of git's magic is done in the config file. A tracking branch simple has merge information in the config. If your branch is not a tracking one and you wish to make it one, you can either push it, then remove the local version, and use `git branch —track me/feature1 origin/me/feature1` to recreate it as a tracking one, or you add the necessary config lines:
 
     git config branch.me/feature1.remote origin
     git config branch.me/feature1.merge refs/heads/me/feature1

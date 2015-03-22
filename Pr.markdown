@@ -20,21 +20,8 @@ Informational
 Public Relations
 ================
 
-Our first announcement of this project is coming sometime after Illfonic first unveils their Nexuiz game at GDC http://www.gdconf.com
+Our first announcement of this project is came sometime after Illfonic first unveils their Nexuiz game at GDC http://www.gdconf.com
 which is held March 9th - 13th.
-
-Some supporting requirements before we make this announcement:
---------------------------------------------------------------
-
--   Setup IRC channels
--   Finish initial logo
--   Prepare website with at least
-    -   a simple frontpage placeholder
-    -   and a forum for answering questions
--   Setup twitter and facebook pages
--   An FAQ page focused on the fork
-    -   we’ll add entries to it as we go
-    -   we’ll refer people to this whenever we can
 
 This announcement will be pushed out through the following channels:
 --------------------------------------------------------------------
@@ -45,7 +32,7 @@ This announcement will be pushed out through the following channels:
 -   Alientrap forum
 -   Email or PM to key individuals who left Nexuiz long ago (Perhaps using AT or NN forum private messaging)
 
-While our official project announcement is going to be very neutral, the Slashdot/digg/reddit posts will reflect more of the community’s overall impression of the Illfonic issue.
+While our official project announcement was to be very neutral, the Slashdot/digg/reddit posts will reflect more of the community’s overall impression of the Illfonic issue.
 
 Goals
 -----
@@ -96,12 +83,6 @@ What will change in the game?
 5.  New names for some weapons and game modes
 6.  Improved bot AI system
 7.  Increased quality and detail of textures
-
-Timeline
---------
-
-1.  We can’t give a timeline at this moment, but we will try to produce our first release as soon as we can
-2.  Instead, we will invite people to our IRC channels and to our website to keep updated
 
 The name
 --------

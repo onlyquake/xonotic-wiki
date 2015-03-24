@@ -14,7 +14,7 @@ The first thing you must do in order to begin development is set up your system 
 
 ### Linux
 
-Linux already has an adequate base for development, all we really need to do here is install the dependencies for the download/compilation process and then we can move right along to cloning the data.
+Linux already has an adequate base for development, all we really need to do here is install the **dependencies** for the download/compilation process and then we can move right along to cloning the data.
 
 **Ubuntu Dependencies** (independent package x11-proto-devel dependencies fill the rest of the Debian package dependencies):
 
@@ -24,7 +24,7 @@ Note: If using **i386** architecture, you can replace libdsl1.2debian by libsdl1
 
 For **Fedora** and other **RPM based** distro’s, compiling dependencies are as follows:
 
-    x11-proto-devel, libalsa2-static-devel libjpeg62-devel libjpeg62-static-devel libSDL2-devel
+    x11-proto-devel libalsa2-static-devel libjpeg62-devel libjpeg62-static-devel libSDL2-devel
 
 For **Archlinux** the dependencies can be installed via the following command:
 
@@ -32,13 +32,13 @@ For **Archlinux** the dependencies can be installed via the following command:
 
 ### Windows
 
-By default, Windows has no real environment to handle the necessary scripting and compiling tools for building Xonotic… So, what we have to do is install something called [msysgit](https://github.com/msysgit/msysgit/releases) to allow us to have a similar environment as on Linux. In this case, we want the download which is entirely self contained (including build-essentials and other corely required dependencies), which at the time of writing this is called “msysGit-netinstall-1.9.5-preview20150319.exe.” Simply follow the instructions on screen at this point. NOTE: Unless you know what you’re doing, install with default settings/directories.
+By default, Windows has no real environment to handle the necessary scripting and compiling tools for building Xonotic. So, what we have to do is install something called [msysgit](https://github.com/msysgit/msysgit/releases) to allow us to have a similar environment as on Linux. In this case, we want the download which is entirely self contained (including build-essentials and other corely required dependencies), which at the time of writing this is called “msysGit-netinstall-1.9.5-preview20150319.exe.” Simply follow the instructions on screen at this point. NOTE: Unless you know what you’re doing, install with default settings/directories.
 
-Once you have completed the installation, you should be able to launch the msysgit shell by simply finding “msys.bat”- by default, it is located at: C:, and you can use this shell to continue on with the guide and clone and compile the Xonotic repositories. It is recommended that you make a shortcut to msysgit (simply right click the shell and hit “Create Shortcut”) for easier access on your desktop or in your start menu.
+Once you have completed the installation, you should be able to launch the msysgit shell by simply finding “msys.bat”- by default, it is located at **C:**, and you can use this shell to continue on with the guide and clone and compile the Xonotic repositories. It is recommended that you make a shortcut to msysgit (simply right click the shell and hit “Create Shortcut”) for easier access on your desktop or in your start menu.
 
 ### Mac OSX
 
-You must first install XCode which comes on your installation DVD or can be downloaded from the Apple website. This package provides tools like Git and GCC, which are needed for successful checkout and compilation of Xonotic. Some versions of XCode come with Git and others don’t - if you don’t have Git after installing XCode get it here: http://code.google.com/p/git-osx-installer/
+You must first install **XCode** which comes on your installation DVD or can be downloaded from the Apple website. This package provides tools like Git and GCC, which are needed for successful checkout and compilation of Xonotic. Some versions of XCode come with Git and others don’t - if you don’t have Git after installing XCode get it here: **http://code.google.com/p/git-osx-installer/**
 
 After your development environment is all set up, you can continue on to cloning the git repository and compiling Xonotic.
 
@@ -52,7 +52,7 @@ Making sure that your environment is set up properly, you can do the following t
     cd xonotic
     ./all update -l best
 
-Take care do do these steps as normal user on Linux (not as a superuser), otherwise you’ll have to take care about the file permissions later on.
+Take care to do these steps as a normal user on Linux (not as superuser(aka root)), otherwise you’ll have to take care about the file permissions later on.
 
 The git:// protocol uses port 9418, which may be a problem if you’re behind a strict firewall. You may instead use the clone url <code>http://git.xonotic.org/xonotic/xonotic.git</code> (however, using the git protocol directly is preferred for performance reasons).
 
@@ -61,13 +61,13 @@ After that, you have a working checkout of the repository. The game can be compi
     ./all compile
     ./all run
 
-The run line can be followed by one of “glx” (Linux native), “sdl” (input/sound managed by SDL), agl (OSX native), wgl (Windows native), or dedicated (for server hosting) to choose which executable to run or compile… Seen as follows:
+The _run_ line can be followed by one of “glx” (Linux native), “sdl” (input/sound managed by SDL), agl (OSX native), wgl (Windows native), or “dedicated” (for server hosting) to choose which executable to run or compile. Seen as follows:
 
     ./all compile dedicated
     ./all run wgl
     ./all run sdl
 
-The run command can also be followed by standard DarkPlaces commandline arguments:
+The _run_ command can also be followed by standard DarkPlaces commandline arguments:
 
     ./all run +vid_fullscreen 0
 

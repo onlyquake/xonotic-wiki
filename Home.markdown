@@ -25,6 +25,7 @@ Project
 The Software
 ------------
 -   [Repository Access](Repository_Access) (how to compile from git) (see also [Git](Git))
+-   [Privacy and Security](privacy-and-security)
 -   [Hardware Requirements](Hardware_Requirements)
 
 

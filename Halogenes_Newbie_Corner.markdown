@@ -1,5 +1,44 @@
 [![Halogene's Newbie Corner](http://www.xonotic.org/m/uploads/2014/04/newbie-corner-banner-thumb.png)](http://www.xonotic.org/m/uploads/2012/09/newbie-corner-banner2.png)
 
+Contents
+========
+-   Preface(#preface)
+-   [Movement](#movement)
+	-   [Bunny Hopping](#bunny-hopping)
+	-   [Laser Jumping](#laser-jumping)
+	-   [Wall Lasering](#wall-lasering)
+	-   [Ramp Jumping](#ramp-jumping)
+-   [Weapons](#weapons)
+	-   [Laser](#laser)
+	-   [Shotgun](#shotgun)
+	-   [Machinegun/Uzi](#machinegunuzi)
+	-   [Mortar](#mortar)
+	-   [Electro](#electro)
+	-   [Crylink](#crylink)
+	-   [Nex](#nex)
+	-   [Hagar](#hagar)
+	-   [Rocket Launcher](#rocket-launcher)
+-   [Gameplay Tricks](#gameplay-tricks)
+	-   [Weapon Comboing](#weapon-comboing)
+	-   [Keyboard Setup](#keyboard-setup)
+	-   [Splash Damage Travels Through Walls](#splash-damage-travels-through-walls)
+	-   [Stay Healthy](#stay-healthy)
+	-   [Listen](#listen)
+	-   [Console ABC](#console-abc)
+-   [Optimizing Perception](#optimizing-perception)
+	-   [Visuals](#visuals)
+		-   [Damage Blur](#damage-blur)
+		-   [Field of View](#field-of-view)
+		-   [Visible Players](#visible-players)
+		-   [Reducing Effects](#reducing-effects)
+		-   [Picmip and Simple Items](#picmip-and-simple-items)
+		-   [Crosshair](#crosshair)
+		-   [Fine Tuning](#fine-tuning)
+	-   [Audio](#audio)
+
+
+
+
 Preface
 =======
 

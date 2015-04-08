@@ -10,7 +10,7 @@ Project
     -   [About Xonotic and Nexuiz](Faq)
     -   [Licensing / Legal](Legal)
     -   [Announcements](Announcements)
--   Public Relations and Community
+-   Community, Communication, and Public Relations
     -   [Public Relations](Pr)
     -   [Organizational Structure](Organizational_Structure)
     -   [Roles and Skills](Roles) of contributing community members

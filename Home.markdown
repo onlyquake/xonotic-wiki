@@ -6,20 +6,27 @@ This is a wiki / development system where we can gather information for the futu
 Project
 -------
 
--   [Frequently Asked Questions](Faq)
--   [Public Relations](Pr)
--   Check out our [Project Plan](Plan) so far
--   [Organizational Structure](Organizational_Structure)
--   [Roles and Skills](Roles) of contributing community members
--   [IRC channels](Channels)
--   [Community development](Community_development) planning
--   [Licensing / Legal](Legal)
--   [Announcements](Announcements)
+-   General Info
+    -   [About Xonotic and Nexuiz](Faq)
+    -   [Licensing / Legal](Legal)
+    -   [Announcements](Announcements)
+-   Public Relations and Community
+    -   [Public Relations](Pr)
+    -   [Organizational Structure](Organizational_Structure)
+    -   [Roles and Skills](Roles) of contributing community members
+    -   [Community development](Community_development) planning
+    -   [IRC channels](Channels)
+-   Plans
+    -   Check out our [Project Plan](Plan) so far
+    -   [Website](Website) Plannning
+    -   Notes from brainstorming [ideas for names](names)
+    -   [Xonotic compatibility pack](Xonotic_compatibility_pack) a small pk3 that will rebrand a default Nexuiz install
+
+The Software
+------------
 -   [Repository Access](Repository_Access) (how to compile from git) (see also [Git](Git))
--   [Website](Website) Plannning
--   [Xonotic compatibility pack](Xonotic_compatibility_pack) a small pk3 that will rebrand a default Nexuiz install
--   Notes from brainstorming [ideas for names](names)
 -   [Hardware Requirements](Hardware_Requirements)
+
 
 Gameplay
 --------

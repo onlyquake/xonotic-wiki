@@ -2,7 +2,7 @@
 
 Contents
 ========
--   Preface(#preface)
+-   [Preface](#preface)
 -   [Movement](#movement)
 	-   [Bunny Hopping](#bunny-hopping)
 	-   [Laser Jumping](#laser-jumping)

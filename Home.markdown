@@ -11,11 +11,11 @@ Project
     -   [Licensing / Legal](Legal)
     -   [Announcements](Announcements)
 -   Community, Communication, and Public Relations
-    -   [Public Relations](Pr)
     -   [Organizational Structure](Organizational_Structure)
     -   [Roles and Skills](Roles) of contributing community members
     -   [Community development](Community_development) planning
     -   [IRC channels](Channels)
+    -   [Public Relations](Pr)
 -   Plans
     -   Check out our [Project Plan](Plan) so far
     -   [Website](Website) Plannning

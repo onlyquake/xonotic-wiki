@@ -183,4 +183,4 @@ References
 
 -   [Git](Git)
 -   [Forbidden disposable e-mail providers](Forbidden_disposable_e-mail_providers)
-
+-   [Gitlab Markdown Reference](https://gitlab.com/help/markdown/markdown.md) (for editing this wiki)

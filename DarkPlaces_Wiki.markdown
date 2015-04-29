@@ -16,6 +16,7 @@ Darkplaces Engine
 
 -   History
 -   [Features](DarkPlaces_Features)
+-   [Executable Parameters](Darkplaces_Parameters)
 -   [Console Commands](DarkPlaces_Commands)
 -   [Console Variables](DarkPlaces_CVars)
 -   [QuakeC Extensions](DarkPlaces_Extensions)

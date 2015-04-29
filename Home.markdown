@@ -101,10 +101,6 @@ Art & Media
     -   [Close to home](Close_to_home)
     -   [Tech Conglomerate](Tech_Conglomerate)
 
-Additional Engine References
-----------------------------
-
--   [Darkplaces Parameters](Darkplaces_Parameters)
 
 Editing
 -------

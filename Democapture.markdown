@@ -1,7 +1,7 @@
 Capturing video clips
 =====================
 
-Capturing video clips in Xonotic is easy, and does not need any external tools such as screen capturing software. You can choose to capture with either the (lossy) Ogg Theora codec or alternatively to an uncompressed avi file. Beware that capturing while playing is a bad idea, as this will result in very choppy video. Always record a demo of what you are going to capture before rendering it to a video file. Enabling auto recording of demos is a good idea, which can be done via the menu (Multiplayer ~~\> Demos~~\> [X] Record demos while playing). Playing them back can be done from the same menu.
+Capturing video clips in Xonotic is easy, and does not need any external tools such as screen capturing software. You can choose to capture with either the (lossy) Ogg Theora codec or alternatively to an uncompressed avi file. Beware that capturing while playing is a bad idea, as this will result in very choppy video. Always record a demo of what you are going to capture before rendering it to a video file. Enabling auto recording of demos is a good idea, which can be done via the menu (Media -> Demos -> [X] Auto record demos). Playing them back can be done from the same menu.
 
 cl\_capturevideo
 ----------------
@@ -47,7 +47,7 @@ The demo camera can be enabled with
 
     camera_enable 1
 
-It will by default follow the player and let you move the camera around.
+It will by default follow the player and let you move the camera around. When the camera is disabled (default), the player's 1st person view is shown.
 
 Camera modes
 ------------

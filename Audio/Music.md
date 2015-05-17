@@ -60,7 +60,7 @@ Links
 -----
 
 -   Licensing
-    -   Our [Legal](Legal) wiki page
+    -   Our [Legal](../Legal) wiki page
     -   http://wiki.creativecommons.org/GarageBand
 -   Tools
     -   OpenMPT http://www.lpchip.com/modplug

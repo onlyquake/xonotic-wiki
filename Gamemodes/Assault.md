@@ -20,8 +20,8 @@ _(Insert Map Entities here)_
 Helpful Hints and Tips
 ----------------------
 
-- [Binds](Binds) like “Enemy seen” are useful to inform the team.
-- Maps can include [Turrets](Turrets) (machines that fire e.g. rockets or laser at you). They can be destroyed if you shot them for a while.
+- [Binds](../Binds) like “Enemy seen” are useful to inform the team.
+- Maps can include [Turrets](../Turrets) (machines that fire e.g. rockets or laser at you). They can be destroyed if you shot them for a while.
 
 List of Demos and Videos
 ------------------------

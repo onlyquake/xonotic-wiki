@@ -10,9 +10,9 @@ Graphics Features
 -   Realtime Dynamic Lighting
 -   Diffuse, Normal, Gloss & Glow Mapping
 -   Omnidirectional Shadow Mapping
--   [Scriptable particle effects](DarkPlaces_Effectinfo)
--   [Skeletal Animation](DarkPlaces_Modeling)
--   [Scriptable Surface Materials](DarkPlaces_Materials)
+-   [Scriptable particle effects](./Effectinfo)
+-   [Skeletal Animation](./Modeling)
+-   [Scriptable Surface Materials](./Materials)
 -   Reflective/Refractive Water
 
 Supported Formats

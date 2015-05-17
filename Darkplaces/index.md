@@ -15,25 +15,24 @@ Darkplaces Engine
 =================
 
 -   History
--   [Features](DarkPlaces_Features)
--   [Executable Parameters](Darkplaces_Parameters)
--   [Console Commands](DarkPlaces_Commands)
--   [Console Variables](DarkPlaces_CVars)
--   [QuakeC Extensions](DarkPlaces_Extensions)
--   [Client-Side QuakeC](DarkPlaces_CSQC)
+-   [Features](./Features)
+-   [Executable Parameters](./Parameters)
+-   [Console Commands](./Commands)
+-   [Console Variables](./CVars)
+-   [QuakeC Extensions](./Extensions)
+-   [Client-Side QuakeC](./CSQC)
 -   Menu QuakeC
--   [Darkplaces Authors](DarkPlaces_Authors)
+-   [Darkplaces Authors](./Authors)
 -   Contributing
 -   Compiling Darkplaces from Source
 
 Modding With Darkplaces
 =======================
 
--   [QC Tutorials](DarkPlaces_QC_Tutorials)
--   [Modeling for DP](DarkPlaces_Modeling)
+-   [Modeling for DP](./Modeling)
 -   Mapping for DP
--   [Material creation for DP](DarkPlaces_Materials)
--   [Effectinfo Scripting Reference](DarkPlaces_Effectinfo)
+-   [Material creation for DP](./Materials)
+-   [Effectinfo Scripting Reference](./Effectinfo)
 
 Commercial Games
 ================

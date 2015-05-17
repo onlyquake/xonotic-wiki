@@ -1,15 +1,15 @@
-MinstaGib Mutator:
-==================
+InstaGib Mutator:
+=================
 
 Overview
 --------
 
-Typically known as “instagib” in most other arena shooters, MinstaGib replaces all weaponry with the [MinstaNex](Weapons#minstanex). It is a powerful hitscan weapon that will immediately kill the target player in one shot. MinstaGib is a popular mutator that mixes well with almost all gamemodes and may be included in many Xonotic servers. When participating in a MinstaGib match, one must have particularly good aim and conserve shots whenever possible.
+InstaGib replaces all weaponry with the [Vortex](Weapons#minstanex). It is a powerful hitscan weapon that will immediately kill the target player in one shot. InstaGib is a popular mutator that mixes well with almost all gamemodes and may be included in many Xonotic servers. When participating in an InstaGib match, one must have particularly good aim and conserve shots whenever possible.
 
 Mutator Details
 ---------------
 
--   MinstaNex weapon information:
+-   Vortex weapon information:
     -   *Primary fire*: Instant-kill beam; has a **\~1 second** recharge time, so aim wisely.
     -   *Secondary fire*: [Laser](Weapons#laser). Can be used for laserjumping or pushing other players off the map.
     -   *Ammunition*: [Cells](Items#cells)

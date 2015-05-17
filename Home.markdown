@@ -18,8 +18,8 @@ Project
     -   [Public Relations](Pr)
 -   Plans
     -   Check out our [Project Plan](Plan) so far
-    -   [Website](Website) Plannning
-    -   Notes from brainstorming [ideas for names](names)
+    -   [Website planning](Planning/Website) 
+    -   Notes from brainstorming [ideas for names](Planning/names)
     -   [Xonotic compatibility pack](Xonotic_compatibility_pack) a small pk3 that will rebrand a default Nexuiz install
 
 The Software
@@ -43,44 +43,44 @@ Gameplay
     -   [Weapons](Weapons)
 
 -   Gamemodes
-    -   [Arena](Arena)
-    -   [Assault](Assault)
-    -   [Capture the Flag](Capture_the_Flag)
-    -   [Clan Arena](Clan_Arena)
-    -   [Deathmatch](Deathmatch)
-        -   [1v1 Duel](1v1_Duel)
-    -   [Domination](Domination)
-    -   [Freeze Tag](Freeze_Tag)
-    -   [Keepaway](Keepaway)
-    -   [Key Hunt](Key_Hunt)
-    -   [Last Man Standing](Last_Man_Standing)
-    -   [Nexball](Nexball)
-    -   [Onslaught](Onslaught)
-    -   [Race](Race)
-    -   [Race CTS](Race_CTS)
-    -   [Runematch](Rune)
-    -   [Team Deathmatch](Team_Deathmatch)
-    -   [Conquest](Conquest)
+    -   [Arena](Gamemodes/Arena)
+    -   [Assault](Gamemodes/Assault)
+    -   [Capture the Flag](Gamemodes/Capture_the_Flag)
+    -   [Clan Arena](Gamemodes/Clan_Arena)
+    -   [Deathmatch](Gamemodes/Deathmatch)
+    -   [Domination](Gamemodes/Domination)
+    -   [Duel](Gamemodes/Duel)
+    -   [Freeze Tag](Gamemodes/Freeze_Tag)
+    -   [Keepaway](Gamemodes/Keepaway)
+    -   [Key Hunt](Gamemodes/Key_Hunt)
+    -   [Last Man Standing](Gamemodes/Last_Man_Standing)
+    -   [Nexball](Gamemodes/Nexball)
+    -   [Onslaught](Gamemodes/Onslaught)
+    -   [Race](Gamemodes/Race)
+    -   [Race CTS](Gamemodes/Race_CTS)
+    -   [Runematch](Gamemodes/Rune)
+    -   [Team Deathmatch](Gamemodes/Team_Deathmatch)
+    -   [Conquest](Gamemodes/Conquest)
 
 -   Mutators
-    -   [Dodging](Dodging)
-    -   [Midair](Midair)
-    -   [Vampire](Vampire)
-    -   [Blood Loss](Blood Loss)
-    -   [Low Gravity](Low Gravity)
-    -   [Cloak](Cloak)
-    -   [Relics](Relics)
-    -   [Weapon Arena](Weapon Arena)
-    -   [Grappling Hook](Grappling_Hook)
-    -   [Jet Pack](Jet Pack)
-    -   [Rocket Flying](Rocket Flying)
-    -   [Pinata](Pinata)
-    -   [Weapons Stay](Weapons Stay)
-    -   [MinstaGib](MinstaGib)
-    -   [NIX](NIX)
+    -   [Dodging](Mutators/Dodging)
+    -   [Midair](Mutators/Midair)
+    -   [Vampire](Mutators/Vampire)
+    -   [Blood Loss](Mutators/Blood_Loss)
+    -   [Low Gravity](Mutators/Low_Gravity)
+    -   [Cloak](Mutators/Cloak)
+    -   [Relics](Mutators/Relics)
+    -   [Weapon Arena](Mutators/Weapon_Arena)
+    -   [Grappling Hook](Mutators/Grappling_Hook)
+    -   [Jet Pack](Mutators/Jet_Pack)
+    -   [Rocket Flying](Mutators/Rocket_Flying)
+    -   [Pinata](Mutators/Pinata)
+    -   [Weapons Stay](Mutators/Weapons_Stay)
+    -   [InstaGib](Mutators/InstaGib)
+    -   [NIX](Mutators/NIX)
 
 -   Misc
-    -   [Camera for demos explained](Demo_Camera)
+    -   [Camera for demos explained](Recording/Demo_Camera)
     -   [Xonotic Bot Orchestra](Xonotic_Bot_Orchestra)
 
 Art & Media
@@ -88,18 +88,18 @@ Art & Media
 
 -   [Art Roadmap](Art_Roadmap)
 -   [Artistic Style](Artistic_Style)
--   [Xonotic Logo](Logo)
--   [Maps Makeover](Maps_Makeover)
--   [Weapons Makeover](Weapons_Makeover)
-    -   [New weapon names discussion](NamesWeapons)
+-   [Xonotic Logo](Planning/Logo/Logo)
+-   [Maps Makeover](Planning/Maps_Makeover)
+-   [Weapons Makeover](Planning/Weapons_Makeover)
+    -   [New weapon names discussion](Planning/NamesWeapons)
 -   [2d art](2d art)
--   [Music](Music)
-    -   [Music contributions](Music_contributions)
--   [Sound FX](Sound_FX)
-    -   [Sound FX contributions](Sound_FX_contributions)
+-   [Music](Audio/Music)
+    -   [Music contributions](Audio/Music_contributions)
+-   [Sound FX](Audio/Sound_FX)
+    -   [Sound FX contributions](Audio/Sound_FX_contributions)
 -   Story Themes
-    -   [Close to home](Close_to_home)
-    -   [Tech Conglomerate](Tech_Conglomerate)
+    -   [Close to home](Planning/Themes/Close_to_home)
+    -   [Tech Conglomerate](Planning/Themes/Tech_Conglomerate)
 
 
 Editing
@@ -108,24 +108,24 @@ Editing
 In this section you will find helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping, etc
 
 -   Programming
-    -   [Introduction to QuakeC](Introduction_to_QuakeC)
-    -   [DarkPlaces Wiki](DarkPlaces_Wiki)
-    -   [QuakeC Specifications v1.0](QuakeC_Wiki)
+    -   [Introduction to QuakeC](QuakeC/Introduction_to_QuakeC)
+    -   [DarkPlaces Wiki](Darkplaces/index)
+    -   [QuakeC Specifications v1.0](QuakeC/QuakeC_Wiki)
     -   [QuakeC tutorials](http://www.inside3d.com/tutorials.php) at inside3d.com
-    -   [NewQC](NewQC) - Possible changes regarding QC (compiler, syntax, …)
+    -   [NewQC](QuakeC/NewQC) - Possible changes regarding QC (compiler, syntax, …)
 
--   [Modeling](Modeling)
-    -   [Textures know-how](Textures)
-    -   [Normal Maps know-how](Normal_Maps)
+-   [Modeling](Darkplaces/Modeling)
+    -   [Textures know-how](Modeling/Textures)
+    -   [Normal Maps know-how](Modeling/Normal_Maps)
     -   [Polygon count](Polycounts) on Weapons and Models
-    -   [.framegroups](framegroups) file (allow self playing animations) know-how
+    -   [.framegroups](Modeling/framegroups) file (allow self playing animations) know-how
     -   [.sounds](Voices_and_sounds) file (player model sounds) know-how
-    -   [How to compile dpm models](dpmodel)
-    -   [How to make weapons](Weaponsystem)
-    -   How to get an animated mesh from [Blender to DPM](Blender_to_DPM)
+    -   [How to compile dpm models](Modeling/dpmodel)
+    -   [How to make weapons](Modeling/Weaponsystem)
+    -   How to get an animated mesh from [Blender to DPM](Modeling/Blender_to_DPM)
     -   [Inter-Quake Model (IQM) Format](http://lee.fov120.com/iqm/)
-    -   [Player Model Spec](Player_Model_Spec)
-    -   [Blender to IQM](Blender_to_IQM)
+    -   [Player Model Spec](Modeling/Player_Model_Spec)
+    -   [Blender to IQM](Modeling/Blender_to_IQM)
 
 -   Texturing
     -   Tutorials [1](http://www.cgtextures.com/content.php?action=tutorials)
@@ -135,12 +135,12 @@ In this section you will find helpful information about editing Xonotic in gener
     -   [Q3A Shader Manual](http://toolz.nexuizninjaz.com/shader/)
 
 -   Configuration
-    -   [Capturing video clips and using the demo camera](democapture)
+    -   [Capturing video clips and using the demo camera](Recording/Democapture)
     -   [Git](Git)
 
--   [Mapping](Mapping)
-    -   [Creating Maps](Creating_Maps)
-    -   [Mapper resources](Mapper_resources)
+-   [Mapping](Mapping/Mapping)
+    -   [Creating Maps](Mapping/Creating_Maps)
+    -   [Mapper resources](Mapping/Mapper_resources)
     -   [Map naming convention](http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330)
 
 References

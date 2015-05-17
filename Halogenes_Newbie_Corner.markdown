@@ -11,7 +11,7 @@ Contents
 -   [Weapons](#weapons)
 	-   [Laser](#laser)
 	-   [Shotgun](#shotgun)
-	-   [Machinegun/Uzi](#machinegunuzi)
+	-   [Machinegun](#machinegun)
 	-   [Mortar](#mortar)
 	-   [Electro](#electro)
 	-   [Crylink](#crylink)
@@ -268,7 +268,7 @@ The shotgun is your second spawn weapon. Primary fire is very powerful in close 
 
 The secondary fire mode allows you to swing the shotgun like a big trout and to slap other players, which is, apart from dealing rather lots of damage, very much fun to do.
 
-### Machinegun/Uzi
+### Machinegun
 
 [![Machinegun](http://www.xonotic.org/m/uploads/2014/04/MG2-thumb.png)](http://www.xonotic.org/m/uploads/2012/12/MG2.png)
 

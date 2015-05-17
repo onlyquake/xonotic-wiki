@@ -20,10 +20,8 @@ Instantly you will be able to look anywhere and change the camera position using
 
 ### Camera angles
 
-Like I said before you can control vertical and horizontal angles using the mouse. To rotate the view you need to use the commands `+right` and `+left`. To move up and down, you can use `+moveup` and `+movedown`. Probably you will want to bind them to keyboard keys with something like:
+Like I said before you can control vertical and horizontal angles using the mouse. To rotate the view you need to use the commands `+right` and `+left`. Probably you will want to bind them to keyboard keys with something like:
 
-    bind UPARROW "+moveup"
-    bind DOWNARROW "+moveDOWN"
     bind LEFTARROW "+left"
     bind RIGHTARROW "+right"
 
@@ -31,6 +29,9 @@ Like I said before you can control vertical and horizontal angles using the mous
 
 Using standard movement keys you can move to right/left and forward/backward, also by default you can move up/down just looking up/down and moving forward/backward.
 For moving up/down you can use +moveup and +movedown.
+
+    bind UPARROW "+moveup"
+    bind DOWNARROW "+moveDOWN"
 
 ### Camera modes
 

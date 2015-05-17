@@ -20,10 +20,12 @@ Instantly you will be able to look anywhere and change the camera position using
 
 ### Camera angles
 
-Like I said before you can control vertical and horizontal angles using the mouse. To rotate the view you need to use the commands `+roll_right` and `+roll_left`. Probably you will want to bind them to keyboard keys with something like:
+Like I said before you can control vertical and horizontal angles using the mouse. To rotate the view you need to use the commands `+right` and `+left`. To move up and down, you can use `+moveup` and `+movedown`. Probably you will want to bind them to keyboard keys with something like:
 
-    bind e +roll_right
-    bind q +roll_left
+    bind UPARROW "+moveup"
+    bind DOWNARROW "+moveDOWN"
+    bind LEFTARROW "+left"
+    bind RIGHTARROW "+right"
 
 ### Camera position
 

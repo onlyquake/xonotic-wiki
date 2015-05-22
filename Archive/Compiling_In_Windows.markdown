@@ -70,7 +70,7 @@ Next, type
     cd xonotic
     ./all update -l best
 
-The `cd` line tells the Shell to go inside the `xonotic` directory, where `./all` is located. In the second line, the `-l best` part asks `./all` to pick the best available mirror. This step will dowload several gigabytes of data, so expect it to take a while.
+The `cd` line tells the Shell to go inside the `xonotic` directory, where `./all` is located. In the second line, the `-l best` part asks `./all` to pick the best available mirror. This step will download several gigabytes of data, so expect it to take a while.
 
 Step 3: compiling
 -----------------
@@ -79,7 +79,7 @@ Compiling the game is quite simple. In your MinGW Shell, just type
 
     ./all compile
 
-This will compile fteqcc (which is a compiler for the QuakeC language), then the game code using fteqcc, then the DarkPlaces engine.
+This will compile gmqcc (which is a compiler for the QuakeC language), then the game code using gmqcc, then the DarkPlaces engine.
 
 This step can take a few minutes, so be patient! When it’s over, check the last few lines to see if it reports any errors.
 
@@ -94,7 +94,7 @@ If you ever need to start the game in windowed mode, you can launch it this way:
 
     ./all run +vid_fullscreen 0
 
-By default, `./all` uses the SDL build (called `xonotic-sdl.exe` in releases). You can use the WGL build (`xonotic.exe`) like this:
+By default, `./all` uses the SDL build (called `xonotic.exe` in releases). You can use the WGL build (`xonotic-wgl.exe`) like this:
 
     ./all run wgl
 

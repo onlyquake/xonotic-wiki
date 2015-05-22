@@ -54,12 +54,6 @@ To close a MinGW Shell, just type
 
 But keep this one open, we’re going to use it some more.
 
-To close a MinGW Shell, just type
-
-    exit
-
-But keep this one open, we’re going to use it some more.
-
 Step 2: downloading the Xonotic source files
 --------------------------------------------
 

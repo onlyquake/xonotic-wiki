@@ -24,7 +24,7 @@ Currently most contributions come in the format of a regular CD track, that is 3
 
 In spite of having longer tracks its more than likely that a track gets played at two or more times during a match, for this is important that the end and beginning of the track can be matched without disruptions, giving a sense of continuity.
 
-For this the ideal way is to find a start and end sample index, so that that region is perfectly (clickless) loopable. These can be set as LOOP\_START and LOOP\_END tags in the Vorbis file, and the engine will seek back to LOOP\_START when reaching LOOP\_END. Here's a [video demonstrating how to add these tags](https://www.youtube.com/watch?v=ZwWZH5cYTCU).
+For this the ideal way is to find a start and end sample index, so that that region is perfectly (clickless) loopable. These can be set as LOOP\_START and LOOP\_END tags in the Vorbis file, and the engine will seek back to LOOP\_START when reaching LOOP\_END. Here's the [thread](http://forums.xonotic.org/showthread.php?tid=359&pid=5602#pid5602) with details, as well as a [video](https://www.youtube.com/watch?v=ZwWZH5cYTCU).
 
 ### Complexity
 

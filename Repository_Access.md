@@ -7,20 +7,22 @@ For information on how to obtain write access, skip down to the “[Getting writ
 
 For more information about Git we have a page on the wiki [here](Git).
 
+***
+
 Setting up the development environment
 --------------------------------------
 
-The first thing you must do in order to begin development is set up your system to be able to download and compile the Xonotic game data.
+The first thing you must do in order to begin with development is to set up your system to be able to download and compile the Xonotic game data.
 
 ### Linux
 
-Linux already has an adequate base for development, all we really need to do here is install the **dependencies** for the download/compilation process and then we can move right along to cloning the data.
+Linux already has an adequate base for development, all we really need to do here is to install the **dependencies** for the download/compilation process and then we can move right along to cloning the data.
 
-**Ubuntu Dependencies** (independent package x11-proto-devel dependencies fill the rest of the Debian package dependencies):
+**Ubuntu Dependencies** (independent package `x11-proto-devel` dependencies fill the rest of the Debian package dependencies):
 
     sudo apt-get install build-essential xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl2-dev libsdl2-image-dev libclalsadrv-dev libasound2-dev libxext-dev libjpeg-turbo8-dev git-core unzip wget
 
-Note: If using **i386** architecture, you can replace libdsl1.2debian by libsdl1.2debian:**i386** in the list above. On Debian, use libjpeg8-dev if libjpeg-turbo8-dev isn’t available in the package repositories. To be able to download maps from game servers when using Xonotic for online gaming, you will also need **curl** installed on your system.
+Note: If using **i386** architecture, you can replace `libdsl1.2debian` with `libsdl1.2debian:i386` in the list above. On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories. To be able to download maps from game servers when using Xonotic for online gaming, you will also need `curl` installed on your system.
 
 For **Fedora** and other **RPM based** distro’s, compiling dependencies are as follows:
 
@@ -32,9 +34,9 @@ For **Archlinux** the dependencies can be installed via the following command:
 
 ### Windows
 
-By default, Windows has no real environment to handle the necessary scripting and compiling tools for building Xonotic. So, what we have to do is install something called [msysgit](https://github.com/msysgit/msysgit/releases) to allow us to have a similar environment as on Linux. In this case, we want the download which is entirely self contained (including **build-essentials** and other corely required dependencies), which at the time of writing this is called “**msysGit-netinstall-1.9.5-preview20150319.exe.**” Simply follow the instructions on screen at this point. **NOTE: Unless you know what you’re doing, install with default settings/directories.**
+By default, Windows has no real environment to handle the necessary scripting and compiling tools for building Xonotic. So, what we have to do is install something called [`msysgit`](https://github.com/msysgit/msysgit/releases) to allow us to have a similar environment as on Linux. In this case, we want the download which is entirely self contained (including **build-essentials** and other core required dependencies), which at the time of writing this is called `msysGit-netinstall-1.9.5-preview20150319.exe`. Simply follow the instructions on screen at this point. **NOTE: Unless you know what you’re doing, install with default settings/directories.**
 
-Once you have completed the installation, you should be able to launch the msysgit shell by simply finding “**msys.bat**”- by default, it is located at **C:**, and you can use this shell to continue on with the guide and clone and compile the Xonotic repositories. It is recommended that you make a shortcut to msysgit (simply right click the shell and hit “Create Shortcut”) for easier access on your desktop or in your start menu.
+Once you have completed the installation, you should be able to launch the msysgit shell by simply finding `msys.bat` - by default, it is located at `C:`, and you can use this shell to continue on with the guide and clone and compile the Xonotic repositories. It is recommended that you make a shortcut to msysgit (simply right click the shell and hit “Create Shortcut”) for easier access on your desktop or in your start menu.
 
 ### Mac OSX
 
@@ -42,6 +44,7 @@ You must first install **XCode** which comes on your installation DVD or can be 
 
 After your development environment is all set up, you can continue on to cloning the git repository and compiling Xonotic.
 
+***
 
 Cloning the repository and compiling
 ------------------------------------
@@ -54,20 +57,20 @@ Making sure that your environment is set up properly, you can do the following t
 
 Take care to do these steps as a **normal user** on Linux (not as superuser(aka root)), otherwise you’ll have to take care about the file permissions later on.
 
-The **git://** protocol uses port **9418**, which may be a problem if you’re behind a **strict firewall**. You may instead use the clone url <code>http://git.xonotic.org/xonotic/xonotic.git</code> (however, using the git protocol directly is preferred for performance reasons).
+The **git://** protocol uses port **9418**, which may be a problem if you’re behind a **strict firewall**. You may instead use the clone url http://git.xonotic.org/xonotic/xonotic.git (however, using the git protocol directly is preferred for performance reasons).
 
 After that, you have a working checkout of the repository. The game can be compiled and run with the following commands:
 
     ./all compile
     ./all run
 
-The _run_ line can be followed by one of “glx” (Linux native), “sdl” (input/sound managed by SDL), agl (OSX native), wgl (Windows native), or “dedicated” (for server hosting) to choose which executable to run or compile. Seen as follows:
+The `./all run` line can be followed by one of `glx` (Linux native), `sdl` (input/sound managed by SDL), `agl` (OSX native), `wgl` (Windows native), or `dedicated` (for server hosting) to choose which executable to run or compile. Seen as follows:
 
     ./all compile dedicated
     ./all run wgl
     ./all run sdl
 
-The _run_ command can also be followed by standard DarkPlaces commandline arguments:
+The `run` command can also be followed by standard DarkPlaces commandline arguments:
 
     ./all run +vid_fullscreen 0
 
@@ -77,6 +80,7 @@ To update your Git clone, you can repeat the commands above without the first �
     ./all update
     ./all compile
 
+***
 
 Contributing and getting write access
 -------------------------------------
@@ -97,7 +101,7 @@ and follow the instructions that are shown.
 
 After that, you can write to the repository using the usual git commands (commit, push).
 
-Alternatively, you can use the helper script “all”.
+Alternatively, you can use the helper script `all`.
 It supports the following commands:
 
     ./all update
@@ -148,4 +152,3 @@ This wiki’s [Git](Git) page.
 
 A tutorial to Git for SVN users:
 http://git-scm.org/course/svn.html
-

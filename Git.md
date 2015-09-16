@@ -27,6 +27,11 @@ After cloning the repository
 After you cloned the repository (using `git clone <url>`) you are ready to start creating a branch to start working.
 Please check [Repository Access](Repository_Access) to make sure you checked out **all** of the repositories. `data/` for example resides in its own repository.
 
+Compiling
+---------
+
+Run `./all compile` to compile the engine and gamecode. Add -r for a faster release build without debugging symbols.
+
 Project structure
 -----------------
 

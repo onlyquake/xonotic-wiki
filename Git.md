@@ -32,6 +32,11 @@ Compiling
 
 Run `./all compile` to compile the engine and gamecode. Add -r for a faster release build without debugging symbols.
 
+Running
+-------
+
+Run `./all run` launch the game after compiling. `./all run dedicated` to start a dedicated server instead.
+
 Project structure
 -----------------
 

@@ -5,19 +5,19 @@ Contents
 -   [Preface](#preface)
 -   [Movement](#movement)
 	-   [Bunny Hopping](#bunny-hopping)
-	-   [Laser Jumping](#laser-jumping)
-	-   [Wall Lasering](#wall-lasering)
+	-   [Blaster Jumping](#blaster-jumping)
+	-   [Wall Blastering](#wall-blastering)
 	-   [Ramp Jumping](#ramp-jumping)
 -   [Weapons](#weapons)
-	-   [Laser](#laser)
+	-   [Blaster](#blaster)
 	-   [Shotgun](#shotgun)
 	-   [Machinegun](#machinegun)
 	-   [Mortar](#mortar)
 	-   [Electro](#electro)
 	-   [Crylink](#crylink)
-	-   [Nex](#nex)
+	-   [Vortex](#vortex)
 	-   [Hagar](#hagar)
-	-   [Rocket Launcher](#rocket-launcher)
+	-   [Devastator](#devastator)
 -   [Gameplay Tricks](#gameplay-tricks)
 	-   [Weapon Comboing](#weapon-comboing)
 	-   [Keyboard Setup](#keyboard-setup)
@@ -46,7 +46,7 @@ This tutorial aims at showing all fundamental aspects of vanilla gameplay to ena
 
 Note that all this applies to vanilla Xonotic. Whereas movement aspects should usually apply more or less unchanged to modified servers offering minstagib, vehicle ctf or overkill gameplay, I will not explain the specifics of these game modifications/mutators - I simply lack the expertise in non-vanilla game modes. So if you want to fully apply the knowledge gained from this tutorial, search for vanilla servers (Xonotic icon next to it in server browser) or use the official [HUB] ones.
 
-Remember that the Xonotic player community is generally considered a very friendly and helpful one and for many people (including me) this is the key aspect that gets one hooked to this game. If you meet very strong players online and wonder how they do certain things, it usually pays off to simply ask them. Most of the experienced players will take their time to shortly explain gameplay techniques to newbies if asked nicely. Some of them might even offer to show you around by giving you a short live tutorial. That’s how I myself learned about laser jumping and strafe turning for example.
+Remember that the Xonotic player community is generally considered a very friendly and helpful one and for many people (including me) this is the key aspect that gets one hooked to this game. If you meet very strong players online and wonder how they do certain things, it usually pays off to simply ask them. Most of the experienced players will take their time to shortly explain gameplay techniques to newbies if asked nicely. Some of them might even offer to show you around by giving you a short live tutorial. That’s how I myself learned about blaster jumping and strafe turning for example.
 
 Even if the skill gap between you and another player is immense, it is highly improbable that the other player is cheating. There are a couple of mechanisms implemented in the game that effectively prevent cheating, and from my personal experience I am confident to say that cheating is not really an issue in Xonotic. The skill gap between newbies and experienced players mostly results from newbies not knowing gameplay mechanics and therefore lacking the ability to acquire skill in the first place. The purpose of this Newbie Corner is to allow any new player to develop the same skills that experienced players have already gained, simply by showing how it works.
 
@@ -80,39 +80,39 @@ It takes a while to get used to, but if you practice it, this goes into your cer
 
 Beyond this, advanced techniques known from other games as “strafe jumping” and “circle jumping” can also be used, however their impact is only very limited. Strafe jumping for example gives a small bit of extra acceleration only up to a certain speed in vanilla mode. Should you nevertheless want to learn more about those techniques or are interested in Xonotic race mode where servers use cpma-like physics, check out [Hero's strafe jumping lesson](http://www.xonotic.org/2013/02/a-strafe-jumping-lesson-from-hero).
 
-Laser Jumping
+Blaster Jumping
 -------------
 
-[![Laser Jumping](http://www.xonotic.org/m/uploads/2014/04/lj1-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/lj1.png)
+[![Blaster Jumping](http://www.xonotic.org/m/uploads/2014/04/lj1-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/lj1.png)
 
-Let’s now have a look at two important aspects of a very useful movement tool in Xonotic, the laser! While dealing somewhat low damage, the laser is one of the most important weapons in Xonotic. It’s projectile creates a blast upon impact on any surface or object that deals little damage to players being nearby, but pushes such players away from the impact spot. That way, the push force of the laser projectile impact can be used to move both other players and yourself around. You can test this easily by standing and shooting at the ground below you with the laser. You’ll notice that you get pushed up into the air by the blast. Now if you jump at the same time, you can get pushed even higher. If you get the timing right, you can get very high, like from the upper platform to the roof or from the fan to crylink on the map Xoylent.
+Let’s now have a look at two important aspects of a very useful movement tool in Xonotic, the blaster! While dealing somewhat low damage, the blaster is one of the most important weapons in Xonotic. It’s projectile creates a blast upon impact on any surface or object that deals little damage to players being nearby, but pushes such players away from the impact spot. That way, the push force of the blaster projectile impact can be used to move both other players and yourself around. You can test this easily by standing and shooting at the ground below you with the blaster. You’ll notice that you get pushed up into the air by the blast. Now if you jump at the same time, you can get pushed even higher. If you get the timing right, you can get very high, like from the upper platform to the roof or from the fan to crylink on the map Xoylent.
 
-But you’ll not always want to do very high jumps, for example if you’re on the run and need to hit a passageway without bumping your head on an arch above it (like the mega armor on Stormkeep coming from Hagar). In such cases, it can be useful to fire downwards while you are already (or still) in the air during bunny hopping, allowing the laser to travel a short distance before impact and having more space between impact and yourself, so the push is not that strong.
+But you’ll not always want to do very high jumps, for example if you’re on the run and need to hit a passageway without bumping your head on an arch above it (like the mega armor on Stormkeep coming from Hagar). In such cases, it can be useful to fire downwards while you are already (or still) in the air during bunny hopping, allowing the blaster projectile to travel a short distance before impact and having more space between impact and yourself, so the push is not that strong.
 
-You’ll have to experiment a bit with the timing of shooting and jumping to reliably achieve the desired jump heighth, but this will become muscle memory rather quickly since you’ll be using laser jumps a lot in Xonotic gameplay.
+You’ll have to experiment a bit with the timing of shooting and jumping to reliably achieve the desired jump heighth, but this will become muscle memory rather quickly since you’ll be using blaster jumps a lot in Xonotic gameplay.
 
-Wall Lasering
+Wall Blastering
 -------------
 
-[![Wall Lasering](http://www.xonotic.org/m/uploads/2014/04/wall-lasering-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/wall-lasering.png)
+[![Wall Blastering](http://www.xonotic.org/m/uploads/2014/04/wall-lasering-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/wall-lasering.png)
 
-Now, when accelerating fast, you won’t always want to do that vertically. Some times the first few bunny hops are not fast enough to reach a place (or to get out of a place) in time. With the technique of wall lasering you can easily reach rather high horizontal speeds instantly, out of the stand.
+Now, when accelerating fast, you won’t always want to do that vertically. Some times the first few bunny hops are not fast enough to reach a place (or to get out of a place) in time. With the technique of wall blastering you can easily reach rather high horizontal speeds instantly, out of the stand.
 
-[![Wall Lasering Step by Step](http://www.xonotic.org/m/uploads/2014/04/wall-lasering-comic-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/wall-lasering-comic-1440x300.png)  
+[![Wall Blastering Step by Step](http://www.xonotic.org/m/uploads/2014/04/wall-lasering-comic-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/wall-lasering-comic-1440x300.png)  
 *click to view full size*
 
-To master wall lasering, you’ll obviously need a wall. While it would seem logic to use a wall that you can laser off in a 90 degree angle with a laser shot backwards, it is at least equally effective and easier to use a wall that is parallel to your desired movement direction. For practicing this, you start off standing next to that wall and are facing into the desired movement direction. Then you start a bunny hop by pressing foward and then the jump key. While in the air from your first jump, you flick around (to approximately 8 o’clock if the wall is left from you, 4 o’clock if the wall is right to you), shoot the laser at the wall, aiming slightly above your head. If you shoot parallel or even down a bit, you’ll get a high upwards boost, wasting energy into vertical acceleration, so be sure to aim a little bit upwards! After the flick shot turn back to your desired movement direction and contine to bunny hop. Do not release the jump key during the entire process.
+To master wall blastering, you’ll obviously need a wall. While it would seem logic to use a wall that you can blaster off in a 90 degree angle with a blaster shot backwards, it is at least equally effective and easier to use a wall that is parallel to your desired movement direction. For practicing this, you start off standing next to that wall and are facing into the desired movement direction. Then you start a bunny hop by pressing foward and then the jump key. While in the air from your first jump, you flick around (to approximately 8 o’clock if the wall is left from you, 4 o’clock if the wall is right to you), shoot the blaster at the wall, aiming slightly above your head. If you shoot parallel or even down a bit, you’ll get a high upwards boost, wasting energy into vertical acceleration, so be sure to aim a little bit upwards! After the flick shot turn back to your desired movement direction and contine to bunny hop. Do not release the jump key during the entire process.
 
 Now let’s tweak this a little more. You wouldn’t want to accelerate into your viewing direction when looking backwards during the flick shot, would you. That is why you should switch for the time you are not looking in your desired movement direction from the forward key to the respective strafe key (strafe right if you turn to a wall on your left, strafe left if you turn to a wall on your right). When turning back into movement direction, keep the strafe key pressed until you can switch to forward key again. You can use a smoother mouse movement for turning back at least for the last couple of degrees in order to gain extra acceleration as explained in [the Bunny Hopping section](Halogenes_Newbie_Corner#bunny-hopping). Also remember to release the forward key before pressing the strafe key, and vice versa!
 
-Once you’ve learned how to reliably accelerate out of the stand with this technique, you can also use it while already bunny hopping in order to gain extra horizontal speed. Just flick around when passing a wall to gain an extra boost. Note that the laser always needs to travel a bit until it hits the wall. The faster you get, the less you need to turn backwards, since you’ll travel forwards while the laser is on its way to the wall. At very high speeds you will even be able to shoot at 10 o’clock or 2 o’clock respectively, so you’re not even facing backwards any more! But most maps don’t allow for such fast movement. Experiment and learn at which speed to use what angle, and you’ll be a fast flag runner very soon!
+Once you’ve learned how to reliably accelerate out of the stand with this technique, you can also use it while already bunny hopping in order to gain extra horizontal speed. Just flick around when passing a wall to gain an extra boost. Note that the blaster projectile always needs to travel a bit until it hits the wall. The faster you get, the less you need to turn backwards, since you’ll travel forwards while the blaster is on its way to the wall. At very high speeds you will even be able to shoot at 10 o’clock or 2 o’clock respectively, so you’re not even facing backwards any more! But most maps don’t allow for such fast movement. Experiment and learn at which speed to use what angle, and you’ll be a fast flag runner very soon!
 
 Ramp Jumping
 ------------
 
 [![Ramp Jumping](http://www.xonotic.org/m/uploads/2014/04/RampJumping-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/RampJumping-full.png)
 
-Ramps are sloped surfaces that can be used for extra upwards boost when doing a jump. If done properly, you can get to places you would not be able to reach without using a jump pad or the laser (see the [section about laser jumps](Halogenes_Newbie_Corner#laser-jumping)), while not making any suspicious noises nor loosing any health. This makes ramp jumps especially useful in duels or 2v2 tdm matches and generally extends your movement options in all game modes. Ramp jumps are also very much fun to do!
+Ramps are sloped surfaces that can be used for extra upwards boost when doing a jump. If done properly, you can get to places you would not be able to reach without using a jump pad or the blaster (see the [section about blaster jumps](Halogenes_Newbie_Corner#blaster-jumping)), while not making any suspicious noises nor loosing any health. This makes ramp jumps especially useful in duels or 2v2 tdm matches and generally extends your movement options in all game modes. Ramp jumps are also very much fun to do!
 
 In my “live” newbie tutorials, I always demonstrate the ramp jump on this spot on the map Xoylent, as it’s rather easy to master and you get the idea how it actually works:
 
@@ -145,7 +145,7 @@ You will find ramps on a lot of maps, if you look for them. Now that I’ve show
     [![Double Ramp on Xoylent](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-2-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-2.png)  
     *click to view full size*
 
--   One of the most tricky ramp jumps I’m going to show you here is the one from rocket launcher to mega health. Unless you do a [circle jump](http://www.xonotic.org/2013/02/a-strafe-jumping-lesson-from-hero), this one is not possible to my knowledge to do with walking speed, so you’ll have to do a bunny hop onto the ramp. I always start between the rocket launcher’s spawn point and the wall behind it, start a bunny hop and usually hit the ramp at the right time then. You’ll have to experiment a bit and find the good starting point for you, then you can reproduce that jump and start to get a feeling how you can do it in-game on the fly, without stopping at your favorite starting point. When turning around after the ramp jump you can switch from the forward key to the appropriate strafe key in order to lose less speed, but it’s not required to perform that jump.  
+-   One of the most tricky ramp jumps I’m going to show you here is the one from rocket launcher to mega health. Unless you do a [circle jump](http://www.xonotic.org/2013/02/a-strafe-jumping-lesson-from-hero), this one is not possible to my knowledge to do with walking speed, so you’ll have to do a bunny hop onto the ramp. I always start between the devastator’s spawn point and the wall behind it, start a bunny hop and usually hit the ramp at the right time then. You’ll have to experiment a bit and find the good starting point for you, then you can reproduce that jump and start to get a feeling how you can do it in-game on the fly, without stopping at your favorite starting point. When turning around after the ramp jump you can switch from the forward key to the appropriate strafe key in order to lose less speed, but it’s not required to perform that jump.  
     [![Ramp to Mega Health on Xoylent](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-3-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-3-thumb.png)  
     *click to view full size*
 
@@ -225,11 +225,11 @@ Glowplant is so full of ramps that I don’t even know where to start. I won’t
     [![Ramp Jump to ladder leading to Mega Health on Glowplant](http://www.xonotic.org/m/uploads/2014/04/glowplant-ladder-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/glowplant-ladder.png)  
     *click to view full size*
 
--   From Nex you can use these little lamps to get to the 50 health on the pipe.  
+-   From the vortex you can use these little lamps to get to the 50 health on the pipe.  
     [![Ramp Jump to 50 Health from Nex on Glowplant](http://www.xonotic.org/m/uploads/2014/04/glowplant-nex-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/glowplant-nex.png)  
     *click to view full size*
 
--   From bottom level outside you can get to rocket launcher using the broken pillar.  
+-   From bottom level outside you can get to the devastator using the broken pillar.  
     [![Ramp Jump to Rocket Launcher on Glowplant](http://www.xonotic.org/m/uploads/2014/04/glowplant-rocket-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/glowplant-rocket.png)  
     *click to view full size*
 
@@ -243,7 +243,7 @@ Glowplant is so full of ramps that I don’t even know where to start. I won’t
 
 These are just a few examples where to find ramps on Xonotic maps and how to use them. Keep your eyes open for ramps and interesting jumps to do with them, as most mappers put some ramps at strategic places. Ramp jumping is a lot of fun and mastering this technique can give you a real advantage over other players!
 
-Of course you can combine ramp jumping with [laser jumping](Halogenes_Newbie_Corner#laser-jumping) to gain an [extra strong upwards boost](https://www.youtube.com/watch?v=TETTtt5r86s).
+Of course you can combine ramp jumping with [blaster jumping](Halogenes_Newbie_Corner#blaster-jumping) to gain an [extra strong upwards boost](https://www.youtube.com/watch?v=TETTtt5r86s).
 
 Weapons
 -------
@@ -252,13 +252,13 @@ Weapons
 
 Since we’ve now learned how to master Xonotic movement, it’s time to have a look at the weapons. I’ll go through Xonotic’s core weapons one by one.
 
-### Laser
+### Blaster
 
-[![Laser](http://www.xonotic.org/m/uploads/2014/04/Laser2-thumb.png)](http://www.xonotic.org/m/uploads/2012/12/Laser2.png)
+[![Blaster](http://www.xonotic.org/m/uploads/2014/04/Laser2-thumb.png)](http://www.xonotic.org/m/uploads/2012/12/Laser2.png)
 
-I already explained the laser as versatile movement tool in [the Laser Jumping Section](Halogenes_Newbie_Corner#laser-jumping). Apart from moving yourself around, you can also use it for juggling around *other* players, irritating annyoing campers or generally messing with other people’s movement. Pushing people around or forcing a prolonged bunny hop can be especially effective on space maps. Unless shooting at sitting ducks (such as campers), you might want to aim at your target’s feet to make use of its splash damage, as the laser projectile needs some time to travel even though it is rather fast, thus aiming directly at moving targets can be rather tricky.
+I already explained the blaster as versatile movement tool in [the Blaster Jumping Section](Halogenes_Newbie_Corner#blaster-jumping). Apart from moving yourself around, you can also use it for juggling around *other* players, irritating annyoing campers or generally messing with other people’s movement. Pushing people around or forcing a prolonged bunny hop can be especially effective on space maps. Unless shooting at sitting ducks (such as campers), you might want to aim at your target’s feet to make use of its splash damage, as the blaster projectile needs some time to travel even though it is rather fast, thus aiming directly at moving targets can be rather tricky.
 
-The laser does not eat any ammo. Secondary fire will switch to the previously used weapon.
+The blaster does not eat any ammo. Secondary fire will switch to the previously used weapon.
 
 ### Shotgun
 
@@ -304,11 +304,11 @@ Crylink secondary does not have the spread inversion feature, the particles leav
 
 The strong negative push force of crylink secondary can also be used for accelerating yourself if you start a bunny hop and, just when you started to go up from your first hop, hit the floor with crylink secondary at about an angle of 45 degrees in front of you (“crylink running”). You can also use it to climb walls if you face a wall, jump and shoot the wall above your head with crylink secondary.
 
-### Nex
+### Vortex
 
-[![Nex](http://www.xonotic.org/m/uploads/2014/04/Nex2-thumb.png)](http://www.xonotic.org/m/uploads/2012/12/Nex2.png)
+[![Vortex](http://www.xonotic.org/m/uploads/2014/04/Nex2-thumb.png)](http://www.xonotic.org/m/uploads/2012/12/Nex2.png)
 
-In the hands of a player with a good aim the nex is probably the most powerful weapon in the entire game. It fires a single beam with zero spread that will instantly hit anything in its way and will even shoot through other players. You’ll notice a small ring around the crosshair when holding the nex in your hands. If the ring is full, the nex is charged (and also starts to glow red). Charging happens automatically once you hold the weapon, and it does not cost any ammo. Upon firing, the nex obviously discharges and starts to recharge unless you switch to another weapon (what you should do, but more about weapon combos [later](Halogenes_Newbie_Corner#weapon-comboing)). If charged, the nex deals 80 dmg, if you shoot with it immediately again, it deals 64 dmg, minimum damage you can deal with nex is 59 (if you switch to another weapon immediately after shooting and then shoot nex immediately after reswitching to nex, so it doesn’t have the refire time for recharging).
+In the hands of a player with a good aim the vortex is probably the most powerful weapon in the entire game. It fires a single beam with zero spread that will instantly hit anything in its way and will even shoot through other players. You’ll notice a small ring around the crosshair when holding the vortex in your hands. If the ring is full, the vortex is charged (and also starts to glow red). Charging happens automatically once you hold the weapon, and it does not cost any ammo. Upon firing, the vortex obviously discharges and starts to recharge unless you switch to another weapon (what you should do, but more about weapon combos [later](Halogenes_Newbie_Corner#weapon-comboing)). If charged, the vortex deals 80 dmg, if you shoot with it immediately again, it deals 64 dmg, minimum damage you can deal with nex is 59 (if you switch to another weapon immediately after shooting and then shoot nex immediately after reswitching to vortex, so it doesn’t have the refire time for recharging).
 
 Secondary fire only zooms in, as the weapon is strong enough as it is even without a secondary fire mode.
 
@@ -318,15 +318,15 @@ Secondary fire only zooms in, as the weapon is strong enough as it is even witho
 
 The hagar rapidly fires small rockets with a high spread. By holding secondary you can load up to 4 rockets that you can fire simultaneously by releasing secondary fire. If you hold secondary fire too long, hagar will make a little beep and automatically release the loaded rockets so you can’t run around the map and just keeping hagar loaded all the time until you find someone. Unloading hagar secondary can deal a lot of damage at close range, however you’ll need to watch out not to get killed yourself by the splash damage it does. Otherwise the high spread makes this weapon most usefull against opponents standing next to a wall so the rockets that miss will at least do splash damage. On most competitive servers you’ll be able to discharge the hagar secondary without firing the rockets by pressing primary again while still holding secondary.
 
-### Rocket Launcher
+### Devastator
 
-[![Rocket Launcher](http://www.xonotic.org/m/uploads/2014/04/Rocket2-thumb.png)](http://www.xonotic.org/m/uploads/2012/12/Rocket2.png)
+[![Devastator](http://www.xonotic.org/m/uploads/2014/04/Rocket2-thumb.png)](http://www.xonotic.org/m/uploads/2012/12/Rocket2.png)
 
-The rocket launcher also has some very interesting features that are not very typical for this kind of weapon. First of all you can use the secondary fire to immediately detonate remotely any rocket you fired (provided of course it is still flying). No need to hit a flying target directly, just get the rocket near and, BAM, there you go. Apart from the high splash damage, the explosion also deals quite a lot of push force, so if you want to push some flying player off the map, rocket launcher is your weapon of choice as you can not only push players away from you (push direction obviously depends on the explosion’s position in relation to the player).
+The devastator also has some very interesting features that are not very typical for this kind of weapon. First of all you can use the secondary fire to immediately detonate remotely any rocket you fired (provided of course it is still flying). No need to hit a flying target directly, just get the rocket near and, BAM, there you go. Apart from the high splash damage, the explosion also deals quite a lot of push force, so if you want to push some flying player off the map, devastator is your weapon of choice as you can not only push players away from you (push direction obviously depends on the explosion’s position in relation to the player).
 
-But not enough, you can of course also use the rocket launcher to push **yourself** around. If you happen to be flying and need some extra acceleration but there is no wall near to laser yourself off, just shoot a rocket downwards and immediately detonate it. Yes, it hurts. A lot. But it might be worth it, be it to push you back onto the map if you are falling into the void or to prolong a laser jump so you manage to reach a distant location. This technique is called “rocket flying”.
+But not enough, you can of course also use the devastator to push **yourself** around. If you happen to be flying and need some extra acceleration but there is no wall near to laser yourself off, just shoot a rocket downwards and immediately detonate it. Yes, it hurts. A lot. But it might be worth it, be it to push you back onto the map if you are falling into the void or to prolong a laser jump so you manage to reach a distant location. This technique is called “rocket flying”.
 
-You think I’m already done with the rocket launcher? Not yet! In addition to this already very useful feature to remotely detonate your rockets you can also **guide** the rockets. Just keeping the primary fire button pressed and moving the mouse enables you to do some [interesting stuff](http://www.youtube.com/watch?v=UqfqWtXwjic) which can come in very handy in all sorts of situations.
+You think I’m already done with the devastator? Not yet! In addition to this already very useful feature to remotely detonate your rockets you can also **guide** the rockets. Just keeping the primary fire button pressed and moving the mouse enables you to do some [interesting stuff](http://www.youtube.com/watch?v=UqfqWtXwjic) which can come in very handy in all sorts of situations.
 
 Of course you can combine rocket guiding and remote detonation.
 
@@ -342,7 +342,7 @@ Weapon Comboing
 
 [![Weapon Comboing](http://www.xonotic.org/m/uploads/2014/04/combo-thumb.png)](http://www.xonotic.org/m/uploads/2013/02/combo.png)
 
-First of all, Xonotic encourages the usage of weapon combos. How so? Well, if you shoot, you will have to wait a short while (the refire time) until that weapon is able to shoot again, unless you’re holding a constant or rapid fire weapon (currently only hagar and mg). The refire time is rather short so it doesn’t feel like limiting you much if you’re not aware of the concept of weapon combos. But if you switch your weapon immediately after you shoot, you can land a second shot with the second weapon faster than you would be able to with a second shot of the first weapon, as the refire time is longer than the weapon switch delay. This way you are able to deal more damage per second by combining different weapons. Additionally, combining weapons also enables you to combine the specific benefits of two weapons, like slowing down a fast target with crylink in order to be able to easier finish it off with an instahit gun such as nex.
+First of all, Xonotic encourages the usage of weapon combos. How so? Well, if you shoot, you will have to wait a short while (the refire time) until that weapon is able to shoot again, unless you’re holding a constant or rapid fire weapon (currently only hagar and mg). The refire time is rather short so it doesn’t feel like limiting you much if you’re not aware of the concept of weapon combos. But if you switch your weapon immediately after you shoot, you can land a second shot with the second weapon faster than you would be able to with a second shot of the first weapon, as the refire time is longer than the weapon switch delay. This way you are able to deal more damage per second by combining different weapons. Additionally, combining weapons also enables you to combine the specific benefits of two weapons, like slowing down a fast target with crylink in order to be able to easier finish it off with an instahit gun such as vortex.
 
 Keyboard Setup
 --------------
@@ -358,7 +358,7 @@ Splash Damage Travels Through Walls
 
 [![Splash Damage Travels Through Walls](http://www.xonotic.org/m/uploads/2014/04/splash-thumb.png)](http://www.xonotic.org/m/uploads/2013/02/splash.png)
 
-Another thing you should be aware of is that splash damage travels through walls. Knowledge of this fact can come in very handy at various situations. Especially if you know or suspect someone to be on a higher level above you and the ceiling is thin, you can just try a lucky mortar or rocket shot at the ceiling. The hit indicator sound (that little beep) will tell you if your guess was right. If you’re very confident about the location of your opponent, you can even unleash an electro combo (see the [weapons part above, electro](Halogenes_Newbie_Corner#electro)) at the ceiling, which works surprisingly well and does a great amount of splash damage, but takes a bit more time to do.
+Another thing you should be aware of is that splash damage travels through walls. Knowledge of this fact can come in very handy at various situations. Especially if you know or suspect someone to be on a higher level above you and the ceiling is thin, you can just try a lucky mortar or devastator shot at the ceiling. The hit indicator sound (that little beep) will tell you if your guess was right. If you’re very confident about the location of your opponent, you can even unleash an electro combo (see the [weapons part above, electro](Halogenes_Newbie_Corner#electro)) at the ceiling, which works surprisingly well and does a great amount of splash damage, but takes a bit more time to do.
 
 Using splash damage that travels through walls is a very useful and secure technique, as the opponent will obviously not be able to fire back at the same time.
 
@@ -378,7 +378,7 @@ Listen
 
 The fewer players you have in a match, the more important it gets to listen to the sounds they make. Each armor or health pickup size has its own distinctive pickup sound. Pickup sounds are louder and therefore easier to notice even at some distance than footsteps. If you know where which pickups are on the map you’re playing, you’ll be very often able to know where other players are before seeing them just by listening to the pickup sounds they make.
 
-Also note that the sound a player makes when getting hit varies depending on how low that player’s health is. When you hit a player and you hear the characteristic “very low health groan” (most newbies know that sound primarily from their own player model… :D), you’ll know that you’ll only need to deal a few damage points to finish that player off, so you can go for fast high spread (mg, shotgun) or fast splash damage weapons (crylink). Listening is an essential part of duel gameplay.
+Also note that the sound a player makes when getting hit varies depending on how low that player’s health is. When you hit a player and you hear the characteristic “very low health groan” (most newbies know that sound primarily from their own player model… :D), you’ll know that you’ll only need to deal a few damage points to finish that player off, so you can go for fast high spread (machinegun, shotgun) or fast splash damage weapons (crylink). Listening is an essential part of duel gameplay.
 
 Console ABC
 -----------

@@ -12,7 +12,7 @@ For more information about Git we have a page on the wiki [here](Git).
 Setting up the development environment
 --------------------------------------
 
-The first thing you must do in order to begin with development is to set up your system to be able to download and compile the Xonotic game data.
+The first thing you must do in order to begin with development is to set up your system to be able to download and compile the Xonotic game data. Make sure you have enough memory to compile. 1GB is likely to fail. Consider setup the environment to have at least 2G free memory for the job.
 
 ### Linux
 

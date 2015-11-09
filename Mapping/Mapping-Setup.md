@@ -6,7 +6,7 @@ How to get your system all set up to start mapping
 
 ### Step 1 — Obtain mapping support
 
-If you didn’t already, download this … http://dl.xonotic.org/xonotic-0.6.0-mappingsupport.zip
+If you didn’t already, download this … http://dl.xonotic.org/xonotic-0.8.1-mappingsupport.zip
 
 ### Step 2 — Extract zip
 

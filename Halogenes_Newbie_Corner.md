@@ -137,15 +137,15 @@ You will find ramps on a lot of maps, if you look for them. Now that I’ve show
 
 ### Xoylent
 
--   The ramp I showed as first example on Xoylent can also be used to get to the nex platform. It’s easier if you use the right corner of the ramp for this jump.  
-    [![Ramp to Nex on Xoylent](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-1-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-1.png)  
+-   The ramp I showed as first example on Xoylent can also be used to get to the vortex platform. It’s easier if you use the right corner of the ramp for this jump.  
+    [![Ramp to Vortex on Xoylent](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-1-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-1.png)  
     *click to view full size*
 
 -   At mega health you can do a double ramp jump up to crylink, the pipes serve as second ramp. Note that you don’t have to approach these ramps frontally as you can compensate the lower upwards boost by using the second ramp.  
     [![Double Ramp on Xoylent](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-2-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-2.png)  
     *click to view full size*
 
--   One of the most tricky ramp jumps I’m going to show you here is the one from rocket launcher to mega health. Unless you do a [circle jump](http://www.xonotic.org/2013/02/a-strafe-jumping-lesson-from-hero), this one is not possible to my knowledge to do with walking speed, so you’ll have to do a bunny hop onto the ramp. I always start between the devastator’s spawn point and the wall behind it, start a bunny hop and usually hit the ramp at the right time then. You’ll have to experiment a bit and find the good starting point for you, then you can reproduce that jump and start to get a feeling how you can do it in-game on the fly, without stopping at your favorite starting point. When turning around after the ramp jump you can switch from the forward key to the appropriate strafe key in order to lose less speed, but it’s not required to perform that jump.  
+-   One of the most tricky ramp jumps I’m going to show you here is the one from devastator to mega health. Unless you do a [circle jump](http://www.xonotic.org/2013/02/a-strafe-jumping-lesson-from-hero), this one is not possible to my knowledge to do with walking speed, so you’ll have to do a bunny hop onto the ramp. I always start between the devastator’s spawn point and the wall behind it, start a bunny hop and usually hit the ramp at the right time then. You’ll have to experiment a bit and find the good starting point for you, then you can reproduce that jump and start to get a feeling how you can do it in-game on the fly, without stopping at your favorite starting point. When turning around after the ramp jump you can switch from the forward key to the appropriate strafe key in order to lose less speed, but it’s not required to perform that jump.  
     [![Ramp to Mega Health on Xoylent](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-3-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-3-thumb.png)  
     *click to view full size*
 
@@ -159,7 +159,7 @@ You will find ramps on a lot of maps, if you look for them. Now that I’ve show
     [![Ramp Jump to Electro Gangway on Afterslime](http://www.xonotic.org/m/uploads/2014/04/afterslime-electro-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/afterslime-electro.png)  
     *click to view full size*
 
--   The very same jump can be done from electro gangway up to the upper passageway near strength room. Using this jump enables you to avoid making suspicious noises by using the jump pad or the laser.  
+-   The very same jump can be done from electro gangway up to the upper passageway near strength room. Using this jump enables you to avoid making suspicious noises by using the jump pad or the blaster.  
     [![Ramp Jump to Strength Room on Afterslime](http://www.xonotic.org/m/uploads/2014/04/afterslime-strength-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/afterslime-electro.png)  
     *click to view full size*
 
@@ -201,7 +201,7 @@ Stormkeep has a lot of easy ramp jumps, as stormkeep’s ramps are mostly long a
     [![Double Ramp Jump at Hagar on Runningman](http://www.xonotic.org/m/uploads/2014/04/runningman-hagar-double-thumb.png)](http://www.xonotic.org/m/uploads/2012/11/runningman-hagar-double.final_.png)  
     *click to view full size*
 
--   This jump up to mortar works most reliably for me when I walk up to the ramp and jump just before I touch it. It’s the easiest way to get get up there without having to traverse the very open space or making a laser jump (which makes noise).  
+-   This jump up to mortar works most reliably for me when I walk up to the ramp and jump just before I touch it. It’s the easiest way to get get up there without having to traverse the very open space or making a blaster jump (which makes noise).  
     [![Ramp Jump to Mortar on Runningman](http://www.xonotic.org/m/uploads/2014/04/runningman-mortar-thumb.png)](http://www.xonotic.org/m/uploads/2012/11/runningman-mortar.final_.png)  
     *click to view full size*
 
@@ -226,19 +226,19 @@ Glowplant is so full of ramps that I don’t even know where to start. I won’t
     *click to view full size*
 
 -   From the vortex you can use these little lamps to get to the 50 health on the pipe.  
-    [![Ramp Jump to 50 Health from Nex on Glowplant](http://www.xonotic.org/m/uploads/2014/04/glowplant-nex-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/glowplant-nex.png)  
+    [![Ramp Jump to 50 Health from Vortex on Glowplant](http://www.xonotic.org/m/uploads/2014/04/glowplant-nex-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/glowplant-nex.png)  
     *click to view full size*
 
 -   From bottom level outside you can get to the devastator using the broken pillar.  
-    [![Ramp Jump to Rocket Launcher on Glowplant](http://www.xonotic.org/m/uploads/2014/04/glowplant-rocket-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/glowplant-rocket.png)  
+    [![Ramp Jump to Devastator on Glowplant](http://www.xonotic.org/m/uploads/2014/04/glowplant-rocket-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/glowplant-rocket.png)  
     *click to view full size*
 
--   This is a very nice ramp jump that’s essentially a double ramp jump with a follow-up ramp jump on the small pipe. You’ll usually land on the flat level of the pipe before hitting the pipe ramp, so it doesn’t really count as a triple ramp jump but still it is very useful in order to get to the rocket launcher platform without using the slow vent shaft.  
-    [![Ramp Jump to Rocket Launcher Level via the Crates on Glowplant](http://www.xonotic.org/m/uploads/2014/04/glowplant-crates-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/glowplant-crates.png)  
+-   This is a very nice ramp jump that’s essentially a double ramp jump with a follow-up ramp jump on the small pipe. You’ll usually land on the flat level of the pipe before hitting the pipe ramp, so it doesn’t really count as a triple ramp jump but still it is very useful in order to get to the devastator platform without using the slow vent shaft.  
+    [![Ramp Jump to Devastator Level via the Crates on Glowplant](http://www.xonotic.org/m/uploads/2014/04/glowplant-crates-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/glowplant-crates.png)  
     *click to view full size*
 
--   Those handy little lamps everywhere… here you can use one to get to the nex level from rocket launcher.  
-    [![Ramp Jump to Nex Level from Rocket Launcher Level on Glowplant](http://www.xonotic.org/m/uploads/2014/04/glowplant-upper-level-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/glowplant-upper-level.png)  
+-   Those handy little lamps everywhere… here you can use one to get to the vortex level from devastator.  
+    [![Ramp Jump to Vortex Level from Devastator Level on Glowplant](http://www.xonotic.org/m/uploads/2014/04/glowplant-upper-level-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/glowplant-upper-level.png)  
     *click to view full size*
 
 These are just a few examples where to find ramps on Xonotic maps and how to use them. Keep your eyes open for ramps and interesting jumps to do with them, as most mappers put some ramps at strategic places. Ramp jumping is a lot of fun and mastering this technique can give you a real advantage over other players!
@@ -308,7 +308,7 @@ The strong negative push force of crylink secondary can also be used for acceler
 
 [![Vortex](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Vortex_thumb.png;h=d259752c08b1600df272c461126620c32294be63;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Vortex.png;h=d79f4796453c1cb4fe52c043e56614e9c5528631;hb=HEAD)
 
-In the hands of a player with a good aim the vortex is probably the most powerful weapon in the entire game. It fires a single beam with zero spread that will instantly hit anything in its way and will even shoot through other players. You’ll notice a small ring around the crosshair when holding the vortex in your hands. If the ring is full, the vortex is charged (and also starts to glow red). Charging happens automatically once you hold the weapon, and it does not cost any ammo. Upon firing, the vortex obviously discharges and starts to recharge unless you switch to another weapon (what you should do, but more about weapon combos [later](Halogenes_Newbie_Corner#weapon-comboing)). If charged, the vortex deals 80 dmg, if you shoot with it immediately again, it deals 64 dmg, minimum damage you can deal with nex is 59 (if you switch to another weapon immediately after shooting and then shoot nex immediately after reswitching to vortex, so it doesn’t have the refire time for recharging).
+In the hands of a player with a good aim the vortex is probably the most powerful weapon in the entire game. It fires a single beam with zero spread that will instantly hit anything in its way and will even shoot through other players. You’ll notice a small ring around the crosshair when holding the vortex in your hands. If the ring is full, the vortex is charged (and also starts to glow red). Charging happens automatically once you hold the weapon, and it does not cost any ammo. Upon firing, the vortex obviously discharges and starts to recharge unless you switch to another weapon (what you should do, but more about weapon combos [later](Halogenes_Newbie_Corner#weapon-comboing)). If charged, the vortex deals 80 dmg, if you shoot with it immediately again, it deals 64 dmg, minimum damage you can deal with vortex is 59 (if you switch to another weapon immediately after shooting and then shoot vortex immediately after reswitching to vortex, so it doesn’t have the refire time for recharging).
 
 Secondary fire only zooms in, as the weapon is strong enough as it is even without a secondary fire mode.
 
@@ -324,7 +324,7 @@ The hagar rapidly fires small rockets with a high spread. By holding secondary y
 
 The devastator also has some very interesting features that are not very typical for this kind of weapon. First of all you can use the secondary fire to immediately detonate remotely any rocket you fired (provided of course it is still flying). No need to hit a flying target directly, just get the rocket near and, BAM, there you go. Apart from the high splash damage, the explosion also deals quite a lot of push force, so if you want to push some flying player off the map, devastator is your weapon of choice as you can not only push players away from you (push direction obviously depends on the explosion’s position in relation to the player).
 
-But not enough, you can of course also use the devastator to push **yourself** around. If you happen to be flying and need some extra acceleration but there is no wall near to laser yourself off, just shoot a rocket downwards and immediately detonate it. Yes, it hurts. A lot. But it might be worth it, be it to push you back onto the map if you are falling into the void or to prolong a laser jump so you manage to reach a distant location. This technique is called “rocket flying”.
+But not enough, you can of course also use the devastator to push **yourself** around. If you happen to be flying and need some extra acceleration but there is no wall near to blaster yourself off, just shoot a rocket downwards and immediately detonate it. Yes, it hurts. A lot. But it might be worth it, be it to push you back onto the map if you are falling into the void or to prolong a blaster jump so you manage to reach a distant location. This technique is called “rocket flying”.
 
 You think I’m already done with the devastator? Not yet! In addition to this already very useful feature to remotely detonate your rockets you can also **guide** the rockets. Just keeping the primary fire button pressed and moving the mouse enables you to do some [interesting stuff](http://www.youtube.com/watch?v=UqfqWtXwjic) which can come in very handy in all sorts of situations.
 
@@ -493,7 +493,7 @@ The next thing is to set an always visible crosshair. Though I personally like t
     crosshair_dot_color 0.24 1 0.13 (this too is all about personal preference)
     crosshair_per_weapon 0
     crosshair_color_per_weapon 1 (if you like to know the weapon per crosshair color)
-    crosshair_ring 0 (this removes the nex ring, keep it if you like to see it)
+    crosshair_ring 0 (this removes the vortex ring, keep it if you like to see it)
     crosshair_ring_reload 1 (mg reload ring might be useful)
     crosshair_ring_reload_size 1 (adjust to your liking, default is too big imho)
     crosshair_size 0.28 (adjust to your liking)

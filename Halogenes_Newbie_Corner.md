@@ -42,7 +42,7 @@ Contents
 Preface
 =======
 
-This tutorial aims at showing all fundamental aspects of vanilla gameplay to enable new players to pick up the ropes quickly. It includes the information of all six blog posts of the [Newbie Corner](http://xonotic.org/tag/newbie) as well as some new things that have changed or that I didn’t think about back then.
+This tutorial aims at showing all fundamental aspects of vanilla gameplay to enable new players to pick up the ropes quickly. It includes the information of all six blog posts of the [Newbie Corner](http://xonotic.org/posts/2014/halogenes-newbie-corner-comprehensive-tutorial/) as well as some new things that have changed or that I didn’t think about back then.
 
 Note that all this applies to vanilla Xonotic. Whereas movement aspects should usually apply more or less unchanged to modified servers offering minstagib, vehicle ctf or overkill gameplay, I will not explain the specifics of these game modifications/mutators - I simply lack the expertise in non-vanilla game modes. So if you want to fully apply the knowledge gained from this tutorial, search for vanilla servers (Xonotic icon next to it in server browser) or use the official [HUB] ones.
 

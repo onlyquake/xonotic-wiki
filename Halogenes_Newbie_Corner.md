@@ -94,7 +94,7 @@ You’ll have to experiment a bit with the timing of shooting and jumping to rel
 Wall Blastering
 -------------
 
-[![Wall Blastering](http://www.xonotic.org/m/uploads/2014/04/wall-lasering-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/wall-lasering.png)
+[![Wall Blastering](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/wall-blastering_thumb.png;h=c01a47494956521c34d1f00bdade6d8d97741148;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/wall-blastering.png;h=ee7399f540008cc55e47b787b1731dafd01c1379;hb=HEAD)
 
 Now, when accelerating fast, you won’t always want to do that vertically. Some times the first few bunny hops are not fast enough to reach a place (or to get out of a place) in time. With the technique of wall blastering you can easily reach rather high horizontal speeds instantly, out of the stand.
 

@@ -83,7 +83,7 @@ Beyond this, advanced techniques known from other games as “strafe jumping” 
 Blaster Jumping
 -------------
 
-[![Blaster Jumping](http://www.xonotic.org/m/uploads/2014/04/lj1-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/lj1.png)
+[![Blaster Jumping](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/blaster-jumping_thumb.png;h=548cfc7eaafbfa1e3e6c4279bca584c8875fd1bb;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/blaster-jumping.png;h=03aae64bfd8c93c878283346b73509b9784d9d55;hb=HEAD)
 
 Let’s now have a look at two important aspects of a very useful movement tool in Xonotic, the blaster! While dealing somewhat low damage, the blaster is one of the most important weapons in Xonotic. It’s projectile creates a blast upon impact on any surface or object that deals little damage to players being nearby, but pushes such players away from the impact spot. That way, the push force of the blaster projectile impact can be used to move both other players and yourself around. You can test this easily by standing and shooting at the ground below you with the blaster. You’ll notice that you get pushed up into the air by the blast. Now if you jump at the same time, you can get pushed even higher. If you get the timing right, you can get very high, like from the upper platform to the roof or from the fan to crylink on the map Xoylent.
 

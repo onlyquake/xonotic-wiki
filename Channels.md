@@ -62,7 +62,8 @@ For a short introduction to IRC, [skip to the bottom of this page](Channels#gene
     #esk.xonotic       - Eat Sea Kittens server (Minsta CTF)
     #exile.xonotic.1v1 - eXiLe servers (Minstagib + Duel)
     #hoctf             - House of CTF
-    #mon.sa            - MoN servers (Overkill + Vehicle)
+    #mon.sa            - LX' Overkill (formerly MoN servers (Overkill + Vehicle))
+    #wtwrp.ok          - WTWRP Overkill
     #Prophets.Duel     - Prophets Minsta 1v1 server
     #Prophets.XDF      - Propehts DeFrag server
     #uc.xon            - Unconnected servers

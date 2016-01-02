@@ -1,5 +1,5 @@
-Repository Access
-=================
+Repository Access and Compiling
+===============================
 
 Xonotic uses several Git repositories. There’s a helper script in the main repository to aid in checking out all relevant repositories and help you with building and running Xonotic.
 The repository also contains several branches next to the stable “master” branch. So if you’re interested in the progress of a certain feature, or want to help or create a new one, you can checkout the appropriate branch.

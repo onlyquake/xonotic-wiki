@@ -64,6 +64,8 @@ After that, you have a working checkout of the repository. The game can be compi
     ./all compile
     ./all run
 
+Use `./all compile -r` to create a faster build without debug symbols.
+
 The `./all run` line can be followed by one of `glx` (Linux native), `sdl` (input/sound managed by SDL), `agl` (OSX native), `wgl` (Windows native), or `dedicated` (for server hosting) to choose which executable to run or compile. Seen as follows:
 
     ./all compile dedicated

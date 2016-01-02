@@ -30,7 +30,7 @@ Please check [Repository Access](Repository_Access) to make sure you checked out
 Compiling
 ---------
 
-Run `./all compile` to compile the engine and gamecode. Add -r for a faster release build without debugging symbols.
+Run `./all compile` to compile the engine and gamecode. Add `-r` for a faster release build without debugging symbols.
 
 Running
 -------

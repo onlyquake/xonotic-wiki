@@ -1,46 +1,22 @@
 Xonotic Wiki
 ============
 
-This is a wiki / development system where we can gather information for the future of this project.
+Welcome to the official Xonotic wiki.
 
-Project
--------
-
--   General Info
-    -   [About Xonotic and Nexuiz](Faq)
-    -   [Licensing / Legal](Legal)
-    -   [Announcements](Announcements)
--   Community, Communication, and Public Relations
-    -   [Organizational Structure](Organizational_Structure)
-    -   [Roles and Skills](Roles) of contributing community members
-    -   [Community development](Community_development) planning
-    -   [IRC channels](Channels)
-    -   [Public Relations](Pr)
--   Plans
-    -   Check out our [Project Plan](Plan) so far
-    -   [Website planning](Planning/Website) 
-    -   Notes from brainstorming [ideas for names](Planning/names)
-    -   [Xonotic compatibility pack](Xonotic_compatibility_pack) a small pk3 that will rebrand a default Nexuiz install
-
-The Software
-------------
--   [Repository Access](Repository_Access) (how to compile from git) (see also [Git](Git))
--   [Privacy and Security](privacy-and-security)
--   [Hardware Requirements](Hardware_Requirements)
-
+If you with to contribute, just ask for access at #xonotic on freenode.
 
 Gameplay
 --------
 
--   [HALOGENE’S NEWBIE CORNER](Halogenes_Newbie_Corner) has rich information for beginners. Must read! You will enjoy the game more!
+-   [HALOGENE’S NEWBIE CORNER](Halogenes_Newbie_Corner) has rich information for beginners. **Must read!** You will enjoy the game more!
 
 -   Game Mechanics
-    -   [Impulse map](impulse_map)
     -   [Items](Items)
     -   [Maps](Maps)
     -   [Players](Players)
     -   [Vehicles](Vehicles)
     -   [Weapons](Weapons)
+    -   [Impulse map](impulse_map)
 
 -   Gamemodes
     -   [Arena](Gamemodes/Arena)
@@ -82,6 +58,13 @@ Gameplay
 -   Misc
     -   [Camera for demos explained](Recording/Demo_Camera)
     -   [Xonotic Bot Orchestra](Xonotic_Bot_Orchestra)
+-   [IRC channels](Channels)
+
+The Software
+------------
+-   [Repository Access](Repository_Access) (how to compile from git) (see also [Git repo structure](Git))
+-   [Privacy and Security](privacy-and-security)
+-   [Hardware Requirements](Hardware_Requirements)
 
 Art & Media
 -----------
@@ -143,9 +126,31 @@ In this section you will find helpful information about editing Xonotic in gener
     -   [Mapper resources](Mapping/Mapper_resources)
     -   [Map naming convention](http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330)
 
+Project
+-------
+
+-   Community, Communication, and Public Relations
+    -   [Organizational Structure](Organizational_Structure)
+    -   [Roles and Skills](Roles) of contributing community members
+    -   [Community development](Community_development) planning
+    -   [Public Relations](Pr)
+-   Plans
+    -   Check out our [Project Plan](Plan) so far
+    -   [Website planning](Planning/Website) 
+    -   Notes from brainstorming [ideas for names](Planning/names)
+    -   [Xonotic compatibility pack](Xonotic_compatibility_pack) a small pk3 that will rebrand a default Nexuiz install
+
+Nexuiz-related
+--------------
+
+-   General Info
+    -   [Licensing / Legal](Legal)
+    -   [Announcements](Announcements)
+    -   [About Xonotic and Nexuiz](Faq)
+
 References
 ----------
 
--   [Git](Git)
+-   [Git repo structure](Git)
 -   [Forbidden disposable e-mail providers](Forbidden_disposable_e-mail_providers)
 -   [Gitlab Markdown Reference](https://gitlab.com/help/markdown/markdown.md) (for editing this wiki)

@@ -9,6 +9,7 @@ Gameplay
 --------
 
 -   [HALOGENE’S NEWBIE CORNER](Halogenes_Newbie_Corner) has rich information for beginners. **Must read!** You will enjoy the game more!
+-   [Overkill Tutorial](overkill-tutorial)
 
 -   Game Mechanics
     -   [Items](Items)

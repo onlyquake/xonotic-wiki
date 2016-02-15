@@ -41,9 +41,11 @@ A nade does between 100 and 200 damage - you need additional armor or health for
 Items
 =====
 
-- Armor [100, 50, 25]
-- Health [100]
-- Shards - from dead enemies - important on maps without other pickups or 1v1
+- Health - 100
+- Armor - 100, 50, 25
+- Shards - from dead enemies - important on maps without other pickups or duels
+
+Not much to say here except **don't ignore them**. If you think there is not reason to pick them up because you'll die quickly anyway, you're wrong! Even that 5 armor shard will keep you alive when hit by the vortex. They won't make you be invincible but you will have time to shoot back or get to cover. Big difference.
 
 Weapons
 =======

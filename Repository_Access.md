@@ -82,7 +82,7 @@ To update your Git clone, you can repeat the commands above without the first â€
     ./all update
     ./all compile
 
-**Note:** The compiled binary will have a faint watermark with the git revision. To remove it completely put `defer 5 "menu_watermark \"\""` into your `autoexec.cfg`.
+**Note:** The compiled binary will have a faint watermark with the git revision. To remove it completely put `set menu_watermark ""` into your `autoexec.cfg`.
 
 ***
 

@@ -45,7 +45,7 @@ Items
 - Armor - 100, 50, 25
 - Shards - from dead enemies - important on maps without other pickups or duels
 
-Not much to say here except **don't ignore them**. If you think there is not reason to pick them up because you'll die quickly anyway, you're wrong! Even that 5 armor shard will keep you alive when hit by the vortex. They won't make you be invincible but you will have time to shoot back or get to cover. Big difference.
+Not much to say here except **don't ignore them**. If you think there is no reason to pick them up because you'll die quickly anyway, you're wrong! Even that 5 armor shard will keep you alive when hit by the vortex. They won't make you be invincible but you will have time to shoot back or get to cover. Big difference.
 
 Weapons
 =======

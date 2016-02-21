@@ -71,7 +71,9 @@ Bunny Hopping
 Laser / Blaster
 ---------------
 
-All weapons in Overkill have the same secondary fire - laser (sometimes called blaster). Unlike in vanilla it doesn't deal any damage to enemies or the player, but pushes the player using it (and also flags and nades). Its main uses are:
+All weapons in Overkill have the same secondary fire - laser (sometimes called blaster). It pushes the player using it (and also flags and nades), but unlike in vanilla it doesn't deal any damage. So blast away, literally.
+
+Its main uses are:
 
 - jumping higher - just aim at the floor and shoot
 - climbing walls (no matter how high) - keep shooting the laser at roughly 45° down against a wall

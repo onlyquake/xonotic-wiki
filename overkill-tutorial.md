@@ -34,7 +34,7 @@ You should do this every time right after spawning because this is the fastest w
 Advanced - Nade Jumping
 -----------------------
 
-Desperate times call for desperate measures. Sometimes, especially with the flag, you need to away fast. The best way to do that is to let a nade explode in your hand. Just press G, face away from where you want to go and wait.
+Desperate times call for desperate measures. Sometimes, especially with the flag, you need to get away fast. The best way to do that is to let a nade explode in your hand. Just press G, face away from where you want to go and wait.
 
 A nade does between 100 and 200 damage - you need additional armor or health for this trick.
 

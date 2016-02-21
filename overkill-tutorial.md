@@ -48,7 +48,7 @@ Nades
 
 Nade is the shorthand term for *grenade*. It deals quite a lot of damage and also has a big damage radius.
 
-You can release a nade every few seconds by pressing the `drop weapon` bind (per default that's the `g  key). After that a countdown starts until the nade explodes. You have to press the same key again to throw the nade in the direction you're looking at.
+You can release a nade every few seconds by pressing the `drop weapon` bind (per default that's the `g` key). After that a countdown starts until the nade explodes. You have to press the same key again to throw the nade in the direction you're looking at.
 
 To excel at nading here are a few tips:
 

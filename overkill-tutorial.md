@@ -12,6 +12,20 @@ Overkill is a Xonotic mod characterized by
 
 To excel at overkill there is two things to practice: aim and speed. If you're feeling old or your reflexes aren't that good, don't despair: Speed is the more important of the two.
 
+Table of Contents
+-----------------
+
+* [Weapons](#weapons)
+    * [Basic Weapons](#weapons_basic-weapons)
+    * [Super Weapons](#weapons_super-weapons)
+    * [Nades](#weapons_nades)
+* [Movement](#movement)
+    * [Bunny Hopping](#movement_bunny-hopping)
+    * [Laser / Blaster](#movement_laser-blaster)
+    * [Wall Dodging](#movement_wall-dodging)
+    * [Nade Jumping](#movement_nade-jumping)
+* [Items](#items)
+
 
 Weapons
 =======
@@ -90,8 +104,8 @@ However dodging does not only apply to starting a movement, but can be used on e
 
 The fastest way to accelerate is a combination of both wall-dodging and blastering. This has to be timed well to gain the most acceleration.
 
-Advanced - Nade Jumping
------------------------
+Nade Jumping
+------------
 
 Desperate situations call for desperate measures. Sometimes you need to get away *really* fast. One way to do that is to let a nade explode in your hand. This can be done by either facing in the opposite direction of where you want to be hurled or by being in the upward motion of a jump when the nade explodes. *Space Elevator* is a good map to try this out.
 

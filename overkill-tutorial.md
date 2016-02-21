@@ -16,17 +16,17 @@ Table of Contents
 -----------------
 
 * [Weapons](#weapons)
-    * [Basic Weapons](#weapons_basic-weapons)
-    * [Super Weapons](#weapons_super-weapons)
+    * [Basic Weapons](#basic-weapons)
+    * [Super Weapons](#super-weapons)
     * [Nades](#weapons_nades)
 * [Movement](#movement)
-    * [Bunny Hopping](#movement_bunny-hopping)
-    * [Laser / Blaster](#movement_laser-blaster)
-    * [Wall Dodging](#movement_wall-dodging)
-    * [Nade Jumping](#movement_nade-jumping)
+    * [Bunny Hopping](#bunny-hopping)
+    * [Laser / Blaster](#laser-blaster)
+    * [Wall Dodging](#wall-dodging)
+    * [Nade Jumping](#nade-jumping)
 * [Items](#items)
-    * [Health](#items_health)
-    * [Armor](#items_armor)
+    * [Health](#health)
+    * [Armor](#armor)
 
 
 Weapons
@@ -102,14 +102,14 @@ Wall-Dodging
 
 Dodging is somewhat specific to Overkill. Most people notice that quickly pressing a movement key twice dodges in that direction. When starting to move this can be used to quickly gain a little extra tempo by pressing `forward` twice. Remember to bunnyhop or else you lose your just gained speed instantly.
 
-However dodging does not only apply to starting a movement, but can be used on every (more or less) even surface next to you. For example you can bunnyhop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging, good maps to try this out are *Tarx* and *Equinox*.
+However dodging does not only apply to starting a movement, but can be used on every (more or less) even surface next to you. For example you can bunnyhop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging, good maps to try this out are [Tarx](Maps#tarx) and [Equinox](Maps#equinox).
 
 The fastest way to accelerate is a combination of both wall-dodging and blastering. This has to be timed well to gain the most acceleration.
 
 Nade Jumping
 ------------
 
-Desperate situations call for desperate measures. Sometimes you need to get away *really* fast. One way to do that is to let a nade explode in your hand. This can be done by either facing in the opposite direction of where you want to be hurled or by being in the upward motion of a jump when the nade explodes. *Space Elevator* is a good map to try this out.
+Desperate situations call for desperate measures. Sometimes you need to get away *really* fast. One way to do that is to let a nade explode in your hand. This can be done by either facing in the opposite direction of where you want to be hurled or by being in the upward motion of a jump when the nade explodes. [Space Elevator](Maps#space-elevator) is a good map to try this out.
 
 Since a nade does about 160 damage you need additional armor or health for this trick, otherwise you'd just commit suicide.
 

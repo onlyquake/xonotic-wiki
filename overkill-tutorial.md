@@ -25,6 +25,8 @@ Table of Contents
     * [Wall Dodging](#movement_wall-dodging)
     * [Nade Jumping](#movement_nade-jumping)
 * [Items](#items)
+    * [Health](#items_health)
+    * [Armor](#items_armor)
 
 
 Weapons
@@ -114,10 +116,29 @@ Since a nade does about 160 damage you need additional armor or health for this 
 Items
 =====
 
-- Health - 100
-- Armor comes in sizes of 100, 50, 25
-- Shards from dead enemies (5 armor) - most important on maps without other pickups
-
-There's not much to say here except *take everything you get*. If you think there's no reason to pick up items because you'll die quickly anyway, you're wrong. Remember without any pickups a single vortex hit will instantly kill you. Even that 5 armor shard will keep you alive and win you time to shoot back or get in cover. A fully equipped player (max health at 200 and max armor at 100) will sustain three vortex hits. If the hits don't come in quick succession even four, because you're healing shortly after being hit.
+There's not much to say here except *take everything you get*. If you think there's no reason to pick up items because you'll die quickly anyway, you're wrong. Remember without any pickups a single vortex hit will instantly kill you. Even a tiny armor shard dropped by a killed enemy will keep you alive and win you time to shoot back or get in cover. A fully equipped player (max health at 200 and max armor at 100) will sustain three vortex hits. If the hits don't come in quick succession even four, because you're healing shortly after being hit.
 
 In a 1on1 game you should even pick up items if you're already maxed out. You won't gain any extra health/armor, but you deprive your enemies of that bonus making it easier for you. When playing in a team however you better leave the items for your partners, especially flag carriers in CTF.
+
+Health
+------
+Mega (100):  
+![](http://pics.nexuizninjaz.com/images/s92ftsza0q7r8daau47z.png)
+
+Big (50):  
+![](http://pics.nexuizninjaz.com/images/qxiffzan7xx91qj9x1.png)
+
+Armor
+-----
+
+Mega (100):  
+![](http://pics.nexuizninjaz.com/images/havtb83g2yglb201q84t.png)
+
+Big (50):  
+![](http://pics.nexuizninjaz.com/images/jyi1aj1vx6rrrckx7zgt.png)
+
+Medium (25):  
+![](http://pics.nexuizninjaz.com/images/ijq1xmxw797e1klv1l.png)
+
+Small (5), dropped by killed enemies:  
+![](http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png)

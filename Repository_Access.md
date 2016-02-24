@@ -20,7 +20,7 @@ Linux already has an adequate base for development, all we really need to do her
 
 **Ubuntu Dependencies** (independent package `x11-proto-devel` dependencies fill the rest of the Debian package dependencies):
 
-    sudo apt-get install build-essential xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl2-dev libsdl2-image-dev libclalsadrv-dev libasound2-dev libxext-dev libjpeg-turbo8-dev git-core unzip wget
+    sudo apt-get install build-essential xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl1.2-dev libsdl2-dev libsdl2-image-dev libclalsadrv-dev libasound2-dev libxext-dev libjpeg-turbo8-dev git-core unzip wget
 
 Note: If using **i386** architecture, you can replace `libdsl1.2debian` with `libsdl1.2debian:i386` in the list above. On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories. To be able to download maps from game servers when using Xonotic for online gaming, you will also need `curl` installed on your system.
 

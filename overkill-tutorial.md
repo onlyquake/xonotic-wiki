@@ -31,12 +31,12 @@ Table of Contents
 Movement
 ========
 
-Every [vanilla movement tip](Halogenes_Newbie_Corner#movement) also applies in Overkill. However there is one key aspect making the game way faster - **dodging**. But let's revise the review the basics first:
+Every [vanilla movement tip](Halogenes_Newbie_Corner#movement) also applies in Overkill. However there is one key aspect making the game way faster - **dodging**. But let's review the basics first:
 
 Bunny Hopping
 -------------
 
-[Same as vanilla](Halogenes_Newbie_Corner#bunny-hopping) - instead of just walking around you should always jump because it's much faster. Basically keep the `jump` key pressed (by default `space bar`) all the time. The only exceptions to this rule are if you *want* to be slow (to not fall off a ledge) or you need to sneak (jumping is very audible to nearby enemies, normal walking is not).
+[Same as vanilla](Halogenes_Newbie_Corner#bunny-hopping) - instead of just walking around you should always jump because it's much faster. Basically keep the `jump` key pressed (by default `space bar`) all the time. The only exceptions to this rule are if you *want* to be slow (to not fall off a ledge) or you need to sneak (but then you should crouch because walking makes sounds as well).
 
 The turning and strafing tips also apply: hold `forward` to move straight, release `forward` and press `left` or `right` while moving the mouse slow but steadily in that direction to turn.
 
@@ -54,7 +54,9 @@ Its main uses are:
 Dodging
 -------
 
-Dodging Overkill's defining feature. Most people notice that quickly pressing a movement key twice dodges in that direction. When starting to move this can be used to quickly gain a little extra tempo by pressing `forward` twice. Remember to bunnyhop or else you lose your just gained speed instantly.
+### When starting to move:
+
+Dodging Overkill's defining feature. Most people notice that quickly pressing a movement key twice dodges in that direction. When starting to move this can be used to quickly gain a little extra tempo by pressing `forward` twice. Remember to bunnyhop or else you lose your just gained speed instantly. (Press W, W, then space - don't press space before the first W or it won't work)
 
 However dodging does not only apply to starting a movement, but can be used on every (more or less) even surface next to you. For example you can bunnyhop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging, good maps to try this out are [Tarx](Maps#tarx) and [Equinox](Maps#equinox).
 
@@ -75,20 +77,24 @@ Basic Weapons
 
 Every player has the same three weapons. You don't have to collect them and you also have infinite ammo. The only thing you have to care about is to choose the right weapon for a task and timing the reloads.
 
-- Vortex (Long distance, very precise)
-this is the main weapon, it instantly hits what it's aimed at
-- Shotgun (point blank weapon with large spread)
-this deals quite a lot of damage in short range, but has a large spread rendering it mostly useless for longer distances
-it can however be used to slow down approaching enemies
-- Machine Gun (mid-range weapon with a bit of spread)
-the spread increases gradually, so it's best to shoot salvoes in quick succession instead of keeping the trigger pulled
-also slows enemies down
+- Vortex (also called nex, long distance, perfectly precise)
+  - the main weapon, good in almost every situation
+- Shotgun (close range, with spread)
+  - more damage than vortex but only in short range
+  - faster rate of fire
+  - slows enemies down - shoot them when they're jumping across a chasm to make them fall
+- Machine Gun (also knows as uzi, mid-range weapon with a bit of spread)
+  - spread increases gradually, so shoot short bursts
+  - also slows enemies down
+  - can deal small amounts of damage through walls
+
+Never reload in the middle of a fight. Switch to a different gun. It's much faster.
 
 Super Weapons
 -------------
 
 Those weapons have to be picked up and are only available on some maps.
- 
+
 - Heavy Machine Gun
 this is basically the machine gun - only it's bigger, faster, has a larger ammo capacity and is even more powerful
 point at general direction of enemy, pull the trigger, enemy dead
@@ -100,9 +106,9 @@ you'll have a hard time not killing yourself with it, so you better jump around 
 Nades
 -----
 
-Nade is the shorthand term for *grenade*. It deals quite a lot of damage and also has a large damage radius.
+Nade is the shorthand term for *grenade*. It deals quite a lot of damage and also has a large damage radius. You get a new nade every few seconds.
 
-You can release a nade every few seconds by pressing the `drop weapon` bind (per default that's the `g` key). After that a countdown starts until the nade explodes. You have to press the `drop weapon` key again to throw the nade in the direction you're looking at.
+You can arm a nade by pressing the `drop weapon` bind (by default the `g` key). After that a countdown starts until the nade explodes. You have to press the `drop weapon` key again to throw the nade.
 
 To excel at nading here are a few tips:
 
@@ -138,4 +144,4 @@ Armor
 [a_medium]: http://pics.nexuizninjaz.com/images/ijq1xmxw797e1klv1l.png
 [a_small]: http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png
 
-Small (5), dropped by killed enemies:  
+Small (5) is dropped by killed enemies.

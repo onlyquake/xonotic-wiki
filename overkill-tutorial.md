@@ -94,6 +94,8 @@ Every player has the same three weapons. You don't have to collect them and you 
 
 Never reload in the middle of a fight. Switch to a different gun. It's much faster.
 
+And don't forget to reload when you're safe. Don't run around with one bullet remaining.
+
 Super Weapons
 -------------
 

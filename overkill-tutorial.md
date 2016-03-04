@@ -56,11 +56,13 @@ Dodging
 
 ### When starting to move:
 
-Dodging Overkill's defining feature. Most people notice that quickly pressing a movement key twice dodges in that direction. When starting to move this can be used to quickly gain a little extra tempo by pressing `forward` twice. Remember to bunnyhop or else you lose your just gained speed instantly. (Press W, W, then space - don't press space before the first W or it won't work)
+Dodging Overkill's defining feature. When you want to start moving, **quickly press forward twice**. Must be followed by bunny hopping or you lose your speed as soon as you touch the floor. (Press forward, forward, *then* hold space - don't press space before the first W or it won't work)
+
+You should do this **every time after spawning** because this is the fastest way to start moving. Don't underestimate this. You'll be several times faster than normally.
 
 ### Wall-dodging
 
-Dodging does not only apply to starting a movement, but can be used on every (more or less) even surface next to you. For example you can bunnyhop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging, good maps to try this out are [Tarx](Maps#tarx) and [Equinox](Maps#equinox).
+Dodging does not only apply to starting a movement, but can be used on every (more or less) smooth surface next to you. For example you can bunnyhop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging, good maps to try this out are [Tarx](Maps#tarx) and [Equinox](Maps#equinox).
 
 The fastest way to accelerate is a combination of both wall-dodging and blastering. This has to be timed well to gain the most acceleration.
 
@@ -126,7 +128,7 @@ You can also use nades like a rocket launcher by throwing them in front of you a
 Items
 =====
 
-There's not much to say here except **take everything you get**. If you think there's no reason to pick up items because you'll die quickly anyway, you're wrong! Remember without any pickups a single vortex hit will instantly kill you. **Even that tiny 5 armor shard dropped by a killed enemy will keep you alive** and win you time to shoot back or get in cover. A fully equipped player (max health at 200 and max armor at 100) will sustain three vortex hits. If the hits don't come in quick succession even four, because you're healing shortly after being hit.
+There's not much to say here except **take everything you get**. If you think there's no reason to pick up items because you'll die quickly anyway, you're wrong! Remember without any pickups a single vortex hit will instantly kill you. Even that tiny 5 armor shard dropped by a killed enemy will keep you alive and win you time to shoot back or get in cover. A fully equipped player (max health at 200 and max armor at 100) will sustain three vortex hits. If the hits don't come in quick succession even four, because you're healing shortly after being hit.
 
 In a 1on1 game you should even pick up items if you're already maxed out. You won't gain any extra health/armor, but you deprive your enemies of that bonus making it easier for you. When playing in a team however you better leave the items for your partners, especially flag carriers in CTF.
 

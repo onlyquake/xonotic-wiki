@@ -125,9 +125,6 @@ Health
 Mega (100):  
 ![](http://pics.nexuizninjaz.com/images/s92ftsza0q7r8daau47z.png)
 
-Big (50):  
-![](http://pics.nexuizninjaz.com/images/qxiffzan7xx91qj9x1.png)
-
 Armor
 -----
 

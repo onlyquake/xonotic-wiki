@@ -28,6 +28,44 @@ Table of Contents
     * [Health](#health)
     * [Armor](#armor)
 
+Movement
+========
+
+Every [vanilla movement tip](Halogenes_Newbie_Corner#movement) also applies in Overkill. However there is one key aspect making the game way faster: dodging.
+
+Bunny Hopping
+-------------
+
+[Same as vanilla](Halogenes_Newbie_Corner#bunny-hopping) - instead of just walking around you should always jump because it's much faster. Basically keep the `jump` key pressed (by default `space bar`) all the time. The only exceptions to this rule are if you *want* to be slow (to not fall off a ledge) or you need to sneak (jumping is very audible to nearby enemies, normal walking is not).
+
+The turning and strafing tips also apply: hold `forward` to move straight, release `forward` and press `left` or `right` while moving the mouse slow but steadily in that direction to turn.
+
+Laser / Blaster
+---------------
+
+All weapons in Overkill have the same secondary fire - laser (sometimes called blaster). It pushes the player using it (and also flags and nades), but unlike in vanilla it doesn't deal any damage. So blast away, literally.
+
+Its main uses are:
+
+- jumping higher - just aim at the floor and shoot
+- climbing walls (no matter how high) - keep shooting the laser at roughly 45° down against a wall
+- accelerating - shoot the floor or wall [slightly behind you](Halogenes_Newbie_Corner#wall-blastering) for a noticeable boost.
+
+Wall-Dodging
+------------
+
+Dodging is somewhat specific to Overkill. Most people notice that quickly pressing a movement key twice dodges in that direction. When starting to move this can be used to quickly gain a little extra tempo by pressing `forward` twice. Remember to bunnyhop or else you lose your just gained speed instantly.
+
+However dodging does not only apply to starting a movement, but can be used on every (more or less) even surface next to you. For example you can bunnyhop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging, good maps to try this out are [Tarx](Maps#tarx) and [Equinox](Maps#equinox).
+
+The fastest way to accelerate is a combination of both wall-dodging and blastering. This has to be timed well to gain the most acceleration.
+
+Nade Jumping
+------------
+
+Desperate situations call for desperate measures. Sometimes you need to get away *really* fast. One way to do that is to let a nade explode in your hand. This can be done by either facing in the opposite direction of where you want to be hurled or by being in the upward motion of a jump when the nade explodes. [Space Elevator](Maps#space-elevator) is a good map to try this out.
+
+Since a nade does about 160 damage you need additional armor or health for this trick, otherwise you'd just commit suicide.
 
 Weapons
 =======
@@ -72,46 +110,6 @@ To excel at nading here are a few tips:
 * Or you can use nades like a mine by dropping it on the floor at a place where an enemy will very likely be in a few moments (e.g. the flag spot in a CTF match). You can easily drop a nade by crouching before releasing it.
 * You can also use nades like a rocket launcher by throwing them in front of you and then shooting it with the vortex. This propels the nade very far and causes very high damage with quite a bit of spread. It takes a little practice but is definitely worth the effort.
 * Also keep in mind nades bounce off walls and fall down stairs. They even deal damage through walls.
-
-
-Movement
-========
-
-Every [vanilla movement tip](Halogenes_Newbie_Corner#movement) also applies in Overkill. However there is one key aspect making the game way faster: wall-dodging.
-
-Bunny Hopping
--------------
-
-[Same as vanilla](Halogenes_Newbie_Corner#bunny-hopping) - instead of just walking around you should always jump because it's much faster. Basically press the `jump` key (by default `space bar`) all the time. The only exceptions to this rule are if you *want* to be slow (to not fall off a ledge) or you need to sneak (jumping is very audible to nearby enemies, normal walking is not).
-
-The turning and strafing tips also apply: hold `forward` to move straight, release `forward` and press `left` or `right` while moving the mouse slow but steadily in that direction to turn.
-
-Laser / Blaster
----------------
-
-All weapons in Overkill have the same secondary fire - laser (sometimes called blaster). It pushes the player using it (and also flags and nades), but unlike in vanilla it doesn't deal any damage. So blast away, literally.
-
-Its main uses are:
-
-- jumping higher - just aim at the floor and shoot
-- climbing walls (no matter how high) - keep shooting the laser at roughly 45° down against a wall
-- accelerating - shoot the floor or wall [slightly behind you](Halogenes_Newbie_Corner#wall-blastering) for a noticeable boost.
-
-Wall-Dodging
-------------
-
-Dodging is somewhat specific to Overkill. Most people notice that quickly pressing a movement key twice dodges in that direction. When starting to move this can be used to quickly gain a little extra tempo by pressing `forward` twice. Remember to bunnyhop or else you lose your just gained speed instantly.
-
-However dodging does not only apply to starting a movement, but can be used on every (more or less) even surface next to you. For example you can bunnyhop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging, good maps to try this out are [Tarx](Maps#tarx) and [Equinox](Maps#equinox).
-
-The fastest way to accelerate is a combination of both wall-dodging and blastering. This has to be timed well to gain the most acceleration.
-
-Nade Jumping
-------------
-
-Desperate situations call for desperate measures. Sometimes you need to get away *really* fast. One way to do that is to let a nade explode in your hand. This can be done by either facing in the opposite direction of where you want to be hurled or by being in the upward motion of a jump when the nade explodes. [Space Elevator](Maps#space-elevator) is a good map to try this out.
-
-Since a nade does about 160 damage you need additional armor or health for this trick, otherwise you'd just commit suicide.
 
 Items
 =====

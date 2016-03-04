@@ -18,7 +18,7 @@ Table of Contents
 * [Movement](#movement)
     * [Bunny Hopping](#bunny-hopping)
     * [Laser / Blaster](#laser-blaster)
-    * [Wall Dodging](#wall-dodging)
+    * [Dodging](#dodging)
     * [Nade Jumping](#nade-jumping)
 * [Weapons](#weapons)
     * [Basic Weapons](#basic-weapons)

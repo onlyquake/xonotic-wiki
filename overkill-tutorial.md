@@ -10,7 +10,7 @@ Overkill is a Xonotic mod characterized by
 - nades and
 - respawning near team mates.
 
-To excel at overkill there are two things to practice: aim and speed. If you're feeling old or your reflexes aren't that good, don't despair: Speed is the more important of the two. Some people focus on movement almost exclusively. Accuracy won't help your enemy if he can't keep up with your speed.
+To excel at overkill there are two things to practice: aim and speed. If you're feeling old or your reflexes aren't that good, don't despair, speed is the more important of the two. Even some of the best players focus on movement almost exclusively.
 
 Table of Contents
 -----------------

@@ -117,12 +117,11 @@ To excel at nading here are a few tips:
 * Keep the nade in hand until just before the explosion and throw it at an enemy. That way the nade won't bounce off and the enemy has no way to dodge it. You throw with more force the longer you wait.
 * Or you can use nades like a mine by dropping it on the floor at a place where an enemy will very likely be in a few moments (e.g. the flag spot in a CTF match). You can easily drop a nade by crouching before releasing it.
   * This has it's uses but usually you'll just waste a nade.
-* You can also use nades like a rocket launcher by throwing them in front of you and then shooting it with the vortex. This propels the nade very far and causes very high damage with quite a bit of spread. It takes a little practice but is definitely worth the effort.
 * Also keep in mind nades bounce off walls and fall down stairs. They even deal **damage through walls**.
 
 ### Shooting nades
 
-
+You can also use nades like a rocket launcher by throwing them in front of you and then shooting it with the vortex. This propels the nade very far and causes very high damage with quite a bit of spread. It takes a little practice but is definitely worth the effort.
 
 Items
 =====
@@ -153,3 +152,11 @@ Armor
 [a_small]: http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png
 
 The small (5) shard is dropped by killed enemies. As noted above, it's more useful than it looks.
+
+
+
+
+
+
+
+

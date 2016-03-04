@@ -10,20 +10,20 @@ Overkill is a Xonotic mod characterized by
 - nades and
 - respawning near team mates.
 
-To excel at overkill there is two things to practice: aim and speed. If you're feeling old or your reflexes aren't that good, don't despair: Speed is the more important of the two.
+To excel at overkill there are two things to practice: aim and speed. If you're feeling old or your reflexes aren't that good, don't despair: Speed is the more important of the two.
 
 Table of Contents
 -----------------
 
-* [Weapons](#weapons)
-    * [Basic Weapons](#basic-weapons)
-    * [Super Weapons](#super-weapons)
-    * [Nades](#weapons_nades)
 * [Movement](#movement)
     * [Bunny Hopping](#bunny-hopping)
     * [Laser / Blaster](#laser-blaster)
     * [Wall Dodging](#wall-dodging)
     * [Nade Jumping](#nade-jumping)
+* [Weapons](#weapons)
+    * [Basic Weapons](#basic-weapons)
+    * [Super Weapons](#super-weapons)
+    * [Nades](#weapons_nades)
 * [Items](#items)
     * [Health](#health)
     * [Armor](#armor)
@@ -31,7 +31,7 @@ Table of Contents
 Movement
 ========
 
-Every [vanilla movement tip](Halogenes_Newbie_Corner#movement) also applies in Overkill. However there is one key aspect making the game way faster: dodging.
+Every [vanilla movement tip](Halogenes_Newbie_Corner#movement) also applies in Overkill. However there is one key aspect making the game way faster - **dodging**. But let's revise the review the basics first:
 
 Bunny Hopping
 -------------
@@ -51,10 +51,10 @@ Its main uses are:
 - climbing walls (no matter how high) - keep shooting the laser at roughly 45° down against a wall
 - accelerating - shoot the floor or wall [slightly behind you](Halogenes_Newbie_Corner#wall-blastering) for a noticeable boost.
 
-Wall-Dodging
-------------
+Dodging
+-------
 
-Dodging is somewhat specific to Overkill. Most people notice that quickly pressing a movement key twice dodges in that direction. When starting to move this can be used to quickly gain a little extra tempo by pressing `forward` twice. Remember to bunnyhop or else you lose your just gained speed instantly.
+Dodging Overkill's defining feature. Most people notice that quickly pressing a movement key twice dodges in that direction. When starting to move this can be used to quickly gain a little extra tempo by pressing `forward` twice. Remember to bunnyhop or else you lose your just gained speed instantly.
 
 However dodging does not only apply to starting a movement, but can be used on every (more or less) even surface next to you. For example you can bunnyhop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging, good maps to try this out are [Tarx](Maps#tarx) and [Equinox](Maps#equinox).
 
@@ -120,20 +120,22 @@ In a 1on1 game you should even pick up items if you're already maxed out. You wo
 
 Health
 ------
+
 Mega (100):  
-![](http://pics.nexuizninjaz.com/images/s92ftsza0q7r8daau47z.png)
+![][h_mega]
+
+[h_mega]: http://pics.nexuizninjaz.com/images/s92ftsza0q7r8daau47z.png
 
 Armor
 -----
 
-Mega (100):  
-![](http://pics.nexuizninjaz.com/images/havtb83g2yglb201q84t.png)
+|Mega (100):  |  Big (50):   |Medium (100): |  Small (50): |  
+|:-----------:|:------------:|:------------:|:------------:|
+|![][a_mega]  |  ![][a_big]  |![][a_medium] |  ![][a_small]| 
 
-Big (50):  
-![](http://pics.nexuizninjaz.com/images/jyi1aj1vx6rrrckx7zgt.png)
-
-Medium (25):  
-![](http://pics.nexuizninjaz.com/images/ijq1xmxw797e1klv1l.png)
+[a_mega]: http://pics.nexuizninjaz.com/images/havtb83g2yglb201q84t.png
+[a_big]: http://pics.nexuizninjaz.com/images/jyi1aj1vx6rrrckx7zgt.png
+[a_medium]: http://pics.nexuizninjaz.com/images/ijq1xmxw797e1klv1l.png
+[a_small]: http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png
 
 Small (5), dropped by killed enemies:  
-![](http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png)

@@ -61,7 +61,7 @@ Dodging does not only apply to starting a movement, but can be used on every (mo
 
 The fastest way to accelerate is a combination of both wall-dodging and blastering. This can **double your speed** from 700 to 1400 when done right.
 
-**[All the movement tricks in one video](https://www.youtube.com/watch?v=-WxZ1IbLAkU)** (sorry, gitlab can't embed)
+**[All the movement tricks in one video](https://youtu.be/_1hUm03eCuc)** with keypresses shown. Must watch! (sorry, gitlab can't embed)
 
 Nade Jumping
 ------------

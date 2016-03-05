@@ -3,12 +3,7 @@ Overkill Tutorial
 
 *Work-in-progress*
 
-Overkill is a Xonotic mod characterized by
-
-- fast movement,
-- fewer but more powerful weapons,
-- nades and
-- respawning near team mates.
+Overkill is a Xonotic mod focusing on fast movement, fewer but more powerful weapons, nades and respawning near team mates.
 
 To excel at overkill there are two things to practice: aim and speed. If you're feeling old or your reflexes aren't that good, don't despair, speed is the more important of the two. Even some of the best players focus on movement almost exclusively.
 
@@ -64,7 +59,7 @@ You should do this **every time after spawning** because this is the fastest way
 
 Dodging does not only apply to starting a movement, but can be used on every (more or less) smooth surface next to you. For example you can bunnyhop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging, good maps to try this out are [Tarx](Maps#tarx) and [Equinox](Maps#equinox).
 
-The fastest way to accelerate is a combination of both wall-dodging and blastering. This has to be timed well to gain the most acceleration.
+The fastest way to accelerate is a combination of both wall-dodging and blastering. This can **double your speed** from 700 to 1400 when done right.
 
 Nade Jumping
 ------------
@@ -132,7 +127,7 @@ Items
 
 There's not much to say here except **take everything you get**. If you think there's no reason to pick up items because you'll die quickly anyway, you're wrong! Remember without any pickups a single vortex hit will instantly kill you. Even that tiny 5 armor shard dropped by a killed enemy will keep you alive and win you time to shoot back or get in cover. A fully equipped player (max health at 200 and max armor at 100) will sustain three vortex hits. If the hits don't come in quick succession even four, because you're healing shortly after being hit.
 
-In a 1on1 game you should even pick up items if you're already maxed out. You won't gain any extra health/armor, but you deprive your enemies of that bonus making it easier for you. When playing in a team however you better leave the items for your partners, especially flag carriers in CTF.
+In a 1on1 game you should even pick up items if you're already maxed out. You won't gain any extra health/armor, but you deprive your enemies of that bonus making it easier for you. When playing in a team however you better leave the items for your teammates, especially flag carriers in CTF.
 
 Health
 ------

@@ -42,7 +42,7 @@ All weapons in Overkill have the same secondary fire - laser (sometimes called b
 
 Its main uses are:
 
-- jumping higher - just aim at the floor and shoot
+- jumping higher - just aim at the floor and shoot ([video](https://www.youtube.com/watch?v=V3a127HCT0E))
 - climbing walls - no matter how high, just keep shooting the laser at roughly 45° down against a wall
 - accelerating - shoot the floor or wall [slightly behind you](Halogenes_Newbie_Corner#wall-blastering) for a noticeable boost.
 
@@ -60,6 +60,8 @@ You should do this **every time after spawning** because this is the fastest way
 Dodging does not only apply to starting a movement, but can be used on every (more or less) smooth surface next to you. For example you can bunnyhop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging, good maps to try this out are [Tarx](Maps#tarx) and [Equinox](Maps#equinox).
 
 The fastest way to accelerate is a combination of both wall-dodging and blastering. This can **double your speed** from 700 to 1400 when done right.
+
+**[All the movement tricks in one video](https://www.youtube.com/watch?v=-WxZ1IbLAkU)** (sorry, gitlab can't embed)
 
 Nade Jumping
 ------------
@@ -122,6 +124,8 @@ To excel at nading here are a few tips:
 ### Shooting nades
 
 You can also use nades like a rocket launcher by throwing them in front of you and then shooting it with the vortex. This propels the nade very far and causes very high damage with quite a bit of spread. It takes a little practice but is definitely worth the effort.
+
+[Watch](https://www.youtube.com/watch?v=9qE3_YBYp50) what it looks like.
 
 Items
 =====

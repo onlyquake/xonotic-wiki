@@ -1,8 +1,6 @@
 Overkill Tutorial
 =================
 
-*Work-in-progress*
-
 Overkill is a Xonotic mod focusing on fast movement, fewer but more powerful weapons, nades and respawning near team mates.
 
 To excel at overkill there are two things to practice: aim and speed. If you're feeling old or your reflexes aren't that good, don't despair, speed is the more important of the two. Even some of the best players focus on movement almost exclusively.
@@ -158,4 +156,5 @@ Armor
 [a_small]: http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png
 
 The small (5) shard is dropped by killed enemies. As noted above, it's more useful than it looks.
-<br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br>

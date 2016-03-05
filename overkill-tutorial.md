@@ -114,9 +114,10 @@ You can arm a nade by pressing the `drop weapon` bind (by default the `g` key). 
 To excel at nading here are a few tips:
 
 * Keep the nade in hand until just before the explosion and throw it at an enemy. That way the nade won't bounce off and the enemy has no way to dodge it. You throw with more force the longer you wait.
-* Or you can use nades like a mine by dropping it on the floor at a place where an enemy will very likely be in a few moments (e.g. the flag spot in a CTF match). You can easily drop a nade by crouching before releasing it.
-  * This has it's uses but usually you'll just waste a nade.
+* Or you can use nades like a mine by dropping it on the floor at a place where an enemy will very likely be in a few moments (e.g. the flag spot in a CTF match). You can easily drop a nade without bouncing by crouching before releasing it.
+  * This has it's uses but without really good timing you'll just waste the nade.
 * Also keep in mind nades bounce off walls and fall down stairs. They even deal **damage through walls**.
+* There is another nade bind that works by holding the key to arm and releasing to throw. *Don't use it.* Overkill is too fast for it. You can't afford to keep a key pressed for several seconds. Use `g` / `drop weapon`.
 
 ### Shooting nades
 

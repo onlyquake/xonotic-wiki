@@ -68,6 +68,8 @@ Nade Jumping
 
 Desperate situations call for desperate measures. Sometimes you need to get away *really* fast. One way to do that is to let a nade explode in your hand. This can be done by either facing in the opposite direction of where you want to be hurled or by being in the upward motion of a jump when the nade explodes. [Space Elevator](Maps#space-elevator) is a good map to try this out.
 
+[Watch](https://youtu.be/KN98jADZBgk?t=5m34s) and learn.
+
 Since a nade does about 160 damage you need additional armor or health for this trick, otherwise you'd just commit suicide.
 
 Weapons

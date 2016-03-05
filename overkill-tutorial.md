@@ -43,7 +43,7 @@ All weapons in Overkill have the same secondary fire - laser (sometimes called b
 Its main uses are:
 
 - jumping higher - just aim at the floor and shoot ([video](https://www.youtube.com/watch?v=V3a127HCT0E))
-- climbing walls - no matter how high, just keep shooting the laser at roughly 45° down against a wall
+- climbing walls - no matter how high, just keep shooting the laser at roughly 45° down against the wall
 - accelerating - shoot the floor or wall [slightly behind you](Halogenes_Newbie_Corner#wall-blastering) for a noticeable boost.
 
 Dodging
@@ -51,7 +51,7 @@ Dodging
 
 ### When starting to move:
 
-Dodging Overkill's defining feature. When you want to start moving, **quickly press forward twice**. Must be followed by bunny hopping or you lose your speed as soon as you touch the floor. (Press forward, forward, *then* hold space - don't press space before the first W or it won't work)
+Dodging is Overkill's defining feature. When you want to start moving, **quickly press forward twice**. You must be completely still before this and it must be followed by bunny hopping or you lose your speed as soon as you touch the floor. (Press forward, forward, *then* hold space - don't press space before the first W or it won't work)
 
 You should do this **every time after spawning** because this is the fastest way to start moving. Don't underestimate this. You'll be several times faster than normally.
 
@@ -66,7 +66,7 @@ The fastest way to accelerate is a combination of both wall-dodging and blasteri
 Nade Jumping
 ------------
 
-Desperate situations call for desperate measures. Sometimes you need to get away *really* fast. One way to do that is to let a nade explode in your hand. This can be done by either facing in the opposite direction of where you want to be hurled or by being in the upward motion of a jump when the nade explodes. [Space Elevator](Maps#space-elevator) is a good map to try this out.
+Desperate times call for desperate measures. Sometimes you need to get away *really* fast. One way to do that is to let a nade explode in your hand. This can be done by either facing in the opposite direction of where you want to be hurled or by being in the upward motion of a jump when the nade explodes. [Space Elevator](Maps#space-elevator) is a good map to try this out.
 
 [Watch](https://youtu.be/KN98jADZBgk?t=5m34s) and learn.
 
@@ -91,9 +91,9 @@ Every player has the same three weapons. You don't have to collect them and you 
   - also slows enemies down
   - can deal small amounts of damage through walls
 
-Never reload in the middle of a fight. Switch to a different gun. It's much faster.
+**Never reload in the middle of a fight.** Switch to a different gun. It's much faster.
 
-And don't forget to reload when you're safe. Don't run around with one bullet remaining.
+And **don't forget to reload** when you're safe. Don't run around with one bullet remaining.
 
 Super Weapons
 -------------
@@ -119,7 +119,7 @@ To excel at nading here are a few tips:
 
 * Keep the nade in hand until just before the explosion and throw it at an enemy. That way the nade won't bounce off and the enemy has no way to dodge it. You throw with more force the longer you wait.
 * Or you can use nades like a mine by dropping it on the floor at a place where an enemy will very likely be in a few moments (e.g. the flag spot in a CTF match). You can easily drop a nade without bouncing by crouching before releasing it.
-  * This has it's uses but without really good timing you'll just waste the nade.
+  * This has it's uses but without really good timing you'll probably just waste the nade.
 * Also keep in mind nades bounce off walls and fall down stairs. They even deal **damage through walls**.
 * There is another nade bind that works by holding the key to arm and releasing to throw. *Don't use it.* Overkill is too fast for it. You can't afford to keep a key pressed for several seconds. Use `g` / `drop weapon`.
 
@@ -132,7 +132,7 @@ You can also use nades like a rocket launcher by throwing them in front of you a
 Items
 =====
 
-There's not much to say here except **take everything you get**. If you think there's no reason to pick up items because you'll die quickly anyway, you're wrong! Remember without any pickups a single vortex hit will instantly kill you. Even that tiny 5 armor shard dropped by a killed enemy will keep you alive and win you time to shoot back or get in cover. A fully equipped player (max health at 200 and max armor at 100) will sustain three vortex hits. If the hits don't come in quick succession even four, because you're healing shortly after being hit.
+There's not much to say here except **take everything you get**. If you think there's no reason to pick up items because you'll die quickly anyway, you're wrong! Remember without any pickups a single vortex hit will instantly kill you. **Don't ignore them.** Even that tiny 5 armor shard dropped by a killed enemy will keep you alive and win you time to shoot back or get in cover. A fully equipped player (max health at 200 and max armor at 100) will sustain three vortex hits. If the hits don't come in quick succession even four, because you're healing shortly after being hit.
 
 In a 1on1 game you should even pick up items if you're already maxed out. You won't gain any extra health/armor, but you deprive your enemies of that bonus making it easier for you. When playing in a team however you better leave the items for your teammates, especially flag carriers in CTF.
 
@@ -158,11 +158,4 @@ Armor
 [a_small]: http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png
 
 The small (5) shard is dropped by killed enemies. As noted above, it's more useful than it looks.
-
-
-
-
-
-
-
-
+<br><br><br><br><br>

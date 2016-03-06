@@ -79,7 +79,7 @@ Basic Weapons
 
 Every player has the same three weapons. You don't have to collect them and you also have infinite ammo. The only thing you have to care about is to choose the right weapon for a task and timing the reloads.
 
-- **Vortex** (also called nex, long distance, perfectly precise)
+- **Vortex** (also called *nex*, long distance, perfectly precise)
   - the main weapon, good in almost every situation
 - **Shotgun** (close range, with spread)
   - more damage than vortex but only in short range
@@ -147,7 +147,7 @@ Health
 Armor
 -----
 
-|Mega (100):  |  Big (50):   |Medium (100): |  Small (50): |  
+|Mega (100):  |  Big (50):   |Medium (25):  |  Small (5):  |  
 |:-----------:|:------------:|:------------:|:------------:|
 |![][a_mega]  |  ![][a_big]  |![][a_medium] |  ![][a_small]| 
 

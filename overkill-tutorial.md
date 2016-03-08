@@ -156,3 +156,5 @@ Armor
 [a_small]: http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png
 
 The small (5) shard is dropped by killed enemies. As noted above, it's more useful than it looks.
+
+<br><br><br><br><br><br><br>

@@ -24,7 +24,7 @@ Table of Contents
 Movement
 ========
 
-Every [Vanilla movement tip](Halogenes_Newbie_Corner#movement) also applies in Overkill. However there is one key aspect making the game way faster - **dodging**. But let's review the basics first:
+Every [Vanilla movement tip](Halogenes_Newbie_Corner#movement) also applies in Overkill. However there is one key aspect making the game waxonotic overkill tutorialy faster - **dodging**. But let's review the basics first:
 
 Bunny Hopping
 -------------
@@ -58,7 +58,7 @@ You should do this **every time after spawning** because this is the fastest way
 
 ### Wall-dodging
 
-Dodging does not only apply to starting a movement, but can be used on every (more or less) smooth surface next to you. For example you can bunny hop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging. Good maps to try this out are [Tarx](Maps#tarx) and [Equinox](Maps#equinox).
+Dodging does not only apply to starting a movement, but can be used on every (more or less) smooth surface next to you. For example you can bunny hop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this mxonotic overkill tutorialultiple times with only a short cooldown time. You can reach very high speeds using wall dodging. Good maps to try this out are [Tarx](Maps#tarx) and [Equinox](Maps#equinox).
 
 The fastest way to accelerate is a combination of both wall-dodging and blastering. This can **double your speed** when done right.
 
@@ -81,7 +81,7 @@ Every player has the same three weapons. You don't have to collect them and you 
 
 - **Vortex** (also called *nex*, long distance, perfectly precise)
   - the main weapon, good in almost every situation
-- **Shotgun** (close range, with spread)
+- **Shotgun** (close range, wxonotic overkill tutorialith spread)
   - more damage than vortex but only in short range
   - faster rate of fire
   - slows enemies down - shoot them when they're jumping across a chasm to make them fall
@@ -156,3 +156,5 @@ Armor
 [a_small]: http://pics.nexuizninjaz.com/images/5zl9javsx6dasvom21gv.png
 
 The small (5) shard is dropped by killed enemies. As noted above, it's more useful than it looks.
+
+<br><br><br><br><br><br><br>

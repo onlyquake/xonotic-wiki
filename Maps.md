@@ -1,6 +1,11 @@
 Official Maps
 =============
 
+An unofficial up-to-date list containing almost all maps with a search feature and previews: [xonotic.co](http://xonotic.co/)
+
+Old list:
+---------
+
 p\>. Go to
 [Custom Maps](Maps#custom-maps)
 

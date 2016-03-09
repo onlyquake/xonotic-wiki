@@ -24,12 +24,12 @@ Table of Contents
 Movement
 ========
 
-Every [Vanilla movement tip](Halogenes_Newbie_Corner#movement) also applies in Overkill. However there is one key aspect making the game way faster - **dodging**. But let's review the basics first:
+Every [vanilla movement tip](Halogenes_Newbie_Corner#movement) also applies in Overkill. However there is one key aspect making the game way faster - **dodging**. But let's review the basics first:
 
 Bunny Hopping
 -------------
 
-[Same as Vanilla](Halogenes_Newbie_Corner#bunny-hopping) - instead of just walking around you should always jump because it's much faster. Basically keep the `jump` key (by default `space bar`) pressed all the time. The are only two exceptions to this rule:
+[Same as vanilla](Halogenes_Newbie_Corner#bunny-hopping) - instead of just walking around you should always jump because it's much faster. Basically keep the `jump` key (by default `space bar`) pressed all the time. The are only two exceptions to this rule:
 
 1. you *want* to be slow (to not fall off a ledge)
 2. you need to *sneak*, since bunny hopping makes a lot of noise (you can crouch additionally to further minimize your movement noises).
@@ -39,7 +39,7 @@ The turning and strafing tips also apply: hold `forward` to move straight, relea
 Laser / Blaster
 ---------------
 
-All weapons in Overkill have the same secondary fire - laser (sometimes called blaster). It pushes the player using it (and also flags and nades), but unlike in Vanilla it doesn't deal any damage. So blast away, literally.
+All weapons in Overkill have the same secondary fire - laser (sometimes called blaster). It pushes the player using it (and also flags and nades), but unlike in vanilla it doesn't deal any damage. So blast away, literally.
 
 Its main uses are:
 

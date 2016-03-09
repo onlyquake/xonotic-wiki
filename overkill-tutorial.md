@@ -62,7 +62,9 @@ Dodging does not only apply to starting a movement, but can be used on every (mo
 
 The fastest way to accelerate is a combination of both wall-dodging and blastering. This can **double your speed** when done right.
 
-Martin-t made a **[video containing all the above mentioned movement tricks](https://www.youtube.com/watch?v=omrOV09Oo04)** with key presses shown.
+Martin-t made a video containing all the above mentioned movement tricks with key presses shown:  
+[![Movement tutorial](https://i.imgur.com/ioa82aJ.png)](https://www.youtube.com/watch?v=omrOV09Oo04)  
+*Link to video - middle click to open in new tab*
 
 Nade Jumping
 ------------
@@ -125,7 +127,9 @@ To excel at nading here are a few tips:
 
 You can also use nades like a rocket launcher by throwing a nade in front of you and then hitting it with the vortex. This propels the nade very far and causes very high damage with quite a bit of spread. It takes a little practice but is definitely worth the effort.
 
-Watch **[this short video](https://www.youtube.com/watch?v=9qE3_YBYp50)** to see what it looks like.
+Watch this short video to see what it looks like:  
+[![Nexing nades](https://i.imgur.com/dG0m0CD.png)](https://www.youtube.com/watch?v=9qE3_YBYp50)  
+*Link to video - middle click to open in new tab*
 
 Items
 =====

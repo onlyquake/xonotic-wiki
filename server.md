@@ -2,6 +2,9 @@
 
 ## web hosting
 
+* `sv_curl_defaulturl`
+    * set to your web host, required `.pk3` files will be downloaded from here
+
 ## xonstat
 
 ## multiple server instances

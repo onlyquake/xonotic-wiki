@@ -46,7 +46,7 @@ Its main uses are:
 - jumping higher - just aim at the floor and shoot ([video](https://www.youtube.com/watch?v=V3a127HCT0E))
 - climbing walls - no matter how high, just keep shooting the laser at roughly 45° down against the wall
 - accelerating - shoot the floor or wall [slightly behind you](Halogenes_Newbie_Corner#wall-blastering) for a noticeable boost.
-- shoot nades or the flag on the ground to make them bounce a little - this is for separating the flag and the nade when a killed FC dropped both.
+- shoot nades or the flag on the ground to make them bounce a little - this is great for separating the flag and the nade when a killed FC dropped both.
 
 Dodging
 -------

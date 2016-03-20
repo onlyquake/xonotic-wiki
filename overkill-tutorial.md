@@ -46,6 +46,7 @@ Its main uses are:
 - jumping higher - just aim at the floor and shoot ([video](https://www.youtube.com/watch?v=V3a127HCT0E))
 - climbing walls - no matter how high, just keep shooting the laser at roughly 45° down against the wall
 - accelerating - shoot the floor or wall [slightly behind you](Halogenes_Newbie_Corner#wall-blastering) for a noticeable boost.
+- shoot nades or the flag on the ground to make them bounce a little - this is for separating the flag and the nade when a killed FC dropped both.
 
 Dodging
 -------
@@ -91,6 +92,7 @@ Every player has the same three weapons. You don't have to collect them and you 
   - spread increases gradually, better shoot short bursts
   - also slows enemies down
   - can deal small amounts of damage through walls
+  - great for removing ammo from enemies, finish them off with a vortex shot afterwards
 
 Two more tips:
 
@@ -126,6 +128,7 @@ To excel at nading here are a few tips:
 ### Shooting nades
 
 You can also use nades like a rocket launcher by throwing a nade in front of you and then hitting it with the vortex. This propels the nade very far and causes very high damage with quite a bit of spread. It takes a little practice but is definitely worth the effort.
+Great for getting rid of campers or remote groups of enemies.
 
 Watch this short video to see what it looks like:  
 [![Nexing nades](https://i.imgur.com/dG0m0CD.png)](https://www.youtube.com/watch?v=9qE3_YBYp50)  

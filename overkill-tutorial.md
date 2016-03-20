@@ -124,7 +124,7 @@ To excel at nading here are a few tips:
 - Keep the nade in hand until just before the explosion and throw it at an enemy. That way the nade won't bounce off and the enemy has no way to dodge it. You throw with more force the longer you wait.
 - You can use nades like a mine by dropping it on the floor at a place where an enemy will very likely be in a few moments (e.g. the flag spot in a CTF match). You can easily drop a nade without bouncing by crouching before releasing it.
 - There is another key bind for nades that works by holding the `hook` keybind to arm and releasing it to throw. It's not recommended to use that, you can't afford to keep a key pressed for several seconds. Use the `drop weapon` bind instead.
-
+- Jumppads usually works for nades, too.
 ### Shooting nades
 
 You can also use nades like a rocket launcher by throwing a nade in front of you and then hitting it with the vortex. This propels the nade very far and causes very high damage with quite a bit of spread. It takes a little practice but is definitely worth the effort.

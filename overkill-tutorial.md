@@ -46,7 +46,7 @@ Its main uses are:
 - jumping higher - just aim at the floor and shoot ([video](https://www.youtube.com/watch?v=V3a127HCT0E))
 - climbing walls - no matter how high, just keep shooting the laser at roughly 45° down against the wall
 - accelerating - shoot the floor or wall [slightly behind you](Halogenes_Newbie_Corner#wall-blastering) for a noticeable boost.
-- shoot nades or the flag on the ground to make them bounce a little - this is great for separating the flag and the nade when a killed FC dropped both.
+- shooting nades or the flag on the ground to make them bounce a little - this is great for separating the flag and the nade when a killed FC dropped both.
 
 Dodging
 -------
@@ -92,7 +92,7 @@ Every player has the same three weapons. You don't have to collect them and you 
   - spread increases gradually, better shoot short bursts
   - also slows enemies down
   - can deal small amounts of damage through walls
-  - great for removing ammo from enemies, finish them off with a vortex shot afterwards
+  - great for removing armor shards from enemies, finish them off with a vortex shot afterwards
 
 Two more tips:
 
@@ -115,7 +115,7 @@ Those weapons have to be picked up and are only available on some maps.
 Nades
 -----
 
-*Nade* is the shorthand term for *grenade*. Nades deal quite a lot of damage in a large radius. Keep in mind nades bounce off walls and fall down stairs. Due to their damage radius they even hurt players behind walls.
+*Nade* is the shorthand term for *grenade*. Nades deal quite a lot of damage in a large radius. Keep in mind they bounce off walls and fall down stairs. Due to their damage radius they even hurt players behind walls.
 
 You can arm a nade by pressing the `drop weapon` bind (by default the `g` key). After that a countdown of about 5 seconds starts until the nade explodes. You have to press the `drop weapon` key again to throw it. You can throw a new nade every few seconds.
 
@@ -123,12 +123,12 @@ To excel at nading here are a few tips:
 
 - Keep the nade in hand until just before the explosion and throw it at an enemy. That way the nade won't bounce off and the enemy has no way to dodge it. You throw with more force the longer you wait.
 - You can use nades like a mine by dropping it on the floor at a place where an enemy will very likely be in a few moments (e.g. the flag spot in a CTF match). You can easily drop a nade without bouncing by crouching before releasing it.
-- There is another key bind for nades that works by holding the `hook` keybind to arm and releasing it to throw. It's not recommended to use that, you can't afford to keep a key pressed for several seconds. Use the `drop weapon` bind instead.
+- There is another key bind for nades that works by holding the `hook` keybind to arm and releasing it to throw. **Don't use that one**, Overkill is too fast for it. You can't afford to keep a key pressed for several seconds. Use the `drop weapon` bind instead.
 - Jumppads usually works for nades, too.
+
 ### Shooting nades
 
-You can also use nades like a rocket launcher by throwing a nade in front of you and then hitting it with the vortex. This propels the nade very far and causes very high damage with quite a bit of spread. It takes a little practice but is definitely worth the effort.
-Great for getting rid of campers or remote groups of enemies.
+You can also use nades like a rocket launcher by throwing a nade in front of you and then hitting it with the vortex. This propels the nade very far and causes very high damage with quite a bit of spread. It takes a little practice but is definitely worth the effort. Great for getting rid of campers or remote groups of enemies.
 
 Watch this short video to see what it looks like:  
 [![Nexing nades](https://i.imgur.com/dG0m0CD.png)](https://www.youtube.com/watch?v=9qE3_YBYp50)  

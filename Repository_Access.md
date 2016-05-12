@@ -79,6 +79,7 @@ The `run` command can also be followed by standard DarkPlaces commandline argume
 To update your Git clone, you can repeat the commands above without the first “git clone” line- And don’t forget to compile after you update- Like this:
 
     cd xonotic
+    ./all checkout
     ./all update
     ./all compile
 

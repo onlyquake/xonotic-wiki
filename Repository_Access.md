@@ -102,7 +102,9 @@ Get a checkout (see above), and do:
 
     ./all keygen
 
-and follow the instructions that are shown.
+and follow the instructions that are shown. Be sure that you've done:
+
+    ./all update -p
 
 After that, you can write to the repository using the usual git commands (commit, push).
 

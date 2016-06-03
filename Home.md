@@ -18,7 +18,7 @@ If you with to contribute, just ask for access at #xonotic on freenode.
 
 ### Tutorials
 - [HALOGENE’S NEWBIE CORNER](Halogenes_Newbie_Corner) has rich information for beginners. **Must read!** You will enjoy the game more!
-- [Overkill Tutorial](overkill-tutorial)
+- [Overkill Tutorial](Overkill_Tutorial)
 
 ### Game Mechanics
 -   [Items](Items)

@@ -1,4 +1,4 @@
-Overkill is a special mutator for Xonotic. See its [tutorial](overkill-tutorial) for details.
+[Overkill](Overkill_Tutorial) is a special mutator for Xonotic. See its [tutorial](overkill-tutorial) for details.
 
 Overkill has been merged into the main game and will be available in 0.8 release!
 

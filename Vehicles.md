@@ -12,33 +12,31 @@ Any standard servers support vehicles if they include maps with veheciles placed
 
 # Official vehicles
 
-##Bumble Bee
+## Bumble Bee
 
 TODO
 
-Vehicle name for mappers:
-
-##Racer
+## Racer
 
 TODO
 
-Vehicle name for mappers:
-
-##Raptor
+## Raptor
 
 TODO
 
-Vehicle name for mappers:
-
-##Spiderbot
+## Spiderbot
 
 TODO
-
-Vehicle name for mappers:
 
 # Unofficial vehicles
 
 On some servers, one may find experiment vehicles that are not official. Please post your opinions on them in [Xonotic Official Forums](http://forums.xonotic.org).
+
+# Notes for mappers
+
+Vehicle names for mappers:
+
+TODO
 
 # Notes for developers
 

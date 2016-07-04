@@ -21,9 +21,9 @@ If you with to contribute, just ask for access at #xonotic on freenode.
 - [Overkill Tutorial](Overkill_Tutorial)
 
 ### Game Mechanics
--   [Items](Items)
 -   [Maps](Maps)
 -   [Players](Players)
+-   [Items](Items)
 -   [Vehicles](Vehicles)
 -   [Weapons](Weapons)
 
@@ -32,24 +32,29 @@ If you with to contribute, just ask for access at #xonotic on freenode.
 #### Game Modes (or Game Types)
 In Xonotic, game modes and game types mean the same thing -- different modes/types have different goals to achieve in a game.
 
--   [Arena](Gamemodes/Arena)
--   [Assault](Gamemodes/Assault)
+The following modes are more popular ones:
+
 -   [Capture the Flag](Gamemodes/Capture_the_Flag)
 -   [Clan Arena](Gamemodes/Clan_Arena)
 -   [Deathmatch](Gamemodes/Deathmatch)
--   [Domination](Gamemodes/Domination)
 -   [Duel](Gamemodes/Duel)
 -   [Freeze Tag](Gamemodes/Freeze_Tag)
 -   [Keepaway](Gamemodes/Keepaway)
 -   [Key Hunt](Gamemodes/Key_Hunt)
+-   [Race CTS](Gamemodes/Race_CTS)
+-   [Team Deathmatch](Gamemodes/Team_Deathmatch)
+
+The following modes are available, although slightly less common than the above:
+
+-   [Arena](Gamemodes/Arena)
+-   [Assault](Gamemodes/Assault)
+-   [Conquest](Gamemodes/Conquest)
+-   [Domination](Gamemodes/Domination)
 -   [Last Man Standing](Gamemodes/Last_Man_Standing)
 -   [Nexball](Gamemodes/Nexball)
 -   [Onslaught](Gamemodes/Onslaught)
 -   [Race](Gamemodes/Race)
--   [Race CTS](Gamemodes/Race_CTS)
 -   [Runematch](Gamemodes/Rune)
--   [Team Deathmatch](Gamemodes/Team_Deathmatch)
--   [Conquest](Gamemodes/Conquest)
 
 #### Standard Mutators
 Mutators change the configuration of the game play, e.g. how weapon appears, which special weapons are availabale, or the physics in the game. This is usually set by the game admins who set up games for other players.  Standard Mutators are available in the game menu.

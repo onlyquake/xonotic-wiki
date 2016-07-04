@@ -8,7 +8,7 @@ There are several types of vehicles available in Xonotic to make team play more 
 
 Vehicles are available in maps that support them, i.e. maps that have vehicle placed in them. The map makers, or the mappers, have to put vehicles in maps for players to play.
 
-Any standard servers support vehicles if they include maps with veheciles placed in them. Some servers features only large maps for vehicles.
+Any standard servers support vehicles if they include maps with veheciles placed in them. [Some servers](Special_Servers) features only large maps for vehicles.
 
 # Official vehicles
 
@@ -30,7 +30,7 @@ TODO
 
 # Unofficial vehicles
 
-On some servers, one may find experiment vehicles that are not official. Please post your opinions on them in [Xonotic Official Forums](http://forums.xonotic.org).
+On [some servers](Special_Servers), one may find experiment vehicles that are not official. Please post your opinions on them in [Xonotic Official Forums](http://forums.xonotic.org).
 
 # Notes for mappers
 

@@ -2,7 +2,7 @@ Vehicles
 ========
 # Vehicles in Xonotic
 
-There are several types of vehicles available in Xonotic to make team play more fun. Some need at least one player to operate (drive or pilot). Some vehicles need, in addition to a driver/pilot, one more more shooters to operate the weapons on the vehicles. Some vehicles are not equipped with weapons but can carry a lot of players.
+There are several types of vehicles available in Xonotic to make team play more fun. Some can fly, some can jump, some can walk, and some can dive. Some need at least one player to operate (drive or pilot). Some vehicles need, in addition to a driver/pilot, one more more shooters to operate the weapons on the vehicles. Some vehicles are not equipped with weapons but can carry a lot of players.
 
 # Where are vehicles available?
 

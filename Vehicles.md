@@ -2,7 +2,7 @@ Vehicles
 ========
 # Vehicles in Xonotic
 
-There are several types of vehicles available in Xonotic to make team play more fun. Some vehicles are automatic like a robot; others need at least one player to operate (drive or pilot). Some vehicles need, in addition to a driver/pilot, one more more shooters to operate the weapons on the vehicles. Some vehicles are not equipped with weapons but can carry a lot of players.
+There are several types of vehicles available in Xonotic to make team play more fun. Some need at least one player to operate (drive or pilot). Some vehicles need, in addition to a driver/pilot, one more more shooters to operate the weapons on the vehicles. Some vehicles are not equipped with weapons but can carry a lot of players.
 
 # Where are vehicles available?
 
@@ -12,7 +12,7 @@ Any standard servers support vehicles if they include maps with veheciles placed
 
 # Operating a vehicle
 
-To enter a vehicle, simple move into it. To leave a vehicle, use the keybind "+use" (default key: "F").
+To enter a vehicle, simple go/jump into it. To leave a vehicle, use the keybind "+use" (default key: "F").
 
 The first player to enter the vehicle will be the driver/pilot. The movement for differnt vehicles are different, but in general +forward (W), +backward (S), +moveleft (A), +moveright (D), +crouch (SHIFT), +jump (SPACE), and mouse movement are used for controlling vehicle movement.
 
@@ -22,7 +22,7 @@ If the vehicle supports multi-passengers, then after the driver/pilot enter the 
 
 ## Bumble Bee
 
-TODO
+Bumble Bee
 
 ## Racer
 

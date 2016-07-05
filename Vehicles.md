@@ -23,34 +23,34 @@ If the vehicle supports multi-passengers, then after the driver/pilot enter the 
 ## Bumblebee
 
 Outside view
-![](img/xonotic-vehicle-bumblebee.jpg)
+![](img/xonotic-vehicle-bumblebee.jpg =400x)
 
 Cockpit view
-![](img/xonotic-vehicle-bumblebee-cockpit.jpg)
+![](img/xonotic-vehicle-bumblebee-cockpit.jpg =400x)
 
 ## Racer
 
 Outside view
-![](img/xonotic-vehicle-racer.jpg)
+![](img/xonotic-vehicle-racer.jpg =400x)
 
 Cockpit view
-![](img/xonotic-vehicle-racer-cockpit.jpg)
+![](img/xonotic-vehicle-racer-cockpit.jpg =400x)
 
 ## Raptor
 
 Outside view
-![](img/xonotic-vehicle-raptor.jpg)
+![](img/xonotic-vehicle-raptor.jpg =400x)
 
 Cockpit view
-![](img/xonotic-vehicle-raptor-cockpit.jpg)
+![](img/xonotic-vehicle-raptor-cockpit.jpg =400x)
 
 ## Spiderbot
 
 Outside view
-![](img/xonotic-vehicle-spiderbot.jpg)
+![](img/xonotic-vehicle-spiderbot.jpg =400x)
 
 Cockpit view
-![](img/xonotic-vehicle-spiderbot-cockpit.jpg)
+![](img/xonotic-vehicle-spiderbot-cockpit.jpg =400x)
 
 # Unofficial vehicles
 
@@ -60,7 +60,7 @@ On [some servers](Special_Servers), one may find experiment vehicles that are no
 
 Vehicle class names for mappers:
 
-- Bumble Bee: "vehicle_bumblebee"
+- Bumblebee: "vehicle_bumblebee"
 - Racer: "vehicle_racer"
 - Raptor: "vehicle_raptor"
 - Spiderbot: "vehicle_spiderbot"

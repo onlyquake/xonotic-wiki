@@ -20,21 +20,37 @@ If the vehicle supports multi-passengers, then after the driver/pilot enter the 
 
 # Official vehicles
 
-## Bumble Bee
+## Bumblebee
 
-Bumble Bee
+Outside view
+![](img/xonotic-vehicle-bumblebee.jpg)
+
+Cockpit view
+![](img/xonotic-vehicle-bumblebee-cockpit.jpg)
 
 ## Racer
 
-TODO
+Outside view
+![](img/xonotic-vehicle-racer.jpg)
+
+Cockpit view
+![](img/xonotic-vehicle-racer-cockpit.jpg)
 
 ## Raptor
 
-TODO
+Outside view
+![](img/xonotic-vehicle-raptor.jpg)
+
+Cockpit view
+![](img/xonotic-vehicle-raptor-cockpit.jpg)
 
 ## Spiderbot
 
-TODO
+Outside view
+![](img/xonotic-vehicle-spiderbot.jpg)
+
+Cockpit view
+![](img/xonotic-vehicle-spiderbot-cockpit.jpg)
 
 # Unofficial vehicles
 

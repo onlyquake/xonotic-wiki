@@ -34,9 +34,12 @@ On [some servers](Special_Servers), one may find experiment vehicles that are no
 
 # Notes for mappers
 
-Vehicle names for mappers:
+Vehicle class names for mappers:
 
-TODO
+- Bumble Bee: "vehicle_bumblebee"
+- Racer: "vehicle_racer"
+- Raptor: "vehicle_raptor"
+- Spiderbot: "vehicle_spiderbot"
 
 # Notes for developers
 

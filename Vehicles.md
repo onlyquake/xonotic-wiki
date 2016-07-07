@@ -42,9 +42,9 @@ The vehicle health is affected when there is no shield protecting the vehicle. W
 
 The primary weapon and the secondary weapon are triggered by +fire (default: mouse left click) and +fire2 (default: mouse right click). Their status reflects their level of power/bullets/rockets/etc. Some vehicles movement, such as Racer's acceleration, consumes the energy from the primary weapon.
 
-### Crosshair (or rectile)
+### Crosshair (or reticle)
 
-The crosshair (or rectile) shows the direction the weapons are pointing to. In some vehicles, the primary weapon and the second weapon have different rectiles. If the weapon is fixed, it always points to the same direction as the front of the vehicle; if the weapon is not fixed, it either takes a while for the aiming computer on the vehicle to align with the vehicle direction, or the gunner can control the aiming direction.
+The crosshair (or reticle) shows the direction the weapons are pointing to. In some vehicles, the primary weapon and the second weapon have different reticles. If the weapon is fixed, it always points to the same direction as the front of the vehicle; if the weapon is not fixed, it either takes a while for the aiming computer on the vehicle to align with the vehicle direction, or the gunner can control the aiming direction.
 
 # Official vehicles
 
@@ -84,7 +84,7 @@ The Racer takes one player at a time. There are two types of weapon. The primary
 
 ![Raptor cockpit](img/Vehicle-raptor-cockpit.jpg)
 
-The flying Raptor takes one pilot who can also opearate two weapons. There are two different rectiles for them. The primary weapon is laser based, and is shot toward the white rectile. The secondary weapon is air-to-groud bombs, is dropped onto the ground the green rectile is pointing at. The white rectile always points at the head of the vehicle. The green rectile is projected by the movement momentum of the vehicle.
+The flying Raptor takes one pilot who can also opearate two weapons. There are two different reticles for them. The primary weapon is laser based, and is shot toward the white reticle. The secondary weapon is air-to-groud bombs, is dropped onto the ground the green reticle is pointing at. The white reticle always points at the head of the vehicle. The green reticle is projected by the movement momentum of the vehicle.
 
 ## Spiderbot
 
@@ -96,7 +96,7 @@ Spiderbot takes one rider. It walks on the ground and can jump from very high al
 
 ![Spiderbot cockpit legend](img/Vehicle-cockpit-legend.jpg)
 
-Its primary weapon is machine gun; the aiming direction is shown by the green rectile, which follows the front of the vehicle, given enough time. The secondary weapon is rockets that are aimed with the white rectile, which always points to the front of the vehicle.
+Its primary weapon is machine gun; the aiming direction is shown by the green reticle, which follows the front of the vehicle, given enough time. The secondary weapon is rockets that are aimed with the white reticle, which always points to the front of the vehicle.
 
 # Unofficial vehicles
 

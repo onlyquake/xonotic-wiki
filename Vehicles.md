@@ -1,5 +1,5 @@
-Vehicles
-========
+# Please note that this page is still being revised! The information is not 100% accurate yet.
+
 # About
 
 ## General informatoin
@@ -22,7 +22,7 @@ Any standard servers support vehicles if they include maps with veheciles placed
 
 To enter a vehicle, simple go/jump into it. To leave a vehicle, use the keybind "+use" (default key: "F").
 
-The first player to enter the vehicle will be the driver/pilot. The movement for differnt vehicles are slightly different, but in general +forward (W), +backward (S), +moveleft (A), +moveright (D), +crouch (SHIFT), +jump (SPACE), and mouse movement are used for controlling vehicle movement. +fire (mouse left click) and +fire2 (mouse right click) triggers the primary and secondary weapon, respectively.
+The first player to enter the vehicle will be the driver/pilot. The movement for differnt vehicles are slightly different, but in general +forward (W), +backward (S), +moveleft (A), +moveright (D), +crouch (SHIFT), +jump (SPACE), and mouse movement are used for controlling vehicle movement. +fire (mouse left click) and +fire2 (mouse right click) triggers the primary and secondary weapon, respectively. +weapprev/+weapnext (mousewheel) to switch to weapons, if the vehicle is equipped with multiple weapons.
 
 If the vehicle supports multi-passengers, then after the driver/pilot enter the vehicles, subsequent players who enter the vehicle will be the passengers. Some vehicles have weapons for passengers. The same keys above are likely to control the weapon aims as well.
 

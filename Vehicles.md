@@ -80,8 +80,6 @@ The Racer takes one player at a time. There are two types of weapon. The primary
 
 ![Raptor cockpit](img/Vehicle-raptor-cockpit.jpg)
 
-![Spiderbot cockpit legend](img/Vehicle-cockpit-legend.jpg)
-
 The flying Raptor takes one pilot who can also opearate two weapons. There are two different rectiles for them. The primary weapon is laser based, and is shot toward the white rectile. The secondary weapon is air-to-groud bombs, is dropped onto the ground the green rectile is pointing at. The white rectile always points at the head of the vehicle. The green rectile is projected by the movement momentum of the vehicle.
 
 ## Spiderbot
@@ -91,6 +89,8 @@ The flying Raptor takes one pilot who can also opearate two weapons. There are t
 ![Spiderbot cockpit](img/Vehicle-spiderbot-cockpit.jpg)
 
 Spiderbot takes one rider. It walks on the ground and can jump from very high altitude while protecting the rider.
+
+![Spiderbot cockpit legend](img/Vehicle-cockpit-legend.jpg)
 
 Its primary weapon is machine gun; the aiming direction is shown by the green rectile, which follows the front of the vehicle, given enough time. The secondary weapon is rockets that are aimed with the white rectile, which always points to the front of the vehicle.
 

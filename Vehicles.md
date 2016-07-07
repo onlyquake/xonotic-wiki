@@ -54,15 +54,19 @@ The crosshair (or rectile) shows the direction the weapons are pointing to. In s
 
 ![Bumblebee cockpit](img/Vehicle-bumblebee-cockpit.jpg)
 
-Up to three players can ride the Bumblebee, a flying vehicle, at the same time. 
+Up to three players can ride the Bumblebee, a flying vehicle, at the same time.
 
-- The first player will be the pilot, who can also use the green healing wave to heal other teammates.
-- The second player will be the right gunner.
-- The third player will be the left gunner.
+![Bumblebee pilot view](img/Vehicle-bumblebee-pilot-view.jpg)
+
+The first player will be the pilot, who can also use the green healing wave to heal other teammates.
+
+![Bumblebee right gunner view](img/Vehicle-bumblebee-gunner-view.jpg)
+
+The second player will be the right gunner. The third player will be the left gunner.
 
 When the pilot leaves Bumblebee, the second player becomes the pilot.
 
-There are no secondary weapons for each player in Bumblebee.
+There are no secondary weapons for any of the three riders in Bumblebee.
 
 ## Racer
 
@@ -79,8 +83,6 @@ The Racer takes one player at a time. There are two types of weapon. The primary
 ![Raptor outside](img/Vehicle-raptor.jpg)
 
 ![Raptor cockpit](img/Vehicle-raptor-cockpit.jpg)
-
-![Raptor rectiles](img/Vehicle-raptor-rectiles.jpg)
 
 The flying Raptor takes one pilot who can also opearate two weapons. There are two different rectiles for them. The primary weapon is laser based, and is shot toward the white rectile. The secondary weapon is air-to-groud bombs, is dropped onto the ground the green rectile is pointing at. The white rectile always points at the head of the vehicle. The green rectile is projected by the movement momentum of the vehicle.
 

@@ -5,17 +5,17 @@ Cloning the repository
 ----------------------
 
 Expected time (~2.5MiB/s): ~2m (initial checkout) + ~35m (./all update)  
-Expected size: 8.6 GiB
+Expected size: 11.7 GiB
 
 |Repository |Size   |
 |:--        |:--    |
-|data       |1 GiB  |
-|music      |225 MiB|
-|darkplaces |17 MiB |
-|netradiant |19 MiB |
-|d0_blind_id|145 KiB|
-|maps       |2.1 GiB|
-|gmqcc      |3.3 MiB|
+|data       |4.6 GiB  |
+|music      |382 MiB|
+|darkplaces |160 MiB |
+|netradiant |42 MiB |
+|d0_blind_id|776 KiB|
+|maps       |5.6 GiB|
+|gmqcc      |22 MiB|
 
     git clone https://gitlab.com/xonotic/xonotic.git
     cd xonotic

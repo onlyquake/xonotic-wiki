@@ -87,6 +87,10 @@ To update your Git clone, you can repeat the commands above without the first â€
 
 ***
 
+If you run into issues with the latest version you can easily revert to an older one. Since most bugs are caused by the game code rather that the engine, you just need to downgrade that repository. Inside the main xonotic repository, use `cd data/xonotic-data` and then `git checkout <some older commit>`. After that go back `cd -` and `./all compile` (with the optional `-r` flag).
+
+***
+
 Contributing and getting write access
 -------------------------------------
 

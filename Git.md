@@ -4,7 +4,7 @@ Git
 Cloning the repository
 ----------------------
 
-Expected time (~2.5MiB/s): ~2m (initial checkout) + ~35m (./all update)  
+Expected time (~2.5MiB/s): ~2m (initial checkout) + ~75m (./all update)  
 Expected size: 11.7 GiB
 
 |Repository |Size   |

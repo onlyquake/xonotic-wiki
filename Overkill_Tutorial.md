@@ -137,7 +137,7 @@ Watch this short video to see what it looks like:
 Items
 =====
 
-There's not much to say here except **take everything you get**. If you think there's no reason to pick up items because you'll quickly die anyway, you're wrong! Without any pickups a single vortex hit will instantly kill you. So **don't ignore items**, even that tiny 5 armor shard dropped by a killed enemy will keep you alive and win you time to shoot back or get in cover. A fully equipped player (max health at 200 and max armor at 100) will sustain three vortex hits. If the hits don't come in quick succession even four, because you're healing shortly after being hit.
+There's not much to say here except **take everything you get**. If you think there's no reason to pick up items because you'll quickly die anyway, you're wrong! Without any pickups a single vortex hit will instantly kill you. So **don't ignore items**, even that tiny 5 armor shard dropped by a killed enemy will keep you alive and win you time to shoot back or get in cover. A fully equipped player (max health at 200 and max armor at 100) will sustain three vortex hits. If they don't come in quick succession even four, because he's probably gonna pick up a shard from a dead body in the meanwhile.
 
 In a 1on1 game you should even pick up items if you're already maxed out. You won't gain any extra health/armor, but you deprive your enemies of that bonus making it easier for you. When playing in a team however you better leave the items for your teammates in need, especially flag carriers in CTF.
 

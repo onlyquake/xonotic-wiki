@@ -127,7 +127,7 @@ In this section you will find helpful information about editing Xonotic in gener
 -   [How to compile dpm models](Modeling/dpmodel)
 -   [How to make weapons](Modeling/Weaponsystem)
 -   How to get an animated mesh from [Blender to DPM](Modeling/Blender_to_DPM)
--   [Inter-Quake Model (IQM) Format](http://lee.fov120.com/iqm/)
+-   [Inter-Quake Model (IQM) Format](http://sauerbraten.org/iqm/)
 -   [Player Model Spec](Modeling/Player_Model_Spec)
 -   [Blender to IQM](Modeling/Blender_to_IQM)
 

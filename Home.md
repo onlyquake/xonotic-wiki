@@ -4,7 +4,7 @@ Welcome to the official Xonotic wiki.
 
 If you with to contribute, just ask for access at #xonotic on freenode.
 
-## Documentation, Communication, and Social Network
+## Documentation, Communication and Social Networks
 -	[Official Website](http://xonotic.org)
 	-	[Official Forums](http://forums.xonotic.org) are a lively place for Xonotic players to discuss anything.
 	-	[Xonotic game stats](http://stats.xonotic.org/) shows useful statistics information about servers, players, scores, maps, etc.

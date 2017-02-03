@@ -1,22 +1,6 @@
 Compiling In Windows
 ====================
 
-[Same dir plain](Outdated_Compiling_in_Windows)  
-[Same dir rel](./Outdated_Compiling_in_Windows)  
-[Same dir abs](/Archive/Outdated_Compiling_in_Windows)  
-
-[Home plain](Home)  
-[Home rel](../Home)  
-[Home abs](/Home)  
-
-[Subdir plain](Recording/Democapture)  
-[Subdir rel](../Recording/Democapture)  
-[Subdir abs](/Recording/Democapture)  
-
-[Md plain](Recording/Democapture.md)  
-[Md rel](../Recording/Democapture.md)  
-[Md abs](/Recording/Democapture.md)  
-
 **This guide has been replaced by a shorter alternative.** This guide should still work, and get you a standalone MinGW/MSYS environment with access to msysgit. The new method only makes use of msysgit and is therefore easier and faster to set up. See the [Repository Access](https://gitlab.com/xonotic/xonotic/wikis/Repository_Access#windows) page.
 
 This is an unofficial updated version of the outdated [Compiling in Windows](Outdated_Compiling_in_Windows) page. There are no more automated tools in this version of the guide.

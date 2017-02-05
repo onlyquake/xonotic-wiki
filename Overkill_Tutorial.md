@@ -1,3 +1,5 @@
+*Server admins: you can use [xonotic.org/oktut](xonotic.org/oktut) to link to this page from MOTDs, welcome messages and tips.*
+
 Overkill Tutorial
 =================
 

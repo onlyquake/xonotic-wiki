@@ -2,7 +2,7 @@
 
 Welcome to the official Xonotic wiki.
 
-If you with to contribute, just ask for access at #xonotic on freenode.
+If you wish to contribute, see [Editing](Editing).
 
 ## Documentation, Communication and Social Networks
 -	[Official Website](http://xonotic.org)
@@ -157,7 +157,7 @@ In this section you will find helpful information about editing Xonotic in gener
 
 ### Plans
 -   Check out our [Project Plan](Plan) so far
--   [Website planning](Planning/Website) 
+-   [Website planning](Planning/Website)
 -   Notes from brainstorming [ideas for names](Planning/names)
 -   [Xonotic compatibility pack](Xonotic_compatibility_pack) a small pk3 that will rebrand a default Nexuiz install
 
@@ -173,4 +173,3 @@ In this section you will find helpful information about editing Xonotic in gener
 -   [Git repo structure](Git)
 -   [Forbidden disposable e-mail providers](Forbidden_disposable_e-mail_providers)
 -   [Gitlab Markdown Reference](https://gitlab.com/help/markdown/markdown.md) (for editing this wiki)
-

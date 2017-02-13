@@ -5,7 +5,7 @@ The official version is on [GitLab](https://gitlab.com/xonotic/xonotic/wikis/hom
 Filenames
 ---------
 
-Use dashes, not underscores - dashes get converted to spaces in page titles so we have a nice title on every page
+Use dashes in page names, not underscores - dashes get converted to spaces in page titles so we have a nice title on every page
 
 Interestingly, spaces seem to work fine in filenames for both GitHub and GitLab but I am sure they'd break *something somewhere* so let's stick to dashes.
 

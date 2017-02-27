@@ -1,0 +1,5 @@
+[Page link](Page)
+[Url link](http://example.com)
+![Image](image.png)
+[![Image link to image](image.png)](image.png)
+[![Image link to page](image.png)](Page)

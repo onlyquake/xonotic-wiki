@@ -61,14 +61,14 @@ The **git://** protocol uses port **9418**, which may be a problem if youâ€™re b
 
 After that, you have a working checkout of the repository. The game can be compiled and run with the following commands:
 
-    ./all compile
+    ./all compile -r
     ./all run
 
-Use `./all compile -r` to create a faster build without debug symbols.
+You can use just `./all compile` to create a slower build with debug symbols but usually you want `-r`.
 
 The `./all run` line can be followed by one of `glx` (Linux native), `sdl` (input/sound managed by SDL), `agl` (OSX native), `wgl` (Windows native), or `dedicated` (for server hosting) to choose which executable to run or compile. Seen as follows:
 
-    ./all compile dedicated
+    ./all compile -r dedicated
     ./all run wgl
     ./all run sdl
 
@@ -81,7 +81,7 @@ To update your Git clone, you can repeat the commands above without the first â€
     cd xonotic
     ./all checkout
     ./all update
-    ./all compile
+    ./all compile -r
 
 **Note:** The compiled binary will have a faint watermark with the git revision. To remove it completely put `set menu_watermark ""` into your `autoexec.cfg`.
 
@@ -129,7 +129,7 @@ Lists all the branches known for all the respective repositories.
 
     ./all compile
 
-Compiles the game, assuming that you have the required libs installed.
+Compiles the game, assuming that you have the required libs installed. Don't forget `-r` if you wanna actually play the game wit decent fps.
 
     ./all checkout BRANCH
 

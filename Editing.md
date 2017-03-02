@@ -7,7 +7,7 @@ Filenames
 
 Use dashes in page names, not underscores - dashes get converted to spaces in page titles so we have a nice title on every page
 
-Interestingly, spaces seem to work fine in filenames for both GitHub and GitLab but I am sure they'd break *something somewhere* so let's stick to dashes.
+Interestingly, spaces in filenames and links seem to work fine for both GitHub and GitLab but I am sure they'd break *something somewhere* so let's stick to dashes.
 
 Subdirectories
 --------------

@@ -7,7 +7,7 @@ Filenames
 
 Use dashes in page names, not underscores - dashes get converted to spaces in page titles so we have a nice title on every page
 
-Interestingly, spaces seem to work fine in filenames for both GitHub and GitLab but I am sure they'd break *something somewhere* so let's stick to dashes.
+Interestingly, spaces in filenames and links seem to work fine for both GitHub and GitLab, not sure if they break somewhere else.
 
 Subdirectories
 --------------
@@ -21,7 +21,7 @@ Don't use for pages (the `.md` files) - GitHub doesn't support them properly (it
 Links to pages
 -------------
 
-Use standard markdown links: `[Text](link)` (e.g. `[Back to index](Home)` to get [Back to index](Home))
+Use standard markdown links: `[Text](link)` (e.g. `[Back to main page](Home)` to get [Back to main page](Home))
 
  - Don't prefix `link` with either `../link` or `/link` - both break on GitHub. Using `./link` seems to work ok but is unnecessary since we have to put everything in root anyway.
 

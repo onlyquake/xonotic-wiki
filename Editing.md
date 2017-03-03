@@ -12,7 +12,7 @@ Interestingly, spaces in filenames and links seem to work fine for both GitHub a
 Subdirectories
 --------------
 
-It's ok (and preferred) to put images and other assets into subdirectories but we have to **put pages (the `.md` files) in root** becuase GitHub doesn't support subdirs properly (it flattens everything - this can cause collisions, plus there is no way to link from subdir to another subdir that works on both GitLab and GitHub).
+It's ok (and preferred) to put images and other assets into subdirectories but we have to **put pages in root** becuase GitHub doesn't support subdirs properly (it flattens everything - this can cause collisions, plus there is no way to link from subdir to another subdir that works on both GitLab and GitHub).
 
 Links to pages
 -------------

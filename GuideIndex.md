@@ -12,7 +12,7 @@ and to differentiate them from developer resources in the wiki index.
 [GuideIndex](GuideIndex)
 
 1.  [GuideGetStarted](Getting started)
-    *   System Requirements (if we can come up with some. link to [Hardware_Requirements](Hardware_Requirements)?)
+    *   System Requirements (if we can come up with some. link to [Hardware_Requirements](Hardware-Requirements)?)
     *   Download the game (git, autobuild, release version links and procedures explained)
     *   Setup (name, playerskin, network parameters — the basics)
     *   Singleplayer / Campaign

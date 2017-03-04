@@ -36,5 +36,5 @@ Basic controls for 3d view (although we havn’t put anything in it yet, so its 
 
 \<\< [mapping-Setup](mapping-Setup) 2 [mapping-FirstRoom](mapping-FirstRoom) \>\>
 
-… [Creating_Maps](Creating_Maps) …
+… [Creating_Maps](Creating-Maps) …
 

@@ -47,5 +47,5 @@ When you first start up radiant it may ask where the install location is. Simply
 
 \<\< [mapping-Introduction](mapping-Introduction) 1 [mapping-NetRadiant](mapping-NetRadiant) \>\>
 
-… [Creating_Maps](Creating_Maps) …
+… [Creating_Maps](Creating-Maps) …
 

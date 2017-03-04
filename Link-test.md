@@ -1,5 +1,0 @@
-[Page link](Some-Page)
-[Url link](http://example.com)
-![Image](image_1.png)
-[![Image link to image](image_inner.png)](image_outer.png)
-[![Image link to page](image_inner.png)](Some-Page)

@@ -113,7 +113,7 @@ In this section you will find helpful information about editing Xonotic in gener
 
 ### Programming
 -   [Introduction to QuakeC](Introduction-to-QuakeC)
--   [DarkPlaces Wiki](index)
+-   [DarkPlaces Wiki](DarkPlaces-Index)
 -   [QuakeC Specifications v1.0](QuakeC-Wiki)
 -   [QuakeC tutorials](http://www.inside3d.com/tutorials.php) at inside3d.com
 -   [NewQC](NewQC) - Possible changes regarding QC (compiler, syntax, …)

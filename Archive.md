@@ -1,4 +1,4 @@
-A list of old pages that might still be relevant for some reason.
+A list of pages that are old or incomplete. Nothing else (on the wiki) links to them so I put them here before we decide what to do with them.
 
 [GuideIndex](GuideIndex)  
 [Bot](Bot)  

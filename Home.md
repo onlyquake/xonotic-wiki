@@ -172,4 +172,5 @@ In this section you will find helpful information about editing Xonotic in gener
 
 -   [Git repo structure](Git)
 -   [Forbidden disposable e-mail providers](Forbidden-disposable-email-providers)
+-   [Archive](Archive)
 -   [Gitlab Markdown Reference](https://gitlab.com/help/user/markdown.md) (for editing this wiki)

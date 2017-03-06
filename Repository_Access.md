@@ -129,7 +129,7 @@ Lists all the branches known for all the respective repositories.
 
     ./all compile
 
-Compiles the game, assuming that you have the required libs installed. Don't forget `-r` if you wanna actually play the game wit decent fps.
+Compiles the game, assuming that you have the required libs installed. Don't forget `-r` if you wanna actually play the game with decent fps.
 
     ./all checkout BRANCH
 

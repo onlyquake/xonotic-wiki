@@ -64,6 +64,8 @@ After that, you have a working checkout of the repository. The game can be compi
     ./all compile -r
     ./all run
 
+**Note:** if you encounter en error similar to darkplaces#111, try `./all clean && ./all compile -r -0`.
+
 You can use just `./all compile` to create a slower build with debug symbols but usually you want `-r`.
 
 The `./all run` line can be followed by one of `glx` (Linux native), `sdl` (input/sound managed by SDL), `agl` (OSX native), `wgl` (Windows native), or `dedicated` (for server hosting) to choose which executable to run or compile. Seen as follows:

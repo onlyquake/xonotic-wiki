@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Run in wiki root
+
 # Well, this wasn't supposed to be so long and complicated.
 # Anyway, it makes sure the wiki works on both Gitlab and Github by moving
 # stuff around and fixing links. Then it reports all remaining broken links

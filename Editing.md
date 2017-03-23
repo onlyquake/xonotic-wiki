@@ -22,3 +22,8 @@ Use standard markdown links: `[Text](link)` (e.g. `[Back to main page](Home)` to
  - Don't prefix `link` with either `../link` or `/link` - both break on GitHub. Using `./link` seems to work ok but is unnecessary since we have to put everything in root anyway.
 
 Links don't seem to be case sensitive but it's probably best to use proper capitalization just in case it breaks in some edge case somewhere. Also, spaces and dashes seem to be freely interchangeable on GH and GL but again, probably best to use dashes.
+
+Automated checking
+-------------------
+
+Neither GL not GH support red links (highlighting broken links) so there's a script in `assets/check-and-fix.py` that does it. You can run it in the wiki root to find broken stuff. It'll also move or rename files that don't follow the above guidelines, use `--dry-run` to prevent that.

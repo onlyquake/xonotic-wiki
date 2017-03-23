@@ -18,7 +18,7 @@ If you wish to contribute, see [Editing](Editing).
 
 ### Tutorials
 - [HALOGENE’S NEWBIE CORNER](Halogenes_Newbie_Corner) has rich information for beginners. **Must read!** You will enjoy the game more!
-- [Overkill Tutorial](Overkill_Tutorial)
+- [Overkill Tutorial](Overkill-Tutorial)
 
 ### Game Mechanics
 -   [Maps](Maps)
@@ -34,77 +34,77 @@ In Xonotic, game modes and game types mean the same thing -- different modes/typ
 
 The following modes are more popular ones:
 
--   [Capture the Flag](Gamemodes/Capture_the_Flag)
--   [Clan Arena](Gamemodes/Clan_Arena)
--   [Deathmatch](Gamemodes/Deathmatch)
--   [Duel](Gamemodes/Duel)
--   [Freeze Tag](Gamemodes/Freeze_Tag)
--   [Keepaway](Gamemodes/Keepaway)
--   [Key Hunt](Gamemodes/Key_Hunt)
--   [Race CTS](Gamemodes/Race_CTS)
--   [Team Deathmatch](Gamemodes/Team_Deathmatch)
+-   [Capture the Flag](Capture-the-Flag)
+-   [Clan Arena](Clan-Arena)
+-   [Deathmatch](Deathmatch)
+-   [Duel](Duel)
+-   [Freeze Tag](Freeze-Tag)
+-   [Keepaway](Keepaway)
+-   [Key Hunt](Key-Hunt)
+-   [Race CTS](Race-CTS)
+-   [Team Deathmatch](Team-Deathmatch)
 
 The following modes are available, although slightly less common than the above:
 
--   [Arena](Gamemodes/Arena)
--   [Assault](Gamemodes/Assault)
--   [Conquest](Gamemodes/Conquest)
--   [Domination](Gamemodes/Domination)
--   [Last Man Standing](Gamemodes/Last_Man_Standing)
--   [Nexball](Gamemodes/Nexball)
--   [Onslaught](Gamemodes/Onslaught)
--   [Race](Gamemodes/Race)
--   [Runematch](Gamemodes/Rune)
+-   [Arena](Arena)
+-   [Assault](Assault)
+-   [Conquest](Conquest)
+-   [Domination](Domination)
+-   [Last Man Standing](Last-Man-Standing)
+-   [Nexball](Nexball)
+-   [Onslaught](Onslaught)
+-   [Race](Race)
+-   [Runematch](Rune)
 
 #### Standard Mutators
 Mutators change the configuration of the game play, e.g. how weapon appears, which special weapons are availabale, or the physics in the game. This is usually set by the game admins who set up games for other players.  Standard Mutators are available in the game menu.
 
--   [Dodging](Mutators/Dodging)
--   [Midair](Mutators/Midair)
--   [Vampire](Mutators/Vampire)
--   [Blood Loss](Mutators/Blood_Loss)
--   [Low Gravity](Mutators/Low_Gravity)
--   [Cloak](Mutators/Cloak)
--   [Relics](Mutators/Relics)
--   [Weapon Arena](Mutators/Weapon_Arena)
--   [Grappling Hook](Mutators/Grappling_Hook)
--   [Jet Pack](Mutators/Jet_Pack)
--   [Rocket Flying](Mutators/Rocket_Flying)
--   [Pinata](Mutators/Pinata)
--   [Weapons Stay](Mutators/Weapons_Stay)
--   [InstaGib](Mutators/InstaGib)
--   [NIX](Mutators/NIX)
+-   [Dodging](Dodging)
+-   [Midair](Midair)
+-   [Vampire](Vampire)
+-   [Blood Loss](Blood-Loss)
+-   [Low Gravity](Low-Gravity)
+-   [Cloak](Cloak)
+-   [Relics](Relics)
+-   [Weapon Arena](Weapon-Arena)
+-   [Grappling Hook](Grappling-Hook)
+-   [Jet Pack](Jet-Pack)
+-   [Rocket Flying](Rocket-Flying)
+-   [Pinata](Pinata)
+-   [Weapons Stay](Weapons-Stay)
+-   [InstaGib](InstaGib)
+-   [NIX](NIX)
 
-#### [Special Servers](Special_Servers)
+#### [Special Servers](Special-Servers)
 
 #### [Mods](Mods)
 
 ### Misc
--   [Camera for demos explained](Recording/Demo_Camera)
--   [Xonotic Bot Orchestra](Xonotic_Bot_Orchestra)
--   [Impulse map](impulse_map)
+-   [Camera for demos explained](Demo-Camera)
+-   [Xonotic Bot Orchestra](Xonotic-Bot-Orchestra)
+-   [Impulse map](impulse-map)
 
 
 ## The Software
 -   [Repository Access](Repository_Access) (how to compile from git) (see also [Git repo structure](Git))
 -   [Privacy and Security](privacy-and-security)
--   [Hardware Requirements](Hardware_Requirements)
+-   [Hardware Requirements](Hardware-Requirements)
 
 ## Arts & Media
--   [Art Roadmap](Art_Roadmap)
--   [Artistic Style](Artistic_Style)
--   [Xonotic Logo](Planning/Logo/Logo)
--   [Maps Makeover](Planning/Maps_Makeover)
--   [Weapons Makeover](Planning/Weapons_Makeover)
-    -   [New weapon names discussion](Planning/NamesWeapons)
+-   [Art Roadmap](Art-Roadmap)
+-   [Artistic Style](Artistic-Style)
+-   [Xonotic Logo](Logo)
+-   [Maps Makeover](Maps-Makeover)
+-   [Weapons Makeover](Weapons-Makeover)
+    -   [New weapon names discussion](NamesWeapons)
 -   [2d art](2d art)
--   [Music](Audio/Music)
-    -   [Music contributions](Audio/Music_contributions)
--   [Sound FX](Audio/Sound_FX)
-    -   [Sound FX contributions](Audio/Sound_FX_contributions)
+-   [Music](Music)
+    -   [Music contributions](Music-contributions)
+-   [Sound FX](Sound-FX)
+    -   [Sound FX contributions](Sound-FX-contributions)
 -   Story Themes
-    -   [Close to home](Planning/Themes/Close_to_home)
-    -   [Tech Conglomerate](Planning/Themes/Tech_Conglomerate)
+    -   [Close to home](Close-to-home)
+    -   [Tech Conglomerate](Tech-Conglomerate)
 
 
 ## Editing
@@ -112,24 +112,24 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 In this section you will find helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping, etc
 
 ### Programming
--   [Introduction to QuakeC](QuakeC/Introduction_to_QuakeC)
--   [DarkPlaces Wiki](Darkplaces/index)
--   [QuakeC Specifications v1.0](QuakeC/QuakeC_Wiki)
+-   [Introduction to QuakeC](Introduction-to-QuakeC)
+-   [DarkPlaces Wiki](DarkPlaces-Index)
+-   [QuakeC Specifications v1.0](QuakeC-Wiki)
 -   [QuakeC tutorials](http://www.inside3d.com/tutorials.php) at inside3d.com
--   [NewQC](QuakeC/NewQC) - Possible changes regarding QC (compiler, syntax, …)
+-   [NewQC](NewQC) - Possible changes regarding QC (compiler, syntax, …)
 
-### [Modeling](Darkplaces/Modeling)
--   [Textures know-how](Modeling/Textures)
--   [Normal Maps know-how](Modeling/Normal_Maps)
+### [Modeling](Modeling)
+-   [Textures know-how](Textures)
+-   [Normal Maps know-how](Normal-Maps)
 -   [Polygon count](Polycounts) on Weapons and Models
--   [.framegroups](Modeling/framegroups) file (allow self playing animations) know-how
--   [.sounds](Voices_and_sounds) file (player model sounds) know-how
--   [How to compile dpm models](Modeling/dpmodel)
--   [How to make weapons](Modeling/Weaponsystem)
--   How to get an animated mesh from [Blender to DPM](Modeling/Blender_to_DPM)
+-   [.framegroups](framegroups) file (allow self playing animations) know-how
+-   [.sounds](Voices-and-sounds) file (player model sounds) know-how
+-   [How to compile dpm models](dpmodel)
+-   [How to make weapons](Weaponsystem)
+-   How to get an animated mesh from [Blender to DPM](Blender-to-DPM)
 -   [Inter-Quake Model (IQM) Format](http://sauerbraten.org/iqm/)
--   [Player Model Spec](Modeling/Player_Model_Spec)
--   [Blender to IQM](Modeling/Blender_to_IQM)
+-   [Player Model Spec](Player-Model-Spec)
+-   [Blender to IQM](Blender-to-IQM)
 
 ### Texturing
 -   Tutorials [1](http://www.cgtextures.com/content.php?action=tutorials)
@@ -139,27 +139,27 @@ In this section you will find helpful information about editing Xonotic in gener
 -   [Q3A Shader Manual](http://toolz.nexuizninjaz.com/shader/)
 
 ### Configuration
--   [Capturing video clips and using the demo camera](Recording/Democapture)
+-   [Capturing video clips and using the demo camera](Democapture)
 -   [Git](Git)
 
-### [Mapping](Mapping/Mapping)
--   [Creating Maps](Mapping/Creating_Maps)
--   [Mapper resources](Mapping/Mapper_resources)
+### [Mapping](Mapping)
+-   [Creating Maps](Creating-Maps)
+-   [Mapper resources](Mapper-resources)
 -   [Map naming convention](http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330)
 
 ## Project
 
 ### Team, Community, and Public Relations
--   [Organizational Structure](Organizational_Structure)
+-   [Organizational Structure](Organizational-Structure)
 -   [Roles and Skills](Roles) of contributing community members
--   [Community development](Community_development) planning
+-   [Community development](Community-development) planning
 -   [Public Relations](Pr)
 
 ### Plans
 -   Check out our [Project Plan](Plan) so far
--   [Website planning](Planning/Website)
--   Notes from brainstorming [ideas for names](Planning/names)
--   [Xonotic compatibility pack](Xonotic_compatibility_pack) a small pk3 that will rebrand a default Nexuiz install
+-   [Website planning](Website)
+-   Notes from brainstorming [ideas for names](names)
+-   [Xonotic compatibility pack](Xonotic-compatibility-pack) a small pk3 that will rebrand a default Nexuiz install
 
 ## Nexuiz-related
 
@@ -172,4 +172,5 @@ In this section you will find helpful information about editing Xonotic in gener
 
 -   [Git repo structure](Git)
 -   [Forbidden disposable e-mail providers](Forbidden-disposable-email-providers)
--   [Gitlab Markdown Reference](https://gitlab.com/help/markdown/markdown.md) (for editing this wiki)
+-   [Archive](Archive)
+-   [Gitlab Markdown Reference](https://gitlab.com/help/user/markdown.md) (for editing this wiki)

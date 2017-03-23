@@ -12,7 +12,7 @@ There are several types of vehicles in Xonotic. Some can fly, some can jump, som
 
 Vehicles are available in maps that support them, i.e. maps that have vehicle placed in them. The map makers, or the mappers, have to put vehicles in maps for players to play.
 
-Any standard servers support vehicles if they include maps with veheciles placed in them. [Some servers](Special_Servers) features only large maps for vehicles.
+Any standard servers support vehicles if they include maps with veheciles placed in them. [Some servers](Special-Servers) features only large maps for vehicles.
 
 [Unsealed Trial 3](http://dl.xonotic.co/unsealedtrial3-full-51eac9fbb6b2b8f3037ff242ef62a6f3698526f6-aff677d276411b4391becf801121abc211c7dcaa.pk3) is a map that supports all offical vehicles.
 
@@ -100,7 +100,7 @@ Its primary weapon is machine gun; the aiming direction is shown by the green re
 
 # Unofficial vehicles
 
-On [some servers](Special_Servers), one may find experiment vehicles that are not official, such as tanks, helicopters, jets, etc. Please post your opinions on them in [Xonotic Official Forums](http://forums.xonotic.org).
+On [some servers](Special-Servers), one may find experiment vehicles that are not official, such as tanks, helicopters, jets, etc. Please post your opinions on them in [Xonotic Official Forums](http://forums.xonotic.org).
 
 # Notes for mappers
 

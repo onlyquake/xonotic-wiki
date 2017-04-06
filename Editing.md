@@ -26,4 +26,4 @@ Links don't seem to be case sensitive but it's probably best to use proper capit
 Automated checking
 -------------------
 
-Neither GL not GH support red links (highlighting broken links) so there's a script in `assets/check-and-fix.py` that does it. You can run it in the wiki root to find broken links and unreachable files. It'll also move or rename files that don't follow the above guidelines, use `--dry-run` to prevent that (or you can just revert the changes with git).
+Neither GL not GH support red links (highlighting broken links) so there's a script in [`assets/check-and-fix.py`](assets/check-and-fix.py) that does it. You can clone the wiki and run it in the root to find broken links and unreachable files. It'll also move or rename files that don't follow the above guidelines, use `--dry-run` to prevent that (or you can just revert the changes with git).

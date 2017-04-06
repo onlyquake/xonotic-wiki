@@ -277,7 +277,7 @@ def find_unlinked(all_paths: List[str]):
 
     walk_links(canonical_to_real, is_linked, "Home.md")
 
-    for path, linked in is_linked.items():
+    for path, linked in sorted(is_linked.items()):
         if not linked:
             print("not reachable from Home: {}".format(path))
 

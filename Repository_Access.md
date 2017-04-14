@@ -87,6 +87,8 @@ To update your Git clone, you can repeat the commands above without the first â€
 
 **Note:** The compiled binary will have a faint watermark with the git revision. To remove it completely put `set menu_watermark ""` into your `autoexec.cfg`.
 
+**Note:** If you intend to play on public servers, you should probably also enable the nexcompat repo to download additional textures that are used on some older unofficial maps. Use `touch data/xonotic-nexcompat.pk3dir.yes` and `./all update`. For mappers: these textures should NOT be used on new maps.
+
 ***
 
 If you run into issues with the latest version you can easily revert to an older one. Since most bugs are caused by the game code rather that the engine, you just need to downgrade that repository. Inside the main xonotic repository, use `cd data/xonotic-data` and then `git checkout <some older commit>`. After that go back `cd -` and `./all compile` (with the optional `-r` flag).

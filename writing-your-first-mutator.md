@@ -111,3 +111,80 @@ to switch to vanilla Xonotic and type
     xonotic/data/xonotic-data.pk3dir$ git checkout Lyberta/HelloWorld
 
 to switch to your modded version.
+
+# Part 2: Variables
+
+## Printing to specific player's chat
+
+If you've tested your mutator with bots or other people, you may have noticed that `Hello world!` is being printed to everyone when any player spawns. Let's make it so it is only printed to the player that just spawned. For that we need to know the player entity. Thankfully, our hook has it, let's look at it again:
+
+    #define EV_PlayerSpawn(i, o) \
+    	/** player spawning */ i(entity, MUTATOR_ARGV_0_entity) \
+        /** spot that was used, or NULL */ i(entity, MUTATOR_ARGV_1_entity) \
+        /**/
+    MUTATOR_HOOKABLE(PlayerSpawn, EV_PlayerSpawn);
+
+As you can see, it has player entity as the variable at index 0. We can access it using `M_ARGV` macro.
+
+    entity player = M_ARGV(0, entity);
+
+And then we can use `PrintToChat` function.
+
+    MUTATOR_HOOKFUNCTION(helloworld, PlayerSpawn)
+    {
+    	entity player = M_ARGV(0, entity);
+    	PrintToChat(player, "Hello world!");
+    }
+
+## Greeting the player personally
+
+But we can do more, we can greet the player with their name. Player name is stored in the `netname` field of their entity. However, we also need to concatenate the `Hello` string with the player's name. We can use the `strcat` function to do this.
+
+    MUTATOR_HOOKFUNCTION(helloworld, PlayerSpawn)
+    {
+    	entity player = M_ARGV(0, entity);
+    	string greeting = strcat("Hello, ", player.netname);
+    	PrintToChat(player, greeting);
+    }
+
+Or, less verbose:
+
+    MUTATOR_HOOKFUNCTION(helloworld, PlayerSpawn)
+    {
+    	entity player = M_ARGV(0, entity);
+    	PrintToChat(player, strcat("Hello, ", player.netname));
+    }
+
+## Modifying hook variables
+
+`M_ARGV` macro can also be used to modify variables. For example, let's make our mutator double all damage. There is a `Damage_Calculate` hook:
+
+    #define EV_Damage_Calculate(i, o) \
+        /** inflictor  		*/ i(entity, MUTATOR_ARGV_0_entity) \
+        /** attacker    	*/ i(entity, MUTATOR_ARGV_1_entity) \
+        /** target    		*/ i(entity, MUTATOR_ARGV_2_entity) \
+        /** deathtype     	*/ i(float,  MUTATOR_ARGV_3_float) \
+        /** damage          */ i(float,  MUTATOR_ARGV_4_float) \
+        /** damage  		*/ o(float,  MUTATOR_ARGV_4_float) \
+        /** mirrordamage    */ i(float,  MUTATOR_ARGV_5_float) \
+        /** mirrordamage 	*/ o(float,  MUTATOR_ARGV_5_float) \
+        /** force           */ i(vector, MUTATOR_ARGV_6_vector) \
+        /** force 			*/ o(vector, MUTATOR_ARGV_6_vector) \
+        /**/
+    MUTATOR_HOOKABLE(Damage_Calculate, EV_Damage_Calculate);
+
+As you can see, there are a lot of variables, we need only `damage`. It has index 4.
+
+    MUTATOR_HOOKFUNCTION(helloworld, Damage_Calculate)
+    {
+    	float damage = M_ARGV(4, float);
+    	damage *= 2;
+		M_ARGV(4, float) = damage;
+    }
+
+Or less verbose:
+
+    MUTATOR_HOOKFUNCTION(helloworld, Damage_Calculate)
+    {
+    	M_ARGV(4, float) *= 2;
+    }

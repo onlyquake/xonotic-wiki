@@ -2,7 +2,7 @@
 
 Welcome to the official Xonotic wiki.
 
-If you wish to contribute, see [Contribute](Contribute).
+To contribute to this wiki document , see [Editing](Editing).
 
 ## Documentation, Communication and Social Networks
 -	[Official Website](http://xonotic.org)

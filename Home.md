@@ -2,7 +2,7 @@
 
 Welcome to the official Xonotic wiki.
 
-If you wish to contribute, see [Editing](Editing).
+If you wish to contribute, see [Contribute](Contribute).
 
 ## Documentation, Communication and Social Networks
 -	[Official Website](http://xonotic.org)
@@ -106,10 +106,18 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
     -   [Close to home](Close-to-home)
     -   [Tech Conglomerate](Tech-Conglomerate)
 
+## Server Administration
+### configuration
 
-## Editing
+### map hosting
 
-In this section you will find helpful information about editing Xonotic in general, let that be coding, texturing, modeling, mapping, etc
+### Troubleshooting
+
+-   [Performance](https://forums.xonotic.org/showthread.php?tid=7374&pid=80938#pid80938)
+
+## Contribute
+
+In this section you will find helpful information about development of the software Xonotic in general, let that be coding, texturing, modeling, mapping, etc
 
 ### Programming
 -   [Introduction to QuakeC](Introduction-to-QuakeC)

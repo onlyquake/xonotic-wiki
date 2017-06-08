@@ -78,9 +78,9 @@ Once you’re done turning, you can release the strafe key and press forward key
 
 It takes a while to get used to, but if you practice it, this goes into your cerebellum sooner or later (depending on your age, mostly) and then you’ll never think about it again! At that point you’ll be bunny hopping all over the place at high speed. Mastering this technique is very rewarding, since running around a map at high speed is a bunch of fun.
 
-Beyond this, advanced techniques known from other games as “strafe jumping” and “circle jumping” can also be used, however their impact is limited in vanilla gameplay. 
+Beyond this, advanced techniques known from other games as “strafe jumping” and “circle jumping” can also be used, however their impact is limited in vanilla gameplay.
 
-* * * 
+* * *
 > *Strafe jumping* is about gaining additional speed when bunny hopping forward. Essentially you hold forward + strafe and point a bit into the strafe direction while bunny hopping and you constantly increase the angle slowly. When strafe jumping for distances longer than 4 or 5 of hops , you will have to switch the strafe (and turn) direction as you gradually bend your path into the strafe direction so you don't hop in a straight line, and also the effect comes from bending your direction and at some point you reach an angle that does not grant any additional acceleration any more, so you have to start over with a fresh angle.
 
 > *Circle jumping* on the other hand is a technique used to gain extra speed out of the stand. It works only when you walk on the floor, so it's mainly used to gain a little extra speed before your first jump. That way of course you can reach farther distances with your first jump, as seen in Smilecythe's video about the [Mega Armor jumps on HUB](https://youtu.be/-SMJx1OIDgk "Youtube: Mega Armor Jumps on Hub"). For circle jumping, you utilize a mechanic that increases your walking speed beyond the maximum speed you can gain by pressing plain forward. If you have the speedometer enabled, you will see that you can gain more than 500qu/s if you press forward, strafe and turn in the strafe direction rather fast and steadily. So what people do is that they make a quick 90 degree or even 180 degree with only forward + strafe key pressed (no jumping), and then they start to bunny hop (and strafe jump). This way they can start off with a bit more speed than by just starting a bunny hop. This is why many experienced players start a bunny hop with that awkward swipe that looks like they try to swing their weapon at someone.
@@ -93,7 +93,7 @@ These are techniques which are essential for Xonotic race mode / CTS where serve
 Blaster Jumping
 -------------
 
-[![Blaster Jumping](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/blaster-jumping_thumb.png;h=548cfc7eaafbfa1e3e6c4279bca584c8875fd1bb;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/blaster-jumping.png;h=03aae64bfd8c93c878283346b73509b9784d9d55;hb=HEAD)
+[![Blaster Jumping](assets/images/blaster-jumping_thumb.png)](assets/images/blaster-jumping.png)
 
 Let’s now have a look at two important aspects of a very useful movement tool in Xonotic, the blaster! While dealing somewhat low damage, the blaster is one of the most important weapons in Xonotic. It’s projectile creates a blast upon impact on any surface or object that deals little damage to players being nearby, but pushes such players away from the impact spot. That way, the push force of the blaster projectile impact can be used to move both other players and yourself around. You can test this easily by standing and shooting at the ground below you with the blaster. You’ll notice that you get pushed up into the air by the blast. Now if you jump at the same time, you can get pushed even higher. If you get the timing right, you can get very high, like from the upper platform to the roof or from the fan to crylink on the map Xoylent.
 
@@ -104,7 +104,7 @@ You’ll have to experiment a bit with the timing of shooting and jumping to rel
 Wall Blastering
 -------------
 
-[![Wall Blastering](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/wall-blastering_thumb.png;h=c01a47494956521c34d1f00bdade6d8d97741148;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/wall-blastering.png;h=ee7399f540008cc55e47b787b1731dafd01c1379;hb=HEAD)
+[![Wall Blastering](assets/images/wall-blastering_thumb.png)](assets/images/wall-blastering.png)
 
 Now, when accelerating fast, you won’t always want to do that vertically. Some times the first few bunny hops are not fast enough to reach a place (or to get out of a place) in time. With the technique of wall blastering you can easily reach rather high horizontal speeds instantly, out of the stand.
 
@@ -264,7 +264,7 @@ Since we’ve now learned how to master Xonotic movement, it’s time to have a 
 
 ### Blaster
 
-[![Blaster](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Blaster_thumb.png;h=3f1b1483ee2595d09f727a744aa194d4558c8746;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Blaster.png;h=88f61ed55598d02bf66f81a6ba038488b9060db7;hb=HEAD)
+[![Blaster](assets/images/Blaster_thumb.png)](assets/images/Blaster.png)
 
 I already explained the blaster as versatile movement tool in [the Blaster Jumping Section](Halogenes_Newbie_Corner#blaster-jumping). Apart from moving yourself around, you can also use it for juggling around *other* players, irritating annyoing campers or generally messing with other people’s movement. Pushing people around or forcing a prolonged bunny hop can be especially effective on space maps. Unless shooting at sitting ducks (such as campers), you might want to aim at your target’s feet to make use of its splash damage, as the blaster projectile needs some time to travel even though it is rather fast, thus aiming directly at moving targets can be rather tricky.
 
@@ -272,7 +272,7 @@ The blaster does not eat any ammo. Secondary fire will switch to the previously 
 
 ### Shotgun
 
-[![Shotgun](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Shotgun_thumb.png;h=4469e8af26e80c20c7f8f3c5a72a7bffa51b05ef;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Shotgun.png;h=2bae9cd6cdd6f4edb7d775cee2a5eac416000e36;hb=HEAD)
+[![Shotgun](assets/images/Shotgun_thumb.png)](assets/images/Shotgun.png)
 
 The shotgun is your second spawn weapon. Primary fire is very powerful in close combat and, due to the bullets’ spread and being insta hit, a useful finishing weapon at medium range. Note that the push force of primary fire will slow down targets moving towards you, which can be very effective on space maps at spots where players are supposed to touch down from distant jump pads. If you shoot them with shotgun while they are still flying, they probably won’t make it to their usual landing spot.
 
@@ -280,7 +280,7 @@ The secondary fire mode allows you to swing the shotgun like a big trout and to 
 
 ### Machinegun
 
-[![Machinegun](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/MachineGun_thumb.png;h=9f4142fd5c333915cc5f3bdf21b6b2489cf4bc66;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/MachineGun.png;h=a8c45d91d3cb86aa997ccbb974f7be71c0121f00;hb=HEAD)
+[![Machinegun](assets/images/MachineGun_thumb.png)](assets/images/MachineGun.png)
 
 The machine gun’s (or “uzi’s”) primary fire has a high spread, so it’s useful mostly in close to medium range. Secondary fire has lower spread and shoots small bursts, which is more useful at medium to longer ranges. As the machine gun projectiles have a little push force and are fired rapidly, it can be quite useful for slowing down players that come at you at high speeds. In fact, it’s hard to get into slapping range of someone that has a steady aim as long as such player is firing the machine gun.
 
@@ -288,19 +288,19 @@ You’ll notice a ring around your crosshair that shows the depleting ammo. Once
 
 ### Mortar
 
-[![Mortar](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Mortar_thumb.png;h=2681b90a8b7c09ec5df5f8a98459d8659dab1da9;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Mortar.png;h=3ef33b913d38ea279e7d33769939e2d6a3fc0eea;hb=HEAD)
+[![Mortar](assets/images/Mortar_thumb.png)](assets/images/Mortar.png)
 
 (Note: Image is outdated, will provide image with new model soon) The mortar fires ballistic grenades which deal a lot of direct and splash damage in addition to pushing the player away from the impact. Whereas primary fire detonates upon impact, secondary fire detonates exactly 0.5 seconds after the first bounce of the grenade. With this knowledge you can time the detonation of secondary mortar. Mortar is a very effective weapon against any non-flying targets and to spam around corners.
 
 ### Electro
 
-[![Electro](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Electro_thumb.png;h=e0bf11a325cc7217fec01e1ad1fa007b1498577b;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Electro.png;h=286f91300764a32bbe0bf627e9bac48298e7d5ba;hb=HEAD)
+[![Electro](assets/images/Electro_thumb.png)](assets/images/Electro.png)
 
 The electro primary behaves like an ordinary rocket launcher as you might know it from other games. However, it’s not really useful for doing high jumps. The secondary fire mode looks like some ordinary sluggish grenade like balls, but has a not so obvious special function: if you detonate the up to three blobs the secondary fire mode can release with primary fire, they will explode with a big WOOOSH that deals a lot of direct and splash damage (around 130 dmg!). This makes the electro especially useful for blocking entries, releasing upon several opponents that are busy fighting each other or spamming where you predict someone to come. Note that you only have to directly hit the balls when trying to set it off mid-air. Otherwise the splash of the primary's impact on a surface nearby is sufficient to set off the combo-explosion. This means that you can even set it off through walls (shooting blobs around a corner and hitting wall with primary) or even mid-air (just shoot through where your blobs fall).
 
 ### Crylink
 
-[![Crylink](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Crylink_thumb.png;h=7be11952a5befb8f4156bbeacc0f3f3810b585c6;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Crylink.png;h=f2b8d273f2b2cf4289e6d649f21aae654caa997a;hb=HEAD)
+[![Crylink](assets/images/Crylink_thumb.png)](assets/images/Crylink.png)
 
 The crylink has a couple of very non-obvious features, which makes this weapon rather interesting and unique. First of all, due to negative (!) push force, getting hit by crylink particles will effectively slow you down very much, no matter of the direction you’re moving in in relation to the firing player. Even if you move at insane speeds, getting hit by several crylink particles at once will make you perform a full stop. This makes the crylink very popular amongst defending CTF players, as you can really annoy fast flag runners with it provided you manage to hit them.
 
@@ -316,7 +316,7 @@ It wouldn't be Xonotic if you couldn't use the unique negative push force for mo
 
 ### Vortex
 
-[![Vortex](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Vortex_thumb.png;h=d259752c08b1600df272c461126620c32294be63;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Vortex.png;h=d79f4796453c1cb4fe52c043e56614e9c5528631;hb=HEAD)
+[![Vortex](assets/images/Vortex_thumb.png)](assets/images/Vortex.png)
 
 In the hands of a player with a good aim the vortex is probably the most powerful weapon in the entire game. It fires a single beam with zero spread that will instantly hit anything in its way and will even shoot through other players. You’ll notice a small ring around the crosshair when holding the vortex in your hands. If the ring is full, the vortex is charged (and also starts to glow red). Charging happens automatically once you hold the weapon, and it does not cost any ammo. Upon firing, the vortex obviously discharges and starts to recharge unless you switch to another weapon (what you should do, but more about weapon combos [later](Halogenes_Newbie_Corner#weapon-comboing)). If charged, the vortex deals 80 dmg, if you shoot with it immediately again, it deals 64 dmg, minimum damage you can deal with vortex is 59 (if you switch to another weapon immediately after shooting and then shoot vortex immediately after reswitching to vortex, so it doesn’t have the refire time for recharging).
 
@@ -324,13 +324,13 @@ Secondary fire only zooms in, as the weapon is strong enough as it is even witho
 
 ### Hagar
 
-[![Hagar](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Hagar_thumb.png;h=167a816e95bd8dc642176a9123ab1ca9b4f84809;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Hagar.png;h=1fcb82965a53f1a3d5a6e0954c841a52564ae2e0;hb=HEAD)
+[![Hagar](assets/images/Hagar_thumb.png)](assets/images/Hagar.png)
 
 (Note: Image is outdated, will provide image with new model soon) The hagar rapidly fires small rockets, since 0.8.2 without spread. By holding secondary you can load up to 4 rockets that you can fire simultaneously in a three-tip-star formation by releasing secondary fire. If you hold secondary fire too long, hagar will make a little beep and automatically release the loaded rockets so you can’t run around the map and just keeping hagar loaded all the time until you find someone. Unloading hagar secondary can deal a lot of damage at close range, however you’ll need to watch out not to get killed yourself by the splash damage it does. The high splash makes this weapon quite useful against opponents standing next to a wall so the rockets that miss will at least do splash damage. Due to the removed spread compared to 0.8.1, hagar can now also be used on long distances effectively, with the travel time of the projectiles opening yet another bit of gameplay depth. On most competitive servers you’ll be able to discharge the hagar secondary without firing the rockets by pressing primary again while still holding secondary.
 
 ### Devastator
 
-[![Devastator](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Devastator_thumb.png;h=679694d40d29cf4ac0136dbb0f2aa36fd8a847e2;hb=HEAD)](http://de.git.xonotic.org/?p=xonotic/xonotic.wiki.git;a=blob_plain;f=assets/images/Devastator.png;h=d6d3cf66d3076e2ea830bfd5f884f2618f51e24d;hb=HEAD)
+[![Devastator](assets/images/Devastator_thumb.png)](assets/images/Devastator.png)
 
 (Note: Image is outdated, will provide image with new model soon) The devastator also has some very interesting features that are not very typical for this kind of weapon. First of all you can use the secondary fire to immediately detonate remotely any rocket you fired (provided of course it is still flying). No need to hit a flying target directly, just get the rocket near and, BAM, there you go. Apart from the high splash damage, the explosion also deals quite a lot of push force, so if you want to push some flying player off the map, devastator is your weapon of choice as you can not only push players away from you (push direction obviously depends on the explosion’s position in relation to the player).
 
@@ -546,4 +546,3 @@ Audio
 [![Audio](http://www.xonotic.org/m/uploads/2014/04/audio-thumb.png)](http://www.xonotic.org/m/uploads/2013/09/audio.png)
 
 Apart from all the visual stuff, you can of course also improve perception by adjusting the audio settings. While there is quite some remarkably good music in Xonotic, in-game music can distract you and predominate pickup or movement sounds that you might want to hear. The same goes for ambient sounds. Whereas these greatly add to the atmosphere of the game, they can prevent you from predicting where an opponent will come from, what the player’s approximate health status is and what is being picked up. So if you can do without the atmosphere, you might want to turn those off via the menu.
-

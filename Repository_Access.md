@@ -34,9 +34,15 @@ For **Archlinux** the dependencies can be installed via the following command:
 
 ### Windows
 
-By default, Windows has no real environment to handle the necessary scripting and compiling tools for building Xonotic. So, what we have to do is install something called [`msysgit`](https://github.com/msysgit/msysgit/releases) to allow us to have a similar environment as on Linux. In this case, we want the download which is entirely self contained (including **build-essentials** and other core required dependencies), which at the time of writing this is called `msysGit-netinstall-1.9.5-preview20150319.exe`. Simply follow the instructions on screen at this point. **NOTE: Unless you know what you’re doing, install with default settings/directories.**
+By default, Windows has no real environment to handle the necessary scripting and compiling tools for building Xonotic. So, what we have to do is install something called [`MSYS2`](http://www.msys2.org) to allow us to have a similar environment as on Linux. Download msys2-x86_64-xxxxxx.exe and follow installation instructions.
 
-Once you have completed the installation, you should be able to launch the msysgit shell by simply finding `msys.bat` - by default, it is located at `C:`, and you can use this shell to continue on with the guide and clone and compile the Xonotic repositories. It is recommended that you make a shortcut to msysgit (simply right click the shell and hit “Create Shortcut”) for easier access on your desktop or in your start menu.
+Once you have completed the installation, you should be able to launch the MSYS2 shell by running `mingw64_shell.bat` by default located at `C:\msys64`. Run mingw64_shell.bat and install the needed **dependencies** with this command:
+
+    pacman --needed -S git curl zip unzip p7zip make automake autoconf libtool gcc gmp-devel mingw-w64-x86_64-{toolchain,gmp,SDL2,libjpeg-turbo,libpng,libogg}
+
+It is recommended that you make a shortcut to mingw64 shell (simply right click the shell and hit “Create Shortcut”) for easier access on your desktop or in your start menu.
+
+You can now use this shell to continue on with the guide and clone the Xonotic repositories.
 
 ### Mac OSX
 
@@ -56,6 +62,10 @@ Making sure that your environment is set up properly, you can do the following t
     ./all update -l best
 
 Take care to do these steps as a **normal user** on Linux (not as superuser(aka root)), otherwise you’ll have to take care about the file permissions later on.
+
+For Windows users: once finished cloning move to the root repository (`cd xonotic`) and checkout the branch Mario/Win64 with the command:
+
+    git checkout -b Mario/win64 origin/Mario/win64
 
 The **git://** protocol uses port **9418**, which may be a problem if you’re behind a **strict firewall**. You may instead use the clone url http://git.xonotic.org/xonotic/xonotic.git (however, using the git protocol directly is preferred for performance reasons).
 

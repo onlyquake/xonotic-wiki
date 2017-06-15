@@ -68,7 +68,7 @@ LINK_REGEX = compile_regex("""
 """)
 
 
-dry_run = False
+fix = False
 
 
 def strip_header_link(link: str) -> str:
@@ -126,10 +126,10 @@ def fix_dir_structure():
 
         if os.path.exists(fixed):
             print("warning: collision: {}".format(path))
-        elif dry_run:
-            print("would rename {} to {}".format(path, fixed))
-        else:
+        elif fix:
             os.rename(path, fixed)
+        else:
+            print("would rename {} to {}".format(path, fixed))
 
 
 def is_between_files(link: str) -> bool:
@@ -180,15 +180,14 @@ def fix_links():
             changes = []
             replacer = functools.partial(replace_link, changes)
             contents_new = LINK_REGEX.sub(replacer, contents)
-            if dry_run and any(changes):
-                print("would convert these links in {}:".format(path))
-                for change in changes:
-                    print(change)
-
-            if not dry_run and contents != contents_new:
+            if fix and contents != contents_new:
                 f.seek(0)
                 f.write(contents_new)
                 f.truncate()
+            elif not fix and any(changes):
+                print("would convert these links in {}:".format(path))
+                for change in changes:
+                    print(change)
 
 
 def link_to_path(current_file: str, link: str) -> str:
@@ -289,9 +288,9 @@ def check_links():
 
 
 def main():
-    global dry_run
-    if len(sys.argv) > 1 and sys.argv[1] == "--dry-run":
-        dry_run = True
+    global fix
+    if len(sys.argv) > 1 and sys.argv[1] == "--fix":
+        fix = True
 
     # convert file paths - put everything into root
     fix_dir_structure()

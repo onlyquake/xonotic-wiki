@@ -199,7 +199,7 @@ def link_to_path(current_file: str, link: str) -> str:
     # when not using subdirs, nothing or "." works for all 3
 
     if link.startswith("..") or link.startswith("/"):
-        print("file: {} bad link: {}", link)
+        print("file: {} bad link: {}".format(current_file, link))
 
     # path relative to wiki root, not curent file
     current_dir = dirname(current_file)

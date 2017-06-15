@@ -4,10 +4,8 @@
 
 # Well, this wasn't supposed to be so long and complicated.
 # Anyway, it makes sure the wiki works on both Gitlab and Github by moving
-# stuff around and fixing links. Then it reports all remaining broken links
-# and unused files. Since the wiki is in git, you can use `git status`
-# and `git diff` to see the changes. You can also use the `--dry-run` flag
-# to print all changes the script would make without actually making them.
+# stuff around and fixing links. Then it reports all broken links
+# and unused files that can't be fixed automatically. By default it only prints changes it would make to stdout, if you wish to apply them, use `--fix`.
 
 # See Editing.md for more information.
 
@@ -68,7 +66,7 @@ LINK_REGEX = compile_regex("""
 """)
 
 
-fix = False
+apply_fixes = False
 
 
 def strip_header_link(link: str) -> str:
@@ -126,7 +124,7 @@ def fix_dir_structure():
 
         if os.path.exists(fixed):
             print("warning: collision: {}".format(path))
-        elif fix:
+        elif apply_fixes:
             os.rename(path, fixed)
         else:
             print("would rename {} to {}".format(path, fixed))
@@ -180,11 +178,11 @@ def fix_links():
             changes = []
             replacer = functools.partial(replace_link, changes)
             contents_new = LINK_REGEX.sub(replacer, contents)
-            if fix and contents != contents_new:
+            if apply_fixes and contents != contents_new:
                 f.seek(0)
                 f.write(contents_new)
                 f.truncate()
-            elif not fix and any(changes):
+            elif not apply_fixes and any(changes):
                 print("would convert these links in {}:".format(path))
                 for change in changes:
                     print(change)
@@ -288,9 +286,9 @@ def check_links():
 
 
 def main():
-    global fix
+    global apply_fixes
     if len(sys.argv) > 1 and sys.argv[1] == "--fix":
-        fix = True
+        apply_fixes = True
 
     # convert file paths - put everything into root
     fix_dir_structure()

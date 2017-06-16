@@ -36,7 +36,7 @@ For **Archlinux** the dependencies can be installed via the following command:
 
 By default, Windows has no real environment to handle the necessary scripting and compiling tools for building Xonotic. So, what we have to do is install something called [`MSYS2`](http://www.msys2.org) to allow us to have a similar environment as on Linux. Download msys2-x86_64-xxxxxx.exe and follow installation instructions.
 
-Once you have completed the installation, you should be able to launch the MSYS2 shell by running `mingw64_shell.bat` by default located at `C:\msys64`. Run mingw64_shell.bat and install the needed **dependencies** with this command:
+Once you have completed the installation, launch the MSYS2 shell by running `mingw64.exe` (instead of the default msys2.exe) by default located at `C:\msys64` and install the needed **dependencies** with this command:
 
     pacman --needed -S git curl zip unzip p7zip make automake autoconf libtool gcc gmp-devel mingw-w64-x86_64-{toolchain,gmp,SDL2,libjpeg-turbo,libpng,libogg}
 

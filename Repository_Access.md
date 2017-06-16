@@ -40,7 +40,7 @@ Once you have completed the installation, launch the MSYS2 shell by running `min
 
     pacman --needed -S git curl zip unzip p7zip make automake autoconf libtool gcc gmp-devel mingw-w64-x86_64-{toolchain,gmp,SDL2,libjpeg-turbo,libpng,libogg}
 
-It is recommended that you make a shortcut to mingw64 shell (simply right click the shell and hit “Create Shortcut”) for easier access on your desktop or in your start menu.
+It is recommended that you make a shortcut to MSYS2 MINGW64 shell (simply right click mingw64.exe and hit “Create Shortcut”) for easier access on your desktop or in your start menu.
 
 You can now use this shell to continue on with the guide and clone the Xonotic repositories.
 

@@ -5,6 +5,8 @@ The official version is on [GitLab](https://gitlab.com/xonotic/xonotic/wikis/hom
 Filenames
 ---------
 
+For pages, capitalize at least the first letter of the filename (GitHub doesn't capitalize titles automatically).
+
 Use dashes in page names, not underscores - dashes get converted to spaces in page titles so we have a nice title on every page. Some pages might have underscores in names for historical reasons - they already have many outside links (from forums, etc.) pointing to them.
 
 Interestingly, spaces in filenames and links seem to work fine for both GitHub and GitLab, not sure if they break somewhere else, it might still be best to avoid them.

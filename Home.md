@@ -1,13 +1,14 @@
 # Xonotic Wiki
 
-Welcome to the official Xonotic wiki. If you wish to contribute, see [Editing](Editing).
+Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 
-## Documentation, Communication and Social Networks
--	[Official Website](http://xonotic.org)
-	-	[Official Forums](http://forums.xonotic.org) are a lively place for Xonotic players to discuss anything.
-	-	[Xonotic game stats](http://stats.xonotic.org/) shows useful statistics information about servers, players, scores, maps, etc.
--	You are looking at the [official wiki](https://gitlab.com/xonotic/xonotic/wikis/home).
+-	You are looking at the [official wiki](https://gitlab.com/xonotic/xonotic/wikis/home) or it's [mirror](https://github.com/xonotic/xonotic/wiki).
 	-	[Unofficial wiki](http://xonotic.wikia.com/wiki/Xonotic_Wiki) may contain dated but still helpful information.
+
+-	[Website](http://xonotic.org)
+	-	[Forums](http://forums.xonotic.org) are a lively place for Xonotic players to discuss anything.
+	-	[Xonotic game stats](http://stats.xonotic.org/) shows useful statistics information about servers, players, scores, maps, etc.
+
 -	[IRC channels](Channels) are where most players ask/answer questions, exchange ideas, organize game events, etc. in **real time**. You can even chat with players in the game.
 -	[Facebook](https://www.facebook.com/xonotic/)
 -	[Twitter](https://twitter.com/xonotic)

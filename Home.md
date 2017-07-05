@@ -105,6 +105,9 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
     -   [Tech Conglomerate](Tech-Conglomerate)
 
 ## Server Administration
+### Tutorials
+-   [Local test server on GNU/Linux](local-test-server-on-gnu-linux)
+
 ### configuration
 
 ### map hosting

@@ -3,7 +3,7 @@
 Overkill Tutorial
 =================
 
-Overkill is a Xonotic mod focusing on fast movement, fewer but more powerful weapons, nades and respawning near team mates.
+Overkill is a Xonotic mod defined by fast movement, fewer but more powerful weapons, nades and respawning near team mates.
 
 To excel at Overkill there are two things to practice: aim and speed. If you're feeling old or your reflexes aren't that good, don't despair, since speed is the more important of the two. Some of the best players focus on movement almost exclusively.
 

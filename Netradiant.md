@@ -28,6 +28,7 @@ Fixes include:
 Games supported by included game packs:
 -   [DarkPlaces](http://icculus.org/twilight/darkplaces/)
 -   [Nexuiz](http://www.alientrap.com/games/nexuiz/)
+-   [Osirion](http://osirion.org/)
 -   [Quetoo](http://quetoo.org/)
 -   [Unvanquished](https://www.unvanquished.net/)
 -   [Warsow](http://www.warsow.net/)

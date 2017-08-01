@@ -27,9 +27,11 @@ Fixes include:
 
 Games supported by included game packs:
 -   [DarkPlaces](http://icculus.org/twilight/darkplaces/)
--   [Nexuiz](http://www.nexuiz.com/)
--   [Quake2World](http://www.quake2world.net/)
+-   [Nexuiz](http://www.alientrap.com/games/nexuiz/)
+-   [Quetoo](http://quetoo.org/)
+-   [Unvanquished](https://www.unvanquished.net/)
 -   [Warsow](http://www.warsow.net/)
+-   [Xonotic](http://xonotic.org/)
 
 For licensing reasons, no other game packs are included yet. Other games can very well be added into the default distribution, if their license is GPL compatible. However, for these games there are downloadable game packs that are likely to work inside NetRadiant (the links go to download locations for the packs):
 

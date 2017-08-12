@@ -170,7 +170,7 @@ Port-O-Launch
 -   Ammo:
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/6g8yj294nk92hxho9j7b.png) ![](http://pics.nexuizninjaz.com/images/6920poan8rfljg4k8t0w.jpg)
+![](http://pics.nexuizninjaz.com/images/ut32h62fxw63gw1pqcn.jpg) ![](http://pics.nexuizninjaz.com/images/6920poan8rfljg4k8t0w.jpg)
 
 Grappling Hook
 --------------

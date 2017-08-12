@@ -8,7 +8,7 @@ Blaster (aka Laser)
 -   Ammo: N\\A
 -   Function: Movement tool
 
-![](http://pics.nexuizninjaz.com/images/yg6mkbmqhxv2yt1u4338.png)
+![](http://pics.nexuizninjaz.com/images/a6uwt7jta7i7896ig8xq.png)
 
 Shotgun
 -------
@@ -107,7 +107,7 @@ Arc
 -   Ammo: Cells
 -   Function:
 
-![](-)
+![](http://pics.nexuizninjaz.com/images/tawgwqvlaiaxmqzhsdx7.png)
 
 Mine Layer
 ----------
@@ -134,7 +134,7 @@ Vaporizer (aka MinstaNex)
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/nx2x63v3vqk79ogqn5v.png)
+![](http://pics.nexuizninjaz.com/images/n150a0887mhmh2tjl512.png)
 
 Rifle
 ------------

@@ -1,7 +1,7 @@
 Weapons
 =======
 
-Laser
+Blaster (aka Laser)
 -----
 
 -   Impulse: 1/230
@@ -19,7 +19,7 @@ Shotgun
 
 ![](http://pics.nexuizninjaz.com/images/1brgz4kjmoynksdg4vup.png)
 
-Machine Gun
+MachineGun
 -----------
 
 -   Impulse: 3/232
@@ -55,7 +55,7 @@ Crylink
 
 ![](http://pics.nexuizninjaz.com/images/jz4xy9ek4viyoel2uacu.png)
 
-Nex
+Vortex (aka Nex)
 ---
 
 -   Impulse: 7/237
@@ -73,7 +73,7 @@ Hagar
 
 ![](http://pics.nexuizninjaz.com/images/2jbzvngj4y634113gj8.png)
 
-Rocket Launcher
+Devastator (aka Rocket Launcher)
 ---------------
 
 -   Impulse: 9/239
@@ -86,10 +86,28 @@ Rocket Launcher
 ------------
 
 -   Impulse: 1/244
--   Ammo:
+-   Ammo: N/A
 -   Function:
 
 ![](http://pics.nexuizninjaz.com/images/673qowxz0erl7robvlia.png)
+
+Shockwave
+----------
+
+-   Impulse: 2/248
+-   Ammo: N/A
+-   Function:
+
+![](-)
+
+Arc
+----------
+
+-   Impulse: 3/249
+-   Ammo: Cells
+-   Function:
+
+![](-)
 
 Mine Layer
 ----------
@@ -109,7 +127,7 @@ Heavy Laser Assault Cannon (HLAC)
 
 ![](http://pics.nexuizninjaz.com/images/dr80v378hbrcelukzqr.png)
 
-MinstaNex
+Vaporizer (aka MinstaNex)
 ---------
 
 -   Impulse: 7/241
@@ -118,7 +136,7 @@ MinstaNex
 
 ![](http://pics.nexuizninjaz.com/images/nx2x63v3vqk79ogqn5v.png)
 
-Sniper Rifle
+Rifle
 ------------
 
 -   Impulse: 7/245

@@ -190,7 +190,7 @@ Heavy Machine Gun (HMG)
 --------------
 
 -   Impulse:
--   Ammo:
+-   Ammo: N/A
 
 
 ![]() ![](http://pics.nexuizninjaz.com/images/52z87krpcqf0hp5r7we8.jpg)
@@ -199,7 +199,7 @@ Rocket Propelled Chainsaw (RPC)
 --------------
 
 -   Impulse:
--   Ammo:
+-   Ammo: N/A
 
 
 ![]() ![](http://pics.nexuizninjaz.com/images/32pv09r0pddyvzioog3g.jpg)

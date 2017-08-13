@@ -1,4 +1,4 @@
-Weapons
+Core Weapons
 =======
 
 Blaster (aka Laser)
@@ -82,7 +82,10 @@ Devastator (aka Rocket Launcher)
 
 ![](http://pics.nexuizninjaz.com/images/8pjbd0b1tc3uzhacafih.jpg) ![](http://pics.nexuizninjaz.com/images/d67rl1y76179orl3t9s.jpg)
 
-@\#!%’n Tuba
+Other Weapons (enabled with mutators)
+=======
+
+@\#!%'n Tuba
 ------------
 
 -   Impulse: 1/244
@@ -181,3 +184,23 @@ Grappling Hook
 
 ![](http://pics.nexuizninjaz.com/images/ndc9ijmd4hntegvy3hk.jpg) ![](http://pics.nexuizninjaz.com/images/by8v66xilbih4mj7l9k.jpg)
 
+Overkill Weapons
+=======
+
+Heavy Machine Gun (HMG)
+--------------
+
+-   Impulse:
+-   Ammo:
+-   Function:
+
+![]() ![](http://pics.nexuizninjaz.com/images/52z87krpcqf0hp5r7we8.jpg)
+
+Rocket Propelled Chainsaw (RPC)
+--------------
+
+-   Impulse:
+-   Ammo:
+-   Function:
+
+![]() ![](http://pics.nexuizninjaz.com/images/32pv09r0pddyvzioog3g.jpg)

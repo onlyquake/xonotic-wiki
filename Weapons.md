@@ -8,7 +8,7 @@ Blaster (aka Laser)
 -   Ammo: N\\A
 -   Function: Movement tool
 
-![](http://pics.nexuizninjaz.com/images/a6uwt7jta7i7896ig8xq.png)
+![](http://pics.nexuizninjaz.com/images/a6uwt7jta7i7896ig8xq.png) ![](http://pics.nexuizninjaz.com/images/et52lu44j7okoihhndn.jpg)
 
 Shotgun
 -------
@@ -35,7 +35,7 @@ Mortar
 -   Ammo: Rockets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/26qyg1cgr1z7e2kluukd.png)
+![](http://pics.nexuizninjaz.com/images/26qyg1cgr1z7e2kluukd.png) ![](http://pics.nexuizninjaz.com/images/2fnx84s2fa06clf2dc3.jpg)
 
 Electro
 -------
@@ -44,7 +44,7 @@ Electro
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/eltfaukszxd71m3pi2kc.png)
+![](http://pics.nexuizninjaz.com/images/eltfaukszxd71m3pi2kc.png) ![](http://pics.nexuizninjaz.com/images/2g0kkt5xla0rjqfwxjnu.jpg)
 
 Crylink
 -------
@@ -53,7 +53,7 @@ Crylink
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/jz4xy9ek4viyoel2uacu.png)
+![](http://pics.nexuizninjaz.com/images/jz4xy9ek4viyoel2uacu.png) ![](http://pics.nexuizninjaz.com/images/uy9p5w8bwlhm8b8k2mr.jpg)
 
 Vortex (aka Nex)
 ---
@@ -71,7 +71,7 @@ Hagar
 -   Ammo: Rockets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/2jbzvngj4y634113gj8.png)
+![](http://pics.nexuizninjaz.com/images/2jbzvngj4y634113gj8.png) ![](http://pics.nexuizninjaz.com/images/r8y92y1j27t7igp9hbje.jpg)
 
 Devastator (aka Rocket Launcher)
 ---------------
@@ -80,7 +80,7 @@ Devastator (aka Rocket Launcher)
 -   Ammo: Rockets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/9vljuqupv7szalqwi798.png)
+![](http://pics.nexuizninjaz.com/images/9vljuqupv7szalqwi798.png) ![](http://pics.nexuizninjaz.com/images/d67rl1y76179orl3t9s.jpg)
 
 @\#!%’n Tuba
 ------------
@@ -89,7 +89,7 @@ Devastator (aka Rocket Launcher)
 -   Ammo: N/A
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/673qowxz0erl7robvlia.png)
+![](http://pics.nexuizninjaz.com/images/673qowxz0erl7robvlia.png) ![](http://pics.nexuizninjaz.com/images/sxsmwgh7plcv7ivuacx.jpg)
 
 Shockwave
 ----------
@@ -98,7 +98,7 @@ Shockwave
 -   Ammo: N/A
 -   Function:
 
-![](-)
+![](http://pics.nexuizninjaz.com/images/1brgz4kjmoynksdg4vup.png) ![](http://pics.nexuizninjaz.com/images/wp0dmhpu9wr3dv75men.jpg)
 
 Arc
 ----------
@@ -107,7 +107,7 @@ Arc
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/tawgwqvlaiaxmqzhsdx7.png)
+![](http://pics.nexuizninjaz.com/images/tawgwqvlaiaxmqzhsdx7.png) ![](http://pics.nexuizninjaz.com/images/lkyzjkd5f6gx6wx33ahr.jpg)
 
 Mine Layer
 ----------
@@ -116,7 +116,7 @@ Mine Layer
 -   Ammo: Rockets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/igies4a96frnq13ms0io.png)
+![](http://pics.nexuizninjaz.com/images/igies4a96frnq13ms0io.png) ![](http://pics.nexuizninjaz.com/images/pl2srlpok02x8zu8kfe.jpg)
 
 Heavy Laser Assault Cannon (HLAC)
 ---------------------------------
@@ -125,7 +125,7 @@ Heavy Laser Assault Cannon (HLAC)
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/dr80v378hbrcelukzqr.png)
+![](http://pics.nexuizninjaz.com/images/dr80v378hbrcelukzqr.png) ![](http://pics.nexuizninjaz.com/images/d1ndvcydn97atrdjkrcg.jpg)
 
 Vaporizer (aka MinstaNex)
 ---------
@@ -143,7 +143,7 @@ Rifle
 -   Ammo: Bullets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/o2q11dsebh43sx4f1t9m.png)
+![](http://pics.nexuizninjaz.com/images/o2q11dsebh43sx4f1t9m.png) ![](http://pics.nexuizninjaz.com/images/ssg6hdtu38jn9yetz2.jpg)
 
 T.A.G. Seeker
 -------------
@@ -152,7 +152,7 @@ T.A.G. Seeker
 -   Ammo: Rockets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/za53df8ti47k1qno9oz.png)
+![](http://pics.nexuizninjaz.com/images/za53df8ti47k1qno9oz.png) ![](http://pics.nexuizninjaz.com/images/ckh0mg30by9deb9th46v.jpg)
 
 Fireball
 --------
@@ -161,7 +161,7 @@ Fireball
 -   Ammo: Fuel
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/mps4i1ih6ryvjuz6zyl3.png)
+![](http://pics.nexuizninjaz.com/images/mps4i1ih6ryvjuz6zyl3.png) ![](http://pics.nexuizninjaz.com/images/b9rz84cu63ph0vdr5x67.jpg)
 
 Port-O-Launch
 -------------
@@ -179,5 +179,5 @@ Grappling Hook
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/2mtx3inqu9cokwptc6d.png)
+![](http://pics.nexuizninjaz.com/images/2mtx3inqu9cokwptc6d.png) ![](http://pics.nexuizninjaz.com/images/by8v66xilbih4mj7l9k.jpg)
 

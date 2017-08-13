@@ -8,7 +8,7 @@ Blaster (aka Laser)
 -   Ammo: N\\A
 -   Function: Movement tool
 
-![](http://pics.nexuizninjaz.com/images/a6uwt7jta7i7896ig8xq.png) ![](http://pics.nexuizninjaz.com/images/et52lu44j7okoihhndn.jpg)
+![](http://pics.nexuizninjaz.com/images/50zb4clbm5omqz6y9iy6.jpg) ![](http://pics.nexuizninjaz.com/images/et52lu44j7okoihhndn.jpg)
 
 Shotgun
 -------
@@ -17,7 +17,7 @@ Shotgun
 -   Ammo: Shells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/1brgz4kjmoynksdg4vup.png)
+![](http://pics.nexuizninjaz.com/images/enzsrkxcf9mmbtp15437.jpg)
 
 MachineGun
 -----------
@@ -26,7 +26,7 @@ MachineGun
 -   Ammo: Bullets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/m0cpbtvdipgky4wb9x5h.png)
+![](http://pics.nexuizninjaz.com/images/5hadyah7vcqloo2d3bm.jpg)
 
 Mortar
 ------
@@ -35,7 +35,7 @@ Mortar
 -   Ammo: Rockets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/26qyg1cgr1z7e2kluukd.png) ![](http://pics.nexuizninjaz.com/images/2fnx84s2fa06clf2dc3.jpg)
+![](http://pics.nexuizninjaz.com/images/d87cqnfvw08fv904y7bx.jpg) ![](http://pics.nexuizninjaz.com/images/2fnx84s2fa06clf2dc3.jpg)
 
 Electro
 -------
@@ -44,7 +44,7 @@ Electro
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/eltfaukszxd71m3pi2kc.png) ![](http://pics.nexuizninjaz.com/images/2g0kkt5xla0rjqfwxjnu.jpg)
+![](http://pics.nexuizninjaz.com/images/rxki5yxvm5yspt13not.jpg) ![](http://pics.nexuizninjaz.com/images/2g0kkt5xla0rjqfwxjnu.jpg)
 
 Crylink
 -------
@@ -53,7 +53,7 @@ Crylink
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/jz4xy9ek4viyoel2uacu.png) ![](http://pics.nexuizninjaz.com/images/uy9p5w8bwlhm8b8k2mr.jpg)
+![](http://pics.nexuizninjaz.com/images/t39spy9kk5hvlxvudaqo.jpg) ![](http://pics.nexuizninjaz.com/images/uy9p5w8bwlhm8b8k2mr.jpg)
 
 Vortex (aka Nex)
 ---
@@ -62,7 +62,7 @@ Vortex (aka Nex)
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/7j9dkuwegz0h0ho5b0bk.png)
+![](http://pics.nexuizninjaz.com/images/5g812xez14wu6s117yhp.jpg)
 
 Hagar
 -----
@@ -71,7 +71,7 @@ Hagar
 -   Ammo: Rockets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/2jbzvngj4y634113gj8.png) ![](http://pics.nexuizninjaz.com/images/r8y92y1j27t7igp9hbje.jpg)
+![](http://pics.nexuizninjaz.com/images/16wj5v7e8p5stid5hp3w.jpg) ![](http://pics.nexuizninjaz.com/images/r8y92y1j27t7igp9hbje.jpg)
 
 Devastator (aka Rocket Launcher)
 ---------------
@@ -80,7 +80,7 @@ Devastator (aka Rocket Launcher)
 -   Ammo: Rockets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/9vljuqupv7szalqwi798.png) ![](http://pics.nexuizninjaz.com/images/d67rl1y76179orl3t9s.jpg)
+![](http://pics.nexuizninjaz.com/images/8pjbd0b1tc3uzhacafih.jpg) ![](http://pics.nexuizninjaz.com/images/d67rl1y76179orl3t9s.jpg)
 
 @\#!%’n Tuba
 ------------
@@ -89,7 +89,7 @@ Devastator (aka Rocket Launcher)
 -   Ammo: N/A
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/673qowxz0erl7robvlia.png) ![](http://pics.nexuizninjaz.com/images/sxsmwgh7plcv7ivuacx.jpg)
+![](http://pics.nexuizninjaz.com/images/lhd46626ynelcxxe0ydt.jpg) ![](http://pics.nexuizninjaz.com/images/sxsmwgh7plcv7ivuacx.jpg)
 
 Shockwave
 ----------
@@ -98,7 +98,7 @@ Shockwave
 -   Ammo: N/A
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/1brgz4kjmoynksdg4vup.png) ![](http://pics.nexuizninjaz.com/images/wp0dmhpu9wr3dv75men.jpg)
+![](http://pics.nexuizninjaz.com/images/enzsrkxcf9mmbtp15437.jpg) ![](http://pics.nexuizninjaz.com/images/wp0dmhpu9wr3dv75men.jpg)
 
 Arc
 ----------
@@ -107,7 +107,7 @@ Arc
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/tawgwqvlaiaxmqzhsdx7.png) ![](http://pics.nexuizninjaz.com/images/lkyzjkd5f6gx6wx33ahr.jpg)
+![](http://pics.nexuizninjaz.com/images/wnzvov3b9ifmkj3v3p5v.jpg) ![](http://pics.nexuizninjaz.com/images/lkyzjkd5f6gx6wx33ahr.jpg)
 
 Mine Layer
 ----------
@@ -116,7 +116,7 @@ Mine Layer
 -   Ammo: Rockets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/igies4a96frnq13ms0io.png) ![](http://pics.nexuizninjaz.com/images/pl2srlpok02x8zu8kfe.jpg)
+![](http://pics.nexuizninjaz.com/images/uwt4dre6rvjxuxbfcdis.jpg) ![](http://pics.nexuizninjaz.com/images/pl2srlpok02x8zu8kfe.jpg)
 
 Heavy Laser Assault Cannon (HLAC)
 ---------------------------------
@@ -125,7 +125,7 @@ Heavy Laser Assault Cannon (HLAC)
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/dr80v378hbrcelukzqr.png) ![](http://pics.nexuizninjaz.com/images/d1ndvcydn97atrdjkrcg.jpg)
+![](http://pics.nexuizninjaz.com/images/oqcqslhrebsuwamcbsr2.jpg) ![](http://pics.nexuizninjaz.com/images/d1ndvcydn97atrdjkrcg.jpg)
 
 Vaporizer (aka MinstaNex)
 ---------
@@ -134,7 +134,7 @@ Vaporizer (aka MinstaNex)
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/n150a0887mhmh2tjl512.png)
+![](http://pics.nexuizninjaz.com/images/8praunzsu37vutllk55.jpg) ![](http://pics.nexuizninjaz.com/images/vld5zxiwuys46zpygvo.jpg)
 
 Rifle
 ------------
@@ -143,7 +143,7 @@ Rifle
 -   Ammo: Bullets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/o2q11dsebh43sx4f1t9m.png) ![](http://pics.nexuizninjaz.com/images/ssg6hdtu38jn9yetz2.jpg)
+![](http://pics.nexuizninjaz.com/images/9kulqb3339ido0x9eqxx.jpg) ![](http://pics.nexuizninjaz.com/images/ssg6hdtu38jn9yetz2.jpg)
 
 T.A.G. Seeker
 -------------
@@ -152,7 +152,7 @@ T.A.G. Seeker
 -   Ammo: Rockets
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/za53df8ti47k1qno9oz.png) ![](http://pics.nexuizninjaz.com/images/ckh0mg30by9deb9th46v.jpg)
+![](http://pics.nexuizninjaz.com/images/uo9n5c224ws1e91c49d4.jpg) ![](http://pics.nexuizninjaz.com/images/ckh0mg30by9deb9th46v.jpg)
 
 Fireball
 --------
@@ -179,5 +179,5 @@ Grappling Hook
 -   Ammo: Cells
 -   Function:
 
-![](http://pics.nexuizninjaz.com/images/2mtx3inqu9cokwptc6d.png) ![](http://pics.nexuizninjaz.com/images/by8v66xilbih4mj7l9k.jpg)
+![](http://pics.nexuizninjaz.com/images/ndc9ijmd4hntegvy3hk.jpg) ![](http://pics.nexuizninjaz.com/images/by8v66xilbih4mj7l9k.jpg)
 

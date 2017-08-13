@@ -19,16 +19,19 @@ Afterslime
 [Keepaway] (Keepaway);
 [Key Hunt](Key Hunt);
 [Last Man Standing](Last Man Standing);
-[Team Deathmatch](Team Deathmatch)  
+[Team Deathmatch](Team Deathmatch)
+
 **Author**:
 [kuniu the frogg](http://forums.xonotic.org/member.php?action=profile&uid=184),
 [t0uYK8Ne](https://forums.xonotic.org/member.php?action=profile&uid=7921)
+
 **Description**: Medium sized indoor deathmatch map
 
 Atelier
 ----------
 
 [![](http://pics.nexuizninjaz.com/images/in5nbavw6wvt0ef88ro_thumb.jpg)](http://pics.nexuizninjaz.com/images/in5nbavw6wvt0ef88ro.jpg)
+
 **Gamemodes**:
 [Clan Arena](Clan Arena);
 [Deathmatch](Deathmatch);
@@ -38,16 +41,19 @@ Atelier
 [Key Hunt](Key Hunt);
 [Last Man Standing](Last Man Standing);
 [Team Deathmatch](Team Deathmatch)  
+
 **Author**:
 [ShadoW](https://forums.xonotic.org/member.php?action=profile&uid=1235),
 [Mirio](https://forums.xonotic.org/member.php?action=profile&uid=213),
 [Debugger](https://forums.xonotic.org/member.php?action=profile&uid=222)
+
 **Description**: Large map, well suited for team games
 
 Boil
 ----------
 
 [![](http://pics.nexuizninjaz.com/images/8le3zz7jtmed3nn0t2p_thumb.jpg)](http://pics.nexuizninjaz.com/images/8le3zz7jtmed3nn0t2p.jpg)
+
 **Gamemodes**:
 [Clan Arena](Clan Arena);
 [Deathmatch](Deathmatch);
@@ -55,10 +61,12 @@ Boil
 [Keepaway] (Keepaway);
 [Key Hunt](Key Hunt);
 [Last Man Standing](Last Man Standing);
-[Team Deathmatch](Team Deathmatch)  
+[Team Deathmatch](Team Deathmatch)
+ 
 **Author**:
 [kuniu the frogg](http://forums.xonotic.org/member.php?action=profile&uid=184),
 [Mirio](https://forums.xonotic.org/member.php?action=profile&uid=213)
+
 **Description**: Stay calm and watch how your enemy is boiling with anger. This is the moment you know you can beat them
 
 Catharsis

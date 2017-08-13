@@ -20,11 +20,9 @@ Afterslime
 [Key Hunt](Key Hunt);
 [Last Man Standing](Last Man Standing);
 [Team Deathmatch](Team Deathmatch)
-
 **Author**:
 [kuniu the frogg](http://forums.xonotic.org/member.php?action=profile&uid=184),
 [t0uYK8Ne](https://forums.xonotic.org/member.php?action=profile&uid=7921)
-
 **Description**: Medium sized indoor deathmatch map
 
 Atelier

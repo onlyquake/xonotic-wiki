@@ -5,7 +5,7 @@ Blaster (aka Laser)
 -----
 
 -   Impulse: 1/230
--   Ammo: N\A
+-   Ammo: N/A
 
 ![](http://pics.nexuizninjaz.com/images/50zb4clbm5omqz6y9iy6.jpg) ![](http://pics.nexuizninjaz.com/images/et52lu44j7okoihhndn.jpg)
 

@@ -16,7 +16,7 @@ Shotgun
 -   Ammo: Shells
 
 
-![](http://pics.nexuizninjaz.com/images/enzsrkxcf9mmbtp15437.jpg)
+![](http://pics.nexuizninjaz.com/images/enzsrkxcf9mmbtp15437.jpg) ![](http://pics.nexuizninjaz.com/images/n4mzdky7ifcfzcgydpg.png)
 
 MachineGun
 -----------
@@ -25,7 +25,7 @@ MachineGun
 -   Ammo: Bullets
 
 
-![](http://pics.nexuizninjaz.com/images/5hadyah7vcqloo2d3bm.jpg)
+![](http://pics.nexuizninjaz.com/images/5hadyah7vcqloo2d3bm.jpg) ![](http://pics.nexuizninjaz.com/images/8uepge2a3xqc30fs3562.png)
 
 Mortar
 ------
@@ -61,7 +61,7 @@ Vortex (aka Nex)
 -   Ammo: Cells
 
 
-![](http://pics.nexuizninjaz.com/images/5g812xez14wu6s117yhp.jpg)
+![](http://pics.nexuizninjaz.com/images/5g812xez14wu6s117yhp.jpg) ![](http://pics.nexuizninjaz.com/images/511ltxnzq7usrt6ml939.png)
 
 Hagar
 -----
@@ -163,7 +163,7 @@ Fireball
 -   Ammo: Fuel
 
 
-![](http://pics.nexuizninjaz.com/images/mps4i1ih6ryvjuz6zyl3.png) ![](http://pics.nexuizninjaz.com/images/b9rz84cu63ph0vdr5x67.jpg)
+![](http://pics.nexuizninjaz.com/images/v1mtkb5tqkg78y5x5zak.png) ![](http://pics.nexuizninjaz.com/images/b9rz84cu63ph0vdr5x67.jpg)
 
 Port-O-Launch
 -------------

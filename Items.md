@@ -32,7 +32,6 @@ Ammo
 |Shells  |  Bullets   |Cells  |  Rockets  |  Fuel |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|
 |![][shells]  |  ![][bullets]  |![][cells] |  ![][rockets]| ![][fuel]
-|:-----------:|:------------:|:------------:|:------------:|:------------:|
 |![][shells_luma]  |  ![][bullets_luma]  |![][cells_luma] |  ![][rockets_luma]| ![][fuel_luma]
 
 [shells]: http://pics.nexuizninjaz.com/images/q32119stqpps94ohxs.png

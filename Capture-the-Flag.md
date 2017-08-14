@@ -30,7 +30,7 @@ every 2 minutes). They can be useful tools to win a match!
 - [Binds](Binds) are useful to organize your team, e.g. to let them know if you are going to attack. There are several default binds on the Numpad.
 - There is always a yellow waypoint above your Flag Carrier (FC) with a bar that shows his health and obviously it shows his position. Especially if he is on very low health try to assist and help him to capture the flag.
 - Also there is a waypoint that shows where flags are dropped - you want to go there and get/return the flag
-- ![CTF guide by fisume][https://forums.xonotic.org/showthread.php?tid=2962]
+- ![CTF guide by fisume](https://forums.xonotic.org/showthread.php?tid=2962)
 
 ## HUD icons
 

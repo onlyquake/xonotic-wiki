@@ -34,11 +34,11 @@ every 2 minutes). They can be useful tools to win a match!
 
 ## HUD icons
 
-|Flag capture  |  You have the flag   |Player took a flag  |  Flag dropped  |  
+|Flag captured  |  You have the flag   |Player took a flag  |  Flag dropped  |  
 |:-----------:|:------------:|:------------:|:------------:|
-|![][ctf_capture]  |  ![][ctf_carry]  |![][ctf_taken] |  ![][ctf_dropped]| 
+|![][ctf_captured]  |  ![][ctf_carry]  |![][ctf_taken] |  ![][ctf_dropped]| 
 
-[ctf_capture]: http://pics.nexuizninjaz.com/images/5m3dpffikgq2qqod849c.png
+[ctf_captured]: http://pics.nexuizninjaz.com/images/5m3dpffikgq2qqod849c.png
 [ctf_carry]: http://pics.nexuizninjaz.com/images/d8b2jyvqkczu9w7c988.png
 [ctf_taken]: http://pics.nexuizninjaz.com/images/gx8vrgjwy1jn6need8tq.png
 [ctf_dropped]: http://pics.nexuizninjaz.com/images/4xdn5gmrwmh0zjjgcscl.png

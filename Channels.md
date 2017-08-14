@@ -6,70 +6,66 @@ IRC
 
 For a short introduction to IRC, [skip to the bottom of this page](Channels#general-irc-info-and-rules).
 
-### Quakenet (irc.quakenet.org:6667)
+### QuakeNet (irc.quakenet.org:6667) - https://webchat.quakenet.org/
 
     #xonotic           - General purpose channel
-    #xonotic.admins    - Channel for server admins
     #xonotic.cup       - Cup channel
-    #xonotic.duel      - Duel League channel
+    #xonotic.duel      - Duel servers (psyx, FPS, WTWRP, pacman)
     #xonotic.editing   - Channel for mapmakers, modelers, texturers, etc.
-    #xonotic.insta     - Insta channel
-    #xonotic.ninjaz    - Xonotic Ninjaz (former Nexuiz Ninjaz)
+    #xonotic.maps      - Channel for xonotic.co
     #xonotic.pickup    - Pickup channel
     #xonotic.translate - Channel to discuss translation issues
-    #xdf               - Xonotic DeFrag
 
-#### Country specific IRC channels
+#### Country/Region specific IRC channels
 
     #xonotic.au - Xonotic Australia
     #xonotic.de - Xonotic Germany
-    #xonotic.fi - Xonotic Finland
-    #xonotic.it - Xonotic Italy
-    #xonotic.ro - Xonotic Romania
+    #xonotic.fr - Xonotic France
+    #xonotic.na - Xonotic North America
     #xonotic.ru - Xonotic Russia
-    #xonotic.se - Xonotic Sweden
-    #xonotic.uk - Xonotic United Kingdom
 
 #### Clan channels
 
     #bot.xonotic         - BOT
     #cf.etqw             - Combat Folk
-    #conquerors          - Conquerors
-    #dbc                 - DodgingBullets
-    #dear                - dear
-    #deathmatchers       - Deathmatchers
+    #clanexe             - .exe
     #dietunichtguten     - Die Tunichtguten
-    #eatseakittens       - Eat Sea Kittens
     #evil.ant.colony     - Evil Ant Colony
-    #exile.xonotic       - eXiLe
     #lovers              - Lovers
-    #menintux            - Men in Tux
+    #kwestion            - Kwestion
     #mon.xonotic         - Monks of Nexuiz
     #nsb.nexuiz          - NSB - The Dyslexic Loser Mob
     #OHSNAP!             - OHSNAP!
     #pb.xonotic          - PeaceBrothers
-    #profoundvelocity    - Profound Velocity
-    #ps.xonotic          - Paradox Space
     #psyx                - Psychos of Xonotic
     #sh.nexuiz           - Shell
     #smb                 - Super Mario Brothers
     #smokebreak          - Smoke Break
-    #unconnected.xonotic - unconnected
+    #theregulars         - The Regulars
+    #uc.xonotic          - unconnected
+    #xonotic.butt        - BUTT
 
 #### Server channels
 
-    #dtg.ctf           - Die Tunichtguten server (Minsta CTF)
-    #esk.xonotic       - Eat Sea Kittens server (Minsta CTF)
-    #exile.xonotic.1v1 - eXiLe servers (Minstagib + Duel)
-    #hoctf             - House of CTF
+    #clanexe           - .exe servers
+    #dtg.ctf           - Die Tunichtguten server (Insta CTF)
+    #eac.xonotic       - Evil Ant Colony servers
+    #element.ctf       - LMNT servers
+    #jeff-xonotic      - Jeff servers
     #mon.sa            - LX' Overkill (formerly MoN servers (Overkill + Vehicle))
-    #wtwrp.ok          - WTWRP Overkill
-    #Prophets.Duel     - Prophets Minsta 1v1 server
+    #pac.xon           - WTWRP, FPS, pacman non-Duel servers
+    #Prophets.DM       - Prophets DM server
+    #Prophets.Duel     - Prophets Insta 1v1 server
     #Prophets.XDF      - Propehts DeFrag server
-    #uc.xon            - Unconnected servers
+    #regulars.servers  - More The Regulars servers
+    #smb.1v1           - HUB Duel servers
+    #theregulars       - The Regulars InstaGib server
+    #wtwrp.ok          - WTWRP Overkill
     #xdf               - Xonotic DeFrag server
+    #xonorun           - Gnom servers
+    #xonotic.smb       - SMB servers
 
-### FreeNode (chat.freenode.net:6667)
+### FreeNode (chat.freenode.net:6667) - https://webchat.freenode.net/
 
     #xonotic - Game developer channel. Non-development subjects should be directed to the main Xonotic channel on QuakeNet
 

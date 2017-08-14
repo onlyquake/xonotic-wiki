@@ -1,4 +1,4 @@
-Capture The Flag (CTF)
+Capture the Flag (CTF)
 ======================
 
 [![](http://pics.nexuizninjaz.com/images/zh1xq7e8jbjjwxk6ggh.jpg)](http://pics.nexuizninjaz.com/images/r9bwz58b2dli06rrqdsx.jpg)
@@ -71,7 +71,8 @@ These maps are often the same shape as rectangular maps, but have many different
 
 This is a non-linear map with a few detours and alternative routes to the bases. It tends to be a balanced level layout that offers a good deal of straightforwardness like a rectangular map with the variety of paths between bases like an ant hill map.
 
-**Maps**: Dance, Implosion, Vorix 
+**Maps**: Dance, Implosion, Vorix
+
 **Advantages**: Camping does not offer defense of the entire base so more offensive strategies must be used, leading to more dynamic game play. Positions are still apparent, making team organization easy  
 **Disadvantages**: Harder for new players due to more complicated routes to flags, slowing game play. Although laser walling resolves this problem.  
 

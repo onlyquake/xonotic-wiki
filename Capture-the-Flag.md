@@ -63,7 +63,7 @@ Maps with a straightforward, linear route from flag to flag. The map is typicall
 
 These maps are often the same shape as rectangular maps, but have many different paths to the bases. They are often enclosed or semi-enclosed, which makes the paths tunnel-like (hence, like an ant hill or a termite mound). For effective play, more attention must be given to the mini-map and and teammate communication than in an ordinary rectangular map.
 
-**Maps**: Courtfun, Catharsis, Running Man CTF  
+**Maps**: Catharsis, Courtfun, Running Man CTF  
 
 **Advantages**: Interesting game play, making confrontation with the enemy less frequent, bringing the game back to capture the flag. Deference is a little harder unless spawn points are in base.  
 **Disadvantages**: Carrier is easily hidden. Often resulting in a stalemates which slows game play. Players have to work all positions on the field to be successful. Game becomes very “chase to flag carrier through the tunnels”  

@@ -107,15 +107,14 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 ### Tutorials
 -   [Local test server on GNU/Linux](local-test-server-on-gnu-linux)
 
-### configuration
+### Configuration
 -   [Basic server configuration](basic-server-configuration)
 -   [Custom server votes](custom-server-votes)
 -   [Custom user directory](custom-user-directory)
 
-### map hosting
+### Map hosting
 
 ### Troubleshooting
-
 -   [Performance](https://forums.xonotic.org/showthread.php?tid=7374&pid=80938#pid80938)
 
 ## Contribute

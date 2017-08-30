@@ -106,6 +106,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 ## Server Administration
 ### Tutorials
 -   [Local test server on GNU/Linux](local-test-server-on-gnu-linux)
+-   [Custom user directory](custom-user-directory)
 
 ### configuration
 

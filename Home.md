@@ -110,6 +110,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 
 ### configuration
 -   [Basic server configuration](basic-server-configuration)
+-   [Custom server votes](custom-server-votes)
 
 ### map hosting
 

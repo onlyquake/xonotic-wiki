@@ -1,4 +1,4 @@
-This page explains basic server settings. During the start of the server, it searches for the `data/server.cfg` file and executes it. You need to create it inside your user directory (GNU/Linux default: `~/.xonotic/data/server.cfg`).
+During the start of the server, it searches for the `data/server.cfg` file and executes it. You need to create it inside [your user directory](http://www.xonotic.org/faq/#config).
 
 # Quick start
 Xonotic comes with an example configuration in `/server/server.cfg`. You can copy it into your user directory and simply edit it.

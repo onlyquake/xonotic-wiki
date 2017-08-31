@@ -441,7 +441,11 @@ It obviously is crucial to see what is happening around you. To increase the are
 
 [![Visible Players](http://www.xonotic.org/m/uploads/2014/04/forceplayers-double-thumb.png)](http://www.xonotic.org/m/uploads/2013/09/forceplayers-double.png)
 
-Most player models are really hard to spot, as they are optimized to look good and, to some extent, realistic. This means their textures are subject to the usual rendering procedures which calculate how much light from the surroundings will be reflected by the player models. Consequently, most models are hard to see in dark corners, and don’t have a strong contrast to the background in general. There is one model though that uses “fullbright” textures, which are always displayed at full brightness, and this is the “Mega Erebus”. Now there is a way to make every other player be displayed to you as “Mega Erebus” even if they selected a different model, and you can do that by selecting it for your own player and forcing your own model on everyone. This can be done via menu, but here’s the console command:
+Most player models are really hard to spot, as they are optimized to look good and, to some extent, realistic. This means their textures are subject to the usual rendering procedures which calculate how much light from the surroundings will be reflected by the player models. Consequently, most models are hard to see in dark corners, and don’t have a strong contrast to the background in general. There is one model though that uses “fullbright” textures, which are always displayed at full brightness, and this is the "Mega Erebus”. With 0.8.2, first steps were taken to add fullbright skins for each and every model, in the course of which the "Mega Erebus" got removed (a bit too early) from the model selection menu. As a consequence, you cannot select it via menu for the time being, so you'll have to use the console for that, as it's still available.
+
+    playermodel "models/player/megaerebus.iqm"
+
+Now there is a way to make every other player be displayed to you as “Mega Erebus” even if they selected a different model, and you can do that by selecting it for your own player and forcing your own model on everyone. This can be done via menu, but here’s the console command:
 
     cl_forceplayermodels 1
 

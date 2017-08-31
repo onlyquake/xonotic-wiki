@@ -288,9 +288,9 @@ You’ll notice a ring around your crosshair that shows the depleting ammo. Once
 
 ### Mortar
 
-[![Mortar](assets/images/Mortar_thumb.png)](assets/images/Mortar.png)
+[![Mortar](assets/images/Mortar_thumb.png)](/uploads/93f1ac02ce277908480bc953fafd5a16/Mortar.png)
 
-(Note: Image is outdated, will provide image with new model soon) The mortar fires ballistic grenades which deal a lot of direct and splash damage in addition to pushing the player away from the impact. Whereas primary fire detonates upon impact, secondary fire detonates exactly 0.5 seconds after the first bounce of the grenade. With this knowledge you can time the detonation of secondary mortar. Mortar is a very effective weapon against any non-flying targets and to spam around corners.
+The mortar fires ballistic grenades which deal a lot of direct and splash damage in addition to pushing the player away from the impact. Whereas primary fire detonates upon impact, secondary fire detonates exactly 0.5 seconds after the first bounce of the grenade. With this knowledge you can time the detonation of secondary mortar. Mortar is a very effective weapon against any non-flying targets and to spam around corners.
 
 ### Electro
 

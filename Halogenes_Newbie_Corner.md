@@ -288,7 +288,7 @@ You’ll notice a ring around your crosshair that shows the depleting ammo. Once
 
 ### Mortar
 
-[![Mortar](assets/images/Mortar_thumb.png)](/uploads/93f1ac02ce277908480bc953fafd5a16/Mortar.png)
+[![Mortar](/uploads/de93c9e5ab17eaeb078a588c29e7b175/Mortar-thumb.png)](/uploads/93f1ac02ce277908480bc953fafd5a16/Mortar.png)
 
 The mortar fires ballistic grenades which deal a lot of direct and splash damage in addition to pushing the player away from the impact. Whereas primary fire detonates upon impact, secondary fire detonates exactly 0.5 seconds after the first bounce of the grenade. With this knowledge you can time the detonation of secondary mortar. Mortar is a very effective weapon against any non-flying targets and to spam around corners.
 
@@ -324,15 +324,15 @@ Secondary fire only zooms in, as the weapon is strong enough as it is even witho
 
 ### Hagar
 
-[![Hagar](assets/images/Hagar_thumb.png)](assets/images/Hagar.png)
+[![Hagar](/uploads/2742ae22aeb5e5abc98bbb31adea67d3/Hagar-thumb.png)](/uploads/ef2ff2d57348dd661e4cfe4bb5777b04/Hagar.png)
 
-(Note: Image is outdated, will provide image with new model soon) The hagar rapidly fires small rockets, since 0.8.2 without spread. By holding secondary you can load up to 4 rockets that you can fire simultaneously in a three-tip-star formation by releasing secondary fire. If you hold secondary fire too long, hagar will make a little beep and automatically release the loaded rockets so you can’t run around the map and just keeping hagar loaded all the time until you find someone. Unloading hagar secondary can deal a lot of damage at close range, however you’ll need to watch out not to get killed yourself by the splash damage it does. The high splash makes this weapon quite useful against opponents standing next to a wall so the rockets that miss will at least do splash damage. Due to the removed spread compared to 0.8.1, hagar can now also be used on long distances effectively, with the travel time of the projectiles opening yet another bit of gameplay depth. On most competitive servers you’ll be able to discharge the hagar secondary without firing the rockets by pressing primary again while still holding secondary.
+The hagar rapidly fires small rockets, since 0.8.2 without spread. By holding secondary you can load up to 4 rockets that you can fire simultaneously in a three-tip-star formation by releasing secondary fire. If you hold secondary fire too long, hagar will make a little beep and automatically release the loaded rockets so you can’t run around the map and just keeping hagar loaded all the time until you find someone. Unloading hagar secondary can deal a lot of damage at close range, however you’ll need to watch out not to get killed yourself by the splash damage it does. The high splash makes this weapon quite useful against opponents standing next to a wall so the rockets that miss will at least do splash damage. Due to the removed spread compared to 0.8.1, hagar can now also be used on long distances effectively, with the travel time of the projectiles opening yet another bit of gameplay depth. On most competitive servers you’ll be able to discharge the hagar secondary without firing the rockets by pressing primary again while still holding secondary.
 
 ### Devastator
 
-[![Devastator](assets/images/Devastator_thumb.png)](assets/images/Devastator.png)
+[![Devastator](/uploads/7e6c49a82cc34f0d1efa2502a09d4df1/Devastator-thumb.png)](/uploads/6e5d3a1ae5fa2f3e269af0cb099e1086/Devastator.png)
 
-(Note: Image is outdated, will provide image with new model soon) The devastator also has some very interesting features that are not very typical for this kind of weapon. First of all you can use the secondary fire to immediately detonate remotely any rocket you fired (provided of course it is still flying). No need to hit a flying target directly, just get the rocket near and, BAM, there you go. Apart from the high splash damage, the explosion also deals quite a lot of push force, so if you want to push some flying player off the map, devastator is your weapon of choice as you can not only push players away from you (push direction obviously depends on the explosion’s position in relation to the player).
+The devastator also has some very interesting features that are not very typical for this kind of weapon. First of all you can use the secondary fire to immediately detonate remotely any rocket you fired (provided of course it is still flying). No need to hit a flying target directly, just get the rocket near and, BAM, there you go. Apart from the high splash damage, the explosion also deals quite a lot of push force, so if you want to push some flying player off the map, devastator is your weapon of choice as you can not only push players away from you (push direction obviously depends on the explosion’s position in relation to the player).
 
 But not enough, you can of course also use the devastator to push **yourself** around. If you happen to be flying and need some extra acceleration but there is no wall near to blaster yourself off, just shoot a rocket downwards and immediately detonate it. Yes, it hurts. A lot. But it might be worth it, be it to push you back onto the map if you are falling into the void or to prolong a blaster jump so you manage to reach a distant location. This technique is called “rocket flying”.
 

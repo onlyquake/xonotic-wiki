@@ -84,6 +84,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 
 ## The Software
 -   [Repository Access](Repository_Access) (how to compile from git) (see also [Git repo structure](Git))
+-   [Autobuilds](Autobuilds)
 -   [Privacy and Security](privacy-and-security)
 -   [Hardware Requirements](Hardware-Requirements)
 

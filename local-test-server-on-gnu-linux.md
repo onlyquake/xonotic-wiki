@@ -9,7 +9,6 @@ First you need to create a file called `~/.xonotic/data/server.cfg` with the fol
 ```
 sv_public 1
 hostname "My Test server"
-maxplayers 32
 ```
 
 This config creates a vanilla deathmatch server that will be visible to other players on the server list.

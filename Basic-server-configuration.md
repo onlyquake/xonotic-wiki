@@ -9,16 +9,25 @@ A minimal configuration would be this:
 ```
 sv_public 1
 hostname "My Test server"
-maxplayers 32
 ```
 
-It creates a server named "My Test server" that can handle 32 players and is visible on the master server. It will run deathmatch with default settings.
+It creates a server named "My Test server" that can handle 16 players and is visible on the master server. It will run deathmatch with default settings.
 
 # Basic settings
 ```
 sv_motd "Hi, this is my epic server"
 ```
 Specifies the "message of the day" which will be displayed to players when they connect or press the info button.
+
+```
+maxplayers 32
+```
+Specifies the maximum number of players on the server.
+
+```
+timelimit_override 20
+```
+Overrides the time limit for each map in minutes. 0 to play without limit, -1 to use the time limit specified by the map.
 
 ```
 port 26000

@@ -77,6 +77,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 #### [Mods](Mods)
 
 ### Misc
+-   [Handicap](handicap)
 -   [Camera for demos explained](Demo-Camera)
 -   [Xonotic Bot Orchestra](Xonotic-Bot-Orchestra)
 -   [Impulse map](impulse-map)

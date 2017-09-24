@@ -113,6 +113,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [Custom server votes](custom-server-votes)
 -   [Custom user directory](custom-user-directory)
 -   [The `info` command](https://forums.xonotic.org/showthread.php?tid=7474&pid=81277#pid81277)
+-   [Random start weapons](Random-start-weapons)
 
 ### Map hosting
 

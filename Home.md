@@ -71,6 +71,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [Weapons Stay](Weapons-Stay)
 -   [InstaGib](InstaGib)
 -   [NIX](NIX)
+-   [Dynamic handicap](dynamic-handicap)
 
 #### [Special Servers](Special-Servers)
 

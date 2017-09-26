@@ -7,4 +7,4 @@ sendcvar cl_handicap 1
 ```
 For obvious reasons, you can't set it to be less than 1.
 
-Forced handicap can be set by the server. For example, by [dynamic handicap](dynamic-handicap) mutator.
+Forced handicap can be set by the server and can be less than 1. For example, by [dynamic handicap](dynamic-handicap) mutator.

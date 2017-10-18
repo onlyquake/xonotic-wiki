@@ -31,7 +31,7 @@ def compile_regex(rgx: str):
     # regex (unlike re) supports non-constant length look-behinds
     return regex.compile(
         "".join(
-            [line.strip() for line in rgx]))
+            [line.lstrip() for line in rgx]))
 
 
 # examples:

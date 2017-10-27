@@ -1,6 +1,3 @@
-Maps
-====
-
 An unofficial up-to-date list containing almost all maps with a search feature and previews: [xonotic.co](http://xonotic.co/)
 
 Official Maps
@@ -548,7 +545,7 @@ Abyss
 
 **Description**: Large CTF arena
 
-*Revemoed in*: 0.8.1
+*Removed in*: 0.8.1
 
 G-23
 -----------
@@ -569,7 +566,7 @@ G-23
 
 **Description**: A small DM map with tight corridors
 
-*Revemoed in*: 0.8.2
+*Removed in*: 0.8.2
 
 Lightspeed
 -----------
@@ -584,7 +581,7 @@ Lightspeed
 
 **Description**: Very small, 1on1 CTF map. Key to survive: move as fast, as the speed of light!
 
-*Revemoed in*: 0.8.1
+*Removed in*: 0.8.1
 
 Newtonian Nightmare
 -----------
@@ -600,7 +597,7 @@ Newtonian Nightmare
 
 **Description**: The modified physics of this orbiting battleground is Sir Isaac's worst nightmare
 
-*Revemoed in*: 0.8.1
+*Removed in*: 0.8.1
 
 Red Planet
 -----------
@@ -626,4 +623,4 @@ Red Planet
 
 **Description**: A large facility on a red dusty planet
 
-*Revemoed in*: 0.8
+*Removed in*: 0.8

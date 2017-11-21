@@ -1,7 +1,7 @@
 Repository Access and Compiling
 ===============================
 
-Xonotic uses [several Git repositories](Git). The `all` in the main repository manages them, builds Xonotic and runs it. Each repo can also contain feature branches next to the stable “master” branch, check them out for WIP features.
+Xonotic uses [several Git repositories](Git). The `all` script in the main repo manages them, builds Xonotic and runs it. Each repo can also contain feature branches next to the stable `master` branch, check them out for WIP features.
 
 ***
 
@@ -18,9 +18,9 @@ Linux already is adequate for development, all we need are the **dependencies** 
 
     sudo apt-get install build-essential curl xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl1.2-dev libsdl2-dev libsdl2-image-dev libclalsadrv-dev libasound2-dev libxext-dev libjpeg-turbo8-dev git-core unzip wget zlib1g-dev
 
-Note: If using **i386** architecture, you can replace `libdsl1.2debian` with `libsdl1.2debian:i386` in the list above. On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories.
+Note: If using **i386** architecture, you can replace `libsdl1.2debian` with `libsdl1.2debian:i386` in the list above. On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories.
 
-For **Fedora** and other **RPM based** distro’s, compiling dependencies are as follows:
+For **Fedora** and other **RPM based** distros dependencies:
 
     x11-proto-devel libalsa2-static-devel libjpeg62-devel libjpeg62-static-devel libSDL2-devel
 

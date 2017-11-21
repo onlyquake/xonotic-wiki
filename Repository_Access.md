@@ -1,28 +1,24 @@
 Repository Access and Compiling
 ===============================
 
-Xonotic uses several Git repositories. There’s a helper script in the main repository to aid in checking out all relevant repositories and help you with building and running Xonotic.
-The repository also contains several branches next to the stable “master” branch. So if you’re interested in the progress of a certain feature, or want to help or create a new one, you can checkout the appropriate branch.
-For information on how to obtain write access, skip down to the “[Getting write access](Repository_Access#contributing-and-getting-write-access)” section.
-
-For more information about the project's structure, see [git](Git).
+Xonotic uses [several Git repositories](Git). The `all` in the main repository manages them, builds Xonotic and runs it. Each repo can also contain feature branches next to the stable “master” branch, check them out for WIP features.
 
 ***
 
 Setting up the development environment
 --------------------------------------
 
-The first thing you must do in order to begin with development is to set up your system to be able to download and compile the Xonotic game data. Make sure you have enough memory to compile. 1GB is likely to fail. Consider setup the environment to have at least 2G free memory for the job.
+You first need tools to download and compile the Xonotic game data. Make sure you have at least 2 GB memory to compile.
 
 ### Linux
 
-Linux already has an adequate base for development, all we really need to do here is to install the **dependencies** for the download/compilation process and then we can move right along to cloning the data.
+Linux already is adequate for development, all we need are the **dependencies** for the download/compilation process and then we can clone the data.
 
 **Ubuntu Dependencies** (independent package `x11-proto-devel` dependencies fill the rest of the Debian package dependencies):
 
-    sudo apt-get install build-essential xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl1.2-dev libsdl2-dev libsdl2-image-dev libclalsadrv-dev libasound2-dev libxext-dev libjpeg-turbo8-dev git-core unzip wget zlib1g-dev
+    sudo apt-get install build-essential curl xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl1.2-dev libsdl2-dev libsdl2-image-dev libclalsadrv-dev libasound2-dev libxext-dev libjpeg-turbo8-dev git-core unzip wget zlib1g-dev
 
-Note: If using **i386** architecture, you can replace `libdsl1.2debian` with `libsdl1.2debian:i386` in the list above. On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories. To be able to download maps from game servers when using Xonotic for online gaming, you will also need `curl` installed on your system.
+Note: If using **i386** architecture, you can replace `libdsl1.2debian` with `libsdl1.2debian:i386` in the list above. On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories.
 
 For **Fedora** and other **RPM based** distro’s, compiling dependencies are as follows:
 
@@ -48,28 +44,24 @@ You can now use this shell to continue on with the guide and clone the Xonotic r
 
 You must first install **XCode** which comes on your installation DVD or can be downloaded from the Apple website. This package provides tools like **Git and GCC**, which are needed for successful checkout and compilation of Xonotic. Some versions of XCode come with Git and others don’t - if you don’t have Git after installing XCode get it here: [XCode installer](http://sourceforge.net/projects/git-osx-installer/files/)
 
-After your development environment is all set up, you can continue on to cloning the git repository and compiling Xonotic.
-
 ***
 
 Cloning the repository and compiling
 ------------------------------------
 
-Making sure that your environment is set up properly, you can do the following to begin downloading and compilation (execute the first line only to download):
+To begin downloading:
 
-    git clone git://git.xonotic.org/xonotic/xonotic.git
+    git clone git://git.xonotic.org/xonotic/xonotic.git  # download main repo
     cd xonotic
-    ./all update -l best
-
-Take care to do these steps as a **normal user** on Linux (not as superuser(aka root)), otherwise you’ll have to take care about the file permissions later on.
-
-For Windows users: once finished cloning move to the root repository (`cd xonotic`) and checkout the branch Mario/Win64 with the command:
-
-    git checkout -b Mario/win64 origin/Mario/win64
+    ./all update -l best  # download all other repos (data + game logic, maps, etc.)
 
 The **git://** protocol uses port **9418**, which may be a problem if you’re behind a **strict firewall**. You may instead use the clone url http://git.xonotic.org/xonotic/xonotic.git (however, using the git protocol directly is preferred for performance reasons).
 
-After that, you have a working checkout of the repository. The game can be compiled and run with the following commands:
+For Windows users: once finished cloning move to the main repository (`cd xonotic`) and checkout the branch Mario/Win64 with the command:
+
+    git checkout -b Mario/win64 origin/Mario/win64
+
+Now the game can be compiled and run with the following commands:
 
     ./all compile -r
     ./all run
@@ -78,17 +70,13 @@ After that, you have a working checkout of the repository. The game can be compi
 
 You can use just `./all compile` to create a slower build with debug symbols but usually you want `-r`.
 
-The `./all run` line can be followed by one of `glx` (Linux native), `sdl` (input/sound managed by SDL), `agl` (OSX native), `wgl` (Windows native), or `dedicated` (for server hosting) to choose which executable to run or compile. Seen as follows:
-
-    ./all compile -r dedicated
-    ./all run wgl
-    ./all run sdl
+The `./all run` or `./all compile` line can be followed by one of `glx` (Linux native), `sdl` (input/sound managed by SDL), `agl` (OSX native), `wgl` (Windows native), or `dedicated` (for server hosting) to choose which executable to run or compile. E.g. `./all compile -r dedicated`.
 
 The `run` command can also be followed by standard DarkPlaces commandline arguments:
 
     ./all run +vid_fullscreen 0
 
-To update your Git clone, you can repeat the commands above without the first “git clone” line- And don’t forget to compile after you update- Like this:
+To update your Git clone:
 
     cd xonotic
     ./all checkout
@@ -112,7 +100,7 @@ A condition for write (push) access is that you agree that any code or data you 
 \* data/qcsrc/warpzonelib - dual licensed as “GPLv2 or later” or MIT license.
 In case the code you pushed was not written by you, it is your responsibility to ensure proper licensing.
 
-To apply for write access, make an issue of type “Support” in the category “Repository” and attach your public SSH key to it. (Windows users: see the Windows section below for more on SSH keys)
+To apply for write access, add your SSH key to your GitLab account and ask for access in #xonotic on the FreeNode IRC channel.
 
 ### Windows/Linux/OS X
 
@@ -124,7 +112,7 @@ and follow the instructions that are shown. Be sure that you've done:
 
     ./all update -p
 
-After that, you can write to the repository using the usual git commands (commit, push).
+After that, you can write to the repositories using the usual git commands (commit, push, ...).
 
 Alternatively, you can use the helper script `all`.
 It supports the following commands:

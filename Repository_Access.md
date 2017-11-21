@@ -30,7 +30,7 @@ For **Fedora** and other **RPM based** distro’s, compiling dependencies are as
 
 For **Archlinux** the dependencies can be installed via the following command:
 
-    sudo pacman -S alsa-lib curl libjpeg-turbo libmodplug libpng libvorbis libxpm libxxf86dga libxxf86vm sdl2 unzip
+    sudo pacman -S alsa-lib curl libjpeg-turbo libmodplug libpng libvorbis libxpm libxxf86dga libxxf86vm sdl2 unzip wget
 
 ### Windows
 

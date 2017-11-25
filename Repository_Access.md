@@ -80,8 +80,8 @@ To update your Git clone:
 
     cd xonotic
     ./all checkout  # switch to main branch on all repos (usually master)
-    ./all update
-    ./all compile -r
+    ./all update  # pull and prune
+    ./all compile -r  # recompile what changed
 
 **Note:** The compiled binary will have a faint watermark with the git revision. To remove it completely put `set menu_watermark ""` into your `autoexec.cfg`.
 

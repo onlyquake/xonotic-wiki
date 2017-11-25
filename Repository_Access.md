@@ -79,7 +79,7 @@ The `run` command can also be followed by standard DarkPlaces commandline argume
 To update your Git clone:
 
     cd xonotic
-    ./all checkout
+    ./all checkout  # switch to main branch on all repos (usually master)
     ./all update
     ./all compile -r
 

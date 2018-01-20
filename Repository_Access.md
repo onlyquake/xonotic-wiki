@@ -89,7 +89,7 @@ To update your Git clone:
 
 ***
 
-If you run into issues with the latest version you can easily revert to an older one. Since most bugs are caused by the game code rather that the engine, you just need to downgrade that repository. Inside the main xonotic repository, use `cd data/xonotic-data` and then `git checkout <some older commit>`. After that go back `cd -` and `./all compile` (with the optional `-r` flag).
+If you run into issues with the latest version you can easily revert to an older one. Since most bugs are caused by the game code rather that the engine, you just need to downgrade that repository. Inside the main xonotic repository, use `cd data/xonotic-data.pk3dir` and then `git checkout <some older commit>`. After that go back `cd -` and `./all compile` (with the optional `-r` flag).
 
 ***
 
@@ -100,7 +100,7 @@ A condition for write (push) access is that you agree that any code or data you 
 \* data/qcsrc/warpzonelib - dual licensed as “GPLv2 or later” or MIT license.
 In case the code you pushed was not written by you, it is your responsibility to ensure proper licensing.
 
-To apply for write access, add your SSH key to your GitLab account and ask for access in #xonotic on the FreeNode IRC channel.
+To apply for write access, add your SSH key to your GitLab account and ask for access in #xonotic on the FreeNode IRC network or [request access](https://docs.gitlab.com/ce/user/group/index.html#request-access-to-a-group) using the GitLab interface.
 
 ### Windows/Linux/OS X
 

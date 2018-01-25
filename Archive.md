@@ -2,6 +2,7 @@ Historically interesting
 ------------------------
 
 [Irclog](Irclog) - log from IRC right after the fork  
+[Old-FAQ-questions](Old-FAQ-questions)
 
 Could be useful
 ---------------

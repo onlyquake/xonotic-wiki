@@ -43,7 +43,7 @@ The following modes are more popular ones:
 
 The following modes are available, although slightly less common than the above:
 
--   [Arena](Arena)
+-   [Arena](Arena) (removed)
 -   [Assault](Assault)
 -   [Conquest](Conquest)
 -   [Domination](Domination)
@@ -51,10 +51,9 @@ The following modes are available, although slightly less common than the above:
 -   [Nexball](Nexball)
 -   [Onslaught](Onslaught)
 -   [Race](Race)
--   [Runematch](Rune)
 
 #### Standard Mutators
-Mutators change the configuration of the game play, e.g. how weapon appears, which special weapons are availabale, or the physics in the game. This is usually set by the game admins who set up games for other players.  Standard Mutators are available in the game menu.
+Mutators change the configuration of the game play, e.g. how weapon appears, which special weapons are availabale, or the physics in the game. This is usually set by the game admins who set up games for other players. Standard Mutators are available in the game menu.
 
 -   [Dodging](Dodging)
 -   [Midair](Midair)
@@ -78,33 +77,14 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 #### [Mods](Mods)
 
 ### Misc
+-   [Autobuilds](Autobuilds)
+-   [Privacy and Security](privacy-and-security)
 -   [Handicap](handicap)
 -   [Camera for demos explained](Demo-Camera)
 -   [Xonotic Bot Orchestra](Xonotic-Bot-Orchestra)
 -   [Impulse map](impulse-map)
-
-
-## The Software
--   [Repository Access](Repository_Access) (how to compile from git) (see also [Git repo structure](Git))
--   [Autobuilds](Autobuilds)
--   [Privacy and Security](privacy-and-security)
 -   [Hardware Requirements](Hardware-Requirements)
 
-## Arts & Media
--   [Art Roadmap](Art-Roadmap)
--   [Artistic Style](Artistic-Style)
--   [Xonotic Logo](Logo)
--   [Maps Makeover](Maps-Makeover)
--   [Weapons Makeover](Weapons-Makeover)
-    -   [New weapon names discussion](NamesWeapons)
--   [2d art](2d art)
--   [Music](Music)
-    -   [Music contributions](Music-contributions)
--   [Sound FX](Sound-FX)
-    -   [Sound FX contributions](Sound-FX-contributions)
--   Story Themes
-    -   [Close to home](Close-to-home)
-    -   [Tech Conglomerate](Tech-Conglomerate)
 
 ## Server Administration
 ### Tutorials
@@ -122,9 +102,10 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 ### Troubleshooting
 -   [Performance](https://forums.xonotic.org/showthread.php?tid=7374&pid=80938#pid80938)
 
-## Contribute
 
-In this section you will find helpful information about development of the software Xonotic in general, let that be coding, texturing, modeling, mapping, etc
+## Development
+
+-   [Repository Access](Repository_Access) (how to compile from git) (see also [Git repo structure](Git))
 
 ### Programming
 -   [Introduction to QuakeC](Introduction-to-QuakeC)
@@ -163,6 +144,7 @@ In this section you will find helpful information about development of the softw
 -   [Mapper resources](Mapper-resources)
 -   [Map naming convention](http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330)
 
+
 ## Project
 
 ### Team, Community, and Public Relations
@@ -176,6 +158,23 @@ In this section you will find helpful information about development of the softw
 -   [Website planning](Website)
 -   Notes from brainstorming [ideas for names](names)
 -   [Xonotic compatibility pack](Xonotic-compatibility-pack) a small pk3 that will rebrand a default Nexuiz install
+
+### Arts & Media
+-   [Art Roadmap](Art-Roadmap)
+-   [Artistic Style](Artistic-Style)
+-   [Xonotic Logo](Logo)
+-   [Maps Makeover](Maps-Makeover)
+-   [Weapons Makeover](Weapons-Makeover)
+    -   [New weapon names discussion](NamesWeapons)
+-   [2d art](2d art)
+-   [Music](Music)
+    -   [Music contributions](Music-contributions)
+-   [Sound FX](Sound-FX)
+    -   [Sound FX contributions](Sound-FX-contributions)
+-   Story Themes
+    -   [Close to home](Close-to-home)
+    -   [Tech Conglomerate](Tech-Conglomerate)
+
 
 ## Nexuiz-related
 

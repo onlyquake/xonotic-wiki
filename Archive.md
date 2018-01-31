@@ -7,7 +7,7 @@ Historically interesting
 Could be useful
 ---------------
 
-[Modelling](Modelling) - idk how outdatedd this is  
+[Modeling-in-blender](Modeling-in-blender) - idk how outdatedd this is  
 [Server](Server) - TODO find a better place for this  
 
 Other

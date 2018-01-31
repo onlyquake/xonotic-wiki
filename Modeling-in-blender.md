@@ -1,6 +1,3 @@
-Modelling
-=========
-
 Blender when exporting to iqm
 -----------------------------
 

@@ -164,7 +164,6 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 ### General Info
 -   [Licensing / Legal](Legal)
 -   [Announcements](Announcements)
--   [About Xonotic and Nexuiz](Faq)
 
 ## References
 

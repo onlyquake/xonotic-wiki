@@ -1,6 +1,5 @@
   [Repository Access](Repository_Access)
-| [Frequently Asked Questions](Faq)
-| [QuakeC](Introduction-to-QuakeC) 
+| [QuakeC](Introduction-to-QuakeC)
 | [Git](Git)
 | [Art Roadmap](Art-Roadmap)
 | [Xonotic Logo](Logo)

@@ -79,6 +79,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [Privacy and Security](privacy-and-security)
 -   [Handicap](handicap)
 -   [Camera for demos explained](Demo-Camera)
+-   [Capturing video clips and using the demo camera](Democapture)
 -   [Xonotic Bot Orchestra](Xonotic-Bot-Orchestra)
 -   [Impulse map](impulse-map)
 -   [Hardware Requirements](Hardware-Requirements)
@@ -134,10 +135,6 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   Some [tips](http://forums.xonotic.org/showthread.php?tid=63&pid=445#pid445) by *FruitieX*
 -   [Q3A Shader Manual](http://toolz.nexuizninjaz.com/shader/)
 
-### Configuration
--   [Capturing video clips and using the demo camera](Democapture)
--   [Git](Git)
-
 ### [Mapping](Mapping)
 -   [Creating Maps](Creating-Maps)
 -   [Mapper resources](Mapper-resources)
@@ -160,8 +157,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
     -   [Tech Conglomerate](Tech-Conglomerate)
 
 
-## References
+## Misc
 
--   [Git repo structure](Git)
 -   [Archive](Archive)
 -   [Gitlab Markdown Reference](https://gitlab.com/help/user/markdown.md) (for editing this wiki)

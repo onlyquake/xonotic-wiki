@@ -4,7 +4,8 @@ The official version is on [GitLab](https://gitlab.com/xonotic/xonotic/wikis/hom
 
 - Try to keep things short and to the point
 - Avoid creating lists of stuff that people will need to keep up to date, it doesn't work
-- Don't duplicate information, there should be a single up-to-date source of truth, everytihng else should link to it
+- Don't duplicate information, there should be a single up-to-date source of truth, everything else should link to it
+    - Improve things instead of starting from scratch, if the previous author didn't finish, you're not likely to do better from scratch
     - Low hanging fruit: obliterate docs from `Docs/` subdirectory, move it to wiki, link to it instead
 
 
@@ -27,7 +28,7 @@ Use dashes in page names, not underscores - dashes get converted to spaces in pa
 
 Interestingly, spaces in filenames and links seem to work fine for both GitHub and GitLab, not sure if they break somewhere else, it might still be best to avoid them.
 
-It's ok (and preferred) to put images and other assets into subdirectories but we have to **put pages in root** becuase GitHub doesn't support subdirs properly (it flattens everything - this can cause collisions, plus there is no way to link from subdir to another subdir that works on both GitLab and GitHub).
+It's ok (and preferred) to put images and other assets into subdirectories but we have to **put pages in root** because GitHub doesn't support subdirs properly (it flattens everything - this can cause collisions, plus there is no way to link from subdir to another subdir that works on both GitLab and GitHub).
 
 
 Automated checking

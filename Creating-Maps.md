@@ -1,14 +1,6 @@
 Creating Maps
 =============
 
-This tutorial is incomplete … if you are looking for the old creating maps page … click on the link at the bottom of the page
-h2. This page is also being maintained by hutty … if you have an issue … or need a certain tutorial sooner … contact him on the forums
---------------------------------------------------------------------------------------------------------------------------------------
-
-So …
-you are interested in mapping …
-Hopefully this tutorial section will teach you most of what you need to know …
-
 Main Tutorial
 -------------
 
@@ -60,4 +52,3 @@ http://forums.xonotic.org -- the forums .
 
 [Old_Creating_Maps](Old-Creating-Maps)  
 [Français](Creation-de-cartes)  
-

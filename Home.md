@@ -116,7 +116,6 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 ### [Modeling](Modeling)
 -   [Textures know-how](Textures)
 -   [Normal Maps know-how](Normal-Maps)
--   [Polygon count](Polycounts) on Weapons and Models
 -   [.framegroups](framegroups) file (allow self playing animations) know-how
 -   [.sounds](Voices-and-sounds) file (player model sounds) know-how
 -   [How to compile dpm models](dpmodel)
@@ -127,8 +126,8 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [Blender to IQM](Blender-to-IQM)
 
 ### Texturing
--   Tutorials [1](http://www.cgtextures.com/content.php?action=tutorials)
--   [Recovering detailed normals from photo textures](http://www.cgtextures.com/content.php?action=tutorial&name=normalmap)
+-   [Tutorial](https://web.archive.org/web/20140328060504/http://www.cgtextures.com/content.php?action=tutorials)
+-   [Recovering detailed normals from photo textures](https://web.archive.org/web/20140730154028/http://www.cgtextures.com/content.php?action=tutorial&name=normalmap)
 -   [Hard Surface Texture Painting](http://forums.cgsociety.org/showthread.php?t=373024)
 -   Some [tips](http://forums.xonotic.org/showthread.php?tid=63&pid=445#pid445) by *FruitieX*
 -   [Q3A Shader Manual](http://toolz.nexuizninjaz.com/shader/)
@@ -136,7 +135,6 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 ### [Mapping](Mapping)
 -   [Creating Maps](Creating-Maps)
 -   [Mapper resources](Mapper-resources)
--   [Map naming convention](http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330)
 
 ### Arts & Media
 -   [Artistic Style](Artistic-Style)

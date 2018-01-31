@@ -3,10 +3,9 @@ NetRadiant - A Stabilized Q3 Map Editor
 
 ![](assets/images/netradiant.png)
 
--   [NetRadiant](NetRadiant)
--   [Download NetRadiant](Download NetRadiant)
--   [Additional map editor features](Additional map editor features)
--   [Additional map compiler features](Additional map compiler features)
+-   [Download NetRadiant](Download NetRadiant) (missing)
+-   [Additional map editor features](Additional map editor features) (missing)
+-   [Additional map compiler features](Additional map compiler features) (missing)
 -   [Complete list of entity keys](Complete-list-of-entity-keys)
 -   [Complete list of command line parameters](Complete-list-of-command-line-parameters)
 -   [Complete list of shader keywords](Complete-list-of-shader-keywords)
@@ -45,4 +44,3 @@ For licensing reasons, no other game packs are included yet. Other games can ver
 These packs are inclusion candidates if someone cleans them up of non-GPL content. Also, a GPL compatible Q3A pack would be highly appreciated.
 
 Note that ZeroRadiant game packs will *not* work.
-

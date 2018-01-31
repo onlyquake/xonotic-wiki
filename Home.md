@@ -24,9 +24,7 @@ Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 -   [Vehicles](Vehicles)
 -   [Weapons](Weapons)
 
-### Game Modes/Types/Mutators/Mods and Special Servers
-
-#### Game Modes (or Game Types)
+### Game Modes (or Game Types)
 In Xonotic, game modes and game types mean the same thing -- different modes/types have different goals to achieve in a game.
 
 The following modes are more popular ones:
@@ -52,7 +50,7 @@ The following modes are available, although slightly less common than the above:
 -   [Onslaught](Onslaught)
 -   [Race](Race)
 
-#### Standard Mutators
+### Standard Mutators
 Mutators change the configuration of the game play, e.g. how weapon appears, which special weapons are availabale, or the physics in the game. This is usually set by the game admins who set up games for other players. Standard Mutators are available in the game menu.
 
 -   [Dodging](Dodging)
@@ -72,9 +70,9 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [NIX](NIX)
 -   [Dynamic handicap](dynamic-handicap)
 
-#### [Special Servers](Special-Servers)
+### [Special Servers](Special-Servers)
 
-#### [Mods](Mods)
+### [Mods](Mods)
 
 ### Misc
 -   [Autobuilds](Autobuilds)

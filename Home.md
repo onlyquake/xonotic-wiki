@@ -151,12 +151,6 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [Community development](Community-development) planning
 -   [Public Relations](Pr)
 
-### Plans
--   Check out our [Project Plan](Plan) so far
--   [Website planning](Website)
--   Notes from brainstorming [ideas for names](names)
--   [Xonotic compatibility pack](Xonotic-compatibility-pack) a small pk3 that will rebrand a default Nexuiz install
-
 ### Arts & Media
 -   [Art Roadmap](Art-Roadmap)
 -   [Artistic Style](Artistic-Style)

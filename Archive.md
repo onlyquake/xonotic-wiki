@@ -2,6 +2,8 @@ Historically interesting
 ------------------------
 
 [Irclog](Irclog) - log from IRC right after the fork  
+[Plan](Plan) - what the original plan was after forking  
+[names](names) - Notes from brainstorming ideas for names  
 [Old-FAQ-questions](Old-FAQ-questions)
 
 Could be useful
@@ -23,3 +25,5 @@ A list of pages that are old or incomplete. Nothing else (on the wiki) links to 
 [GSoC-2011-ideas](GSoC-2011-ideas)  
 [Compiling-on-Windows](Compiling-on-Windows)  
 [Maps-Branches](Maps-Branches)  
+[Website](Website) - almost completely wrong now  
+[Xonotic compatibility pack](Xonotic-compatibility-pack)  

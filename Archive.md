@@ -3,10 +3,13 @@ A list of pages that are old or incomplete. Nothing else (on the wiki) links to 
 Maaaaybe historically interesting
 ---------------------------------
 
+Mostly stuff about the fork from nexuiz
+
 [Irclog](Irclog) - log from IRC right after the fork  
-[Plan](Plan) - what the original plan was after forking  
 [names](names) - Notes from brainstorming ideas for names  
 [Pr](Pr)  
+[Announcements](Announcements) - fork announcement  
+[Plan](Plan) - what the original plan was after forking  
 [Old-FAQ-questions](Old-FAQ-questions)
 
 Could be useful

@@ -104,6 +104,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 ## Development
 
 -   [Repository Access](Repository_Access) (how to compile from git) (see also [Git repo structure](Git))
+-   [Licensing / Legal](Legal)
 
 ### Programming
 -   [Introduction to QuakeC](Introduction-to-QuakeC)
@@ -158,12 +159,6 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
     -   [Close to home](Close-to-home)
     -   [Tech Conglomerate](Tech-Conglomerate)
 
-
-## Nexuiz-related
-
-### General Info
--   [Licensing / Legal](Legal)
--   [Announcements](Announcements)
 
 ## References
 

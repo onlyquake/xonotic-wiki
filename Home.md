@@ -142,15 +142,6 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [Mapper resources](Mapper-resources)
 -   [Map naming convention](http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330)
 
-
-## Project
-
-### Team, Community, and Public Relations
--   [Organizational Structure](Organizational-Structure)
--   [Roles and Skills](Roles) of contributing community members
--   [Community development](Community-development) planning
--   [Public Relations](Pr)
-
 ### Arts & Media
 -   [Art Roadmap](Art-Roadmap)
 -   [Artistic Style](Artistic-Style)
@@ -178,6 +169,5 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 ## References
 
 -   [Git repo structure](Git)
--   [Forbidden disposable e-mail providers](Forbidden-disposable-email-providers)
 -   [Archive](Archive)
 -   [Gitlab Markdown Reference](https://gitlab.com/help/user/markdown.md) (for editing this wiki)

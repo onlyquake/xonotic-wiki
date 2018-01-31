@@ -1,18 +1,20 @@
 A list of pages that are old or incomplete. Nothing else (on the wiki) links to them so I put them here before we decide what to do with them.
 
-Historically interesting
-------------------------
+Maaaaybe historically interesting
+---------------------------------
 
 [Irclog](Irclog) - log from IRC right after the fork  
 [Plan](Plan) - what the original plan was after forking  
 [names](names) - Notes from brainstorming ideas for names  
+[Pr](Pr)  
 [Old-FAQ-questions](Old-FAQ-questions)
 
 Could be useful
 ---------------
 
-[Modeling-in-blender](Modeling-in-blender) - idk how outdatedd this is  
-[Server](Server) - TODO find a better place for this  
+[Forbidden-disposable-email-providers](Forbidden-disposable-email-providers) - somebody uses this so might not wanna delete (got asked about it on irc when i moved it)
+[Modeling-in-blender](Modeling-in-blender) - idk how outdated this is  
+[Server](Server) - TODO find a better place for this info  
 
 Other
 -----
@@ -27,3 +29,6 @@ Other
 [Maps-Branches](Maps-Branches)  
 [Website](Website) - almost completely wrong now  
 [Xonotic compatibility pack](Xonotic-compatibility-pack)  
+[Organizational Structure](Organizational-Structure) - this is even more outdated then the page on our website :/  
+[Roles](Roles) - roles and skills of contributing community members - outdated list of stuff nobody kept of to date  
+[Community development](Community-development) - another outdated list  

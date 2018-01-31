@@ -2,13 +2,18 @@ If you want write access, please ask for it at [#xonotic on FreeNode](https://we
 
 The official version is on [GitLab](https://gitlab.com/xonotic/xonotic/wikis/home) but we also sync the wiki to [GitHub](https://github.com/xonotic/xonotic/wiki). Please, follow this guide when editing to make sure everything works properly on both.
 
+- Try to keep things short and to the point
+- Avoid creating lists of stuff that people will need to keep up to date, it doesn't work
+- Don't duplicate information, there should be a single up-to-date source of truth, everytihng else should link to it
+    - Low hanging fruit: obliterate docs from `Docs/` subdirectory, move it to wiki, link to it instead
+
 
 Links to pages
--------------
+--------------
 
 Use standard markdown links: `[Text](link)` (e.g. `[Back to main page](Home)` to get [Back to main page](Home))
 
- - Don't prefix `link` with either `../link` or `/link` - both break on GitHub. Using `./link` seems to work ok but is unnecessary since we have to put everything in root anyway.
+- Don't prefix `link` with either `../link` or `/link` - both break on GitHub. Using `./link` seems to work ok but is unnecessary since we have to put everything in root anyway.
 
 Links don't seem to be case sensitive but it's probably best to use proper capitalization just in case it breaks in some edge case somewhere. Also, spaces and dashes seem to be freely interchangeable on GH and GL but again, probably best to use dashes.
 

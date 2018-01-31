@@ -96,8 +96,6 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [The `info` command](https://forums.xonotic.org/showthread.php?tid=7474&pid=81277#pid81277)
 -   [Random start weapons](Random-start-weapons)
 
-### Map hosting
-
 ### Troubleshooting
 -   [Performance](https://forums.xonotic.org/showthread.php?tid=7374&pid=80938#pid80938)
 
@@ -141,13 +139,9 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [Map naming convention](http://alientrap.org/forum/viewtopic.php?f=2&t=2363&sid=4f8a9e06ada52255e98bdfa744ec6beb#p27330)
 
 ### Arts & Media
--   [Art Roadmap](Art-Roadmap)
 -   [Artistic Style](Artistic-Style)
 -   [Xonotic Logo](Logo)
--   [Maps Makeover](Maps-Makeover)
 -   [Weapons Makeover](Weapons-Makeover)
-    -   [New weapon names discussion](NamesWeapons)
--   [2d art](2d art)
 -   [Music](Music)
     -   [Music contributions](Music-contributions)
 -   [Sound FX](Sound-FX)

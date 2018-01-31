@@ -35,3 +35,4 @@ Other
 [Organizational Structure](Organizational-Structure) - this is even more outdated then the page on our website :/  
 [Roles](Roles) - roles and skills of contributing community members - outdated list of stuff nobody kept of to date  
 [Community development](Community-development) - another outdated list  
+[Art Roadmap](Art-Roadmap)  

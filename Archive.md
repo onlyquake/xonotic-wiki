@@ -1,3 +1,5 @@
+A list of pages that are old or incomplete. Nothing else (on the wiki) links to them so I put them here before we decide what to do with them.
+
 Historically interesting
 ------------------------
 
@@ -14,8 +16,6 @@ Could be useful
 
 Other
 -----
-
-A list of pages that are old or incomplete. Nothing else (on the wiki) links to them so I put them here before we decide what to do with them.
 
 [GuideIndex](GuideIndex)  
 [Bot](Bot)  

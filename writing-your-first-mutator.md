@@ -85,7 +85,7 @@ Now we need to build the QuakeC code. It is done using the `all` script:
 
 ## Step 6: Adjusting config files
 
-The last thing we need to do is to create our console variable `g_helloworld` in configuration file. The best file for it would be `defaultXonotic.cfg`. Mutator variables start around line 423:
+The last thing we need to do is to create our console variable `g_helloworld` in a configuration file. The best file for it would be `mutators.cfg`:
 
     set g_helloworld 0
 

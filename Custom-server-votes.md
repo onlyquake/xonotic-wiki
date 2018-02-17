@@ -12,15 +12,15 @@ Now players will be able to type `vcall bots` or `vcall nobots` which will start
 
 You can prefix the contents of an alias with `settemp` to make it be valid only for the current game. For example `alias nobots "settemp minplayers 0"`.
 
-Here's example that allows voting common server types assuming your `server.cfg` doesn't force them:
+Here's example that allows voting common server types assuming your `server.cfg` doesn't force them (you get infinite recursion if it does):
 
 ```
-alias vanilla "exec defaultXonotic.cfg; exec server.cfg; endmatch"
+alias vanilla "exec ruleset-xonotic.cfg; exec server.cfg; endmatch"
 addvote vanilla
 
-alias instagib "exec defaultXonotic.cfg; exec server.cfg; g_instagib 1; g_grappling_hook 1; endmatch"
+alias instagib "exec ruleset-xonotic.cfg; exec server.cfg; g_instagib 1; g_grappling_hook 1; endmatch"
 addvote instagib
 
-alias overkill "exec defaultOverkill.cfg; exec server.cfg; endmatch"
+alias overkill "exec ruleset-overkill.cfg; exec server.cfg; endmatch"
 addvote overkill
 ```

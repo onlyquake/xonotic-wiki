@@ -80,11 +80,10 @@ How-To’s
 **How to add a sound track to Xonotic?**
 
 -   Copy the track file to the `data/sound/cdtracks` folder
--   Add the name of the track (without the extension) at the end of the cvar `g_cdtracks_remaplist`, on the file `defaultXonotic.cfg`. Count all tracks and remember the position of the added one, this information will be used on the following step.
+-   Add the name of the track (without the extension) at the end of the cvar `g_cdtracks_remaplist`, in the file `xonotic-common.cfg`. Count all tracks and remember the position of the added one, this information will be used on the following step.
 -   Open the file `<name of map>.mapinfo` (on `data/xonotic-maps.pk3dir/maps`) and add a line with the text `cd loop x`. This `x` should be the position of the track within the cvar `g_cdtracks_remaplist`.
 
 **How to add a sound track to a non official map?**
 
 -   Copy the track to the folder `sound/cdtracks/` (inside the pk3 file)
 -   Open the file `<name of map>.mapinfo` and add a line with the text `cd loop <track filename>`
-

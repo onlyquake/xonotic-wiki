@@ -62,6 +62,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [Relics](Relics)
 -   [Weapon Arena](Weapon-Arena)
 -   [Grappling Hook](Grappling-Hook)
+-   [Offhand blaster](Offhand-blaster)
 -   [Jet Pack](Jet-Pack)
 -   [Rocket Flying](Rocket-Flying)
 -   [Pinata](Pinata)

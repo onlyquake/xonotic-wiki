@@ -12,7 +12,7 @@ Now players will be able to type `vcall bots` or `vcall nobots` which will start
 
 You can prefix the contents of an alias with `settemp` to make it be valid only for the current game. For example `alias nobots "settemp minplayers 0"`.
 
-You can create documentation for your votes by creating a cvars with `sv_vote_command_help_%VOTE_NAME%` pattern, for example:
+You can create documentation for your votes by creating cvars with the `sv_vote_command_help_%VOTE_NAME%` pattern, for example:
 
 ```
 set sv_vote_command_help_bots "\nUsage:^3 vcall bots\n^7  Adds some bots to the server."

@@ -157,7 +157,7 @@ Armor
 
 |Mega (100):  |  Big (50):   |Medium (25):  |  Small (5):  |  
 |:-----------:|:------------:|:------------:|:------------:|
-|![][a_mega]  |  ![][a_big]  |![][a_medium] |  ![][a_small]| 
+|![][a_mega]  |  ![][a_big]  |![][a_medium] |  ![][a_small]|
 
 [a_mega]: http://pics.nexuizninjaz.com/images/havtb83g2yglb201q84t.png
 [a_big]: http://pics.nexuizninjaz.com/images/jyi1aj1vx6rrrckx7zgt.png

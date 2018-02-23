@@ -16,7 +16,7 @@ Linux already is adequate for development, all we need are the **dependencies** 
 
 **Ubuntu Dependencies** (independent package `x11-proto-devel` dependencies fill the rest of the Debian package dependencies):
 
-    sudo apt-get install build-essential curl xserver-xorg-dev x11proto-xf86dri-dev x11proto-xf86dga-dev x11proto-xf86vidmode-dev libxxf86dga-dev libxcb-xf86dri0-dev libxpm-dev libxxf86vm-dev libsdl1.2-dev libsdl2-dev libsdl2-image-dev libclalsadrv-dev libasound2-dev libxext-dev libjpeg-turbo8-dev git-core unzip wget zlib1g-dev
+    sudo apt-get install autoconf build-essential curl git-core libasound2-dev libclalsadrv-dev libgmp-dev libjpeg-turbo8-dev libsdl1.2-dev libsdl2-dev libsdl2-image-dev libtool libxcb-xf86dri0-dev libxext-dev libxpm-dev libxxf86dga-dev libxxf86vm-dev p7zip-full unzip wget x11proto-xf86dga-dev x11proto-xf86dri-dev x11proto-xf86vidmode-dev xserver-xorg-dev zlib1g-dev
 
 Note: If using **i386** architecture, you can replace `libsdl1.2debian` with `libsdl1.2debian:i386` in the list above. On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories.
 

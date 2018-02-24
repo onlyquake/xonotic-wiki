@@ -14,8 +14,8 @@ Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 ## Gameplay
 
 ### Tutorials
-- [HALOGENE’S NEWBIE CORNER](Halogenes_Newbie_Corner) has rich information for beginners. **Must read!** You will enjoy the game more!
-- [Overkill Tutorial](Overkill-Tutorial)
+- [HALOGENE’S NEWBIE CORNER](https://xonotic.org/guide/) has rich information for beginners. **Must read!** You will enjoy the game more!
+- [Overkill Tutorial](https://xonotic.org/okguide/)
 
 ### Game Mechanics
 -   [Maps](Maps)

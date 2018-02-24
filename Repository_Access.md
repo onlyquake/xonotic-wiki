@@ -40,7 +40,7 @@ It is recommended that you make a shortcut to MSYS2 MINGW64 shell (simply right 
 
 You can now use this shell to continue on with the guide and clone the Xonotic repositories.
 
-### Mac OSX
+### MacOS
 
 You must first install **XCode** which comes on your installation DVD or can be downloaded from the Apple website. This package provides tools like **Git and GCC**, which are needed for successful checkout and compilation of Xonotic. Some versions of XCode come with Git and others don’t - if you don’t have Git after installing XCode get it here: [XCode installer](http://sourceforge.net/projects/git-osx-installer/files/)
 
@@ -70,7 +70,7 @@ Now the game can be compiled and run with the following commands:
 
 You can use just `./all compile` to create a slower build with debug symbols but usually you want `-r`.
 
-The `./all run` or `./all compile` line can be followed by one of `glx` (Linux native), `sdl` (input/sound managed by SDL), `agl` (OSX native), `wgl` (Windows native), or `dedicated` (for server hosting) to choose which executable to run or compile. E.g. `./all compile -r dedicated`.
+The `./all run` or `./all compile` line can be followed by one of `glx` (Linux native), `sdl` (input/sound managed by SDL), `agl` (macOS native), `wgl` (Windows native), or `dedicated` (for server hosting) to choose which executable to run or compile. E.g. `./all compile -r dedicated`.
 
 The `run` command can also be followed by standard DarkPlaces commandline arguments:
 

@@ -14,9 +14,13 @@ Make sure you have at least 2 GB memory to compile.
 
 **Ubuntu Dependencies**:
 
-    sudo apt-get install autoconf build-essential curl git-core libasound2-dev libclalsadrv-dev libgmp-dev libjpeg-turbo8-dev libsdl2-dev libsdl2-image-dev libtool libxcb-xf86dri0-dev libxext-dev libxpm-dev libxxf86dga-dev libxxf86vm-dev p7zip-full unzip wget x11proto-xf86dga-dev x11proto-xf86dri-dev x11proto-xf86vidmode-dev xserver-xorg-dev zlib1g-dev
+    sudo apt-get install autoconf build-essential curl git-core libtool libgmp-dev libjpeg-turbo8-dev libsdl2-dev libxpm-dev xserver-xorg-dev zlib1g-dev
 
 Note: On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories.
+
+Note: `curl` isn't required but it's strongly recommended for downloading maps when playing online.
+
+Note: `libasound2-dev libxext-dev libxxf86vm-dev p7zip-full unzip wget x11proto-xf86vidmode-dev` might be needed but are probably already installed. `libclalsadrv-dev libsdl2-image-dev libxcb-xf86dri0-dev libxxf86dga-dev x11proto-xf86dga-dev x11proto-xf86dri-dev` should no longer be needed. <!-- this was tested on kubuntu 18.04 so sorry if it's wrong but c(++) really needs to get its shit together, stop using headers and track dependencies using a package manager -->
 
 **Fedora** and other **RPM based** distro dependencies:
 

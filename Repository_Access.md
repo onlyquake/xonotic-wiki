@@ -14,11 +14,11 @@ You first need tools to download and compile the Xonotic game data. Make sure yo
 
 Linux already is adequate for development, all we need are the **dependencies** for the download/compilation process and then we can clone the data.
 
-**Ubuntu Dependencies** (independent package `x11-proto-devel` dependencies fill the rest of the Debian package dependencies):
+**Ubuntu Dependencies**:
 
-    sudo apt-get install autoconf build-essential curl git-core libasound2-dev libclalsadrv-dev libgmp-dev libjpeg-turbo8-dev libsdl1.2-dev libsdl2-dev libsdl2-image-dev libtool libxcb-xf86dri0-dev libxext-dev libxpm-dev libxxf86dga-dev libxxf86vm-dev p7zip-full unzip wget x11proto-xf86dga-dev x11proto-xf86dri-dev x11proto-xf86vidmode-dev xserver-xorg-dev zlib1g-dev
+    sudo apt-get install autoconf build-essential curl git-core libasound2-dev libclalsadrv-dev libgmp-dev libjpeg-turbo8-dev libsdl2-dev libsdl2-image-dev libtool libxcb-xf86dri0-dev libxext-dev libxpm-dev libxxf86dga-dev libxxf86vm-dev p7zip-full unzip wget x11proto-xf86dga-dev x11proto-xf86dri-dev x11proto-xf86vidmode-dev xserver-xorg-dev zlib1g-dev
 
-Note: If using **i386** architecture, you can replace `libsdl1.2debian` with `libsdl1.2debian:i386` in the list above. On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories.
+Note: On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories.
 
 For **Fedora** and other **RPM based** distros dependencies:
 

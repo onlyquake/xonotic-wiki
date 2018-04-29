@@ -8,7 +8,7 @@ Xonotic uses [several Git repositories](Git). The `all` script in the main repo 
 Setting up the development environment
 --------------------------------------
 
-You first need tools to download and compile the Xonotic game data. Make sure you have at least 2 GB memory to compile.
+Make sure you have at least 2 GB memory to compile.
 
 ### Linux
 

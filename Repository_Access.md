@@ -20,7 +20,7 @@ Note: On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in
 
 Note: `curl` isn't required but it's strongly recommended for downloading maps when playing online.
 
-Note: `libasound2-dev libxext-dev libxxf86vm-dev p7zip-full unzip wget x11proto-xf86vidmode-dev` might be needed but are probably already installed. `libclalsadrv-dev libsdl2-image-dev libxcb-xf86dri0-dev libxxf86dga-dev x11proto-xf86dga-dev x11proto-xf86dri-dev` should no longer be needed. <!-- this was tested on kubuntu 18.04 so sorry if it's wrong but c(++) really needs to get its shit together, stop using headers and track dependencies using a package manager -->
+Note: `libasound2-dev libxext-dev libxxf86vm-dev p7zip-full unzip wget x11proto-xf86vidmode-dev` might be needed but are probably already installed. `libclalsadrv-dev libsdl2-image-dev libxcb-xf86dri0-dev libxxf86dga-dev x11proto-xf86dga-dev x11proto-xf86dri-dev` should no longer be needed.
 
 **Fedora** and other **RPM based** distro dependencies:
 

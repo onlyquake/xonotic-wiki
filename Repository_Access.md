@@ -24,7 +24,7 @@ Note: `libasound2-dev libxext-dev libxxf86vm-dev p7zip-full unzip wget x11proto-
 
 **Fedora** and other **RPM based** distro dependencies:
 
-    x11-proto-devel libalsa2-static-devel libjpeg62-devel libjpeg62-static-devel libSDL2-devel
+    autoconf automake gcc-c++ gmp-devel libalsa2-static-devel libjpeg62-devel libjpeg-turbo-devel libjpeg62-static-devel libtool SDL2-devel x11-proto-devel
 
 **Archlinux** dependencies:
 

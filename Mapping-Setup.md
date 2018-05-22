@@ -37,7 +37,7 @@ This folder should also contain your `config.cfg`.
 
 When you first start up radiant it may ask where the install location is. Simply, point it to the install location. Then NetRadaint should start,and the lower right pane should have lists of texture packs. If there are no texture packs, then refer back to step 5.
 
-\<\< [Introduction](mapping-Introduction) 1 [NetRadiant](mapping-NetRadiant) \>\>
+\<\< [Introduction](mapping-Introduction) | [NetRadiant](mapping-NetRadiant) \>\>
 
 … [Creating_Maps](Creating-Maps) …
 

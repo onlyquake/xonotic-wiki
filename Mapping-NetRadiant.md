@@ -37,7 +37,7 @@ Basic controls for 3D view:
 -   `Shift+left mouse button drag` will add the objects in this box to the selection (or remove them if they're already selected)
 -   `backspace` will delete all selected objects
 
-\<\< [Setup](mapping-Setup) 2 [First Map](mapping-FirstMap) \>\>
+\<\< [Setup](mapping-Setup) | [First Map](mapping-FirstMap) \>\>
 
 … [Creating_Maps](Creating-Maps) …
 

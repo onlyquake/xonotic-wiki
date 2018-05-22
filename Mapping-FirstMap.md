@@ -94,7 +94,7 @@ Create new brushes to create a hallway connecting the two rooms. You can also us
 completely enclosed and brushes are not overlapping, otherwise textures might flicker (so called *Z-fights*).
 
 
-\<\< [NetRadiant](mapping-NetRadiant) 2 [Packaging](mapping-packaging) \>\>
+\<\< [NetRadiant](mapping-NetRadiant) | [Packaging](mapping-packaging) \>\>
 
 … [Creating_Maps](Creating-Maps) …
 

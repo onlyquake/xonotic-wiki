@@ -11,5 +11,5 @@ REQUIREMENTS
 -   the [mapping support package](http://dl.xonotic.org/xonotic-0.8.2-mappingsupport.zip)
 -   time
 
-0 [Setup](mapping-Setup) \>\>
+[Setup](mapping-Setup) \>\>
 

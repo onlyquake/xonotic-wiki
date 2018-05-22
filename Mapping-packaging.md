@@ -25,5 +25,5 @@ Recommended files
 
 Adding these files is **strongly recommended**:
 
-`maps/<mapname>.map` - This is an open-source game. Gives other the ability to learn and fix broken maps/extend maps. 
+`maps/<mapname>.map` - This is an open-source game. Gives other the ability to learn and fix broken maps/extend maps.  
 `License` - The license for the map. An open-source license like `GPL` is recommended.  

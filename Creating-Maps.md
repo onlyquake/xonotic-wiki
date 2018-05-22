@@ -1,19 +1,19 @@
 Creating Maps
 =============
 
-Main Tutorial
--------------
+Basics
+------
 
-**— Prologue —**  
-[mapping-Introduction](mapping-Introduction)  
-[mapping-Setup](mapping-Setup)  
-[mapping-NetRadiant](mapping-NetRadiant)  
-[mapping-FirstRoom](mapping-FirstRoom)  
+[Introduction](mapping-Introduction)  
+[Setup](mapping-Setup)  
+[NetRadiant](mapping-NetRadiant)  
+[First Map](mapping-FirstMap)  
+[Packaging and releasing](mapping-packaging)
 
 Advanced Mapping Tutorials
 --------------------------
 
-...
+[Optimizations](mapping-Optimizing)
 
 Advanced Texturing Tuorials
 ---------------------------
@@ -42,13 +42,18 @@ Entity Tutorials
 Links to Even More Tutorials
 ----------------------------
 
--   Alpha Blended Terrain — by tZork http://forums.xonotic.org/showthread.php?tid=3237
+- [Alpha Blended Terrain](http://forums.xonotic.org/showthread.php?tid=3237) by tZork
+- [Basic Tutorials by Ingar](http://ingar.intranifty.net/gtkradiant/index.html)
 
 Help
 ----
 
-\#xonotic.editing on irc.quakenet.org — live chat  
-http://forums.xonotic.org -- the forums .  
+- live chat: \#xonotic.editing on irc.quakenet.org
+- [Xonotic forum](http://forums.xonotic.org)
 
-[Old_Creating_Maps](Old-Creating-Maps)  
+
+Other resources
+---------------
+
+[Old Creating Maps](Old-Creating-Maps)  
 [Français](Creation-de-cartes)  

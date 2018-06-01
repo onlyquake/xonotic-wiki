@@ -44,6 +44,7 @@ Links to Even More Tutorials
 
 - [Alpha Blended Terrain](http://forums.xonotic.org/showthread.php?tid=3237) by tZork
 - [Basic Tutorials by Ingar](http://ingar.intranifty.net/gtkradiant/index.html)
+- [Radiant Tutorial for Quake 3](http://en.ws.q3df.org/level_design)
 
 Help
 ----
@@ -57,3 +58,4 @@ Other resources
 
 [Old Creating Maps](Old-Creating-Maps)  
 [Français](Creation-de-cartes)  
+[q3map2 Shader manual](http://q3map2.robotrenegade.com/docs/shader_manual/)

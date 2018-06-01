@@ -70,7 +70,7 @@ If the spawnpoint is not inside the room, move it just like you move a brush.
 Compiling and Testing
 ---------------------
 
-Before a map can be tested ingame, it first needs to be compiled. There are several presets in the `Build` menu. To simply test the layout,
+Before a map can be tested ingame, it first needs to be compiled to a `.bsp` file. There are several presets in the `Build` menu. To simply test the layout,
 `Single: -bsp` is a good choice. It will also not add any lighting information, making it possible to test the map without placing lights or light emiting shaders.
 The `Final` presets take much longer to compile and should only be used once you're confident in your layout and lighting.
 

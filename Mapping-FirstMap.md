@@ -37,9 +37,12 @@ Brushes are defined by a number of faces.
 Brushes are used to create the layout of your map.
 
 To create a new brush, make sure that you don't have any object selected (`Esc`) and simply Click+Drag in any 2D pane.
+
 ![Create a brush](assets/images/radiant-create-brush.gif)
+
 To move a brush (or even multiple brushes), select it and drag it around in either a 2D or 3D view.
 If you initially click outside of any selected brush, dragging will resize these brushes.
+
 ![Move and resize a brush](assets/images/radiant-move-resize-brush.gif)
 
 ### Patch meshes
@@ -63,6 +66,7 @@ First of all you should select a big grid size (Grid64 by pressing `7`). Leftcli
 and use the `Make Room` tool. The selected grid size will determine the wall thickness. Only make thin walls if absolutely needed! 
 If your NetRadiant build is too old to have the `Make Room` tool, you can use the `Make Hollow` tool and move all the resulting walls out a bit
 so that they no longer overlap.
+
 ![First Room](assets/images/radiant-first-room.png)
 
 Next, the room needs to be textured. For this, with your brushes selected, open the Texture browser (`T`) and select a Texture.
@@ -95,6 +99,7 @@ With the Clipper tool, you can define a plane that will cut the selected brushes
 You can also move these points by dragging them around. Once you have at least two points defined NetRadiant will preview the cutted brush.
 The infinitely long line (red in 2D panes, white in the 3D view) show the cutting plane's normal. By pressing `Enter` the selected brushes will be cut,
 removing all the parts on the side of the normal. If you want to keep both sides, you can press `Shift+Enter` instead.
+
 ![Using the clipper tool](assets/images/radiant-second-room-clipper.png)
 
 Create new brushes to create a hallway connecting the two rooms. You can also use `Ctrl+C` and `Ctrl+V` to copy&paste brushes. The toolbar also has

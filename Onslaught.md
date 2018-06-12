@@ -9,10 +9,9 @@ Onslaught
 Object of the Game
 ------------------
 
-_(Insert object of the game here)_
 In Onslaught there are usually 2 teams, each controlling a generator. Across the map are several control points, which are connected to each other and to the generator. One may only capture a control point or attack a generator if they control another conneccted control point.
 
-After a certain period(usually 4 minutes and 40 seconds) overtime will start and the generators will decay. The rate at which this occurs depends on how many control points your team controls.
+After a certain period (usually 4 minutes and 40 seconds) overtime will start and the generators will decay. The rate at which this occurs depends on how many control points your team controls.
 
 How to:
 *  Capture a neutral control point? Walk to it.

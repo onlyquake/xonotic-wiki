@@ -70,6 +70,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [InstaGib](InstaGib)
 -   [NIX](NIX)
 -   [Dynamic handicap](dynamic-handicap)
+-   [New Toys](new-toys)
 
 ### [Special Servers](Special-Servers)
 

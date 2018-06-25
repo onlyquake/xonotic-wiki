@@ -91,3 +91,6 @@ If set to 1, the map will start in the warmup mode which is designed to let ever
 g_warmup_limit 0
 ```
 If set to more than 0, specifies the maximum time of the warmup state. Can be used to force the game to begin without player consensus or when players forgot about warmup being active.
+
+# More advanced configuration
+You can find other useful variables using the [Command And Cvar search tool on xonotic.org](https://xonotic.org/tools/cacs).

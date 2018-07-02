@@ -98,6 +98,8 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [The `info` command](https://forums.xonotic.org/showthread.php?tid=7474&pid=81277#pid81277)
 -   [Random start weapons](Random-start-weapons)
 -   [Automatic map downloads](mapdownload)
+-   [Event logging](eventlog)
+-   [Score logging](scorelog)
 
 ### Troubleshooting
 -   [Performance](https://forums.xonotic.org/showthread.php?tid=7374&pid=80938#pid80938)

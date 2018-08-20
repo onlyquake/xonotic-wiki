@@ -72,7 +72,7 @@ Now the game can be compiled and run with the following commands:
 
 **Note:** if you encounter en error similar to darkplaces#111, try `./all clean && ./all compile -r -0`.
 
-You can use just `./all compile` to create a slower build with debug symbols but usually you want `-r`.
+You can use just `./all compile` to create a slower unoptimized build with debug symbols but usually you want `-r`.
 
 The `./all run` or `./all compile` line can be followed by one of `glx` (Linux native), `sdl` (input/sound managed by SDL), `agl` (macOS native), `wgl` (Windows native), or `dedicated` (for server hosting) to choose which executable to run or compile. E.g. `./all compile -r dedicated`.
 

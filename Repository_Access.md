@@ -44,7 +44,7 @@ It is recommended that you make a shortcut to MSYS2 MINGW64 shell (simply right 
 
 You can now use this shell to continue on with the guide and clone the Xonotic repositories.
 
-### MacOS
+### macOS
 
 You must first install **XCode** which comes on your installation DVD or can be downloaded from the Apple website. This package provides tools like **Git and GCC**, which are needed for successful checkout and compilation of Xonotic. Some versions of XCode come with Git and others don’t - if you don’t have Git after installing XCode get it here: [XCode installer](http://sourceforge.net/projects/git-osx-installer/files/)
 
@@ -106,7 +106,7 @@ In case the code you pushed was not written by you, it is your responsibility to
 
 To apply for write access, add your SSH key to your GitLab account and ask for access in #xonotic on the FreeNode IRC network or [request access](https://docs.gitlab.com/ce/user/group/index.html#request-access-to-a-group) using the GitLab interface.
 
-### Windows/Linux/OS X
+### Windows/Linux/macOS
 
 Get a checkout (see above), and do:
 

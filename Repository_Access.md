@@ -61,10 +61,6 @@ To begin downloading:
 
 The **git://** protocol uses port **9418**, which may be a problem if you’re behind a **strict firewall**. You may instead use the clone url http://git.xonotic.org/xonotic/xonotic.git (however, using the git protocol directly is preferred for performance reasons).
 
-For Windows users: once finished cloning move to the main repository (`cd xonotic`) and checkout the branch Mario/Win64 with the command:
-
-    git checkout -b Mario/win64 origin/Mario/win64
-
 Now the game can be compiled and run with the following commands:
 
     ./all compile -r

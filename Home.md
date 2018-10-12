@@ -43,7 +43,7 @@ The following modes are available, although slightly less common than the above:
 
 -   [Arena](Arena) (removed)
 -   [Assault](Assault)
--   [Conquest](Conquest)
+-   [Invasion](Invasion)
 -   [Domination](Domination)
 -   [Last Man Standing](Last-Man-Standing)
 -   [Nexball](Nexball)

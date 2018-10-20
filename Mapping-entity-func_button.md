@@ -40,4 +40,4 @@ How to use it
 In the Wild
 -----------
 
-Warfare, a Xonotic official duel map uses a button to trigger the elevator.
+Warfare, a Xonotic official duel map, uses a button to trigger an elevator.

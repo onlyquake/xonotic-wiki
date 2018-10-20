@@ -4,7 +4,7 @@ Mapping-entity-func button
 What Radiant Says
 -----------------
 
-    When a button is touched by a player, it moves in the direction set by the "angle" key, triggers all its targets, stays pressed by an amount of time set by the "wait" key, then returns to it's original position where it can be operated again.
+    When a button is touched by a player, it moves in the direction set by the "angle" key, triggers all its targets, stays pressed by an amount of time set by the "wait" key, then returns to its original position where it can be operated again.
     -------- KEYS --------
     angle : determines the direction in which the button will move (up = -1, down = -2).
     target : all entities with a matching targetname will be triggered.
@@ -17,8 +17,10 @@ What Radiant Says
     wait : number of seconds button stays pressed (default 1, -1 = return immediately).
     lip : lip remaining at end of move (default 4 units).
     health : (default 0) if set to any non-zero value, the button must take damage (any amount) to activate.
+    noise : Noise that is played when the button is activated
     -------- SPAWNFLAGS --------
     NOSPLASH : if set, splash damage cannot activate the door, only direct damage can (requires health to be set)
+    DONTACCUMULATEDMG : if set, all the damage needs to be done in one hit (requires health to be set)
 
 What NetRadiant Means
 ---------------------
@@ -38,5 +40,4 @@ How to use it
 In the Wild
 -----------
 
-Currently none of the default xonotic maps have a button in them. However, warefare, a popular duel map uses a button to trigger the elevator.
-
+Warfare, a Xonotic official duel map uses a button to trigger the elevator.

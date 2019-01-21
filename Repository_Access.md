@@ -70,7 +70,7 @@ Now the game can be compiled and run with the following commands:
 
 You can use just `./all compile` to create a slower unoptimized build with debug symbols but usually you want `-r`.
 
-The `./all run` or `./all compile` line can be followed by one of `glx` (Linux native), `sdl` (input/sound managed by SDL), `agl` (macOS native), `wgl` (Windows native), or `dedicated` (for server hosting) to choose which executable to run or compile. E.g. `./all compile -r dedicated`.
+The `./all run` or `./all compile` line can be followed by `dedicated` to build or run the executable for server hosting. E.g. `./all compile -r dedicated`.
 
 The `run` command can also be followed by standard DarkPlaces commandline arguments:
 

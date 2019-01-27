@@ -141,11 +141,11 @@ Switch to that branch in all repositories where its available.
 
 This command commits and pushes your local changes.
 
-    ./all run xonotic
+    ./all run
 
 Starts the Xonotic client
 
-    ./all run dedicated xonotic
+    ./all run dedicated
 
 Starts a Xonotic dedicated server
 

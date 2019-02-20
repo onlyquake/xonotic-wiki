@@ -104,6 +104,9 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 ### Troubleshooting
 -   [Performance](https://forums.xonotic.org/showthread.php?tid=7374&pid=80938#pid80938)
 
+### External Tools
+-   [Xonotic Map Manager](https://github.com/z/xonotic-map-manager)
+-   [Xonotic Server Management Suite](https://github.com/z/xonotic-server-management-suite)
 
 ## Development
 

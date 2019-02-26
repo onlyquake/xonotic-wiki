@@ -79,6 +79,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 ### Unofficial Web-based Server Lists
 -   [dpmaster.deathmask.net](http://dpmaster.deathmask.net/?game=xonotic) - one of the 2 master servers, doesn't always have all servers but the other one doesn't have a web interface
 -   [arena.sh/xo](https://arena.sh/xo/)
+-   [xonotic.lifeisabug.com](https://xonotic.lifeisabug.com/)
 
 ### Misc
 -   [Autobuilds](Autobuilds)

@@ -44,6 +44,7 @@ For a short introduction to IRC, [skip to the bottom of this page](Channels#gene
     #theregulars         - The Regulars
     #uc.xonotic          - unconnected
     #xonotic.butt        - BUTT
+    #xon.fsmp            - FSMP
 
 #### Server channels
 

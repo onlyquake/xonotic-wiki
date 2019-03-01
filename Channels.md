@@ -31,7 +31,7 @@ For a short introduction to IRC, [skip to the bottom of this page](Channels#gene
     #clanexe             - .exe
     #dietunichtguten     - Die Tunichtguten
     #evil.ant.colony     - Evil Ant Colony
-    #lovers              - Lovers
+    #Lover               - Lovers
     #kwestion            - Kwestion
     #mon.xonotic         - Monks of Nexuiz
     #nsb.nexuiz          - NSB - The Dyslexic Loser Mob

@@ -1,4 +1,4 @@
-### Session Id
+### Multiple clients + clean config
 
 If you need 2 players for debugging, you can launch another client locally:
  - use -sessionid (e.g. `./all run -sessionid testing`) to keep your config

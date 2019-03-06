@@ -125,7 +125,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [QuakeC tutorials](http://www.inside3d.com/tutorials.php) at inside3d.com
 -   [NewQC](NewQC) - Possible changes regarding QC (compiler, syntax, …)
 -   [Writing your first mutator](writing-your-first-mutator)
--   [Tips to new developers](Programming-Tips)
+-   [Tips for new developers](Programming-Tips)
 
 ### [Modeling](Modeling)
 -   [Textures know-how](Textures)

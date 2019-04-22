@@ -1,6 +1,8 @@
 ### Debug prints
 
-You can show text anywhere on the map using `debug_text_3d(world_coords, message);` from `common/debug.qh`.
+Use `con_notify 4` together with `LOG_INFOF("my_var: %s", my_var);` (`%s` string, `%f` float, `%d` integer, `%v` vector) to see debug output without opening the console. Type `con_notify` and press `<TAB>` to see descriptions and more options (or use `apropos con_notify`).
+
+You can draw text anywhere on the map using `debug_text_3d(world_coords, message);` from `common/debug.qh`.
 
 ### Multiple clients + clean config
 

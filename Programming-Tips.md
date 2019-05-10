@@ -36,6 +36,12 @@ prvm_globalwatchpoint : marks a global as watchpoint (when this is executed, a s
 ```
 
 Examples:  
+Print to console origin of entity number 1: `prvm_edictget server 1 origin`  
+Save to a cvar origin of entity number 1: `prvm_edictget server 1 origin my_cvar`  
+Set a custom origin for entity number 1: `prvm_edictset server 1 origin "100 200 0"`  
+
+Print to console vid_conheight client global: `prvm_edictget client vid_conheight`
+
 "Break" on statement: `prvm_breakpoint server 12345`  
 "Break" on function: `prvm_breakpoint server ClientConnect`  
 Watch for global change: `prvm_globalwatchpoint server time`  

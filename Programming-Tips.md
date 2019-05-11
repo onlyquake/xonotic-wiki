@@ -71,3 +71,8 @@ Windows users must download the Windows version of cscope from https://code.goog
 
 * Run `cscope_createindex.sh` to build cscope indices for both game (QC code) and Darkplaces (C code). This step must be repeated every time you do some code changes.  
 The indices can now be used to browse code confortably with the cscope GUI of your choice.
+
+### QC syntax highlighting:
+
+* For jEdit: [qc.xml](https://gitlab.com/terencehill/qc-syntax-highlighting-for-jedit/blob/master/qc.xml)
+* For Kate: [qc.xml](https://gist.github.com/DefaultUser/998f030ab41a9e8edf4a9f8e703c6350)

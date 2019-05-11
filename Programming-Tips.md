@@ -53,6 +53,7 @@ prvm_breakpoint server
 prvm_globalwatchpoint server
 prvm_edictwatchpoint server
 ```
+
 ### Tool to find C symbols, functions, declarations and definitions inside source code
 
 For this purpose it's possible to use a text-based tool called [Cscope](https://en.wikipedia.org/wiki/Cscope) together with a GUI (it can be either an application or a plugin for a text editor).
@@ -60,7 +61,7 @@ For this purpose it's possible to use a text-based tool called [Cscope](https://
 #### Download / Installation
 
 * Download and install cscope with `pacman -S cscope`  
-Windows users must download the Windows version of cscope from https://code.google.com/archive/p/cscope-win32/downloads since the mingw version generates broken indices.
+Windows users must download the Windows version of cscope from https://code.google.com/archive/p/cscope-win32/downloads since the mingw version generates broken indices and put it into the main xonotic repo directory.
 
 * Download and install a cscope GUI or a plugin for your text editor / IDE. For example for jEdit there is a plugin called [CscopeFinder](http://plugins.jedit.org/plugins/?CscopeFinder).
 

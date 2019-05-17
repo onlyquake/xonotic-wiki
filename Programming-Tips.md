@@ -61,16 +61,33 @@ For this purpose it's possible to use a text-based tool called [Cscope](https://
 #### Download / Installation
 
 * Download and install cscope with `pacman -S cscope`  
-Windows users must download the Windows version of cscope from https://code.google.com/archive/p/cscope-win32/downloads since the mingw version generates broken indices and put it into the main xonotic repo directory.
+Windows users must download the Windows version of cscope from https://code.google.com/archive/p/cscope-win32/downloads and put it into the main xonotic repo directory. The mingw version can't be used as it puts Unix paths into the generated indices, making them unusable.
 
-* Download and install a cscope GUI or a plugin for your text editor / IDE. For example for jEdit there is a plugin called [CscopeFinder](http://plugins.jedit.org/plugins/?CscopeFinder).
+* Download and install a cscope GUI or a plugin for your text editor / IDE.
+  * For [jEdit](http://www.jedit.org) there is a plugin called [CscopeFinder](http://plugins.jedit.org/plugins/?CscopeFinder).
+  * For [SublimeText](https://www.sublimetext.com) there is [SublimeCscope](https://github.com/jgust/SublimeCscope)
 
-* Copy [cscope_createindex.sh](uploads/17c725e19be8f4935c30c2506e168405/cscope_createindex.sh) into the main xonotic repo directory.  
+* Copy ~~[cscope_createindex.sh](uploads/17c725e19be8f4935c30c2506e168405/cscope_createindex.sh) old version~~ [cscope_createindex.bat](uploads/b8b873c3e876b01f927f24dd224c4f5d/cscope_createindex.bat) into the main xonotic repo directory.
+
+  
 
 #### Usage
 
-* Run `cscope_createindex.sh` to build cscope indices for both game (QC code) and Darkplaces (C code). This step must be repeated every time you do some code changes.  
+* Configure your plugin if needed:  
+  * jEdit's CscopeFinder only needs to specify cscope.out as cscope index filename.
+  * SublimeCscope should be configured with these user settings (with Windows executable as example):
+```
+    "executable": "C:\\xonotic\\cscope.exe",
+    "prompt_before_searching": false,
+```
+
+* Run `cscope_createindex.sh` to build cscope indices for both game (QC code) and Darkplaces (C code). This step must be repeated every time you do some code changes.
+
+* Some plugins assume that your index file is generated with compression turned on (SublimeCscope's case). In this case
+`cscope_createindex.sh` can be instructed to use compression by changing compress=false to compress=true.
+
 The indices can now be used to browse code confortably with the cscope GUI of your choice.
+
 
 ### QC syntax highlighting:
 

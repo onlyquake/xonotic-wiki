@@ -67,14 +67,13 @@ Windows users must download the Windows version of cscope from https://code.goog
   * For [jEdit](http://www.jedit.org) there is a plugin called [CscopeFinder](http://plugins.jedit.org/plugins/?CscopeFinder).
   * For [SublimeText](https://www.sublimetext.com) there is [SublimeCscope](https://github.com/jgust/SublimeCscope)
 
-* Copy ~~[cscope_createindex.sh](uploads/17c725e19be8f4935c30c2506e168405/cscope_createindex.sh) old version~~ [cscope_createindex.bat](uploads/b8b873c3e876b01f927f24dd224c4f5d/cscope_createindex.bat) into the main xonotic repo directory.
+* Copy ~~[cscope_createindex.sh](uploads/17c725e19be8f4935c30c2506e168405/cscope_createindex.sh)(old version)~~ [cscope_createindex.sh](uploads/451835f6b1894145af06050915256048/cscope_createindex.sh) into the main xonotic repo directory.
 
-  
 
 #### Usage
 
 * Configure your plugin if needed:  
-  * jEdit's CscopeFinder only needs to specify cscope.out as cscope index filename.
+  * jEdit's CscopeFinder only needs to specify cscope.out as cscope index filename in the plugin settings.
   * SublimeCscope should be configured with these user settings (with Windows executable as example):
 ```
     "executable": "C:\\xonotic\\cscope.exe",
@@ -83,10 +82,9 @@ Windows users must download the Windows version of cscope from https://code.goog
 
 * Run `cscope_createindex.sh` to build cscope indices for both game (QC code) and Darkplaces (C code). This step must be repeated every time you do some code changes.
 
-* Some plugins assume that your index file is generated with compression turned on (SublimeCscope's case). In this case
-`cscope_createindex.sh` can be instructed to use compression by changing compress=false to compress=true.
+* Some plugins assume that your index file is generated with compression turned on (SublimeCscope's case). In this case `cscope_createindex.sh` can be instructed to use compression by changing `compress=false` to `compress=true`.
 
-The indices can now be used to browse code confortably with the cscope GUI of your choice.
+Indices can now be used to comfortably browse code with the cscope GUI of your choice.
 
 
 ### QC syntax highlighting:

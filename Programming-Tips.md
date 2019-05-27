@@ -66,25 +66,39 @@ Windows users must download the Windows version of cscope from https://code.goog
 * Download and install a cscope GUI or a plugin for your text editor / IDE.
   * For [jEdit](http://www.jedit.org) there is a plugin called [CscopeFinder](http://plugins.jedit.org/plugins/?CscopeFinder).
   * For [SublimeText](https://www.sublimetext.com) there is [SublimeCscope](https://github.com/jgust/SublimeCscope)
+  * For [Atom](https://atom.io/) there is [atom-cscope](https://atom.io/packages/atom-cscope)
 
-* Copy ~~[cscope_createindex.sh](uploads/17c725e19be8f4935c30c2506e168405/cscope_createindex.sh)(old version)~~ [cscope_createindex.sh](uploads/451835f6b1894145af06050915256048/cscope_createindex.sh) into the main xonotic repo directory.
+* If you don't use Atom, you also need to copy ~~[cscope_createindex.sh](uploads/17c725e19be8f4935c30c2506e168405/cscope_createindex.sh)(old version)~~ [cscope_createindex.sh](uploads/451835f6b1894145af06050915256048/cscope_createindex.sh) into the main xonotic repo directory.
 
 
-#### Usage
+#### Configuration
 
 * Configure your plugin if needed:  
-  * jEdit's CscopeFinder only needs to specify cscope.out as cscope index filename in the plugin settings.
-  * SublimeCscope should be configured with these user settings (with Windows executable as example):
-```
-    "executable": "C:\\xonotic\\cscope.exe",
-    "prompt_before_searching": false,
-```
+  * jEdit's CscopeFinder settings:  
+  set cscope.out as cscope index filename.  
+
+  * SublimeCscope user settings (with Windows executable as example):
+	```
+		"executable": "C:\\xonotic\\cscope.exe",
+		"prompt_before_searching": false,
+	```
+
+  * atom-cscope settings:
+  1. set the full path of cscope binary, e.g. C:\xonotic\cscope.exe (with Windows executable as example)  
+  1. add .qc and .qh to source file extensions (".c .cc .cpp .h .hpp .qc .qh")
+  1. you also need to create projects for darkplaces and xonotic/data/xonotic-data.pk3dir/qcsrc folders (toggle tree-view with `Ctrl + \`, right-click there and select "Add Project Folder")
 
 * Run `cscope_createindex.sh` to build cscope indices for both game (QC code) and Darkplaces (C code). This step must be repeated every time you do some code changes.
 
 * Some plugins assume that your index file is generated with compression turned on (SublimeCscope's case). In this case `cscope_createindex.sh` can be instructed to use compression by changing `compress=false` to `compress=true`.
 
-Indices can now be used to comfortably browse code with the cscope GUI of your choice.
+* With Atom you can build cscope indices in the atom-cscope window (open with `Ctrl + Alt + o`) by clicking the flash icon.
+
+#### Usage
+
+* jEdit: select a word in the editor, right-click and select "Find this C symbol" or another "Find ..." entry (if you don't see these entries you should add them in the context menu settings).
+* SublimeText: select a word in the editor, right-click and select "Look up symbol" or another "Look up ..." entry.
+* Atom: open atom-cscope window (`Ctrl + Alt + o`) and type a symbol that you want to search.
 
 
 ### QC syntax highlighting:

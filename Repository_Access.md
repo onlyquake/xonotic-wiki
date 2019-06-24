@@ -83,8 +83,6 @@ To update your Git clone:
     ./all update  # pull and prune
     ./all compile -r  # recompile what changed
 
-**Note:** The compiled binary will have a faint watermark with the git revision. To remove it completely put `set menu_watermark ""` into your `autoexec.cfg`.
-
 **Note:** If you intend to play on public servers, you should probably also enable the nexcompat repo to download additional textures that are used on some older unofficial maps. Use `touch data/xonotic-nexcompat.pk3dir.yes` and `./all update`. For mappers: these textures should NOT be used on new maps.
 
 ***

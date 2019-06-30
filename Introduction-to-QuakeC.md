@@ -276,6 +276,7 @@ string strcat(string a, string b, ...) = #115;
 The function/field syntax is ambiguous. In global scope a declaration can be a variable, field or function. In local scope, it's always a variable. The `var` keyword can be used in global scope to treat is as local scope (always declaring a variable). The following table shows declarations in global scope:
 
 | Example code | Meaning |
+|--------------|---------|
 | `.float a;` | Entity field of type `float` |
 | `float(float x1) a;` or `float a(float x1);` | Function with a `float` param returning `float` |
 | `.float a(float x1);` | Function with a float param returning a `float` field reference |

@@ -36,3 +36,4 @@ Other
 [Roles](Roles) - roles and skills of contributing community members - outdated list of stuff nobody kept of to date  
 [Community development](Community-development) - another outdated list  
 [Art Roadmap](Art-Roadmap)  
+[NewQC](NewQC) - possible changes regarding QC (compiler, syntax, …) - never happened so the syntax descriptions are mostly wrong  

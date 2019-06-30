@@ -246,9 +246,12 @@ float sum3(float a, float b, float c)
 However, the syntax to declare function pointers is simplified:
 
 ```c
+// in global scope
 typedef float(float, float, float) op3func_t;
 var float(float a, float b, float c) f;
 op3func_t g;
+
+// in local scope
 f = sum3;
 g = f;
 print(ftos(g(1, 2, 3)), "\n"); // prints 6
@@ -269,6 +272,23 @@ A special kind of functions are the built-in functions, which are defined by the
 ```c
 string strcat(string a, string b, ...) = #115;
 ```
+
+The function/field syntax is ambiguous. In global scope a declaration can be a variable, field or function. In local scope, it's always a variable. The `var` keyword can be used in global scope to treat is as local scope (always declaring a variable). The following table shows declarations in global scope:
+
+| Example code | Meaning |
+| `.float a;` | Entity field of type `float` |
+| `float(float x1) a;` or `float a(float x1);` | Function with a `float` param returning `float` |
+| `.float a(float x1);` | Function with a float param returning a `float` field reference |
+| `.float(float x1) a;` | Entity field of type function with a `float` param returning `float` |
+| `.float(float x1) a(float x2);` | Function with a `float` param returning a field reference of type function with a `float` param returning `float` |
+
+These rules were determined by experimenting with GMQCC:
+- if there are parentheses after the name, it's always a function
+- else if it starts with a period, it's a field
+- else if there are parentheses after the type, it's a function (using the old QC syntax)
+- else it's a variable
+
+GMQCC allows even weirder declarations like `float f(float)();` which can be called as `f()(42);`. It's not clear whether this behavior is intentional or the result of one of the many compiler bugs.
 
 void
 ----

@@ -27,6 +27,7 @@ Fixes include:
 Games supported by included game packs:
 -   [DarkPlaces](http://icculus.org/twilight/darkplaces/)
 -   [Nexuiz](http://www.alientrap.com/games/nexuiz/)
+-   [OpenArena](http://www.openarena.ws)
 -   [Osirion](http://osirion.org/)
 -   Quake _— NetRadiant writes Q3 map that can be compiled to Q1 bsp using `hmapc`_
 -   [Quetoo](http://quetoo.org/)
@@ -36,7 +37,6 @@ Games supported by included game packs:
 
 For licensing reasons, no other game packs are included yet. Other games can very well be added into the default distribution, if their license is GPL compatible. However, for these games there are downloadable game packs that are likely to work inside NetRadiant (the links go to download locations for the packs):
 
--   [OpenArena](http://openarena.ws/board/index.php?topic=2722.0)
 -   [Q3Rally](http://www.q3rally.com/index.php?module=Downloads&func=display&lid=57)
 -   [THC](https://svn.freepository.com/99tOHY5flO0Uk-web/browser/NetRadiant?rev=730)
 -   [Tremulous](http://ingar.satgnu.net/gtkradiant/index.html)

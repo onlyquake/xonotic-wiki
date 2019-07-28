@@ -122,7 +122,6 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [Introduction to QuakeC](Introduction-to-QuakeC)
 -   [DarkPlaces Wiki](DarkPlaces-Index)
 -   [QuakeC Specifications v1.0](QuakeC-Wiki)
--   [QuakeC tutorials](http://www.inside3d.com/tutorials.php) at inside3d.com
 -   [Writing your first mutator](writing-your-first-mutator)
 -   [Tips for new developers](Programming-Tips)
 

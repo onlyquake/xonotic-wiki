@@ -1,15 +1,24 @@
 QuakeC
 ======
 
-Article TODO
-------------
-
--   expand explanations
-
 About QuakeC
 ------------
 
 QuakeC is a very simplified dialect of the well-known C programming language, and is used by the Quake I engine and its derivatives. Xonotic uses the GMQCC dialect of QuakeC, so only this dialect will be described (as well as some common extensions among Quake engines).
+
+There are several documents describing the original version of QC as used in Quake 1:
+- an [old version](http://www.gamers.org/dEngine/quake/spec/quake-spec34/index1.htm) which is a part of unofficial [Quake Documentation](http://www.gamers.org/dEngine/quake/spec/quake-spec34/)
+- a probably slightly [newer version](http://www.cataboligne.org/extra/qcmanual.html)
+- a [newer and extended version](http://pages.cs.wisc.edu/~jeremyp/quake/quakec/quakec.pdf) in PDF
+
+Even this page is outdated and incomplete, not all GMQCC QuakeC constructs are described here and some of the bugs mentioned here have already been fixed.
+
+Other resources
+---------------
+
+- [QC Tutorial for Absolute Beginners](https://web.archive.org/web/20091118154016/http://forums.inside3d.com/viewtopic.php?t=1286)
+- [List of builtins on quakewiki.org](https://quakewiki.org/wiki/List_of_builtin_functions)
+- comments and `doc.md` in the `qcsrc/dpdefs` directory
 
 Example code
 ------------
@@ -56,17 +65,6 @@ entity findnearestspawn(vector v)
 ```
 
 **Note:** *findchain* is implemented in QuakeC for demonstration purposes only so one can see how to build a linked list, as this function is already built in to the engine and can be used directly
-
-Other resources
----------------
-
-Here is a forum on Inside3D where you can read more about QuakeC and ask questions:
--   QuakeC Forum on Inside3D: http://forums.inside3d.com/viewforum.php?f=2
--   QC Tutorial for Absolute Beginners: http://forums.inside3d.com/viewtopic.php?t=1286
-
-For available functions in QuakeC, look in the following places:
--   The Quakery: http://quakery.quakedev.com/qwiki/index.php/List_of_builtin_functions
--   Xonotic source: [builtins.qh](http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=blob_plain;f=qcsrc/server/builtins.qh;hb=HEAD) for Quake functions, [extensions.qh](http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=blob_plain;f=qcsrc/server/extensions.qh;hb=HEAD) for DarkPlaces extensions
 
 Variables
 =========

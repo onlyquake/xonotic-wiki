@@ -1,5 +1,5 @@
-  [Repository Access](Repository_Access)
-| [QuakeC](Introduction-to-QuakeC)
-| [Git](Git)
-| [Art Roadmap](Art-Roadmap)
-| [Xonotic Logo](Logo)
+<!-- Currently this only shows up on GitHub, not GitLab -->
+
+  [Repository Access and Compiling](Repository_Access)
+| [Introduction to QuakeC](Introduction-to-QuakeC)
+| [Tips for new developers](Programming-Tips)

@@ -19,7 +19,7 @@ Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 
 ### Game Mechanics
 - [Maps](Maps)
-  - also see unofficial map repository: [xonotic.co](http://xonotic.co/) or mirror: [xonotic.fps.gratis](http://xonotic.fps.gratis/) - prefix with `dl.` (e.g. [dl.xonotic.co](http://dl.xonotic.co/)) if you just want the list - it loads quicker
+  - Also see unofficial map repository: [xonotic.co](http://xonotic.co/) or mirror: [xonotic.fps.gratis](http://xonotic.fps.gratis/) run by [-z-](https://github.com/z/)/[detrate](https://gitlab.com/detrate). Prefix with `dl.` (e.g. [dl.xonotic.co](http://dl.xonotic.co/)) if you just want the list - it loads quicker.
 - [Players](Players)
 - [Items](Items)
 - [Vehicles](Vehicles)

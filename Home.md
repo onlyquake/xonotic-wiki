@@ -18,11 +18,12 @@ Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 - [Overkill Tutorial](https://xonotic.org/okguide/)
 
 ### Game Mechanics
--   [Maps](Maps)
--   [Players](Players)
--   [Items](Items)
--   [Vehicles](Vehicles)
--   [Weapons](Weapons)
+- [Maps](Maps)
+  - also see unofficial map repository: [xonotic.co](http://xonotic.co/) or mirror: [xonotic.fps.gratis](http://xonotic.fps.gratis/) - prefix with `dl.` (e.g. [dl.xonotic.co](http://dl.xonotic.co/)) if you just want the list - it loads quicker
+- [Players](Players)
+- [Items](Items)
+- [Vehicles](Vehicles)
+- [Weapons](Weapons)
 
 ### Game Modes (or Game Types)
 In Xonotic, game modes and game types mean the same thing -- different modes/types have different goals to achieve in a game.

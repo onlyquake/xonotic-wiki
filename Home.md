@@ -90,6 +90,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [Capturing video clips and using the demo camera](Democapture)
 -   [Xonotic Bot Orchestra](Xonotic-Bot-Orchestra)
 -   [Impulse map](impulse-map)
+-   [Console Tips & Tricks](https://forums.xonotic.org/showthread.php?tid=2987) - introduction to console scripting (cvars, aliases, hooks, conditions, RPN)
 -   [Hardware Requirements](Hardware-Requirements)
 
 

@@ -68,7 +68,7 @@ Now the game can be compiled and run with the following commands:
 
 **Note:** if you encounter en error similar to darkplaces#111, try `./all clean && ./all compile -r -0`.
 
-You can use just `./all compile` to create a slower unoptimized build with debug symbols but usually you want `-r`.
+You can use just `./all compile -d` to create a slower unoptimized (debug) build with debug symbols but usually you want `-r` (which is also the new default if you have recent enough git).
 
 The `./all run` or `./all compile` line can be followed by `dedicated` to build or run the executable for server hosting. E.g. `./all compile -r dedicated`.
 
@@ -129,7 +129,7 @@ Lists all the branches known for all the respective repositories.
 
     ./all compile
 
-Compiles the game, assuming that you have the required libs installed. Don't forget `-r` if you wanna actually play the game with decent fps.
+Compiles the game, assuming that you have the required libs installed.
 
     ./all checkout BRANCH
 

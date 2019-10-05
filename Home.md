@@ -126,7 +126,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 -   [Writing your first mutator](writing-your-first-mutator)
 -   [Tips for new developers](Programming-Tips)
 
-### Translating
+### [Translating](Translating)
 -   [Translation website](https://www.transifex.com/team-xonotic/xonotic/dashboard/)
 -   [Translation guidelines](Translation guidelines)
 

@@ -1,4 +1,4 @@
--   First create an account on Transifex using a proper nickname and a real email address (it will be used to give you credit for your contributions, and so that we're able to contact you later if we need further translation help).
+-   First create an account on [Transifex](https://www.transifex.com/team-xonotic/xonotic/dashboard/) using a proper nickname and a real email address (it will be used to give you credit for your contributions, and so that we're able to contact you later if we need further translation help).
 
 -   Always match newlines and white space with translation strings: if a string has 4 spaces in the beginning of it in English, do the same thing for the translation. If a string has 2 newlines at the end of it, or one in the middle and another at the end, repeat the same thing in the translated string.
 

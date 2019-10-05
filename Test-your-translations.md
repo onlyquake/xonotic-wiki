@@ -9,7 +9,7 @@ On Transifex, select the **common.pot** resource:
 In order to test your translation in-game, rename the PO file as **common.*.po**, where * is your language code ("fr" for French, "de" for German...).
 If you don't know what your language code is, please have a look at the PO files in the [xonotic-data.pk3dir](https://gitlab.com/xonotic/xonotic-data.pk3dir) repository.
 
-Then copy the PO file in your Xonotic user directory, in the **data/** subdirectory.
+Then copy the PO file in your Xonotic user directory, in the **data** subdirectory.
 The user directory location depends on your Operating System: https://xonotic.org/faq/#where-are-the-configuration-files-located
 
 You're done!

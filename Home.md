@@ -129,6 +129,7 @@ Mutators change the configuration of the game play, e.g. how weapon appears, whi
 ### [Translating](Translating)
 -   [Translation website](https://www.transifex.com/team-xonotic/xonotic/dashboard/)
 -   [Translation guidelines](Translation guidelines)
+-   [How to test your translations](Test your translations)
 
 ### [Modeling](Modeling)
 -   [Textures know-how](Textures)

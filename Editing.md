@@ -6,7 +6,6 @@ The official version is on [GitLab](https://gitlab.com/xonotic/xonotic/wikis/hom
 - Avoid creating lists of stuff that people will need to keep up to date, it doesn't work
 - Don't duplicate information, there should be a single up-to-date source of truth, everything else should link to it
     - Improve things instead of starting from scratch, if the previous author didn't finish, you're not likely to do better if you start from nothing
-    - Low hanging fruit: obliterate docs from `Docs/` subdirectory, move it to wiki, link to it instead
 
 
 Links to pages

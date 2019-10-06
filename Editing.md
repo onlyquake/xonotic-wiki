@@ -15,8 +15,9 @@ Links to pages
 Use standard markdown links: `[Text](link)` (e.g. `[Back to main page](Home)` to get [Back to main page](Home))
 
 - Don't prefix `link` with either `../link` or `/link` - both break on GitHub. Using `./link` seems to work ok but is unnecessary since we have to put everything in root anyway.
+- Use dashes, not spaces: `[Translation guidelines](Translation-guidelines)` for [Translation guidelines](Translation-guidelines). They're interchangeable on GL but spaces will break on GH.
 
-Links don't seem to be case sensitive but it's probably best to use proper capitalization just in case it breaks in some edge case somewhere. Also, spaces and dashes seem to be freely interchangeable on GH and GL but again, probably best to use dashes.
+Links don't seem to be case sensitive but it's probably best to use proper capitalization just in case it breaks in some edge case somewhere.
 
 
 New files
@@ -24,9 +25,7 @@ New files
 
 For pages, capitalize at least the first letter of the filename (GitHub doesn't capitalize titles automatically, GitLab will do what it wants anyway).
 
-Use dashes in page names, not underscores - dashes get converted to spaces in page titles so we have a nice title on every page. Some pages might have underscores in names for historical reasons - they already have many outside links (from forums, etc.) pointing to them.
-
-Interestingly, spaces in filenames and links seem to work fine for both GitHub and GitLab, not sure if they break somewhere else, it might still be best to avoid them.
+Use dashes in page names, not underscores, not spaces - dashes get converted to spaces in page titles so we have a nice title on every page. Using GL's editor will pretend to create pages with spaces but the filenames in fact have dashes so use dashes in links, otherwise the GH mirror will look broken. Some pages might have underscores in names for historical reasons - they already have many outside links (from forums, etc.) pointing to them.
 
 It's ok (and preferred) to put images and other assets into subdirectories but we have to **put pages in root** because GitHub doesn't support subdirs properly (it flattens everything - this can cause collisions, plus there is no way to link from subdir to another subdir that works on both GitLab and GitHub).
 

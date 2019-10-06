@@ -4,7 +4,7 @@ Variables and placeholders are codes that will be replaced with something else i
 | ------ | ------ |
 | `\n` | New line |
 | `^TT` | Team color name (e.g. "Red"). Will be replaced with one of the strings that has the `TEAM^`, `KEY^`, `GENERATOR^` or `FLAG^` prefix |
-| `^COUNT` | A number, usually with an unit (e.g. "5 seconds") |
+| `^COUNT` | A number, usually with a unit (e.g. "5 seconds") |
 | `%s` | Arbitrary text |
 | `%d` | Whole number |
 | `%.*f` | Floating-point number |

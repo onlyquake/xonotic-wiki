@@ -2,6 +2,7 @@
 
 *  Always match newlines and white space with translation strings: if a string has 4 spaces in the beginning of it in English, do the same thing for the translation. If a string has 2 newlines at the end of it, or one in the middle and another at the end, repeat the same thing in the translated string.
 
+
 *  Always match variables in the strings properly, as explained here: http://docs.translatehouse.org/projects/localization-guide/en/latest/guide/translation/variables.html
 
 *  Keep color codes the same, like `^BG` or `^TC` or `^F4` or `^2`, these are special color codes and are handled by the HUD/text rendering code. See the [List of color codes](List of color codes).

@@ -8,6 +8,7 @@ Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 	-	[Forums](http://forums.xonotic.org) are a lively place for Xonotic players to discuss anything.
 	-	[Xonotic game stats](http://stats.xonotic.org/) show useful statistics information about servers, players, scores, maps, etc.
 -	[IRC channels](Channels) are where most players ask/answer questions, exchange ideas, organize game events, etc. in **real time**. You can even chat with players in the game.
+-	[Discord](https://discord.gg/0uxcsw1XMkaOB936): there is also a Discord server that serves more or less the same purpose as the IRC channels.
 -	[Facebook](https://www.facebook.com/xonotic/)
 -	[Twitter](https://twitter.com/xonotic)
 

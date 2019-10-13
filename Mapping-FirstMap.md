@@ -107,7 +107,7 @@ buttons to flip and rotate objects around the three major axes. Make sure that t
 otherwise textures might flicker (so called *Z-fights*).
 
 
-\<\< [NetRadiant](mapping-NetRadiant) | [Packaging](mapping-packaging) \>\>
+\<\< [NetRadiant](mapping-NetRadiant) | [Map picture](mapping-MapPicture) \>\>
 
 … [Creating_Maps](Creating-Maps) …
 

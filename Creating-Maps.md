@@ -8,6 +8,7 @@ Basics
 [Setup](mapping-Setup)  
 [NetRadiant](mapping-NetRadiant)  
 [First Map](mapping-FirstMap)  
+[Map picture](mapping-MapPicture)  
 [Packaging and releasing](mapping-packaging)
 
 Advanced Mapping Tutorials

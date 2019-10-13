@@ -4,7 +4,8 @@
 Object of the Game
 ------------------
 
-Deathmatch is one of the most popular (and easiest) gamemodes in Xonotic. It is a simple free for all fight where everyone plays versus everyone. Each frag (-\> kill) awards you 1 point. To win a map you need 30 points. Note: You lose 1 point if you suicide (e.g. fall in space, lava or kill yourself with a weapon).
+Duel is one of the most competitive game mode in Xonotic. It is basically a 1v1 Deathmatch, usually played with the XPM (Xonotic Pro Mode) ruleset and with no powerups (no Strength and no Shield), but that is not mandatory.  
+The player with the most frags at the end of the timelimit (or the first player to hit the fraglimit, if any) wins the match.
 
 Map Entities
 ------------
@@ -14,7 +15,8 @@ _(Insert Map Entities here)_
 Helpful Hints and Tips
 ----------------------
 
-_(Insert Helpful Hints and Tips here)_
+Items control is very important on duels: if you manage to take the Mega Armor and the Mega Health when they spawn, you are harder to kill and your enemy is more likely to be less stacked than you are.  
+Keep in mind that mega items respawn every 30 seconds.
 
 List of Demos and Videos
 ------------------------

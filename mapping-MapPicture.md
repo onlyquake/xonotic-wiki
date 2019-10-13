@@ -9,7 +9,7 @@ In order to do so:
 *  Use the command `r_letterbox -1` in the console to turn off the HUD
 *  If your map has "waypoint" entities (like CTF or CTS maps), you can hide them with `cl_hidewaypoints 1`
 *  Take a nice screenshot with F12
-*  Go to your Xonotic user directory, on the `data/screenshot` subdirectory. Your user directory location depends on your operating system, more information [here](https://xonotic.org/faq/#where-are-the-configuration-files-located).
+*  Go to your Xonotic user directory, on the `data/screenshot` subdirectory. Your user directory location depends on your operating system, more information [here](https://xonotic.org/faq/#config).
 *  Open the screenshot with an image editor, e.g. GIMP
 *  Crop it so that it has a 4:3 ratio
 *  Scale it to 512x512 px (weird but standard)

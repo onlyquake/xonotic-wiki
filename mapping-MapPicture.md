@@ -1,3 +1,6 @@
+Mapping - Map Picture
+=====================
+
 Make your map sexy !  
 Your map should include a preview picture. This picture will be visible from the game menu and from the servers vote screen.
 
@@ -14,3 +17,7 @@ In order to do so:
 *  Put it in the same location as the bsp file, with the same name (see next chapter for packaging rules).
 
 Original source of information: https://forums.xonotic.org/showthread.php?tid=6067&pid=75757#pid75757
+
+\<\< [First map](mapping-FirstMap) | [Packaging and releasing](mapping-packaging) \>\>
+
+… [Creating_Maps](Creating-Maps) …

@@ -16,7 +16,7 @@ Advanced Mapping Tutorials
 
 [Optimizations](mapping-Optimizing)
 
-Advanced Texturing Tuorials
+Advanced Texturing Tutorials
 ---------------------------
 
 [skyboxes (with blender)](Mapping-textures-skybox-blender)  

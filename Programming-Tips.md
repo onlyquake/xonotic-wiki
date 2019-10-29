@@ -38,7 +38,10 @@ prvm_globalwatchpoint : marks a global as watchpoint (when this is executed, a s
 Examples:  
 Print to console origin of entity number 1: `prvm_edictget server 1 origin`  
 Save to a cvar origin of entity number 1: `prvm_edictget server 1 origin my_cvar`  
-Set a custom origin for entity number 1: `prvm_edictset server 1 origin "100 200 0"`  
+Set a custom origin for entity number 1: `prvm_edictset server 1 origin "100 200 0"`
+
+Setting view angles requires a particular trick, we also need to set fixangle to true in the same server frame:
+`prvm_edictset server 1 fixangle 1; prvm_edictset server 1 angles "20 -90 0"`
 
 Print to console vid_conheight client global: `prvm_edictget client vid_conheight`
 

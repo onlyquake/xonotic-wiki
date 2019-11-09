@@ -207,7 +207,10 @@ The grappling hook needs fuel to work (unless the [Grappling Hook mutator](Grapp
 - Ammo: Fuel (or nothing when [Grappling Hook mutator](Grappling Hook) is active)
 - Impulse: 14/242
 
-The “hook” key (default: E) works as a shortcut for primary fire. In this case, this key selects the grappling hook and fires it.
+Hints and notes:
+-   The “hook” key (default: E) works as a shortcut for primary fire. In this case, this key selects the grappling hook and fires it.
+-   The grappling hook is *not* a hitscan beam! Depending on the distance, it may take a second or two for the hook to actually reach its destination, so use careful timing if using it for an escape!
+-   Conserve your charge (on-hand grappling hook only). It may take a while to regenerate, so don’t consume it all at once.
 
 Port-O-Launch
 -------------

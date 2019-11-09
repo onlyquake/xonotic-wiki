@@ -15,9 +15,9 @@ Gameplay
 --------
 The game is played in seamless rounds. At the beginning of a round, one player per team gets a key in the color of the own team. The player who got the key (called “key carrier”) will see a message and the team mates will instantly see the position of the allied key carrier.
 
-The message “Scanning frequency range” will appear. After a few seconds, the positions of all enemy key carriers will be revealed to everyone, too.
+The message “Scanning frequency range ...” will appear. After 100 seconds, the positions of all keys will be revealed to everyone in the HUD and radar.
 
-To win a round (and score), you have to grab all the keys and join them together. As soon as a team has all the keys, they must meet. If a single player collects all the keys, the team instantly wins the round.
+To win a round (and score big), your team has to grab all the keys and join them together. As soon as a team has all the keys, they must meet. If a single player collects all the keys, the team also wins the round.
 
 It is possible that a key is destroyed or lost during a round (e.g. by dropping it into the abyss or a deathtrap). The key carrier who lost or destroyed the key will lose the round for the team. The color of the key does not matter. This can happen for one of two reasons:
 
@@ -36,7 +36,7 @@ In Key Hunt, the score depends on the number of teams in the game.
 | Gather all keys                       | +300          | +200    | +100    |                                                    |
 | Make enemy team destroy key           | +60           | +60     | +60     | E.g. by pushing key carrier into abyss             |
 | Enemy team acidentally destroyed key  | +17 or +16*   | +25     | +50     | Awarded to each team that did *not* lose the round |
-| Collect enemy key                     | +3            | +3      | +3      | Awarded only once per key and round                |
+| Collect enemy key                     | +3            | +3      | +3      |  |
 | Kill enemy key carrier                | +2            | +2      | +2      |                                                    |
 | Kill other enemy                      | +1            | +1      | +1      |                                                    |
 | Suicide/teamkill                      | -1            | -1      | -1      |                                                    |

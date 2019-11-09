@@ -55,24 +55,35 @@ The following modes are available, although slightly less common than the above:
 ### Standard Mutators
 Mutators change the configuration of the game play, e.g. how weapon appears, which special weapons are availabale, or the physics in the game. This is usually set by the game admins who set up games for other players. Standard Mutators are available in the game menu.
 
+Gameplay mutators:
+
 -   [Dodging](Dodging)
+-   [Touch Explode](Touch-Explode)
+-   [Cloaked](Cloaked)
+-   [Buffs](Buffs)
 -   [Midair](Midair)
 -   [Vampire](Vampire)
 -   [Blood Loss](Blood-Loss)
--   [Low Gravity](Low-Gravity)
--   [Cloak](Cloak)
--   [Relics](Relics)
--   [Weapon Arena](Weapon-Arena)
+-   [Low Gravity](Low Gravity)
+
+Weapon/item mutators:
 -   [Grappling Hook](Grappling-Hook)
--   [Offhand blaster](Offhand-blaster)
--   [Jet Pack](Jet-Pack)
+-   [Jetpack](Jetpack)
+-   [Invincible Projectiles](Invincible-Projectiles)
+-   [New Toys](new-toys)
 -   [Rocket Flying](Rocket-Flying)
--   [Pinata](Pinata)
+-   [Piñata](Pinata)
 -   [Weapons Stay](Weapons-Stay)
+
+Arena mutators:
+-   [Weapon Arena](Weapon-Arena)
 -   [InstaGib](InstaGib)
 -   [NIX](NIX)
+
+Other mutators:
+-   [Offhand blaster](Offhand-blaster)
 -   [Dynamic handicap](dynamic-handicap)
--   [New Toys](new-toys)
+-   [Relics](Relics) (experimental)
 
 ### [Special Servers](Special-Servers)
 

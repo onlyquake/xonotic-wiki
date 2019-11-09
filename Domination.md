@@ -4,7 +4,7 @@ Domination (DOM)
 Object of the Game
 ------------------
 
-In Domination, 2-4 teams try to dominate the map by capturing and keeping control points on the map and fragging the enemy teams. Each control point that a team has captures will generate points over time.
+In Domination, 2-4 teams try to dominate the map by capturing and keeping control points on the map and fragging the enemy teams. Each control point that a team has captured will generate points over time.
 
 Scoring
 -------

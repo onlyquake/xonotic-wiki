@@ -24,11 +24,6 @@ Other rules
 * When you fall into the bottomless pit, you will respawn frozen
 * When you join in a round in progress, you spawn frozen
 
-Map Entities
-------------
-
-_(Insert Map Entities here)_
-
 Helpful Hints and Tips
 ----------------------
 
@@ -36,11 +31,3 @@ Helpful Hints and Tips
 spawn every 2 minutes). They can be useful tools to win a match!
 - [Binds](Binds) are very useful again to coordinate the team.
 - You can freeze (or get frozen) in e.g. lava too! Also if you fall into space you will respawn frozen.
-
-List of Demos and Videos
-------------------------
-
--   Demo: _(Insert Demo or Video Here)_
--   Players: _(Insert Player Names Here)_
--   Key Points: _(Insert key points in match here)_
-

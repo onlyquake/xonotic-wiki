@@ -1,12 +1,20 @@
-DarkPlaces Wiki
-===============
+Console Variables (CVars)
+=========================
 
-Console Variables
-=================
+Introduction
+------------
+Console Variables (CVars) are internal variables that control almost all aspects of the game. You can enable mutators, change damage of weapons, enable special game rules, tweak your HUD, and do many other things.
 
+How to use
+----------
 Here you will find all Console Variables for changing even the most minute aspect of Darkplaces. To access the console to modify these variables, simply press the `~` key on your keyboard. This is the default bind for this action.  
 
-You may also get to it through this menu sequence: `Main Menu -> Options -> Go To Console` or possibly using `Shift + Escape`.  
+You may also get to it through this menu sequence: `Main Menu -> Options -> Go To Console` or possibly using `Shift + Escape`.
+
+You can also access a list of CVars in the game's menus: `Main Menu -> Options -> Misc. -> Advanced Settings …`. This lists all cvars, some of them have a description. Use the filter to find a particular cvar name. You must use the asterisk (“*”) to search for any sequence of characters. Example: To find all cvars with “keyhunt” in their name, type in “*keyhunt*”.
+
+List of CVars (Darkplaces)
+--------------------------
 
     _cl_color is "179" ["0"] internal storage cvar for current player colors (changed by color command)
     _cl_name is "Error" ["player"] internal storage cvar for current player name (changed by name command)

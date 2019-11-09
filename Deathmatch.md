@@ -16,7 +16,7 @@ Scoring
 
 Killing an opponent is also known as a “frag”. The first player to reach the frag limit (default: 30) will win the match.
 
-Map Entities
+Collectibles
 ------------
 
 -   **Weapons** - These can be picked up from various places around the map or from a downed player.
@@ -31,11 +31,3 @@ Helpful Hints and Tips
 -   If your map contains powerups such as the ones mentioned above, make good use of them. They can be useful tools to win a match!
 -   Keep your suicides at a minimum. Your point counter *can* enter into the negatives, so always avoid self-injury.
 -   If a player is approaching you fast and there are “Mega Health” or “Mega Armor” powerups nearby, grab them first! This can deprive the opponent of a chance to heal himself once shot.
-
-List of Demos and Videos
-------------------------
-
--   Demo: _(Insert Demo or Video Here)_
--   Players: _(Insert Player Names Here)_
--   Key Points: _(Insert key points in match here)_
-

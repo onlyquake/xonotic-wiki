@@ -64,7 +64,7 @@ Gameplay mutators:
 -   [Midair](Midair)
 -   [Vampire](Vampire)
 -   [Blood Loss](Blood-Loss)
--   [Low Gravity](Low Gravity)
+-   [Low Gravity](Gravity)
 
 Weapon/item mutators:
 -   [Grappling Hook](Grappling-Hook)

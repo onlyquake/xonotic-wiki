@@ -10,7 +10,7 @@ Shield
 
 ![](http://pics.nexuizninjaz.com/images/l2ycopxlaclk58xpvek8.jpg)
 
-With the Shield you only take 33% of the damage you would normally receive.
+With the Shield you only take 33% of the damage you would normally receive. You're also more resistant to push forces.
 
 Strength
 --------

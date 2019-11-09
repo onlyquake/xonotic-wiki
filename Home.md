@@ -43,14 +43,14 @@ The following modes are more popular ones:
 
 The following modes are available, although slightly less common than the above:
 
--   [Arena](Arena) (removed)
 -   [Assault](Assault)
--   [Invasion](Invasion)
 -   [Domination](Domination)
 -   [Last Man Standing](Last-Man-Standing)
 -   [Nexball](Nexball)
 -   [Onslaught](Onslaught)
 -   [Race](Race)
+-   [Invasion](Invasion) (experimental)
+-   [Arena](Arena) (removed)
 
 ### Standard Mutators
 Mutators change the configuration of the game play, e.g. how weapon appears, which special weapons are availabale, or the physics in the game. This is usually set by the game admins who set up games for other players. Standard Mutators are available in the game menu.

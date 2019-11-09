@@ -20,3 +20,7 @@ Strength
 Strength increases the damage you deal by a factor of 3. The force/knockback that attacks cause is also greatly increased.
 
 The damage and knockback you can deal to yourself is only increased by a factor of 1.5.
+
+See also
+--------
+* [Buffs](Buffs)

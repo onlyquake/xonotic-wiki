@@ -6,13 +6,23 @@ Freeze Tag
 Object of the Game
 ------------------
 
-Freeze Tag is basically like [TDM](Team-Deathmatch), with 2 teams (red & blue). But instead of fragging your enemies – you freeze them into an ice cube. Once a team is 100% frozen the other team gets 1 point (10 to win).
-But (!): Frozen players can be unfrozen (“revived”).
+Freeze Tag is a round-based game with teams. The objective is to freeze all the opposing teams, until only one team remains. Freeze Tag can be played with 2-4 teams.
+
+When a player is fragged, they are frozen. Frozen team mates can be unfrozen by standing close to them.
+
+The surviving team wins the round and collects 1 point. By the default rules, the first team to reach 10 points in total, or the first team to be 6 points in the lead, wins the match. (The score requirement can of course be changed.)
 
 How To:
 
 - Freeze an enemy? Just shoot at him until he is frozen (its similar to a frag).
 - Revive a teammate? Stand close to a frozen teammate for some seconds (it shows for how long you need to stay).
+
+Other rules
+-----------
+
+* Players will unfreeze themselves automatically after 60 seconds
+* When you fall into the bottomless pit, you will respawn frozen
+* When you join in a round in progress, you spawn frozen
 
 Map Entities
 ------------

@@ -40,30 +40,26 @@ Helpful Hints and Tips
  - In console (shift+esc), type "bind k kill" to bind the "k" kill to the suicide action. Put in autoexec.cfg to persist.
  - Pay attention to the speed meter in the cent of your screen
 
-Bunny-hopping
-------------
+Maneuvers
+---------
+
+### Bunny-hopping
 
  - In Xonotic, hold spacebar while moving forward to bunnyhop
 
-Circle-jumping
---------------
+### Circle-jumping
 
  - At the start of the map, a circle jump can be used to gain a speed boost of 500+ qu/s vs. ~300 from a cold start.
 
-Slick Surfaces
---------------
+### Slick Surfaces
 
-Strafe-jumping
---------------
+### Strafe-jumping
 
-Ramp-jumping
-------------
+### Ramp-jumping
 
-Turning
--------
+### Turning
 
- - TODO: Turning is nuanced, harder to explain (komier)
-
+- TODO: Turning is nuanced, harder to explain (komier)
 
 List of Demos and Videos
 ------------------------

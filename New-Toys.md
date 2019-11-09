@@ -1,6 +1,5 @@
 # New Toys
 
-## Overview
 **New Toys** is a mutator that will spawn new, more gimmicky weapons in the arena. They will spawn sometimes in the place of where a core weapon would normally spawn with a chance of 50%.
 
 These are the new weapons that will spawn:
@@ -13,3 +12,6 @@ These are the new weapons that will spawn:
     * **Might spawn instead of:** Hagar
 * [Mine Layer](Weapons#mine-layer)
     * **Might spawn instead of:** Devastator
+
+## CVar
+Enabled with the [CVar](CVars) `g_new_toys`.

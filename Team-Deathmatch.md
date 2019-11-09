@@ -13,7 +13,7 @@ Scoring
 |:-:|:-:|
 | Kill an opponent | +1 |
 | Kill yourself | -1 |
-| Kill team mate | -1 |
+| Kill a team mate | -1 |
 
 Killing an opponent is also know as a “frag”.
 

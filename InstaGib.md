@@ -9,19 +9,15 @@ InstaGib replaces all weaponry with the [Vaporizer](Weapons#vaporizer). It is a 
 Rules
 -----
 
-* Everyone gets the Vaporizer
+* Everyone gets the Vaporizer with 10 cells (=10 shots)
 * If you run out of ammo and don't find new ammo for 10 seconds, you die and lose a point
 * Strength [powerup](Powerups) is replaced by Invisibility
 * Shield powerup is replaced by Speed
 * [Mega Health](Items) is replaced by Extra Life
+* The cells [item](Items) only gives you 5 cells
 
 Details
 ---------------
-
--   Vaporizer weapon information:
-    -   *Primary fire*: Instant-kill beam; has a **\~1 second** recharge time, so aim wisely.
-    -   *Secondary fire*: [Blaster](Weapons#blaster)-like projectile with a very strong push. Can be used for blaster-jumping or pushing other players off the map.
-    -   *Ammunition*: [Cells](Items#cells)
 -   Power cell ammunition may be difficult to find on some maps, but can be picked up readily from a downed player.
 -   InstaGib has some unique collectibles:
     - Invisibility: Makes you (nearly) invisible for 30 seconds

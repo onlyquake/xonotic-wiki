@@ -7,11 +7,13 @@ Nexball
 Object of the Game
 ------------------
 
-Nexball is ball sport game where 2 teams (red & blue) play against one another and try to score goals. You can’t shoot (/frag) other players here.
+Nexball is ball sport game where 2 teams (red and blue) play against one another and try to score goals. On some special maps you can't shoot opponents.
 
-There are two Nexball game-types. The first is similar to soccer/football and allows the player to direct the ball by running into it. The second one is like basketball (or team handball) and allows the player to catch, carry, and shoot the ball. The basketball game-type also allows stealing the ball from an opponent.
+There are two variants of Nexball. The first one is like soccer/football. Players can kick the ball by walking into it.
 
-How To:
+The second variant is like basketball. It gives players a [Ball Stealer](Weapons#ball-stealer). This allows the player to catch, carry, and shoot the ball. This allows stealing the ball from an opponent.
+
+**How to …:**
 
 *Soccer/football*
 - Push the ball? Just move at it and the ball will jump in that direction.
@@ -19,8 +21,8 @@ How To:
 
 *Basketball*
 - Catch or pick up the ball? Just run into the ball.
-- Steal the ball? Click or press alternate-fire while close to a ball carrier.
-- Shoot the ball? Click or press fire.
+- Steal the ball? Use the Ball Stealer's primary attack or press secondary fire while close to a ball carrier.
+- Shoot the ball? Use the Ball Stealer's primary attack
 
 Map Entities
 ------------
@@ -30,7 +32,7 @@ _(Insert Map Entities here)_
 Helpful Hints and Tips
 ----------------------
 
-- Be careful: players can score own goals too.
+- Be careful: Players can score own goals, too.
 
 List of Demos and Videos
 ------------------------

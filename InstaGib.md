@@ -27,7 +27,7 @@ Rules
 
 Collectibles and powerups
 -------------------------
-* Vaporizer (dropped weapon): +10 cells
+* Vaporizer (dropped weapon): +5 cells
 * Cells item: +5 cells
 * Invisibility: Makes you (nearly) invisible for 30 seconds
 * Speed: Greatly increases your movement speed for 30 seconds

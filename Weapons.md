@@ -1,17 +1,19 @@
 Core Weapons
-=======
+============
+These are the main weapons of Xonotic. They are used either as starter weapons or can be collected in most official maps.
 
-Blaster (aka Laser)
------
+Blaster
+-------
 
 ![](http://pics.nexuizninjaz.com/images/50zb4clbm5omqz6y9iy6.jpg) ![](http://pics.nexuizninjaz.com/images/et52lu44j7okoihhndn.jpg)
 
-The blaster is the weakest weapon and one of the starter weapons. It does not use any ammo and it's shot is rather weak, but the strong pushback force can be used to knock enemies to their doom.
+The Blaster is the weakest weapon and one of the starter weapons. It does not use any ammo and it's shot is rather weak, but the strong pushback force can be used to knock enemies to their doom.
 
 - Primary attack: Fire a weak blaster shot that deals little damage, but has a strong pushback.
 - Secondary fire: Switch to previously selected weapon
 - Ammo: None
 - Impulse: 1/230
+- Also known as: Laser
 
 Shotgun
 -------
@@ -35,6 +37,16 @@ The machine gun rapidly fires bullets. It has a limited magazine size and needs 
 -   Secondary fire: 3-bullet fire burst. Cost: 3 bullets.
 -   Ammo: Bullets (magazine size: 60)
 -   Impulse: 3/232
+
+Arc
+----------
+![](http://pics.nexuizninjaz.com/images/wnzvov3b9ifmkj3v3p5v.jpg) ![](http://pics.nexuizninjaz.com/images/lkyzjkd5f6gx6wx33ahr.jpg)
+
+-   Primary fire: Hold pressed to fire a straight beam of energy that damages enemies and heals team mates.
+-   Secondary fire (in version 0.8.2): Fire a more powerful beam of energy. Needs a cooldown after this attack.
+-   Secondary fire (in developer version): Rapidly fire green energy balls.
+-   Ammo: Cells
+-   Impulse: 3/249
 
 Mortar
 ------
@@ -67,8 +79,8 @@ Fires purple balls of energy with many unique properties. They can spread and de
 -   Ammo: Cells
 -   Impulse: 6/236
 
-Vortex (aka Nex)
----
+Vortex
+------
 ![](http://pics.nexuizninjaz.com/images/5g812xez14wu6s117yhp.jpg) ![](http://pics.nexuizninjaz.com/images/511ltxnzq7usrt6ml939.png)
 
 A sniper rifle.
@@ -77,6 +89,7 @@ A sniper rifle.
 -   Secondary fire: Zoom.
 -   Ammo: Cells
 -   Impulse: 7/237
+-   Also known as: Nex
 
 Hagar
 -----
@@ -89,8 +102,8 @@ A rapid-fire rocket launcher.
 -   Ammo: Rockets
 -   Impulse: 8/238
 
-Devastator (aka Rocket Launcher)
----------------
+Devastator
+----------
 ![](http://pics.nexuizninjaz.com/images/8pjbd0b1tc3uzhacafih.jpg) ![](http://pics.nexuizninjaz.com/images/d67rl1y76179orl3t9s.jpg)
 
 The Devastator is a strong rocket launcher.
@@ -99,42 +112,11 @@ The Devastator is a strong rocket launcher.
 -   Secondary fire: Detonate your flying rocket.
 -   Ammo: Rockets
 -   Impulse: 9/239
+-   Also known as: Rocket Launcher
 
-Other Weapons
-=======
-
-@\#!%'n Tuba
-------------
-
-![](http://pics.nexuizninjaz.com/images/lhd46626ynelcxxe0ydt.jpg) ![](http://pics.nexuizninjaz.com/images/sxsmwgh7plcv7ivuacx.jpg)
-
-A very silly weapon and a rare sight in Xonotic. If you hold down the attack key, you will play the tuba. The pitch of the sound will vary when you're walking while you hold the tuba.
-
--   Primary fire: Play the tuba and deal rapid short-range damage to enemies you're facing.
--   Secondary fire: Same as primary fire, but one octave higher.
--   Ammo: None
--   Impulse: 1/244
-
-Shockwave
-----------
-![](http://pics.nexuizninjaz.com/images/enzsrkxcf9mmbtp15437.jpg) ![](http://pics.nexuizninjaz.com/images/wp0dmhpu9wr3dv75men.jpg)
-
-This weapon is experimental. It currently looks identical to the shotgun.
-
--   Primary fire: Fire a shockwave that deals short-range damage.
--   Secondary fire: Slap your opponents (same a shotgun).
--   Ammo: None
--   Impulse: 2/248
-
-Arc
-----------
-![](http://pics.nexuizninjaz.com/images/wnzvov3b9ifmkj3v3p5v.jpg) ![](http://pics.nexuizninjaz.com/images/lkyzjkd5f6gx6wx33ahr.jpg)
-
--   Primary fire: Hold pressed to fire a straight beam of energy that damages enemies and heals team mates.
--   Secondary fire (in version 0.8.2): Fire a more powerful beam of energy. Needs a cooldown after this attack.
--   Secondary fire (in developer version): Rapidly fire green energy balls.
--   Ammo: Cells
--   Impulse: 3/249
+New Toys
+========
+These are weapons that the [New Toys](New Toys) mutator introduces. But you might also be able to find them in some maps.
 
 Mine Layer
 ----------
@@ -147,8 +129,6 @@ Mine Layer
 
 Hint: Use the Mine Layer to protect isolated areas of the map, particularly important areas such as those that contain weapons, [powerups](Powerups), control points in [Onslaught](Onslaught), flags in [CTF](Capture-the-Flag), and checkpoints in [Assault](Assault).
 
-This weapon is used in [New Toys](New Toys).
-
 Heavy Laser Assault Cannon (HLAC)
 ---------------------------------
 ![](http://pics.nexuizninjaz.com/images/oqcqslhrebsuwamcbsr2.jpg) ![](http://pics.nexuizninjaz.com/images/d1ndvcydn97atrdjkrcg.jpg)
@@ -157,21 +137,6 @@ Heavy Laser Assault Cannon (HLAC)
 - Secondary: Fire a single, broadly scattered shot.
 - Ammo: Cells
 - Impulse: 6/243
-
-This weapon is used in [New Toys](New Toys).
-
-Vaporizer (aka MinstaNex)
--------------------------
-![](http://pics.nexuizninjaz.com/images/8praunzsu37vutllk55.jpg) ![](http://pics.nexuizninjaz.com/images/vld5zxiwuys46zpygvo.jpg)
-
-The Vaporizer is a super weapon and the strongest sniper weapon in the game. It is capable of one-shot kills.
-
--   Primary fire: Fire the deadly beam. Kills with one shot, unless the target got an extra life (see [InstaGib](InstaGib)).
--   Secondary fire: Fire a blaster-like projectile with a very strong pushback. Very useful to move yourself around in the map.
--   Ammo: Cells
--   Impulse: 7/241
-
-This weapon is used in [InstaGib](InstaGib).
 
 Rifle
 ------------
@@ -184,8 +149,6 @@ The rifle is the strongest sniper weapon that is not a super weapon. It has a li
 -  Ammo: Bullets (magazine size: 80)
 -  Impulse: 7/245
 
-This weapon is used in [New Toys](New Toys).
-
 T.A.G. Seeker
 -------------
 ![](http://pics.nexuizninjaz.com/images/uo9n5c224ws1e91c49d4.jpg) ![](http://pics.nexuizninjaz.com/images/ckh0mg30by9deb9th46v.jpg)
@@ -196,6 +159,24 @@ The T.A.G. Seeker is a very powerful weapon that fires homing missiles, but it n
 - Secondary: Launch a rapid barrage of explosives with a short range.
 - Ammo: Rockets
 - Impulse: 8/247
+
+Super weapons
+=============
+Super weapons are the deadliest weapons in Xonotic. When you pick up a super weapon under normal conditions, you will only be allowed to hold it for 30 seconds. After this, it will disappear.
+
+Vaporizer
+---------
+![](http://pics.nexuizninjaz.com/images/8praunzsu37vutllk55.jpg) ![](http://pics.nexuizninjaz.com/images/vld5zxiwuys46zpygvo.jpg)
+
+The Vaporizer is a super weapon and the strongest sniper weapon in the game. It is capable of one-shot kills.
+
+-   Primary fire: Fire the deadly beam. Kills with one shot, unless the target got an extra life (see [InstaGib](InstaGib)).
+-   Secondary fire: Fire a blaster-like projectile with a very strong pushback. Very useful to move yourself around in the map.
+-   Ammo: Cells
+-   Impulse: 7/241
+-   Also known as: MinstaNex
+
+In [InstaGib](InstaGib), every players gets the Vaporizer for free and without time limit.
 
 Fireball
 --------
@@ -208,20 +189,8 @@ Fireball is a very explosive super weapon.
 - Ammo: Fuel
 - Impulse: 9/246
 
-Port-O-Launch
--------------
-![](http://pics.nexuizninjaz.com/images/ut32h62fxw63gw1pqcn.jpg) ![](http://pics.nexuizninjaz.com/images/6920poan8rfljg4k8t0w.jpg)
-
-Port-O-Launch creates one-way portals that teleport players. Primary and secondary fire launch “portal balls” that will create portals when they hit a flat surface. Portal balls will be repelled by some surfaces.
-
-You need two portals for this to work: An in-portal (red) and an out-portal (blue). When you have created both portals, any player that enters the in-portal gets teleported to the out-portal. The out-portal will not teleport players back.
-
-Portals stay open only for a limited amount of time (default 15 seconds). Both portals also close when the player that created the portals has died.
-
--   Primary fire: Fire the portal entrance (red).
--   Secondary fire: Fire the portal exit (blue).
--   Ammo: None
--   Impulse: 14/240
+Tools
+=====
 
 Grappling Hook
 --------------
@@ -240,6 +209,21 @@ The grappling hook needs fuel to work (unless the [Grappling Hook mutator](Grapp
 
 The “hook” key (default: E) works as a shortcut for primary fire. In this case, this key selects the grappling hook and fires it.
 
+Port-O-Launch
+-------------
+![](http://pics.nexuizninjaz.com/images/ut32h62fxw63gw1pqcn.jpg) ![](http://pics.nexuizninjaz.com/images/6920poan8rfljg4k8t0w.jpg)
+
+Port-O-Launch creates one-way portals that teleport players. Primary and secondary fire launch “portal balls” that will create portals when they hit a flat surface. Portal balls will be repelled by some surfaces.
+
+You need two portals for this to work: An in-portal (red) and an out-portal (blue). When you have created both portals, any player that enters the in-portal gets teleported to the out-portal. The out-portal will not teleport players back.
+
+Portals stay open only for a limited amount of time (default 15 seconds). Both portals also close when the player that created the portals has died.
+
+-   Primary fire: Fire the portal entrance (red).
+-   Secondary fire: Fire the portal exit (blue).
+-   Ammo: None
+-   Impulse: 14/240
+
 Ball Stealer
 ------------
 ![](http://pics.nexuizninjaz.com/images/ut32h62fxw63gw1pqcn.jpg) ![](http://pics.nexuizninjaz.com/images/6920poan8rfljg4k8t0w.jpg)
@@ -255,6 +239,7 @@ The Ball Stealer currently looks identical to the Port-O-Launch.
 
 Overkill Weapons
 =======
+Overkill is a rule set that introduces a few new weapons. NOTE: This section is incomplete.
 
 Heavy Machine Gun (HMG)
 --------------
@@ -273,3 +258,29 @@ Rocket Propelled Chainsaw (RPC)
 - Secondary fire: ???
 - Ammo: ???
 - Impulse: ???
+
+Silly and experimental weapons
+==============================
+
+@\#!%'n Tuba
+------------
+
+![](http://pics.nexuizninjaz.com/images/lhd46626ynelcxxe0ydt.jpg) ![](http://pics.nexuizninjaz.com/images/sxsmwgh7plcv7ivuacx.jpg)
+
+A very silly weapon and a rare sight in Xonotic. If you hold down the attack key, you will play the tuba. The pitch of the sound will vary when you're walking while you hold the tuba.
+
+-   Primary fire: Play the tuba and deal rapid short-range damage to enemies you're facing.
+-   Secondary fire: Same as primary fire, but one octave higher.
+-   Ammo: None
+-   Impulse: 1/244
+
+Shockwave
+----------
+![](http://pics.nexuizninjaz.com/images/enzsrkxcf9mmbtp15437.jpg) ![](http://pics.nexuizninjaz.com/images/wp0dmhpu9wr3dv75men.jpg)
+
+This weapon is experimental. It fires shockwave blasts and does not need ammo. It currently looks identical to the shotgun.
+
+-   Primary fire: Fire a shockwave blast that deals short-range damage.
+-   Secondary fire: Slap your opponents (same a shotgun).
+-   Ammo: None
+-   Impulse: 2/248

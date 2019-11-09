@@ -4,7 +4,31 @@ Domination (DOM)
 Object of the Game
 ------------------
 
-In domination, the goal is to capture and hold all control points on the map. Domination is similar to [Onslaught](Onslaught) but capturing a control point is easier in Domination, and in Domination points are given for holding a control point, and there is no generator. Rarely are maps made exclusively for Domination, generally an existing [CTF](Capture-the-Flag) or [TDM](Team-Deathmatch) map receives Domination features.
+In Domination, 2-4 teams try to dominate the map by capturing and keeping control points on the map and fragging the enemy teams. Each control point that a team has captures will generate points over time.
+
+Scoring
+-------
+
+| Action | Score |
+|:-:|:-:|
+| Kill an opponent | +1 |
+| Own a control point for 5 seconds | +1 |
+| Kill yourself | -1 |
+| Kill team mate | -1 |
+
+The first team to reach the score limit (default: 50) will win the match.
+
+Control points
+--------------
+Each map has its own number of control points. Many official maps have 3 control points, while some other maps have more.
+
+All control points start neutral and are owned by nobody. To capture a control point, simply walk into it. It will now start to generate points. But beware: Your enemies can capture your control point just as easily, all it takes is just a touch.
+
+Round-based Domination
+----------------------
+Round-based Domination is a variant of Domination. In round-based Domination, the goal is to capture all control points to win a round. The first team to win 5 rounds will win the match. If no team manages to win in 2 minutes, the round will end in a draw and another round will start.
+
+Round-based Domination can be activated with a cvar (`g_domination_roundbased`).
 
 Map Entities
 ------------

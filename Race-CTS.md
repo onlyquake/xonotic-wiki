@@ -4,7 +4,7 @@ Race CTS (= Complete The Stage)
 Object of the Game
 ------------------
 
-This is an advanced mode of [Race](Race). Difference here is that you - instead of running laps - have to reach the finish. The player who sets the fastest time wins after the time is over.
+**Race CTS** (=Complete The Stage) is an advanced mode of [Race](Race). Difference here is that you—instead of running laps—have to reach the finish. The player who sets the fastest time wins after the time is over.
 
 
 Physics
@@ -60,11 +60,3 @@ Maneuvers
 ### Turning
 
 - TODO: Turning is nuanced, harder to explain (komier)
-
-List of Demos and Videos
-------------------------
-
- -   Demo: _(Insert Demo or Video Here)_
- -   Players: _(Insert Player Names Here)_
- -   Key Points: _(Insert key points in match here)_
-

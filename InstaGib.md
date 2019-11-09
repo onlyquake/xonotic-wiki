@@ -23,6 +23,7 @@ Rules
     * Strength [powerup](Powerups) is replaced by Invisibility
     * Shield powerup is replaced by Speed
     * [Mega Health](Items) is replaced by Extra Life
+* If you took damage from the enviroment (e.g. lava), this will reduce the countdown timer when you run out of ammo. You can restore your health back to 100 by collecting ammo
 
 Collectibles and powerups
 -------------------------

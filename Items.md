@@ -42,6 +42,7 @@ Ammo is required by most [weapons](Weapons).
 | **Name** | Shells | Bullets | Cells | Rockets |
 |:-|:-:|:-:|:-:|:-:|
 | **Amount** | 15 | 80 | 30 | 40 |
+| **Max. amount** | 60 | 320 | 180 | 160 |
 | **Item image** |![][shells]  |  ![][bullets]  |![][cells] |  ![][rockets]|
 | **Icon** |![][shells_luma]  |  ![][bullets_luma]  |![][cells_luma] |  ![][rockets_luma]|
 
@@ -60,7 +61,9 @@ Fuel
 
 Fuel is used for special tools like the [Jetpack](jetpack). In the HUD, fuel is displayed as a yellow bar.
 
-Depending on game settings, fuel may automatically refill when you're low on fuel.
+The fuel item will refill your fuel completely.
+
+Depending on game settings, fuel may also automatically refill when you're low on fuel, at least partially.
 
 | **Name** | Fuel |
 |:-|:-:|

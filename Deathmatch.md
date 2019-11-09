@@ -5,9 +5,16 @@ Object of the Game
 ------------------
 
 Deathmatch is one of the most popular classic gamemodes in Xonotic (and also the easiest). It is a simple free-for-all fight to the death where everyone plays versus everyone. There are no teams or alliances, each player is on his/her own and one must fight for their own survival.
--   Each kill you make (known in-game as a **frag**) awards you 1 point.
--   You will lose 1 point if you **suicide** (e.g. fall off the map into space, sink into lava, or kill yourself with a weapon).
--   The first player to score 30 points wins the match.
+
+Scoring
+-------
+
+| Action | Score |
+|:------:|:-----:|
+| Kill an opponent | +1 |
+| Kill yourself | -1 |
+
+Killing an opponent is also known as a “frag”. The first player to reach the frag limit (default: 30) will win the match.
 
 Map Entities
 ------------

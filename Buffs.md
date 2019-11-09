@@ -32,7 +32,7 @@ This is a list of all possible buffs:
 | Vampire | You receive the damage you deal as health (even above 200 HP) |
 | Vengeance | If someone hurts you, some of the damage is mirrored back to them |
 
-Disability, Jump and Swapper are disabled by default.
+Disability, Jump, Flight and Swapper are disabled by default.
 
 Enabling buffs
 --------------

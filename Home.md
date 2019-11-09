@@ -81,6 +81,7 @@ Arena mutators:
 -   [NIX](NIX)
 
 Other mutators:
+-   [Nades](Nades)
 -   [Offhand blaster](Offhand-blaster)
 -   [Dynamic handicap](dynamic-handicap)
 -   [Relics](Relics) (experimental)

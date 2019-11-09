@@ -19,7 +19,7 @@ Killing an opponent is also know as a “frag”.
 
 By the default rules, the team that collectively scores 50 points first wins the match.
 
-Map Entities
+Collectibles
 ------------
 
 -   **Weapons** - These can be picked up from various places around the map or from a downed player.
@@ -34,11 +34,3 @@ Helpful Hints and Tips
 -   If your map contains powerups such as the ones mentioned above, make good use of them. They can be useful tools to win a match!
 -   Keep your suicides at a minimum. Your point counter *can* enter into the negatives, so always avoid self-injury.
 -   Using team [binds](binds) like “Enemy seen” are useful here and can be used to alert teammates of an enemy presence.
-
-List of Demos and Videos
-------------------------
-
--   Demo: _(Insert Demo or Video Here)_
--   Players: _(Insert Player Names Here)_
--   Key Points: _(Insert key points in match here)_
-

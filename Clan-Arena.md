@@ -6,7 +6,7 @@ Object of the Game
 
 Clan Arena is a round-based game mode which is played with teams. Each team spawns with almost all weapons. In each round, every player only has one life, once they die, the can only spectate. If one surviving team remains, they win the round and gain a point.
 
-The first team to reach the score limit (usually 10) will win the match.
+By the default rules, the first team to reach 10 points in total, or the first team to be 6 points in the lead, wins the match. (The score requirement can of course be changed.)
 
 Clan Arena can be played with 2-4 teams.
 

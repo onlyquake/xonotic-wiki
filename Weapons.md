@@ -170,7 +170,7 @@ Vaporizer
 
 The Vaporizer is a super weapon and the strongest sniper weapon in the game. It is capable of one-shot kills.
 
--   Primary fire: Fire the deadly beam. Kills with one shot, unless the target got an extra life (see [InstaGib](InstaGib)).
+-   Primary fire: Fire the deadly beam. Kills with one shot, unless the target got an extra life (see [InstaGib](InstaGib)). Costs 1 cell.
 -   Secondary fire: Fire a blaster-like projectile with a very strong pushback. Very useful to move yourself around in the map.
 -   Ammo: Cells
 -   Impulse: 7/241

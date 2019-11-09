@@ -5,10 +5,19 @@ Object of the Game
 ------------------
 
 The gameplay of Team Deathmatch (TDM) is very similar to [Deathmatch (DM)](Deathmatch), but the players are divided into two teams (Red and Blue) and are pitted against each other. Here, teammates may need to communicate with one another to ensure victory.
--   Each kill you make (known in-game as a **frag**) awards your player 1 point.
--   You will lose 1 point if you **suicide** (e.g. fall off the map into space, sink into lava, or kill yourself with a weapon).
--   You will lose 1 point should you frag a teammate, otherwise known as **Friendly Fire** (*NOTE: Only if the match has FF enabled*).
--   The team that collectively scores 50 points first wins the match.
+
+Scoring
+-------
+
+| Action | Score |
+|:-:|:-:|
+| Kill an opponent | +1 |
+| Kill yourself | -1 |
+| Kill team mate | -1 |
+
+Killing an opponent is also know as a “frag”.
+
+By the default rules, the team that collectively scores 50 points first wins the match.
 
 Map Entities
 ------------

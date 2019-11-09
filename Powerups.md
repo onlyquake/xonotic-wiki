@@ -1,7 +1,9 @@
 Powerups
 ========
 
-Powerups spawn from time to time in the arena and grant to whoever collects them a temporary super power.  Powerups last for 30 seconds by default. Powerups will also be shown in the radar and the HUD 10 seconds before they appear.
+Powerups spawn from time to time in the arena and grant to whoever collects them a temporary super power. They usually appear at about every 2 minutes or so.
+
+A powerup lasts for 30 seconds by default. Powerups will also be shown in the radar and the HUD 10 seconds before they appear.
 
 Shield
 ------

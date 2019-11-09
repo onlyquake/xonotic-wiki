@@ -170,7 +170,7 @@ Vaporizer
 
 The Vaporizer is a super weapon and the strongest sniper weapon in the game. It is capable of one-shot kills.
 
--   Primary fire: Fire the deadly beam. Kills with one shot, unless the target got an extra life (see [InstaGib](InstaGib)). Costs 1 cell.
+-   Primary fire: Fire the deadly beam. Kills with one shot, unless the target got an extra life (see [InstaGib](InstaGib)). Costs 10 cells (or 1 in [InstaGib](InstaGib)).
 -   Secondary fire: Fire a blaster-like projectile with a very strong pushback. Very useful to move yourself around in the map.
 -   Ammo: Cells
 -   Impulse: 7/241
@@ -182,11 +182,11 @@ Fireball
 --------
 ![](http://pics.nexuizninjaz.com/images/v1mtkb5tqkg78y5x5zak.png) ![](http://pics.nexuizninjaz.com/images/b9rz84cu63ph0vdr5x67.jpg)
 
-Fireball is a very explosive super weapon.
+Fireball is a very explosive super weapon. It doesn't consume ammo.
 
 - Primary fire: Launch a large ball of fire that will fly in a straight line detonate in a huge explosion. The shot has a delay of ca. 1 second, however.
 - Secondary fire: Throw fire mines that hurt anyone nearby. You can throw them with a delay of ca. 3 seconds each.
-- Ammo: Fuel
+- Ammo: None
 - Impulse: 9/246
 
 Tools

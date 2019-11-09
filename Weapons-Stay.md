@@ -6,6 +6,8 @@ While red, anyone can still walk over the weapon to collect it, but it will only
 
 In this mutator, weapons will still “respawn” after being collected. This just turns a red weapon back to normal again, meaning it will give you the weapon and ammo.
 
+Weapons dropped from players are not affected by this mutator.
+
 CVar
 ----
 This is controlled by the [CVar](CVars) `g_weapon_stay`.

@@ -34,7 +34,7 @@ MachineGun
 The machine gun rapidly fires bullets. It has a limited magazine size and needs to be reloaded when the magazine is empty. You can reload manually with the reload key (default: R).
 
 -   Primary fire: Rapidly fire bullets. Cost: 1 bullet per shot.
--   Secondary fire: 3-bullet fire burst. Cost: 3 bullets.
+-   Secondary fire: 3-bullet fire burst. More accurate than primary fire, but has a slight delay between bursts. Cost: 3 bullets.
 -   Ammo: Bullets (magazine size: 60)
 -   Impulse: 3/232
 
@@ -52,7 +52,7 @@ Mortar
 ------
 ![](http://pics.nexuizninjaz.com/images/d87cqnfvw08fv904y7bx.jpg) ![](http://pics.nexuizninjaz.com/images/2fnx84s2fa06clf2dc3.jpg)
 
-A grenade launcher.
+A slow long-range grenade launcher.
 
 -   Primary fire: Launch grenade that explodes on impact. Cost: 2 rockets.
 -   Secondary fire: Launch grenade that explodes after a fixed, short amount of time. Cost: 2 rockets.
@@ -74,7 +74,7 @@ Crylink
 
 Fires purple balls of energy with many unique properties. They can spread and deflect. Very fast players that get hit by the balls might also be slowed down significantly.
 
--   Primary fire: Fire purple energy balls that will spread and deflect on surfaces once. Hold pressed for the balls to continue to spread, release the button to inverse the spreading direction of the balls.
+-   Primary fire: Fire 6 evenly-spread purple energy balls that will spread and deflect on surfaces once. Hold pressed for the balls to continue to spread, release the button to inverse the spreading direction of the balls.
 -   Secondary fire: Fire purple energy balls that are more concentrated. They will not deflect.
 -   Ammo: Cells
 -   Impulse: 6/236
@@ -270,12 +270,16 @@ Silly and experimental weapons
 
 ![](http://pics.nexuizninjaz.com/images/lhd46626ynelcxxe0ydt.jpg) ![](http://pics.nexuizninjaz.com/images/sxsmwgh7plcv7ivuacx.jpg)
 
-A very silly weapon and a rare sight in Xonotic. If you hold down the attack key, you will play the tuba. The pitch of the sound will vary when you're walking while you hold the tuba.
+The @\#!%'n tuba is a very silly and @\#!%'n annoying weapon that makes the ears of your enemies bleed!
 
--   Primary fire: Play the tuba and deal rapid short-range damage to enemies you're facing.
--   Secondary fire: Same as primary fire, but one octave higher.
--   Ammo: None
--   Impulse: 1/244
+If you hold down the @\#!%'n attack key, you will play the @\#!%'n tuba. The pitch of the sound will vary while pressing different directional keys or the @\#!%'n Jump key while make some noise.
+
+Using it as weapon can be @\#!%'n challenging, as it obscures a large portion of your sight.
+
+- @\#!%'n primary fire: Play the @\#!%'n tuba and deal low but rapid short-range damage to whoever the @\#!% you're facing.
+- @\#!%'n secondary fire: Same as @\#!%'n primary fire, but with higher pitch.
+- Ammo: None
+- Impulse: 1/244
 
 Shockwave
 ----------

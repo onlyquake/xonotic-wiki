@@ -14,20 +14,7 @@ See also
 --------
 Clan Arena is very similar to [Freeze Tag](Freeze-Tag). Clan Arena is also similar to [Last Man Standing](Last-Man-Standing).
 
-Map Entities
-------------
-
-_(Insert Map Entities here)_
-
 Helpful Hints and Tips
 ----------------------
 
 - Team [binds](binds) are again useful to show your position (e.g. “Roaming” bind on 8 [Numpad]) or to show enemy’s position.
-
-List of Demos and Videos
-------------------------
-
--   Demo: _(Insert Demo or Video Here)_
--   Players: _(Insert Player Names Here)_
--   Key Points: _(Insert key points in match here)_
-

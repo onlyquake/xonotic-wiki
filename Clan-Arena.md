@@ -12,9 +12,7 @@ Clan Arena can be played with 2-4 teams.
 
 See also
 --------
-Clan Arena is very similar to [Freeze Tag](Freeze-Tag). In Freeze Tag, players can be revived, while in Clan Arena, you only get one life.
-
-Clan Arena is also similar to [Last Man Standing](Last-Man-Standing).
+Clan Arena is very similar to [Freeze Tag](Freeze-Tag). Clan Arena is also similar to [Last Man Standing](Last-Man-Standing).
 
 Map Entities
 ------------

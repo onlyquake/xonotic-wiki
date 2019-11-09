@@ -15,7 +15,7 @@ Gameplay
 --------
 The game is played in seamless rounds. At the beginning of a round, one player per team gets a key in the color of the own team. The player who got the key (called “key carrier”) will see a message and the team mates will instantly see the position of the allied key carrier.
 
-The message “Scanning frequency range ...” will appear. After 100 seconds, the positions of all keys will be revealed to everyone in the HUD and radar.
+10 seconds after the beginning of a round, the positions of all keys will be revealed to everyone in the HUD and radar.
 
 To win a round (and score big), your team has to grab all the keys and join them together. As soon as a team has all the keys, they must meet. If a single player collects all the keys, the team also wins the round.
 

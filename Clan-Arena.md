@@ -4,7 +4,17 @@ Clan Arena (CA)
 Object of the Game
 ------------------
 
-Clan Arena is basically Team [LMS](Last-Man-Standing) (you spawn with almost all weapons as well) where 2 teams (red & blue) fight against each other. Once you die you have to spectate. If 1 team is 100% dead the other team gets 1 point. 10 points to win a map.
+Clan Arena is a round-based game mode which is played with teams. Each team spawns with almost all weapons. In each round, every player only has one life, once they die, the can only spectate. If one surviving team remains, they win the round and gain a point.
+
+The first team to reach the score limit (usually 10) will win the match.
+
+Clan Arena can be played with 2-4 teams.
+
+See also
+--------
+Clan Arena is very similar to [Freeze Tag](Freeze-Tag). In Freeze Tag, players can be revived, while in Clan Arena, you only get one life.
+
+Clan Arena is also similar to [Last Man Standing](Last-Man-Standing).
 
 Map Entities
 ------------

@@ -181,8 +181,9 @@ Other mutators:
 -   Story Themes
     -   [Close to home](Close-to-home)
     -   [Tech Conglomerate](Tech-Conglomerate)
--   Campaigns
-    -   [Creating campaigns](Creating-campaigns)
+
+### Campaigns
+-   [Creating campaigns](Creating-campaigns)
 
 
 ## Misc

@@ -36,7 +36,7 @@ In Key Hunt, the score depends on the number of teams in the game.
 | Gather all keys                       | +300          | +200    | +100    |                                                    |
 | Make enemy team destroy key           | +60           | +60     | +60     | E.g. by pushing key carrier into abyss             |
 | Enemy team acidentally destroyed key  | +17 or +16*   | +25     | +50     | Awarded to each team that did *not* lose the round |
-| Collect enemy key                     | +3            | +3      | +3      | Only counts if the previous carrier of the key was an enemy |
+| Collect key                           | +3            | +3      | +3      | Only counts if the previous carrier of the key was an enemy |
 | Kill enemy key carrier                | +2            | +2      | +2      |                                                    |
 | Kill other enemy                      | +1            | +1      | +1      |                                                    |
 | Suicide/teamkill                      | -1            | -1      | -1      |                                                    |

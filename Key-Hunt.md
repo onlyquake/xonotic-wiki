@@ -24,7 +24,7 @@ It is possible that a key is destroyed or lost during a round (e.g. by dropping 
 1. The key carrier destroyed/lost the key due to own clumsiness: The team is “punished” by rewarding all other teams with a few points. This will appear as “destroyed” in the scoreboard
 2. An opponent pushed the key carrier violently into the abyss or a deadly liquid which destroyed the key. This awards the attacking team some points. This will be counted under “pushes” in the scoreboard
 
-Finally, you can drop your keys by pressing the “Drop flag/key” control. It's [F] by default.
+Finally, you can drop a key by pressing the “Drop flag/key” control. It's [F] by default.
 
 Scoring
 -------

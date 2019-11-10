@@ -18,7 +18,7 @@ This is a list of all possible buffs:
 |:-|:-|
 | Ammo | Your ammo is infinite |
 | Bash | Increased knockback force and immunity to knockback |
-| Disability | Attacks to enemies deal slowness (decreased movement/attack speed) for a few seconds) |
+| Disability | Attacks to enemies deal slowness (decreased movement/attack speed) for a few seconds |
 | Flight | Crouch in mid-air to reverse gravity for you |
 | Inferno | Players you damage will also receive burning damage for a few seconds |
 | Invisible | You are nearly invisible |

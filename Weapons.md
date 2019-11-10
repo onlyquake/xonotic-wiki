@@ -133,8 +133,8 @@ Heavy Laser Assault Cannon (HLAC)
 ---------------------------------
 ![](http://pics.nexuizninjaz.com/images/oqcqslhrebsuwamcbsr2.jpg) ![](http://pics.nexuizninjaz.com/images/d1ndvcydn97atrdjkrcg.jpg)
 
-- Primary: Rapidly fire laser particles, dealing a small amount of knockback and 10-13 damage.
-- Secondary: Fire a single, broadly scattered shot.
+- Primary fire: Rapidly fire laser particles, dealing a small amount of knockback and 10-13 damage. Primary fire will lose accuracy the longer you shoot. Stop shooting for a while to restore the accuracy.
+- Secondary fire: Fire a single, broadly scattered shot.
 - Ammo: Cells
 - Impulse: 6/243
 

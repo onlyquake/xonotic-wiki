@@ -7,7 +7,7 @@ Key Hunt (KH)
 Object of the Game
 ------------------
 
-KeyHunt is a round-based game mode normally played with 3 teams, but 2 or 4 teams are also possible.
+Key Hunt is a round-based game mode normally played with 3 teams, but 2 or 4 teams are also possible.
 
 In each round, one player of each team gets a key. The goal of each round is to collect all the keys and gather up to score a lot of points. The first team to reach the score goal (default: 1000) wins the match.
 

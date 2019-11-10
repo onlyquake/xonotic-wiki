@@ -3,7 +3,7 @@ Please remove them from the translated strings (they may be removed automaticall
 
 | Prefix | Context | Note |
 | ------ | ------ | ------ |
-| `QMCMD^` | Quick command menu and preset chat messages | Removing this prefix on translated strings may actually cause issues for the German translation? |
+| `QMCMD^` | Quick command menu and preset chat messages | |
 | `MUSICPL^` | Music playlist | |
 | `TEAM^` | Team color word | Used in event messages |
 | `GENERATOR^` | Generator color word (Onslaught) | Used in event messages |

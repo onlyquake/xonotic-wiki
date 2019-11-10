@@ -21,9 +21,9 @@ This is a list of all possible buffs:
 | Disability | Attacks to enemies deal slowness (decreased movement/attack speed) for a few seconds) |
 | Flight | Crouch in mid-air to reverse gravity for you |
 | Inferno | Players you damage will also receive burning damage for a few seconds |
-| Invisible | You will be nearly invisible |
+| Invisible | You are nearly invisible |
 | Jump | Greatly increased jump height |
-| Luck | Each attack has a chance of a “critical hits” with greatly increased damage |
+| Luck | Each attack has a chance of being a “critical hit” with greatly increased damage |
 | Magnet | You will automatically collect items near you |
 | Medic | Your health will regenerate up to 150 HP, you heal nearby players and have a chance to survive fatal hits |
 | Resistance | Greatly reduces damage taken |

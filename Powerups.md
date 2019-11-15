@@ -3,7 +3,9 @@ Powerups
 
 Powerups spawn from time to time in the arena and grant to whoever collects them a temporary super power. They usually appear at about every 2 minutes or so.
 
-A powerup lasts for 30 seconds by default. Powerups will also be shown in the radar and the HUD 10 seconds before they appear.
+A powerup usually lasts for 30 seconds. Powerups will also be shown in the radar and the HUD 10 seconds before they appear.
+
+*Note: All numbers on this page are default values, as of 0.8.2. Servers could, in theory, tweak everything with [CVars](CVars).*
 
 Shield
 ------

@@ -9,6 +9,8 @@ In Keepaway, a ball will spawn randomly on the map. The goal is to take the ball
 Scoring
 -------
 
+The default scoring as of 0.8.2 is as follows:
+
 | Action | Score |
 |:-:|:-:|
 | Kill an opponent while you hold the ball | +1 |
@@ -18,10 +20,14 @@ Other kills score no points.
 
 The first player to reach the frag limit (usually 30) will win the match.
 
+### Custom scoring
+
+Servers can change the scoring system. In particular, it's possible to also award players with points based on time, solely for carrying the ball around.
+
 Detailed rules
 --------------
 
-* If nobody collects the ball for 10 seconds, it will teleport to a random place
+* If nobody collects the ball for a while, it will teleport to a random place
 
 Helpful Hints and Tips
 ----------------------

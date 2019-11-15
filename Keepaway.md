@@ -9,22 +9,21 @@ In Keepaway, a ball will spawn randomly on the map. The goal is to take the ball
 Scoring
 -------
 
-The default scoring as of 0.8.2 is as follows:
+The following actions can score you points (scores as of 0.8.2):
 
-| Action | Score |
-|:-:|:-:|
-| Kill an opponent while you hold the ball | +1 |
-| Kill the ball carrier | +1 |
+| Name | Action | Default score |
+|:-:|:-:|:-:|
+| Kill As Carrier | Kill an opponent while you carry the ball | +1 |
+| Ball Carrier Kill | Kill the ball carrier | +1 |
+| Time Points | Carry the ball for a short amount of time | 0 |
 
-Other kills score no points.
+In 0.8.2, there are no Time Points by default, but they can be enabled by the server (see below).
 
-The first player to reach the frag limit (usually 30) will win the match.
+The first player to reach the score limit (usually 30) will win the match.
 
 ### Custom scoring
 
-Servers can change the scoring system with [CVars](CVars) (`g_keepway_score_*`). The score you get for kills can be changed.
-
-Additionally, it's possible to also award players with points based on time, solely for carrying the ball around.
+Servers can change the score you get for each action above with [CVars](CVars) (`g_keepway_score_*`). This means they can also enable Time Points.
 
 Detailed rules
 --------------

@@ -12,9 +12,11 @@ Scoring
 | Action | Score |
 |:-:|:-:|
 | Kill an opponent | +1 |
-| Own a control point for 5 seconds | +1 |
+| Own a control point for a few seconds | +1 |
 | Kill yourself | -1 |
 | Kill team mate | -1 |
+
+As of 0.8.2, owning a control point gives your team 1 point every 5 seconds by default. The frequency at which points are awarded can be changed by a [CVar](CVar) (`g_domination_point_rate`).
 
 The first team to reach the score limit (default: 50) will win the match.
 

@@ -28,7 +28,7 @@ All control points start neutral and are owned by nobody. To capture a control p
 
 Round-based Domination
 ----------------------
-Round-based Domination is a variant of Domination. In round-based Domination, the goal is to capture all control points to win a round. The first team to win 5 rounds will win the match. If no team manages to win in 2 minutes, the round will end in a draw and another round will start.
+Round-based Domination is a variant of Domination. In round-based Domination, the goal is to capture all control points to win a round. The first team to win a given number of rounds will win the match. If no team manages to win a round for a long time, the round will end in a draw and new round will start.
 
 Round-based Domination can be activated with a cvar (`g_domination_roundbased`).
 

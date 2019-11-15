@@ -15,7 +15,7 @@ Gameplay
 --------
 The game is played in seamless rounds. At the beginning of a round, one player per team gets a key in the color of the own team. The player who got the key (called “key carrier”) will see a message and the team mates will instantly see the position of the allied key carrier.
 
-10 seconds after the beginning of a round, the positions of all keys will be revealed to everyone in the HUD and radar.
+A few seconds after the beginning of a round, the positions of all keys will be revealed to everyone in the HUD and radar.
 
 To win a round (and score big), your team has to grab all the keys and join them together. As soon as a team has all the keys, they must meet. If a single player collects all the keys, the team also wins the round.
 
@@ -29,7 +29,7 @@ Finally, you can drop a key by pressing the “Drop flag/key” control. It's [F
 Scoring
 -------
 
-In Key Hunt, the score depends on the number of teams in the game.
+In Key Hunt, the score depends on the number of teams in the game. As of 0.8.2, the scoring (by default) is as follows:
 
 | Action                                | 4 teams       | 3 teams | 2 teams | Notes                                              |
 |:-------------------------------------:|:-------------:|:-------:|:-------:|:--------------------------------------------------:|
@@ -41,7 +41,11 @@ In Key Hunt, the score depends on the number of teams in the game.
 | Kill other enemy                      | +1            | +1      | +1      |                                                    |
 | Suicide/teamkill                      | -1            | -1      | -1      |                                                    |
 
-\* = This is a known bug. See [issue #2344](https://gitlab.com/xonotic/xonotic-data.pk3dir/issues/2344)
+\* = This is a known bug in 0.8.2. See [issue #2344](https://gitlab.com/xonotic/xonotic-data.pk3dir/issues/2344)
+
+### Custom scoring
+
+It's possible for servers to change the scoring by setting [CVars](CVars) (`g_balance_keyhunt_score_*`).
 
 Helpful Hints and Tips
 ----------------------

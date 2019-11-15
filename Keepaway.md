@@ -12,7 +12,7 @@ Scoring
 The following actions can score you points (scores as of 0.8.2):
 
 | Name | Action | Default score |
-|:-:|:-:|:-:|
+|:-|:-|-:|
 | Kill As Carrier | Kill an opponent while you carry the ball | +1 |
 | Ball Carrier Kill | Kill the ball carrier | +1 |
 | Time Points | Carry the ball for a short amount of time | 0 |

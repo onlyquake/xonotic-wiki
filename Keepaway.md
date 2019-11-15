@@ -22,7 +22,9 @@ The first player to reach the frag limit (usually 30) will win the match.
 
 ### Custom scoring
 
-Servers can change the scoring system. In particular, it's possible to also award players with points based on time, solely for carrying the ball around.
+Servers can change the scoring system with [CVars](CVars) (`g_keepway_score_*`). The score you get for kills can be changed.
+
+Additionally, it's possible to also award players with points based on time, solely for carrying the ball around.
 
 Detailed rules
 --------------

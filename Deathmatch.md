@@ -10,7 +10,7 @@ Scoring
 -------
 
 | Action | Score |
-|:------:|:-----:|
+|:-------|------:|
 | Kill an opponent | +1 |
 | Kill yourself | -1 |
 

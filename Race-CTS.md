@@ -30,10 +30,6 @@ Physics
 -------
 See [Race](Race).
 
-Weapons
--------
-See [Race](Race).
-
 Helpful Hints and Tips
 ----------------------
 See [Race](Race).

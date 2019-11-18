@@ -13,7 +13,7 @@ A round ends if either all monsters are dead (=round won) or after a timeout (=r
 
 The player who fragged the most monsters overall wins the game.
 
-Note: “Winning” a round has no impact on your score. This message is for informational purposes only.
+Note: “Winning” a round has no impact on your score. Only dead monsters count.
 
 The monsters
 ------------

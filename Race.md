@@ -19,10 +19,10 @@ Weapons
 
 In some maps/servers you can use weapons to speed yourselves up.
 
-- *Rocket Launcher* or *Blaster*: Aim at the ground or walls, gain speed
-- *Hagar*: Aim in front, towards your feet at a low angle, wall climb
-- *Mortar*: Aim in front, towards your feet at a low angle, gain height
-- *Crylink*: Aim behind, towards ground or wall, speed, distance
+- **Blaster** and **Devastator**: Aim at the ground or walls, gain speed
+- **Hagar**: Aim in front, towards your feet at a low angle, wall climb
+- **Mortar**: Aim in front, towards your feet at a low angle, gain height
+- **Crylink**: Aim behind, towards ground or wall, speed, distance
 
 Physics
 -------

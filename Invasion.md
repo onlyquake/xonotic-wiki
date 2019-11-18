@@ -1,7 +1,7 @@
 Invasion
 ========
 
-*Note: As this game mode is still experimental, the information in this page might become outdated as new Xonotic versions get released. This article is written for version 0.8.2.*
+*Note: As this game mode is still experimental, the information in this page might become outdated as new Xonotic versions get released. This page is written for version 0.8.2.*
 
 **Invasion** is a highly **experimental** game mode in which the players fight together against hordes of monsters.
 

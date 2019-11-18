@@ -4,13 +4,17 @@ Race CTS (= Complete The Stage)
 Object of the Game
 ------------------
 
-**Race CTS** (=Complete The Stage) is an advanced mode of [Race](Race). Difference here is that you—instead of running laps—have to reach the finish. The player who sets the fastest time wins after the time is over.
+In **Race CTS** (=Complete The Stage), the map is a race track and you have to run through the map from start to finish as fast as possible possible. It's a variant of [Race](Race). Difference here is that you don't run in laps and the start and finish points are at different positions.
 
+Gameplay
+--------
+The map will have a start point, checkpoints and a finish point. To *complete the stage*, you start at the start point and run to each checkpoint in the correct order until you reach the finish point. The HUD will show you where you have to run next. In some maps, there can be branching paths and multiple checkpoints will be shown. In this case, you can choose which path to take.
 
-Physics
--------
+When you've reached the finish point, your time is recorded. You will respawn shortly afterwards, for another attempt to complete the stage as fast as you can.
 
-CTS can use any phyics, but [XDF](XDF) is the default physics set, based on the [Quake DeFRaG](https://en.wikipedia.org/wiki/DeFRaG) mod.
+Your goal is to get the fastest time.
+
+Unlike in [Race](Race), damage is normally disabled in Race CTS.
 
 Map Entities
 ------------
@@ -22,41 +26,18 @@ Map Entities
  - *Jet Pack* - This is used to fly
  - *Decorative* - Some maps have entities you cannot, or should not pick up as they are just decorative
 
+Physics
+-------
+See [Race](Race).
+
 Weapons
 -------
-
-Some maps use weapons.
-
- - *Rocket Launcher* - Aim at the ground or walls, gain speed
- - *Hagar* - Aim in front, towards your feet at a low angle, wall climb
- - *Mortar* - Aim in front, towards your feet at a low angle, gain height
- - *Crylink* - Aim behind, towards ground or wall, speed, distance
+See [Race](Race).
 
 Helpful Hints and Tips
 ----------------------
+See [Race](Race).
 
- - The physics are different in Race CTS if a server runs the mod ‘[Xonotic Pro Mode](Xonotic Pro Mode)’.
- - You can’t push (/frag) other players like in Race.
- - In console (shift+esc), type "bind k kill" to bind the "k" kill to the suicide action. Put in autoexec.cfg to persist.
- - Pay attention to the speed meter in the cent of your screen
-
-Maneuvers
----------
-
-### Bunny-hopping
-
- - In Xonotic, hold spacebar while moving forward to bunnyhop
-
-### Circle-jumping
-
- - At the start of the map, a circle jump can be used to gain a speed boost of 500+ qu/s vs. ~300 from a cold start.
-
-### Slick Surfaces
-
-### Strafe-jumping
-
-### Ramp-jumping
-
-### Turning
-
-- TODO: Turning is nuanced, harder to explain (komier)
+See also
+--------
+[Race](Race)

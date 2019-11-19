@@ -1,7 +1,7 @@
 Players
 =======
 
-This is a list of all player models in Xonotic (note: some of these might not be available in your version).
+This is a list of player models in Xonotic (note: some of these might not be available in your version).
 
 Erebus
 ------

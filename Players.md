@@ -1,6 +1,8 @@
 Players
 =======
 
+This is a list of all player models in Xonotic (note: some of these might not be available in your version).
+
 Erebus
 ------
 
@@ -8,6 +10,7 @@ Erebus
 
 Nyx
 ---
+*(missing image)*
 
 Ignis
 -----
@@ -44,14 +47,15 @@ Gak Armored
 
 ![](http://www.xonotic.org/m/uploads/2010/05/1512771715148-500x312.png) ![](http://www.xonotic.org/m/uploads/2010/05/di-212771614895-500x312.png)  
 
-Gak-Masked
+Gak Masked
 ----------
 
 ![](http://www.xonotic.org/m/uploads/2010/05/112771714068-500x312.png) ![](http://www.xonotic.org/m/uploads/2010/05/di-1212771613363-500x312.png)  
 
 Pyria
 -----
+*(missing image)*
 
 Umbra
 -----
-
+*(missing image)*

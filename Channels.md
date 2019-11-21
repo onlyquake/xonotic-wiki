@@ -12,7 +12,7 @@ For a short introduction to IRC, [skip to the bottom of this page](Channels#gene
 
 ### QuakeNet (irc.quakenet.org:6667) - https://webchat.quakenet.org/
 
-    #xonotic           - General purpose channel, bridged  to [discord](https://discordapp.com/invite/0uxcsw1XMkaOB936)
+    #xonotic           - General purpose channel, bridged  to discord: https://discordapp.com/invite/0uxcsw1XMkaOB936
     #xonotic.cup       - Cup channel
     #xonotic.duel      - Duel servers (psyx, FPS, WTWRP, pacman)
     #xonotic.editing   - Channel for mapmakers, modelers, texturers, etc.
@@ -85,6 +85,13 @@ Jabber XMPP MUCs
     xonotic at conf.jabberes.org - Spanish channel
     xonotic at conference.jabber.ru - Russian channel
     xonotic at conference.jabber.org - English channel
+
+Discord
+-------
+
+[invite link](https://discordapp.com/invite/0uxcsw1XMkaOB936)
+
+Some channels are bridged to IRC.
 
 General IRC info and rules
 --------------------------

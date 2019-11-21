@@ -6,9 +6,13 @@ IRC
 
 For a short introduction to IRC, [skip to the bottom of this page](Channels#general-irc-info-and-rules).
 
+### FreeNode (chat.freenode.net:6667) - https://webchat.freenode.net/
+
+    #xonotic - Game developer channel. Non-development subjects should be directed to the main Xonotic channel on QuakeNet
+
 ### QuakeNet (irc.quakenet.org:6667) - https://webchat.quakenet.org/
 
-    #xonotic           - General purpose channel
+    #xonotic           - General purpose channel, bridged  to [discord](https://discordapp.com/invite/0uxcsw1XMkaOB936)
     #xonotic.cup       - Cup channel
     #xonotic.duel      - Duel servers (psyx, FPS, WTWRP, pacman)
     #xonotic.editing   - Channel for mapmakers, modelers, texturers, etc.
@@ -16,7 +20,7 @@ For a short introduction to IRC, [skip to the bottom of this page](Channels#gene
     #xonotic.pickup    - Pickup channel
     #xonotic.translate - Channel to discuss translation issues
 
-#### Country/Region specific IRC channels
+Country/Region specific IRC channels:
 
     #xonotic.au - Xonotic Australia
     #xonotic.de - Xonotic Germany
@@ -24,7 +28,7 @@ For a short introduction to IRC, [skip to the bottom of this page](Channels#gene
     #xonotic.na - Xonotic North America
     #xonotic.ru - Xonotic Russia
 
-#### Clan channels
+Clan channels:
 
     #bot.xonotic         - BOT
     #cf.etqw             - Combat Folk
@@ -46,7 +50,7 @@ For a short introduction to IRC, [skip to the bottom of this page](Channels#gene
     #xonotic.butt        - BUTT
     #xon.fsmp            - FSMP
 
-#### Server channels
+Server channels:
 
     #clanexe           - .exe servers
     #dtg.ctf           - Die Tunichtguten server (Insta CTF)
@@ -65,10 +69,6 @@ For a short introduction to IRC, [skip to the bottom of this page](Channels#gene
     #xdf               - Xonotic DeFrag server
     #xonorun           - Gnom servers
     #xonotic.smb       - SMB servers
-
-### FreeNode (chat.freenode.net:6667) - https://webchat.freenode.net/
-
-    #xonotic - Game developer channel. Non-development subjects should be directed to the main Xonotic channel on QuakeNet
 
 ### ARCNet (irc.arcnet.vapor.com:6667)
 

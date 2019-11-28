@@ -1,4 +1,4 @@
-An unofficial up-to-date list containing almost all maps with a search feature and previews: [xonotic.co](http://xonotic.co/)
+For unofficial map lists, see [Unofficial map repositories](Home#unofficial-map-repositories).
 
 Official Maps
 =============

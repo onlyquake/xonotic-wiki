@@ -18,13 +18,14 @@ Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 - [HALOGENE’S NEWBIE CORNER](https://xonotic.org/guide/) has rich information for beginners. **Must read!** You will enjoy the game more!
 - [Overkill Tutorial](https://xonotic.org/okguide/)
 
+### Unofficial map repositories
+- [xonotic.fps.gratis](http://xonotic.fps.gratis/) (or [dl.xonotic.fps.gratis](http://dl.xonotic.fps.gratis/) for a simple list that loads faster) - Run by [-z-](https://github.com/z/)/[detrate](https://gitlab.com/detrate). Same content as [xonotic.co](http://xonotic.co/).
+- [gnome.xonotic.in.ua](http://gnome.xonotic.in.ua/)
+- [xon.recombi.net](http://xon.recombi.net/) (or [xon.recombi.net/dl](http://xon.recombi.net/dl/) for a simple list that loads faster) - Has content from both [fps.gratis](http://xonotic.fps.gratis/) and [gnome](http://gnome.xonotic.in.ua/), [fps.gratis](http://xonotic.fps.gratis/) has precedence in case of conflict.
+- [xonotic.co](http://xonotic.co/) - Currently down.
+
 ### Game Mechanics
 - [Maps](Maps)
-  - Unofficial map repositories:
-    - [xonotic.co](http://xonotic.co/) - Currently down.
-    - [xonotic.fps.gratis](http://xonotic.fps.gratis/) (or [dl.xonotic.fps.gratis](http://dl.xonotic.fps.gratis/) for a simple list that loads faster) - Run by [-z-](https://github.com/z/)/[detrate](https://gitlab.com/detrate). Same content as [xonotic.co](http://xonotic.co/).
-    - [gnome.xonotic.in.ua](http://gnome.xonotic.in.ua/)
-    - [xon.recombi.net](http://xon.recombi.net/) (or [xon.recombi.net/dl](http://xon.recombi.net/dl/) for a simple list that loads faster) - Has content from both [fps.gratis](http://xonotic.fps.gratis/) and [gnome](http://gnome.xonotic.in.ua/), [fps.gratis](http://xonotic.fps.gratis/) has precedence in case of conflict.
 - [Players](Players)
 - [Items](Items)
 - [Vehicles](Vehicles)

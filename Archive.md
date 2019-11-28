@@ -1,5 +1,13 @@
 A list of pages that are old or incomplete. Nothing else (on the wiki) links to them so I put them here before we decide what to do with them.
 
+
+Could be useful
+---------------
+
+[Forbidden-disposable-email-providers](Forbidden-disposable-email-providers) - somebody uses this so might not wanna delete (got asked about it on irc when i moved it)  
+[Modeling-in-blender](Modeling-in-blender) - idk how outdated this is  
+[Server](Server) - TODO find a better place for this info 
+
 Maaaaybe historically interesting
 ---------------------------------
 
@@ -10,14 +18,7 @@ Mostly stuff about the fork from nexuiz
 [Pr](Pr)  
 [Announcements](Announcements) - fork announcement  
 [Plan](Plan) - what the original plan was after forking  
-[Old-FAQ-questions](Old-FAQ-questions)
-
-Could be useful
----------------
-
-[Forbidden-disposable-email-providers](Forbidden-disposable-email-providers) - somebody uses this so might not wanna delete (got asked about it on irc when i moved it)
-[Modeling-in-blender](Modeling-in-blender) - idk how outdated this is  
-[Server](Server) - TODO find a better place for this info  
+[Old-FAQ-questions](Old-FAQ-questions) 
 
 Other
 -----

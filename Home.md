@@ -24,6 +24,14 @@ Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 - [xon.recombi.net](http://xon.recombi.net/) (or [xon.recombi.net/dl](http://xon.recombi.net/dl/) for a simple list that loads faster) - Has content from both [fps.gratis](http://xonotic.fps.gratis/) and [gnome](http://gnome.xonotic.in.ua/), [fps.gratis](http://xonotic.fps.gratis/) has precedence in case of conflict.
 - [xonotic.co](http://xonotic.co/) - Currently down.
 
+### Unofficial Web-based Server Lists
+-   [dpmaster.deathmask.net](http://dpmaster.deathmask.net/?game=xonotic)
+    - one of the 2 active master servers, shows servers from only one master at a time (itself by default)
+    - web interface not open source
+    - see page source for list of URL parameters - e.g. `master=dpmaster.tchr.no` to view the other master (which has no web interface)
+-   [arena.sh/xo](https://arena.sh/xo/) - run by *nmc* on discord
+-   [xonotic.lifeisabug.com](https://xonotic.lifeisabug.com/) - run by *incognico* on discord
+
 ### Game Mechanics
 - [Maps](Maps)
 - [Players](Players)
@@ -34,7 +42,7 @@ Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 ### Game Modes (or Game Types)
 In Xonotic, game modes and game types mean the same thing -- different modes/types have different goals to achieve in a game.
 
-The following modes are more popular ones:
+The following modes are the more popular ones:
 
 -   [Capture the Flag](Capture-the-Flag)
 -   [Clan Arena](Clan-Arena)
@@ -94,11 +102,6 @@ Other mutators:
 ### [Special Servers](Special-Servers)
 
 ### [Mods](Mods)
-
-### Unofficial Web-based Server Lists
--   [dpmaster.deathmask.net](http://dpmaster.deathmask.net/?game=xonotic) - one of the 2 master servers, doesn't always have all servers but the other one doesn't have a web interface
--   [arena.sh/xo](https://arena.sh/xo/) - run by *nmc* on discord
--   [xonotic.lifeisabug.com](https://xonotic.lifeisabug.com/) - run by *incognico* in discord
 
 ### Misc
 -   [Autobuilds](Autobuilds)

@@ -1,6 +1,10 @@
-### Loading the code you've just compiled
+### Faster compiling and reloading of QuakeC
 
-Once your QC code is compiled to progs.dat for server and csprogs.dat for client you don't need to restart Xonotic, it suffices to start a new map with `map XXX` (depending on how you launch Xonotic you may need to use `fs_rescan; map XXX`). For menu code you can restart the menu with `menu_restart`.
+You can use `QCCFLAGS_WERROR="" ZIP=: ./all compile` to let the build succeed even with warnings and to skip compressing the resulting csprogs.dat (client gamecode) into a pk3.
+
+Server and menu code produce progs.dat and menu.dat respectively.
+
+No need to restart Xonotic to load the new client and server code, just start a new map with `map XXX` (depending on how you launch Xonotic you may need to use `fs_rescan; map XXX`). You can restart the menu with `menu_restart`.
 
 ### Debug prints
 

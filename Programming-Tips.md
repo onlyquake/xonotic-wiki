@@ -69,7 +69,7 @@ prvm_edictwatchpoint server
 
 For this purpose it's possible to use a text-based tool called [Cscope](https://en.wikipedia.org/wiki/Cscope) together with a GUI (it can be either an application or a plugin for a text editor).
 
-#### Download / Installation
+##### Download / Installation
 
 * Download and install cscope with `pacman -S cscope`  
 Windows users must download the Windows version of cscope from https://code.google.com/archive/p/cscope-win32/downloads and put it into the main xonotic repo directory. The mingw version can't be used as it puts Unix paths into the generated indices, making them unusable.
@@ -82,7 +82,7 @@ Windows users must download the Windows version of cscope from https://code.goog
 * If you don't use Atom, you also need to copy ~~[cscope_createindex.sh](uploads/17c725e19be8f4935c30c2506e168405/cscope_createindex.sh)(old version)~~ [cscope_createindex.sh](uploads/451835f6b1894145af06050915256048/cscope_createindex.sh) into the main xonotic repo directory.
 
 
-#### Configuration
+##### Configuration
 
 * Configure your plugin if needed:  
   * jEdit's CscopeFinder settings:  
@@ -105,7 +105,7 @@ Windows users must download the Windows version of cscope from https://code.goog
 
 * With Atom you can build cscope indices in the atom-cscope window (open with `Ctrl + Alt + o`) by clicking the flash icon.
 
-#### Usage
+##### Usage
 
 * jEdit: select a word in the editor, right-click and select "Find this C symbol" or another "Find ..." entry (if you don't see these entries you should add them in the context menu settings).
 * SublimeText: select a word in the editor, right-click and select "Look up symbol" or another "Look up ..." entry.

@@ -15,8 +15,11 @@ You can draw text anywhere on the map using `debug_text_3d(world_coords, message
 ### Multiple clients + clean config
 
 If you need 2 players for debugging, you can launch another client locally:
- - use -sessionid (e.g. `./all run -sessionid testing`) to keep your config
- - use -userdir (e.g. `./all run -userdir ~/.xonotic-testing +name tester +cl_allow_uid2name 0`) to get a clean config (`+cl_allow_uid2name 0` to avoid an annoying popup). You can set whatever cvar on start with `+cvar_name value`.
+- use -sessionid (e.g. `./all run -sessionid testing`) to keep your config
+- use -userdir (e.g. `./all run -userdir ~/.xonotic-testing +name tester +cl_allow_uid2name 0`) to get a clean config (if you delete the dir before each use)
+  - you can set any cvar or run any command on start with `+cvar_name value`
+    - `+name tester` avoids the nick selection dialog
+    - `+cl_allow_uid2name 0` avoids an annoying popup 
 
 ### Testing with bots
 

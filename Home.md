@@ -28,7 +28,7 @@ Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 -   [dpmaster.deathmask.net](http://dpmaster.deathmask.net/?game=xonotic)
     - one of the 2 active master servers, shows servers from only one master at a time (itself by default)
     - web interface not open source
-    - see page source for list of URL parameters - e.g. `master=dpmaster.tchr.no` to view the other master (which has no web interface)
+    - see page source for list of URL parameters - e.g. [`master=dpmaster.tchr.no`](http://dpmaster.deathmask.net/?game=xonotic&master=dpmaster.tchr.no) to view the other master (which has no web interface)
 -   [arena.sh/xo](https://arena.sh/xo/) - run by *nmc* on discord
 -   [xonotic.lifeisabug.com](https://xonotic.lifeisabug.com/) - run by *incognico* on discord
 

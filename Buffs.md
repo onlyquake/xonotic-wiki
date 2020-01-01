@@ -28,7 +28,7 @@ This is a list of all possible buffs:
 | Medic | Your health will regenerate up to 150 HP, you heal nearby players and have a chance to survive fatal hits |
 | Resistance | Greatly reduces damage taken |
 | Speed | Increased speed of movement, attacks and health regeneration. Downside: You are a bit more vulnerable to attacks as well |
-| Swapper | You can press the “drop weapon” key to switch places with a nearby enemy |
+| Swapper | You can press the “drop weapon” key to switch places with a nearby enemy (once) |
 | Vampire | You receive the damage you deal as health (even above 200 HP) |
 | Vengeance | If someone hurts you, some of the damage is mirrored back to them |
 

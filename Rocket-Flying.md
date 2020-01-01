@@ -1,11 +1,11 @@
 Rocket Flying
 -------------
 
-**Rocket Flying** is a mutator that makes *rocket jump* maneuvers more effective.
+**Rocket Flying** is a mutator that makes *rocket jump* maneuvers more effective. A rocket jump is when you use the Devastator, look downwards, fire and detonate the rocket instantly to get an upwards push. This is a fun but also dangerous maneuver as it will hurt you.
 
-Normally, when you detonate a Devastator rocket direcly below you (look down and hold down secondary fire and press primary fire while in midair), you will experience some force from the explosion. (unless the explosion killed you).
+Normally, when you fire a Devastator rocket and try to detonate it immediately, there's a very slight delay. So a *rocket jump* will apply *some* force to you, but it's not very effective.
 
-This mutator will tweak the mechanic in such a way that the effective force you receive from this maneuver is increased. This makes this maneuver much more effective, meaning you can fly much higher into the air if you apply this trick correctly.
+But if the **Rocket Flying** mutator is enabled, rockets you fire from the Devastator can be detonated *instantly*; the very slight delay is gone. This causes *rocket jumps* to be much more effective; you can push yourself upwards even when moving fast.
 
 Hints
 -----

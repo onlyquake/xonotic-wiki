@@ -35,7 +35,7 @@ This folder should also contain your `config.cfg`.
 
 ### Step 6: Setting up NetRadiant
 
-When you first start up radiant it may ask where the engine path is. Simply, point it to the xonotic install location. Then NetRadaint should start,and the lower right pane should have lists of texture packs. If there are no texture packs, then refer back to step 4.
+When you first start up radiant it may ask where the engine path is. Simply, point it to the xonotic install location. Then NetRadiant should start,and the lower right pane should have lists of texture packs. If there are no texture packs, then refer back to step 4.
 
 \<\< [Introduction](mapping-Introduction) | [NetRadiant](mapping-NetRadiant) \>\>
 

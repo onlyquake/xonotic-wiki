@@ -4,6 +4,8 @@ Create an account on Transifex and send a request to join a language team. Once 
 
 Translations are automatically synced (once a day) between Transifex and the [xonotic-data.pk3dir](https://gitlab.com/xonotic/xonotic-data.pk3dir) git repository.
 
+Some more technical info is in the data repo: [qcsrc/i18n-guide.txt](https://gitlab.com/xonotic/xonotic-data.pk3dir/blob/master/qcsrc/i18n-guide.txt), [qcsrc/lib/i18n.qh](https://gitlab.com/xonotic/xonotic-data.pk3dir/blob/master/qcsrc/lib/i18n.qh)
+
 Translation guidelines and good practices
 =========================================
    - [Translation guidelines](Translation-guidelines)

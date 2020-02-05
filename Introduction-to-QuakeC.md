@@ -271,7 +271,7 @@ A special kind of functions are the built-in functions, which are defined by the
 string strcat(string a, string b, ...) = #115;
 ```
 
-The function/field syntax is ambiguous. In global scope a declaration can be a variable, field or function. In local scope, it's always a variable. The `var` keyword can be used in global scope to treat is as local scope (always declaring a variable). The following table shows declarations in global scope:
+The function/field syntax is ambiguous. In global scope a declaration can be a variable, field or function. In local scope, it's always a variable. The `var` keyword can be used in global scope to treat it as local scope (always declaring a variable). The following table shows declarations in global scope:
 
 | Example code | Meaning |
 |--------------|---------|

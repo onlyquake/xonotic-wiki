@@ -181,7 +181,6 @@ Other mutators:
 ### Arts & Media
 -   [Artistic Style](Artistic-Style)
 -   [Xonotic Logo](Logo)
--   [Weapons Makeover](Weapons-Makeover)
 -   [Music](Music)
     -   [Music contributions](Music-contributions)
 -   [Sound FX](Sound-FX)

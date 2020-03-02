@@ -38,3 +38,4 @@ Other
 [Community development](Community-development) - another outdated list  
 [Art Roadmap](Art-Roadmap)  
 [NewQC](NewQC) - possible changes regarding QC (compiler, syntax, …) - never happened so the syntax descriptions are mostly wrong  
+[Weapons Makeover](Weapons-Makeover)  

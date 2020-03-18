@@ -6,6 +6,8 @@ Modeling for DP
 
 Quick notes from LordHavoc on model support (please improve this page!).
 
+EDIT 2020-03-19 - exporting from blender might need specific (old) versions: https://forums.xonotic.org/showthread.php?tid=8269&pid=85677#pid85677
+
 Supported model formats
 -----------------------
 

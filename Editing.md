@@ -1,7 +1,9 @@
 Getting access
 --------------
 
-If you want write access, please ask for it at [#xonotic on FreeNode](https://webchat.freenode.net/) so we know you're not a bot, we'll gladly give it to you (unfortunately, there is no way to allow anonymous editing on GitLab). After that, you can edit the wiki online (there is an Edit button when logged in) or clone it to your machine using git (`git clone git@gitlab.com:xonotic/xonotic.wiki.git`).
+If you want write access, please tell us your GitLab username on [#xonotic on FreeNode](https://webchat.freenode.net/) or request access on the [main Xonotic project](https://gitlab.com/xonotic/xonotic), we'll gladly give it to you (unfortunately, there is no way to allow anonymous editing on GitLab).
+
+After that, you can edit the wiki online (there is an Edit button when logged in) or clone it to your machine using git (`git clone git@gitlab.com:xonotic/xonotic.wiki.git`).
 
 
 Guidelines

@@ -56,6 +56,7 @@ Server channels:
     #dtg.ctf           - Die Tunichtguten server (Insta CTF)
     #eac.xonotic       - Evil Ant Colony servers
     #element.ctf       - LMNT servers
+    #eris.xonotic      - Eris votable - the best motherfucking xon server
     #jeff-xonotic      - Jeff servers
     #mon.sa            - LX' Overkill (formerly MoN servers (Overkill + Vehicle))
     #pac.xon           - WTWRP, FPS, pacman non-Duel servers

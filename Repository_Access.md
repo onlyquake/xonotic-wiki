@@ -12,25 +12,28 @@ Make sure you have at least 2 GB memory to compile.
 
 ### Linux
 
+Note: `curl` isn't required but it's strongly recommended for downloading maps when playing online, `wget` is not supported for this.  
+
+Note: The `all` script requires either `wget` or `curl`.
+
+
 **Ubuntu Dependencies**:
 
-    sudo apt-get install autoconf build-essential curl git-core libtool libgmp-dev libjpeg-turbo8-dev libsdl2-dev libxpm-dev xserver-xorg-dev zlib1g-dev
+    sudo apt-get install autoconf build-essential curl git libtool libgmp-dev libjpeg-turbo8-dev libsdl2-dev libxpm-dev xserver-xorg-dev zlib1g-dev
 
-Note: On Debian, use `libjpeg8-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories.
-
-Note: `curl` isn't required but it's strongly recommended for downloading maps when playing online.
+Note: On Debian, use `libjpeg62-turbo-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories.
 
 Note: `libasound2-dev libxext-dev libxxf86vm-dev p7zip-full unzip wget x11proto-xf86vidmode-dev` might be needed but are probably already installed. `libclalsadrv-dev libsdl2-image-dev libxcb-xf86dri0-dev libxxf86dga-dev x11proto-xf86dga-dev x11proto-xf86dri-dev` should no longer be needed.
 
 **Fedora** and other **RPM based** distro dependencies:
 
-    autoconf automake gcc-c++ gmp-devel libjpeg-turbo-devel libtool SDL2-devel
+    autoconf automake gcc-c++ gmp-devel libjpeg-turbo-devel libtool SDL2-devel curl
 
 Note: `x11-proto-devel` or `xorg-x11-proto-devel` might be needed but might be already installed.
 
 **Archlinux** dependencies:
 
-    sudo pacman -S alsa-lib curl libjpeg-turbo libmodplug libpng libvorbis libxpm libxxf86dga libxxf86vm sdl2 unzip wget
+    sudo pacman -S alsa-lib curl git libjpeg-turbo libmodplug libpng libvorbis libxpm libxxf86dga libxxf86vm sdl2 unzip
 
 ### Windows
 

@@ -117,5 +117,5 @@ Windows users must download the Windows version of cscope from https://code.goog
 
 ### QC syntax highlighting:
 
-* For jEdit: [qc.xml](https://gitlab.com/terencehill/qc-syntax-highlighting-for-jedit/blob/master/qc.xml)
-* For Kate: [qc.xml](https://gist.github.com/DefaultUser/998f030ab41a9e8edf4a9f8e703c6350)
+* terencehill's version for jEdit: [qc.xml](https://gitlab.com/terencehill/qc-syntax-highlighting-for-jedit/blob/master/qc.xml)
+* EACFreddy's version for Kate: [qc.xml](https://gist.github.com/DefaultUser/998f030ab41a9e8edf4a9f8e703c6350)

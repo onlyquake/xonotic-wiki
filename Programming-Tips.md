@@ -68,6 +68,12 @@ prvm_globalwatchpoint server
 prvm_edictwatchpoint server
 ```
 
+### Doxygen
+
+[This](https://timepath.github.io/scratchspace/index.html) is generated as part of [CI on xonotic-data.pk3dir](https://gitlab.com/xonotic/xonotic-data.pk3dir/blob/master/.gitlab-ci.yml) - you can search functions, "classes", globals, etc.
+
+Note that it might be incomplete or incorrect because Doxygen doesn't understand all of QC's constructs and our code heavily uses macros.
+
 ### Tool to find C symbols, functions, declarations and definitions inside source code
 
 For this purpose it's possible to use a text-based tool called [Cscope](https://en.wikipedia.org/wiki/Cscope) together with a GUI (it can be either an application or a plugin for a text editor).

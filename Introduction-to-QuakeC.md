@@ -150,6 +150,11 @@ A *string* in QuakeC is an immutable reference to a null-terminated character st
     strstrofs("haystack", "ac", 0) == 5;
     ```
 
+-   **strreplace(old, new, string)** searches for certain characters in a string and replaces them with other characters, as in:
+    ```c
+    strreplace("de", "con", "destruction") == "construction";
+    ```
+
 The offset defines from which starting position to search, and the return value is `–1` if no match is found. The offset returned is *0*-based, and to search in the whole string, a start offset of *0* would be used.
 
 -   **substring(string, startpos, length)** returns part of a string. The offset is *0*-based here, too.

@@ -3,10 +3,8 @@ Compiling and Contributing
 
 Xonotic uses [several Git repositories](Git). The `all` script in the main repo manages them, builds Xonotic and runs it. Each repo can also contain feature branches next to the stable `master` branch, check them out for WIP features.
 
-***
-
-Setting up the development environment
---------------------------------------
+Build Requirements
+------------------
 
 Make sure you have at least 2 GB memory to compile.
 
@@ -17,7 +15,7 @@ Note: `curl` isn't required but it's strongly recommended for downloading maps w
 Note: The `all` script requires either `wget` or `curl`.
 
 
-**Ubuntu Dependencies**:
+**Ubuntu** dependencies:
 
     sudo apt-get install autoconf build-essential curl git libtool libgmp-dev libjpeg-turbo8-dev libsdl2-dev libxpm-dev xserver-xorg-dev zlib1g-dev
 
@@ -51,9 +49,7 @@ You can now use this shell to continue on with the guide and clone the Xonotic r
 
 You must first install **XCode** which comes on your installation DVD or can be downloaded from the Apple website. This package provides tools like **Git and GCC**, which are needed for successful checkout and compilation of Xonotic. Some versions of XCode come with Git and others don’t - if you don’t have Git after installing XCode get it here: [XCode installer](http://sourceforge.net/projects/git-osx-installer/files/)
 
-***
-
-Cloning the repository and compiling
+Cloning the Repository and Compiling
 ------------------------------------
 
 To begin downloading:
@@ -92,9 +88,7 @@ To update your Git clone:
 
 If you run into issues with the latest version you can easily revert to an older one. Since most bugs are caused by the game code rather that the engine, you just need to downgrade that repository. Inside the main xonotic repository, use `cd data/xonotic-data.pk3dir` and then `git checkout <some older commit>`. After that go back `cd -` and `./all compile` (with the optional `-r` flag).
 
-***
-
-Contributing and getting write access
+Contributing and Getting Write Access
 -------------------------------------
 
 Cloning (one of) our repos and submitting MRs from there (as in any other project) works but you won't be able to use our CI setup for the data repo (which seems to need a custom runner). It's therefore a good idea to join the Xonotic group and get push access - then you can create branches in our repos and use our CI.
@@ -152,13 +146,13 @@ Starts the Xonotic client
 
 Starts a Xonotic dedicated server
 
-General contributor guidelines
+General Contributor Guidelines
 ------------------------------
 
 1.  Before creating your local branch and committing to it, make sure you’ve configured your user settings such as your name which will display in the logs (in TortoiseGit: Settings > Git > Config).
 2.  Try naming your branch myname/mychange for each patch. For instance, if your name is Alex and the change you are committing is a menu fix, use something like alex/menufix.
 
-Further git information
+Further Git Information
 -----------------------
 
 About tracking remote branches:

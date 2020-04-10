@@ -1,5 +1,5 @@
-Repository Access and Compiling
-===============================
+Compiling and Contributing
+==========================
 
 Xonotic uses [several Git repositories](Git). The `all` script in the main repo manages them, builds Xonotic and runs it. Each repo can also contain feature branches next to the stable `master` branch, check them out for WIP features.
 

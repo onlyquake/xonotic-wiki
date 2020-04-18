@@ -31,7 +31,7 @@ Note: `x11-proto-devel` or `xorg-x11-proto-devel` might be needed but might be a
 
 **Archlinux** dependencies:
 
-    sudo pacman -S alsa-lib curl git libjpeg-turbo libmodplug libpng libvorbis libxpm libxxf86dga libxxf86vm sdl2 unzip
+    sudo pacman -S alsa-lib curl git libjpeg-turbo libmodplug libpng libvorbis libxpm xorgproto libxxf86vm sdl2 unzip
 
 ### Windows
 

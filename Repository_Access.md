@@ -6,7 +6,7 @@ Xonotic uses [several Git repositories](Git). The `all` script in the main repo 
 Build Requirements
 ------------------
 
-Make sure you have at least 2 GB memory to compile.  This is enough to run a git server, but 4GB is needed to play using a git client.
+Make sure you have at least 2GB memory to compile.  This is enough for a git server, but 6GB is required to play using a git client.
 
 [About 12GB of disk space is required for the git repositories.](Git)
 

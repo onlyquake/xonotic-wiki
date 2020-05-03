@@ -8,6 +8,7 @@
 * `sv_eventlog_files_nameprefix`: file name prefix to be used 
 * `sv_eventlog_files_namesuffix`: file name extension to be used
 * `sv_eventlog_files_timestamps`: prefix log lines in the files with time events
+* `sv_eventlog_ipv6_delimiter`: change : in IPv6 addresses to _
 
 ## Log format
 ```

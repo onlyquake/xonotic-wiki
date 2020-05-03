@@ -24,6 +24,8 @@
 :name:<ID>:<nickname>
 :part:<ID>
 :team:<ID>:<team>:<jointype>
+:chat:<ID>:<message>
+:chat_spec:<ID>:<message>
 :kill:frag:<ID of killer>:<ID of victim>:type=<death type>:items=<itemstring of killer>:victimitems=<itemstring of victim>
 :kill:tk:<ID of killer>:<ID of victim>:type=<death type>:items=<itemstring of killer>:victimitems=<itemstring of victim>
 :kill:suicide:<ID>:<ID>:type=<death type>:items=<itemstring>

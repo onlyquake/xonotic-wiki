@@ -13,11 +13,10 @@ Downloaded packages end up in `Xonotic/data/dlcache/` or
 `~/.xonotic/data/dlcache/` and are only used till you exit Xonotic.
  If you want to play them localy or use them to setup a server of your
 own you can "accept" the packages by moving it one level up - right
-next to your config.cfg.
+next to your `config.cfg`.
 
-You should regularily clean up your cache to save space and make the maps
+You should regularly clean up your cache to save space and make the maps
 you really want available from the menu.
-
 
 ## Server-side configuration
 
@@ -50,19 +49,28 @@ The pk3 name will be appended to the URL by DarkPlaces. Note that you NEED to
 append a trailing slash if you refer to a directory. If you specify a "-" as
 URL, the package will not be offered for download.
 
+**Note:** HTTP**S** downloads are not supported for Xonotic Windows Clients! It works for the Linux client but you probably want to serve all players so it is advised to use `http://` in `sv_curl_defaulturl` or `curl_urls.txt`.
 
-INFORMATION FOR MIRROR/MAP SERVER ADMINS:
+Some Apache config snippet for the `<VirtualHost>` to allow for Xonotic Clients to use HTTP while all other traffic get redirected to HTTPS would be:
+```apache
+        RewriteEngine On
+        RewriteCond %{HTTP_USER_AGENT} ^Xonotic
+        RewriteRule ^ - [END]
+        RewriteCond %{HTTPS} !=on
+        RewriteRule ^(.*) https://%{SERVER_NAME}$1 [R=301,L]
+```
 
-The Referer is always set to dp://serverhost:serverport/, the User-Agent
-always starts with "Xonotic". Look at this sample log line:
+More Information about the Referer:
 
-141.2.16.3 - - [06/Jun/2006:19:43:14 +0000] "GET /~polzer/temp/nexmaps.php?filename=o-fun.pk3 HTTP/1.1" 302 - "dp://141.2.16.3:26000/" "Xonotic Linux 21:26:17 Jun  6 2006"
+The Referer is always set to dp://serverhost:serverport/, the User-Agent always starts with "Xonotic". Look at this sample log line:
+
+`141.2.16.3 - - [06/Jun/2006:19:43:14 +0000] "GET /~polzer/temp/nexmaps.php?filename=o-fun.pk3 HTTP/1.1" 302 - "dp://141.2.16.3:26000/" "Xonotic Linux 21:26:17 Jun  6 2006"`
 
 
 If you want to set up a redirection service, here is a sample PHP code for you
 to start from:
 
-```
+```php
 <?
 
 function findmap($filename)

@@ -8,7 +8,7 @@
 * `sv_eventlog_files_nameprefix`: file name prefix to be used 
 * `sv_eventlog_files_namesuffix`: file name extension to be used
 * `sv_eventlog_files_timestamps`: prefix log lines in the files with time events
-* `sv_eventlog_ipv6_delimiter`: change : in IPv6 addresses to _
+* `sv_eventlog_ipv6_delimiter`: change `:` in IPv6 addresses to `_` for easy parsing of :join lines with IPv6 IPs
 
 ## Log format
 ```
@@ -16,7 +16,7 @@
 :gamestart:<gametype>_<mapname>:<matchid>
 :gameinfo:mutators:LIST:mutator1:mutator2:...
 ```
-(note that mutators are listed by their cvar name with g_ removed, unless such a cvar is 1 by default - then the mutator is listed with a no_ prefix if the cvar is 0)
+(Note that mutators are listed by their cvar name with g_ removed, unless such a cvar is 1 by default - then the mutator is listed with a no_ prefix if the cvar is 0)
 ```
 :gameinfo:end
 :join:<ID>:<slot>:<ip>:<nickname>
@@ -25,6 +25,7 @@
 :part:<ID>
 :team:<ID>:<team>:<jointype>
 :chat:<ID>:<message>
+:chat_team:<ID>:<team>:<message>
 :chat_spec:<ID>:<message>
 :kill:frag:<ID of killer>:<ID of victim>:type=<death type>:items=<itemstring of killer>:victimitems=<itemstring of victim>
 :kill:tk:<ID of killer>:<ID of victim>:type=<death type>:items=<itemstring of killer>:victimitems=<itemstring of victim>
@@ -95,7 +96,7 @@ Note that only the :join and :player lines ever contain player names. The :time 
 ### Item string
 `<weaponid><flags>` or `<weaponid><flags>|<buffs>`
 
-where flags can contain:
+Where flags can contain:
 * F = player carries the flag
 * S = player has strength
 * I = player has the shield
@@ -120,9 +121,9 @@ and weapon IDs are:
 Weapon IDs are below 10000.
 
 ### Death type
-either a weapon ID ORed with weapon death flags, or one of the notifications in common/deathtypes.qh in the form of a string.
+Either a weapon ID ORed with weapon death flags, or one of the notifications in common/deathtypes.qh in the form of a string.
 
-weapon death flags are:
+Weapon death flags are:
 * 256 = secondary fire
 * 512 = splash damage
 * 1024 = bounced projectile

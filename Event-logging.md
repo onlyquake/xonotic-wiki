@@ -31,11 +31,11 @@
 :kill:tk:<ID of killer>:<ID of victim>:type=<death type>:items=<itemstring of killer>:victimitems=<itemstring of victim>
 :kill:suicide:<ID>:<ID>:type=<death type>:items=<itemstring>
 :kill:accident:<ID>:<ID>:type=<death type>:items=<itemstring>
-:ctf:steal:<flagcolor>:<ID of attacker>
-:ctf:dropped:<flagcolor>:<ID of dropper>
-:ctf:pickup:<flagcolor>:<ID of attacker>
-:ctf:capture:<flagcolor>:<ID of attacker>
-:ctf:return:<flagcolor>:<ID of defender>
+:ctf:steal:<flagcolor>:<teamcolor>:<ID of attacker>
+:ctf:dropped:<flagcolor>:<teamcolor>:<ID of dropper>
+:ctf:pickup:<flagcolor>:<teamcolor>:<ID of attacker>
+:ctf:capture:<flagcolor>:<teamcolor>:<ID of attacker>
+:ctf:return:<flagcolor>:<teamcolor>:<ID of defender>
 :ctf:returned:<flagcolor>
 :dom:taken:<previouscolor>:<ID of player>
 :keyhunt:capture:<ID of player>:<points for player>:<ID of key owner>:<points for key owner>:<name of key>

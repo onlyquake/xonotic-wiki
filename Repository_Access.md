@@ -96,7 +96,9 @@ Contributing and Getting Write Access
 Cloning (one of) our repos and submitting MRs from there (as in any other project) works but you won't be able to use our CI setup for the data repo (which seems to need a custom runner). It's therefore a good idea to join the Xonotic group and get push access - then you can create branches in our repos and use our CI.
 
 A condition for write (push) access is that you agree that any code or data you push will be licensed under the General Public License, version 2, with or without the “or any later version” clause. In case the directory the changes apply to contains a LICENSE or COPYING file indicating another license, then your pushed code has to be dual licensed appropriately. Subdirectories currently having a dual license:
-\* data/qcsrc/warpzonelib - dual licensed as “GPLv2 or later” or MIT license.
+
+* `data/xonotic-data.pk3dir/qcsrc/lib/warpzone` - dual licensed as “GPLv2 or later” or MIT license.
+
 In case the code you pushed was not written by you, it is your responsibility to ensure proper licensing.
 
 To apply for write access, add your SSH key to your GitLab account and ask for access in #xonotic on the FreeNode IRC network or [request access](https://docs.gitlab.com/ce/user/group/index.html#request-access-to-a-group) using the GitLab interface.

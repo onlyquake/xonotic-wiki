@@ -29,9 +29,12 @@ This folder should also contain your `config.cfg`.
 
 ### Step 5: Get NetRadiant working
 
--   **Windows**: The mapping support zip contains a compiled version of NetRadiant in the `mapping` folder
--   **Linux**: Linux users need to compile NetRadiant themselves (see [NetRadiant Repo](https://gitlab.com/xonotic/netradiant)) or can download a compiled version [here](http://ingar.intranifty.net/gtkradiant/index.html)
--   **Mac**: Current versions of MacOS/OSX don't seem to work because of gtkglext, compiled versions from [here](http://ingar.intranifty.net/gtkradiant/index.html) might work
+-   **Windows**: Windows users can download a precompiled version downloadable from the [NetRadiant website](https://netradiant.gitlab.io/page/download/).  
+The mapping support zip also contains a compiled version of NetRadiant in the `mapping` folder but while it may works, it is fairly outdated and lacks a lot of updates.
+-   **Linux**: Linux users can use a precompiled version downloadable from the [NetRadiant website](https://netradiant.gitlab.io/page/download/).
+-   **macOS**: Current versions of macOS don't seem to work because of GTKGLExt, compiled versions from [here](http://ingar.intranifty.net/gtkradiant/index.html) might work
+
+People wanting to compile NetRadiant themselves can look at the [NetRadiant Repository](https://gitlab.com/xonotic/netradiant).
 
 ### Step 6: Setting up NetRadiant
 

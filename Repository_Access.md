@@ -39,7 +39,7 @@ Note: `x11-proto-devel` or `xorg-x11-proto-devel` might be needed but might be a
 
 By default, Windows has no real environment to handle the necessary scripting and compiling tools for building Xonotic. So, what we have to do is install something called [MSYS2](http://www.msys2.org) to allow us to have a similar environment as on Linux. Download 64 bit version of MSYS2 (msys2-x86_64-xxxxxx.exe) and follow installation instructions.
 
-Once you have completed the installation, launch the MSYS2 shell by running `mingw64.exe` (instead of the default msys2.exe) by default located at `C:\msys64` and install the needed **dependencies** with this command:
+Once you have completed the installation, close the current MSYS2 shell and launch a MSYS2 MINGW64 shell by running mingw64.exe (instead of the default msys2.exe) located at C:\msys64 and install the needed dependencies with this command:
 
     pacman --needed -S git curl zip unzip p7zip make automake autoconf libtool gcc gmp-devel mingw-w64-x86_64-{toolchain,gmp,SDL2,libjpeg-turbo,libpng,libogg}
 

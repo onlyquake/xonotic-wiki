@@ -19,7 +19,7 @@ Note: The `all` script requires either `wget` or `curl`.
 
 **Ubuntu** dependencies:
 
-    sudo apt-get install autoconf build-essential curl git libtool libgmp-dev libjpeg-turbo8-dev libsdl2-dev libxpm-dev xserver-xorg-dev zlib1g-dev
+    sudo apt-get install autoconf build-essential curl git libtool libgmp-dev libjpeg-turbo8-dev libsdl2-dev libxpm-dev xserver-xorg-dev zlib1g-dev unzip
 
 Note: On Debian, use `libjpeg62-turbo-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories.
 

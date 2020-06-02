@@ -10,13 +10,15 @@
 * `sv_eventlog_files_timestamps`: prefix log lines in the files with time events
 * `sv_eventlog_ipv6_delimiter`: change `:` in IPv6 addresses to `_` for easy parsing of :join lines with IPv6 IPs
 
+Also see: [Score logging](./Score-logging)
+
 ## Log format
 ```
 :logversion:3
 :gamestart:<gametype>_<mapname>:<matchid>
 :gameinfo:mutators:LIST:mutator1:mutator2:...
 ```
-(Note that mutators are listed by their cvar name with g_ removed, unless such a cvar is 1 by default - then the mutator is listed with a no_ prefix if the cvar is 0)
+Note that mutators are listed by their cvar name with g_ removed, unless such a cvar is 1 by default - then the mutator is listed with a no_ prefix if the cvar is 0.
 ```
 :gameinfo:end
 :join:<ID>:<slot>:<ip>:<nickname>
@@ -70,7 +72,7 @@
 :time:<YYYY-MM-DD HH:MM:SS>
 :recordset:<ID of player>:<time in seconds>
 ```
-Note that only the :join and :player lines ever contain player names. The :time event only appears in the log files if sv_eventlog_files_timestamps is 1; there is no way to log these time stamps to the console (for console timestamps, set timestamps to 1).
+Note that only the :join, :name and :player lines ever contain player names. When splitting on ':', keep in mind that those 2 and (and all :chat* message texts) can contain ':'. The :time event only appears in the log files if sv_eventlog_files_timestamps is 1; there is no way to log these time stamps to the console (for console timestamps, set timestamps to 1).
 
 ### Team colors
 * 1 = No Team (Domination)
@@ -121,7 +123,7 @@ and weapon IDs are:
 Weapon IDs are below 10000.
 
 ### Death type
-Either a weapon ID ORed with weapon death flags, or one of the notifications in common/deathtypes.qh in the form of a string.
+Either a weapon ID ORed with weapon death flags, or one of the notifications in `common/deathtypes.qh` in the form of a string.
 
 Weapon death flags are:
 * 256 = secondary fire

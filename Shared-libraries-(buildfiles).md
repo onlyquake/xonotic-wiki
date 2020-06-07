@@ -2,7 +2,7 @@ Xonotic on Linux uses system libraries. For Windows and macOS external dlls and 
 
 Because at the time of writing there is no automatism to build or update the games dependencies for those 2 platforms and the current dlls/dylibs are VERY outdated and thus also contain vulnerabilities, this page should document on where to obtain or how to build them, retaining API compatibility to darkplaces and also older OS platform versions like Windows XP.
 
-For Windows, all libraries can/should be obtained from https://packages.msys2.org/search [1] with the exception being an official DLL release from the upstream available (this is the case for libjpeg-turbo) or if it has to be compiled on under Windows for some reason (eg. libcurl for Schannel (Windows crypto for HTTPS) support).
+For Windows, all libraries can/should be obtained from https://packages.msys2.org/search [1] with the exception of an official DLL release from the upstream being available (this is the case for libjpeg-turbo) or if it has to be compiled on under Windows for some reason (eg. libcurl for Schannel (Windows crypto for HTTPS) support).
 
 # libcurl
 libcurl is used for downloading *.pk3 files from servers

@@ -10,7 +10,7 @@ Darkplaces loads `libcurl-4.dll` or `libcurl-3.dll`
 
 Build instructions:
 * clone https://gitlab.com/incognico/build-libcurl-windows
-* run build.bat in a VS2019 Development Shell
+* run `build.bat` in a VS2019 Development Shell
 * rename the built dlls (x64 & x86) to `libcurl-4.dll`
 
 ### macOS
@@ -38,6 +38,9 @@ Darkplaces loads `libpng16.dll` or `libpng16-16.dll` or `libpng15-15.dll` or `li
 
 ### macOS
 Darkplaces loads `libpng16.16.dylib` or `libpng15.15.dylib` or `libpng14.14.dylib` or `libpng12.0.dylib`
+
+# zlib
+A dependency of libpng
 
 # libfreetype
 

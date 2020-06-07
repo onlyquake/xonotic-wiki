@@ -85,8 +85,9 @@ Obtainment instructions:
 ### macOS
 Darkplaces loads `libvorbis.dylib` and `libvorbisfile.dylib`
 
-# libtheora (+ libtheoraenc + libtheoradec)?
+# libtheora
 libtheora is used for the video in cl_capturevideo
+libtheoraenc/libtheoradec are not needed, they are the newer API; darkplaces uses the legacy pre 1.0 API (libtheora).
 
 ### Windows
 Darkplaces loads `libtheora-0.dll` or `theora-0.dll` or `theora.dll`
@@ -99,7 +100,7 @@ Obtainment instructions:
 Darkplaces loads `libtheora.dylib`
 
 # libogg
-libogg is used as container in cl_capturevideo
+libogg is used for the container in cl_capturevideo
 
 ### Windows
 Darkplaces loads `libogg-0.dll` or `libogg.dll` or `ogg.dll`
@@ -125,7 +126,8 @@ Obtainment instructions:
 * use dll from `bin` folder
 
 # libode
-Is not loaded under Windows and crashes the game if it is.
+Is not loaded under Windows and crashes the game if it is and a map is loaded up.
+Also it is not statically linked and thus requires libstdc++-6.dll and libgcc_s_sjlj-1.dll.
 
 # libavw
 *Note:* Old and not used in Xonotic but also not disabled :) Adding this for the sake of completeness.

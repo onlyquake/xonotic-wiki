@@ -47,3 +47,6 @@ Darkplaces loads libjpeg.62.dylib
 # libtheora
 
 # libstdc++-6
+
+# libgcc_s_sjlj-1
+This is a dependency of libstdc++-6

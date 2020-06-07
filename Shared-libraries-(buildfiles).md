@@ -2,6 +2,8 @@ Xonotic on Linux uses system libraries. For Windows and macOS external dlls and 
 
 Because at the time of writing there is no automatism to build or update the games dependencies for those 2 platforms and the current dlls/dylibs are VERY outdated and thus also contain vulnerabilities, this page should document on where to obtain or how to build them, retaining API compatibility to darkplaces and also older OS platform versions like Windows XP.
 
+For Windows, all libraries can/should be obtained from https://packages.msys2.org/search [1] with the exception being an official DLL release from the upstream available (this is the case for libjpeg-turbo) or if it has to be compiled on under Windows for some reason (eg. libcurl for Schannel (Windows crypto for HTTPS) support).
+
 # libcurl
 libcurl is used for downloading *.pk3 files from servers
 
@@ -40,7 +42,16 @@ Darkplaces loads `libpng16.dll` or `libpng16-16.dll` or `libpng15-15.dll` or `li
 Darkplaces loads `libpng16.16.dylib` or `libpng15.15.dylib` or `libpng14.14.dylib` or `libpng12.0.dylib`
 
 # zlib
-A dependency of libpng
+zlib is required to read *.pk3 files. Also it is a dependency of libpng and probably some other libraries.
+
+### Windows
+Darkplaces loads: ifdef ZLIB_USES_WINAPI `zlibwapi.dll` or `zlib.dll` else `zlib1.dll`. We use `zlib1.dll`!
+
+Obtainment instructions:
+* Download as MSYS2 Package [1] in x86 and x64 versions
+
+### macOS
+Darkplaces loads `libz.dylib`
 
 # libfreetype
 

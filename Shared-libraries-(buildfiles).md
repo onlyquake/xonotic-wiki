@@ -6,6 +6,8 @@ For Windows, all libraries can/should be obtained from https://packages.msys2.or
 
 A handy tool to check dll deps on Windows is https://github.com/lucasg/Dependencies
 
+TODO: macOS
+
 # libcurl
 libcurl is used for downloading *.pk3 files from servers
 
@@ -41,6 +43,7 @@ libpng is needed to display png images/textures
 Darkplaces loads `libpng16.dll` or `libpng16-16.dll` or `libpng15-15.dll` or `libpng15.dll` or `libpng14-14.dll` or `libpng14.dll` or `libpng12.dll`
 
 Obtainment instructions:
+* be sure to use a 1.16.X release
 * download MSYS2 Package [1] in x86 and x64 versions: https://packages.msys2.org/base/mingw-w64-libpng
 * use dll from `bin` folder
 

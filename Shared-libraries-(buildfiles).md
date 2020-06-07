@@ -5,7 +5,7 @@ Because at the time of writing there is no automatism to build or update the gam
 # libcurl
 libcurl is used for downloading *.pk3 files from servers
 
-## Windows
+### Windows
 Darkplaces loads libcurl-4.dll or libcurl-3.dll
 
 Build instructions:
@@ -13,13 +13,13 @@ Build instructions:
 * run build.bat in a VS2019 Development Shell
 * rename the built dlls (x64 & x86) to libcurl-4.dll
 
-## macOS
+### macOS
 Darkplaces loads libcurl.4.dylib or libcurl.3.dylib or libcurl.2.dylib
 
 # libjpeg-turbo
-libjpeg-turbo is needed to display jpeg images
+libjpeg-turbo is needed to display jpeg images/textures
 
-## Windows
+### Windows
 Darkplaces loads libjpeg.dll
 
 Obtainment instructions:
@@ -27,12 +27,17 @@ Obtainment instructions:
 * extract the *.exe files and use bin/jpeg62.dll
 * rename the dlls (x64 & x86) to libjpeg.dll
 
-## macOS
+### macOS
 Darkplaces loads libjpeg.62.dylib
 
 # libpng
+libpng is needed to display png images/textures
 
-# libgmp
+### Windows
+Darkplaces loads libpng16.dll or libpng16-16.dll or libpng15-15.dll or libpng15.dll or libpng14-14.dll or libpng14.dll" or libpng12.dll
+
+### macOS
+Darkplaces loads libpng16.16.dylib or libpng15.15.dylib or libpng14.14.dylib or libpng12.0.dylib
 
 # libfreetype
 
@@ -46,7 +51,11 @@ Darkplaces loads libjpeg.62.dylib
 
 # libtheora
 
-# libstdc++-6
+# libstdc++-6 & libgcc_s_sjlj-1
+libgcc_s_sjlj-1 is a dependency of libstdc++-6
 
-# libgcc_s_sjlj-1
-This is a dependency of libstdc++-6
+# libd0_blind_id-0 & libd0_rijndael-0
+See https://gitlab.com/xonotic/d0_blind_id
+
+# libgmp
+A dependency of libd0_blind_id-0

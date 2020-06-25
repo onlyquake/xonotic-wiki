@@ -79,7 +79,7 @@ Large, slow melee attacker. Drops 100 health on death.
 
 Spawns all of the above and a marine at random.
 
-**More info about monsters are in [this link](Monsters) (Monsters page coming soon!).**
+**More info about monsters are in [this link](Monsters).**
 
 ## Notes for players and developers
 

@@ -38,6 +38,7 @@ Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 - [Items](Items)
 - [Vehicles](Vehicles)
 - [Weapons](Weapons)
+- [Monsters](Monsters)
 
 ### Game Modes (or Game Types)
 In Xonotic, game modes and game types mean the same thing -- different modes/types have different goals to achieve in a game.

@@ -52,6 +52,13 @@ Regenerates health in a large radius around the nade.
 
 Slows movement within a large radius for 12 seconds. Makes the balls' gravity fall faster when they are inside the orb. In the orb, you will see that the electro balls fall quicker inside and rockets / bullets are slowing down.
 
+## Veil
+
+![Veil nade](uploads/e1f01cf95af8e73403a7652836427195/veil.png)
+![Veil boom](uploads/a696bd29d305c0d58ec1a6c18cbaae0b/veilboom.png)
+
+It creates an orb which makes invisible to the players during a time.
+
 # Pokenade 
 
 ![Monster nade](uploads/fbdb7eb49088219c3acc3095e4254a6a/monsternade.png)

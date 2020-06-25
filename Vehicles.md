@@ -168,7 +168,7 @@ Unofficial vehicle class names:
 
 Maps needed, `as` and `ctf` for now - i cant take this much further w/o play testing on a larger scale.
 
-Official vehicles source codes are in this [directory](https://gitlab.com/xonotic/xonotic-data.pk3dir/-/tree/master/qcsrc/common/vehicles/vehicle).
+**Official vehicles source codes are in this [directory](https://gitlab.com/xonotic/xonotic-data.pk3dir/-/tree/master/qcsrc/common/vehicles/vehicle).**
 
 There are unofficial vehicles source codes stored in the [SMB modpack](https://github.com/MarioSMB/modpack/tree/master/mod/common/vehicles).
 

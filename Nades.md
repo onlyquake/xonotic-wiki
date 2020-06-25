@@ -57,7 +57,7 @@ Slows movement within a large radius for 12 seconds. Makes the balls' gravity fa
 ![Veil nade](uploads/e1f01cf95af8e73403a7652836427195/veil.png)
 ![Veil boom](uploads/a696bd29d305c0d58ec1a6c18cbaae0b/veilboom.png)
 
-It creates an orb which makes invisible to the players during a time.
+It creates an orb which makes invisible to the players whose are on the side of the one who has thrown(in TDM, CTF, team gamemodes) during a time.
 
 # Pokenade 
 

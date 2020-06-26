@@ -8,8 +8,8 @@ You are welcome to update or improve them.)_
 
 **Main Page**
 
-This wiki was created in an effort to document the [Darkplaces engine](https://icculus.org/twilight/darkplaces/), created by Forest "LordHavoc" Hale.
-Anyone with a certain knowledge of Darkplaces and it's workings/features is welcome to give their input. Welcome to the Darkplaces Documentation Wiki!  
+This wiki was created in an effort to document the [Darkplaces engine](https://icculus.org/twilight/darkplaces/), created by Ashley Rose "LadyHavoc" Hale.
+Anyone with a certain knowledge of Darkplaces and it's workings/features is welcome to give their input. Welcome to the Darkplaces Documentation Wiki!
 
 Darkplaces Engine
 =================

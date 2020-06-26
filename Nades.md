@@ -6,63 +6,71 @@ Come in a variety of types. The offhand hook bind or drop weapon bind throws the
 
 ## Normal
 
-![Normal nade](uploads/49d1fa684ecd673367b4f3294195a37f/normal.png)
-![Normal boom](uploads/1b9a2ab2a1f5a3138b45d12830910c02/normalboom.png)
+<img src="uploads/7e75ed16f04358a1297c0cd1363a5e03/normal.jpg" alt="normalnade" width="500"/>
+
+<img src="uploads/f087361a52e91df6459df22e3926f412/normalboom.jpg" alt="normalboom" width="500"/>
 
 Frag grenade. Explodes.
 
 ## Napalm
 
-![Napalm nade](uploads/a90778308bad9c09bf02be9cdb760f76/napalm.png)
-![Napalm boom](uploads/ca2ff9f964f1836eaa2550c5ab918c85/napalmboom.png)
+<img src="uploads/eab7d20707a37db964faeca5b624648a/napalm.jpg" alt="napalm" width="500"/>
+
+<img src="uploads/07e424e85718e7f40cf524183384b0e6/napalmboom.jpg" alt="napalmboom" width="500"/>
 
 Shoots several napalm globs in a circle around the nade. Touching these will ignite players and likely kill them.
 
 ## Nitro
 
-![Nitro nade](uploads/7deb9e6cb017bcc91ab2e4687a358b6a/nitro.png)
-![Nitro boom](uploads/8195594de91adce2c8f62f9819c8e861/nitroboom.png)
+<img src="uploads/d5c18cbaed37fc98b28a3fc2d8b3f8ed/nitro.jpg" alt="nitro" width="500"/>
+
+<img src="uploads/4790da4757c57d879be55493c95b6857/nitroboom.jpg" alt="nitroboom" width="500"/>
 
 Freezes enemies in a large radius. Lethal.
 
 ## Translocate 
 
-![Translocate nade](uploads/dbc9799a7d5caa91d6172b21e61f205e/translocate.png)
-![Translocate boom](uploads/a686abf53ed2a7c0c39d264fce1a15bc/translocateboom.png)
+<img src="uploads/ee94f06409a122191a74d70e1e2250bd/translocate.jpg" alt="translocate" width="500"/>
+
+<img src="uploads/1487c855c09637affb13c6cfeaaae994/translocateboom.jpg" alt="translocateboom" width="500"/>
 
 Teleports the player to where the nade "explodes".
 
 ## Spawn
 
-![Spawn nade](uploads/3042d31bb8a054ea7e177f6110570fb7/spawnnade.png)
+<img src="uploads/77f2c9768bec14f7b5c5cfd68452886f/spawnnade.jpg" alt="spawnnade" width="500"/>
 
 Creates a spawn point that can be respawned on three times. It's useful when you need to go back in the point where you want to start after died, instead starting in the main points.
 
 ## Healing
 
-![Healing nade](uploads/a6789a82865f41522bfaa150e9c2bbc8/healing.png)
-![Healing boom](uploads/5df5aca2975cb939a9f091574ea12d6f/healingboom.png)
+<img src="uploads/22b3273ceedc7cbf526f7b7e8a719828/healing.jpg" alt="healing" width="500"/>
+
+<img src="![healingboom](uploads/606e3175f20a9274b9c651f5b8fea151/healingboom.jpg)" alt="healingboom" width="500"/>
 
 Regenerates health in a large radius around the nade.
 
 ## Entrap
 
-![Entrap nade](uploads/01d68ab92d511e0a8ee5c0e0905609ab/entrap.png)
-![Entrap boom](uploads/b88705357f80b8216aff7fd545baa94f/entrapboom.png)
+<img src="uploads/15add5938094995589a7d569e9195f24/entrap.jpg" alt="entrap" width="500"/>
+
+<img src="uploads/e846c4dac00937a4bcef89c5fe961291/entrapboom.jpg" alt="entrapboom" width="500"/>
 
 Slows movement within a large radius for 12 seconds. Makes the balls' gravity fall faster when they are inside the orb. In the orb, you will see that the electro balls fall quicker inside and rockets / bullets are slowing down.
 
 ## Veil
 
-![Veil nade](uploads/e1f01cf95af8e73403a7652836427195/veil.png)
-![Veil boom](uploads/a696bd29d305c0d58ec1a6c18cbaae0b/veilboom.png)
+<img src="uploads/9ad5f03fe196de135e03f281cdd4cc62/veil.jpg" alt="veil" width="500"/>
+
+<img src="uploads/88071dccb47d650aacd31c719eadb6b6/veilboom.jpg" alt="veilboom" width="500"/>
 
 It creates an orb which makes invisible to the players whose are on the side of the one who has thrown(in TDM, CTF, team gamemodes) during a time.
 
 # Pokenade 
 
-![Monster nade](uploads/fbdb7eb49088219c3acc3095e4254a6a/monsternade.png)
-![Monster boom](uploads/6441f147f90aba34812ebc3cb733caa7/monsternadeboom.png)
+<img src="uploads/3a0322703abb471d604d3b65b778bd53/monsternade.jpg" alt="monsternade" width="500"/>
+
+<img src="uploads/f453f36f7b04dd48c0747fc9075f4895/monsternadeboom.jpg" alt="monsternadeboom" width="500"/>
 
 Spawns a monster. Four monsters can be alive at one time. Options include:
 

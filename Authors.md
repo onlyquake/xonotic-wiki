@@ -4,7 +4,7 @@ DarkPlaces Wiki
 Darkplaces Authors
 ==================
 
-Darkplaces was created by LordHavoc, and contributed to by a long list of people over the years. Here are just some of the people who have contributed code, artwork, bug fixes, hosting, etc.
+Darkplaces was created by LadyHavoc, and contributed to by a long list of people over the years. Here are just some of the people who have contributed code, artwork, bug fixes, hosting, etc.
 
 Supporters & Contributors
 -------------------------
@@ -26,3 +26,4 @@ Supporters & Contributors
 -   |Rain|
 -   VorteX
 -   Ludwig Nussel
+-   David "Cloudwalk" Knapp

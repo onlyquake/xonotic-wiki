@@ -108,7 +108,7 @@ R22 Helicopter and LL48 Tank were used in the SMB modpack and were removed becau
 ## Light APC
 
 <img src="uploads/a23dbba1f6aa6d1a272cb57855167dbe/Vehicle-lightapc.jpg" alt="Vehicle-lightapc" width="410"/>
-
+<br/>
 <img src="uploads/28ea75bd7555021facaf3c93d57cbded/Vehicle-lightapc-cockpit.jpg" alt="Vehicle-lightapc-cockpit" width="410"/>
 
 Up to three players can ride the Light APC, a large tank vehicle, at the same time.
@@ -123,7 +123,7 @@ There are no secondary weapons for any of the three riders in Light APC.
 ## R22 Helicopter
 
 <img src="uploads/1576c847ebb254534127bd89cc28e504/Vehicle-r22helicopter.jpg" alt="Vehicle-r22helicopter" width="410"/>
-
+<br/>
 <img src="uploads/8283fe733167674cd1061fafa93da0a2/Vehicle-r22helicopter-cockpit.jpg" alt="Vehicle-r22helicopter-cockpit" width="410"/>
 
 The R22 Helicopter takes one pilot who can also operate two weapons. There are two different reticles for them. Only two players can ride the R22 Helicopter. The second player will be the cockpit, but this player won't do nothing, only will be the spectator of the vehicle inside and he can get out of the vehicle whenever he wants, the same for the pilot. 
@@ -135,7 +135,7 @@ The primary weapon is machine gun and is shot toward the green reticle. The seco
 ## LL48 Tank
 
 <img src="uploads/d259518dd9c920f55b4813e4f9d92461/Vehicle-ll48tank.jpg" alt="Vehicle-ll48tank" width="410"/>
-
+<br/>
 <img src="uploads/8d007cfbdd179a15ad8d99e9cd18aa06/Vehicle-ll48tank-cockpit.jpg" alt="Vehicle-ll48tank-cockpit" width="410"/>
 
 LL48 Tank takes one rider. It walks on the ground and can jump from very high altitude while protecting the rider.

@@ -14,6 +14,9 @@ Graphics Features
 -   [Skeletal Animation](Modeling)
 -   [Scriptable Surface Materials](Materials)
 -   Reflective/Refractive Water
+-   High dynamic range/iris adaptation to light levels
+-   Global illumination
+-   Chromatic aberration
 
 Supported Formats
 -----------------
@@ -50,3 +53,4 @@ Supported Formats
 -   WAV
 -   OGG
 -   CD Audio
+-   libxmp module sound

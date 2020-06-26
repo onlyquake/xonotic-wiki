@@ -46,7 +46,7 @@ Creates a spawn point that can be respawned on three times. It's useful when you
 
 <img src="uploads/22b3273ceedc7cbf526f7b7e8a719828/healing.jpg" alt="healing" width="500"/>
 
-<img src="![healingboom](uploads/606e3175f20a9274b9c651f5b8fea151/healingboom.jpg)" alt="healingboom" width="500"/>
+<img src="uploads/606e3175f20a9274b9c651f5b8fea151/healingboom.jpg" alt="healingboom" width="500"/>
 
 Regenerates health in a large radius around the nade.
 

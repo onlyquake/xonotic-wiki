@@ -6,71 +6,71 @@ Come in a variety of types. The offhand hook bind or drop weapon bind throws the
 
 ## Normal
 
-<img src="uploads/7e75ed16f04358a1297c0cd1363a5e03/normal.jpg" alt="normalnade" width="500"/>
+<img src="uploads/7e75ed16f04358a1297c0cd1363a5e03/normal.jpg" alt="normalnade" width="450"/>
 
-<img src="uploads/f087361a52e91df6459df22e3926f412/normalboom.jpg" alt="normalboom" width="500"/>
+<img src="uploads/f087361a52e91df6459df22e3926f412/normalboom.jpg" alt="normalboom" width="450"/>
 
 Frag grenade. Explodes.
 
 ## Napalm
 
-<img src="uploads/eab7d20707a37db964faeca5b624648a/napalm.jpg" alt="napalm" width="500"/>
+<img src="uploads/eab7d20707a37db964faeca5b624648a/napalm.jpg" alt="napalm" width="450"/>
 
-<img src="uploads/07e424e85718e7f40cf524183384b0e6/napalmboom.jpg" alt="napalmboom" width="500"/>
+<img src="uploads/07e424e85718e7f40cf524183384b0e6/napalmboom.jpg" alt="napalmboom" width="450"/>
 
 Shoots several napalm globs in a circle around the nade. Touching these will ignite players and likely kill them.
 
 ## Nitro
 
-<img src="uploads/d5c18cbaed37fc98b28a3fc2d8b3f8ed/nitro.jpg" alt="nitro" width="500"/>
+<img src="uploads/d5c18cbaed37fc98b28a3fc2d8b3f8ed/nitro.jpg" alt="nitro" width="450"/>
 
-<img src="uploads/4790da4757c57d879be55493c95b6857/nitroboom.jpg" alt="nitroboom" width="500"/>
+<img src="uploads/4790da4757c57d879be55493c95b6857/nitroboom.jpg" alt="nitroboom" width="450"/>
 
 Freezes enemies in a large radius. Lethal.
 
 ## Translocate 
 
-<img src="uploads/ee94f06409a122191a74d70e1e2250bd/translocate.jpg" alt="translocate" width="500"/>
+<img src="uploads/ee94f06409a122191a74d70e1e2250bd/translocate.jpg" alt="translocate" width="450"/>
 
-<img src="uploads/1487c855c09637affb13c6cfeaaae994/translocateboom.jpg" alt="translocateboom" width="500"/>
+<img src="uploads/1487c855c09637affb13c6cfeaaae994/translocateboom.jpg" alt="translocateboom" width="450"/>
 
 Teleports the player to where the nade "explodes".
 
 ## Spawn
 
-<img src="uploads/77f2c9768bec14f7b5c5cfd68452886f/spawnnade.jpg" alt="spawnnade" width="500"/>
+<img src="uploads/77f2c9768bec14f7b5c5cfd68452886f/spawnnade.jpg" alt="spawnnade" width="450"/>
 
 Creates a spawn point that can be respawned on three times. It's useful when you need to go back in the point where you want to start after died, instead starting in the main points.
 
 ## Healing
 
-<img src="uploads/22b3273ceedc7cbf526f7b7e8a719828/healing.jpg" alt="healing" width="500"/>
+<img src="uploads/22b3273ceedc7cbf526f7b7e8a719828/healing.jpg" alt="healing" width="450"/>
 
-<img src="uploads/606e3175f20a9274b9c651f5b8fea151/healingboom.jpg" alt="healingboom" width="500"/>
+<img src="uploads/606e3175f20a9274b9c651f5b8fea151/healingboom.jpg" alt="healingboom" width="450"/>
 
 Regenerates health in a large radius around the nade.
 
 ## Entrap
 
-<img src="uploads/15add5938094995589a7d569e9195f24/entrap.jpg" alt="entrap" width="500"/>
+<img src="uploads/15add5938094995589a7d569e9195f24/entrap.jpg" alt="entrap" width="450"/>
 
-<img src="uploads/e846c4dac00937a4bcef89c5fe961291/entrapboom.jpg" alt="entrapboom" width="500"/>
+<img src="uploads/e846c4dac00937a4bcef89c5fe961291/entrapboom.jpg" alt="entrapboom" width="450"/>
 
 Slows movement within a large radius for 12 seconds. Makes the balls' gravity fall faster when they are inside the orb. In the orb, you will see that the electro balls fall quicker inside and rockets / bullets are slowing down.
 
 ## Veil
 
-<img src="uploads/9ad5f03fe196de135e03f281cdd4cc62/veil.jpg" alt="veil" width="500"/>
+<img src="uploads/9ad5f03fe196de135e03f281cdd4cc62/veil.jpg" alt="veil" width="450"/>
 
-<img src="uploads/88071dccb47d650aacd31c719eadb6b6/veilboom.jpg" alt="veilboom" width="500"/>
+<img src="uploads/88071dccb47d650aacd31c719eadb6b6/veilboom.jpg" alt="veilboom" width="450"/>
 
 It creates an orb which makes invisible to the players whose are on the side of the one who has thrown(in TDM, CTF, team gamemodes) during a time.
 
 # Pokenade 
 
-<img src="uploads/3a0322703abb471d604d3b65b778bd53/monsternade.jpg" alt="monsternade" width="500"/>
+<img src="uploads/3a0322703abb471d604d3b65b778bd53/monsternade.jpg" alt="monsternade" width="450"/>
 
-<img src="uploads/f453f36f7b04dd48c0747fc9075f4895/monsternadeboom.jpg" alt="monsternadeboom" width="500"/>
+<img src="uploads/f453f36f7b04dd48c0747fc9075f4895/monsternadeboom.jpg" alt="monsternadeboom" width="450"/>
 
 Spawns a monster. Four monsters can be alive at one time. Options include:
 

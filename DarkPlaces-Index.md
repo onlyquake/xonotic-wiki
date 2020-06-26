@@ -38,6 +38,7 @@ Commercial Games
 ================
 
 -   [Steel Storm](http://steel-storm.com/)
+-   [WRATH: Aeon of Ruin](http://www.wrath.game/)
 
 Standalone Mods / Free Games
 ============================

@@ -107,14 +107,14 @@ R22 Helicopter and LL48 Tank were used in the SMB modpack and were removed becau
 
 ## Light APC
 
-<img src="uploads/a23dbba1f6aa6d1a272cb57855167dbe/Vehicle-lightapc.jpg" alt="Vehicle-lightapc" width="500"/>
+<img src="uploads/a23dbba1f6aa6d1a272cb57855167dbe/Vehicle-lightapc.jpg" alt="Vehicle-lightapc" width="410"/>
 
-<img src="uploads/28ea75bd7555021facaf3c93d57cbded/Vehicle-lightapc-cockpit.jpg" alt="Vehicle-lightapc-cockpit" width="500"/>
+<img src="uploads/28ea75bd7555021facaf3c93d57cbded/Vehicle-lightapc-cockpit.jpg" alt="Vehicle-lightapc-cockpit" width="410"/>
 
 Up to three players can ride the Light APC, a large tank vehicle, at the same time.
 The first player will be the pilot, who can drive. It can keep more players inside too.
 
-<img src="uploads/85f12623125db9d1e86e8189d5b247ad/Vehicle-lightapc-thirdperson-view.jpg" alt="Vehicle-lightapc-thirdperson-view" width="600"/>
+<img src="uploads/85f12623125db9d1e86e8189d5b247ad/Vehicle-lightapc-thirdperson-view.jpg" alt="Vehicle-lightapc-thirdperson-view" width="510"/>
 
 The second player will be the front gunner. The third player will be the back gunner.
 When the pilot leaves Light APC, the second player becomes the pilot.
@@ -122,25 +122,25 @@ There are no secondary weapons for any of the three riders in Light APC.
 
 ## R22 Helicopter
 
-<img src="uploads/1576c847ebb254534127bd89cc28e504/Vehicle-r22helicopter.jpg" alt="Vehicle-r22helicopter" width="500"/>
+<img src="uploads/1576c847ebb254534127bd89cc28e504/Vehicle-r22helicopter.jpg" alt="Vehicle-r22helicopter" width="410"/>
 
-<img src="uploads/8283fe733167674cd1061fafa93da0a2/Vehicle-r22helicopter-cockpit.jpg" alt="Vehicle-r22helicopter-cockpit" width="500"/>
+<img src="uploads/8283fe733167674cd1061fafa93da0a2/Vehicle-r22helicopter-cockpit.jpg" alt="Vehicle-r22helicopter-cockpit" width="410"/>
 
 The R22 Helicopter takes one pilot who can also operate two weapons. There are two different reticles for them. Only two players can ride the R22 Helicopter. The second player will be the cockpit, but this player won't do nothing, only will be the spectator of the vehicle inside and he can get out of the vehicle whenever he wants, the same for the pilot. 
 
-<img src="uploads/92d5842accfd071f8900b689591423df/Vehicle-r22helicopter-thirdperson-view.jpg" alt="Vehicle-r22helicopter-thirdperson-view" width="600"/>
+<img src="uploads/92d5842accfd071f8900b689591423df/Vehicle-r22helicopter-thirdperson-view.jpg" alt="Vehicle-r22helicopter-thirdperson-view" width="510"/>
 
 The primary weapon is machine gun and is shot toward the green reticle. The second weapon is remote-controlled missiles that target any nearby object that is around the front, is dropped onto the ground the green reticle is pointing at. The white reticle always points at the head of the vehicle. The green reticle is projected by the movement momentum of the vehicle. The movement controls are the same as [Raptor vehicle](Vehicles#raptor).
 
 ## LL48 Tank
 
-<img src="uploads/d259518dd9c920f55b4813e4f9d92461/Vehicle-ll48tank.jpg" alt="Vehicle-ll48tank" width="500"/>
+<img src="uploads/d259518dd9c920f55b4813e4f9d92461/Vehicle-ll48tank.jpg" alt="Vehicle-ll48tank" width="410"/>
 
-<img src="uploads/8d007cfbdd179a15ad8d99e9cd18aa06/Vehicle-ll48tank-cockpit.jpg" alt="Vehicle-ll48tank-cockpit" width="500"/>
+<img src="uploads/8d007cfbdd179a15ad8d99e9cd18aa06/Vehicle-ll48tank-cockpit.jpg" alt="Vehicle-ll48tank-cockpit" width="410"/>
 
 LL48 Tank takes one rider. It walks on the ground and can jump from very high altitude while protecting the rider.
 
-<img src="uploads/60156ec99cc8e3514341fb69373e4680/Vehicle-ll48tank-thirdperson-view.jpg" alt="Vehicle-ll48tank-thirdperson-view" width="600"/>
+<img src="uploads/60156ec99cc8e3514341fb69373e4680/Vehicle-ll48tank-thirdperson-view.jpg" alt="Vehicle-ll48tank-thirdperson-view" width="510"/>
 
 Its primary weapon is the HLAC; the aiming direction is shown by the orange reticle, which follows the front of the vehicle, it does the same as Light APC front gunner. The secondary weapon is the Tank Cannonball that are aimed with the red reticle, which always points to the front of the vehicle, reloading ammo takes a bit of time. Press SHIFT to move the secondary weapon down and press SPACE to move up.
 

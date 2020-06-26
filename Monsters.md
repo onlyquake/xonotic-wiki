@@ -147,5 +147,5 @@ Press F to ride on top of the monster. For now, only Zombies, Spiders and Wyvern
 
 # Notes for developers
 
-**Official monsters source codes are in this [directory](https://gitlab.com/xonotic/xonotic-data.pk3dir/-/tree/master/qcsrc/common/monsters).**
+**Official monsters source codes are in this [directory](https://gitlab.com/xonotic/xonotic-data.pk3dir/-/tree/master/qcsrc/common/monsters/monster).**
 There are unofficial monsters source codes stored in the [SMB modpack](https://github.com/MarioSMB/modpack/tree/master/mod/common/monsters).

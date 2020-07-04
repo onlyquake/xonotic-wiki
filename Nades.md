@@ -1,6 +1,6 @@
 # Nades
 
-Come in a variety of types. The offhand hook bind or drop weapon bind throws the grenade. Hold the throw key E to cook the nade. (*NOTE: If you have a Grappling Hook weapon with you, you will have to press the G key once to throw it and then press it again when you want to throw the nade. Due to development reasons, the Grappling Hook only can be used with the E key as the main key, so it was developed to avoid errors in the game.*) Press F8 to switch nade types.
+Come in a variety of types. The offhand hook bind or drop weapon bind throws the grenade. Hold the throw key E to throw the nade. (*NOTE: If you have a Grappling Hook weapon with you, you will have to press the G key once to throw it and then press it again when you want to throw the nade. Due to development reasons, the Grappling Hook only can be used with the E key as the main key, so it was developed to avoid errors in the game.*) Press F8 to switch nade types.
 
 # Nade types
 
@@ -140,4 +140,4 @@ If you are creating a server for yourself, to play with the nades, you need to a
 
 `set g_nades_ice_explode 1 // Whether the ice nade should explode again once the ice field dissipated`
 
-After setting all this, it can be necessary to restart the server, use `restart` command to apply the changes. Instead doing this manually, you can put those variables in a *.cfg* file. Save the variables inside *nades.cfg* empty file and save it in *xonotic/data* folder. In the game, when you are playing in your own server, execute in the console: `exec nades.cfg` and restart if it's necessary.
+After setting all this, it can be necessary to restart the server, use `restart` command to apply the changes. Instead doing this manually, you can put those variables in a *.cfg* file. Save the variables inside *nades.cfg* empty file and save it in *xonotic/data* folder. In the game, when you are playing in your own server, execute in the console: `exec nades.cfg` and restart if necessary.

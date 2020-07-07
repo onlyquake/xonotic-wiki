@@ -65,6 +65,7 @@ The following modes are available, although slightly less common than the above:
 -   [Race](Race)
 -   [Invasion](Invasion) (experimental)
 -   [Arena](Arena) (removed)
+-   [Trouble in Terrorist Town](Trouble-in-Terrorist-Town) (lost)
 
 ### Standard Mutators
 Mutators change the configuration of the game play, e.g. how weapon appears, which special weapons are availabale, or the physics in the game. This is usually set by the game admins who set up games for other players. Standard Mutators are available in the game menu.

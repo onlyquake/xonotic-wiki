@@ -31,6 +31,8 @@ The Innocent are the majority (62.5% of the game's population by default.) Their
 The task of the innocent is to detect traitors and defend detectives more than anything, they must kill the right person or anything special.
 
 
+## About Karma points
+
 It is worth clarifying that everyone can kill each other, but there is something called "**Karma**", which starts with an initial, and increases if they do things right (if traitors kill, or if traitors kill people), otherwise, the Karma will be discounted.
 
 The Karma is used for the damage that weapons generate, the more Karma, the more damage your weapon will do.

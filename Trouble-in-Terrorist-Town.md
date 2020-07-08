@@ -81,6 +81,8 @@ Best recorded demo:
 
 [2019-10-02_21-54_minectf.dem](uploads/8ba3d79131713563e8d2ba35aa7d1b55/2019-10-02_21-54_minectf.dem)
 
+Demo without players, only bots:
+
 [2019.07.11-9_08_minectf__ttt__show_result_.dem](uploads/10a03f55b5aed6a2fcfe68a8d8b7023f/2019.07.11-9_08_minectf__ttt__show_result_.dem)
 
 After adding these resources, type in the game console: 

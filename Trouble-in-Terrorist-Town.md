@@ -4,7 +4,7 @@
 
 ## This gamemode appeared once in a server called "FSMP Teamplay", the server was shutdown in late 2019.
 
-<img src="uploads/6cdb741c94684e2633821c7540269186/iconTTTgamemode.png" alt="iconTTTxonotic"/>
+<img src="uploads/6cdb741c94684e2633821c7540269186/iconTTTgamemode.png" alt="logoTTTxonotic"/>
 
 # Objective of the Game
 
@@ -40,7 +40,7 @@ The Karma is used for the damage that weapons generate, the more Karma, the more
 If the Karma is lower, the player can be banned temporarily to avoid teamkills or any abuse with the end to keep the game in balance.
 
 
-# Screenshots
+# Screenshots and demo
 
 The screenshots are from 23/08/2019.
 
@@ -53,6 +53,35 @@ The screenshots are from 23/08/2019.
 <img src="uploads/5953f5fd352f33e8d915350f16fbbe3c/whenFinishedmakes_public_everyone_whotheyare.jpg" alt="TTTwhenmatchFinishedmakeseveryonesayingwhotheyare" width="400">
 
 <img src="uploads/098c35c194b1a2e12857eade57a0ad03/karmaScore.jpg" alt="TTTkarmaScore" width="400"/>
+
+
+**Demo here, thanks to Kotangens, he has given his best effort to record this**:
+
+To play the demo, you need the following resources:
+
+- Models and server resources (copy and paste them to data/dlcache):
+
+[fsmp-teamplay-hats-1.1.0.pk3](uploads/40d56cf47c83b50e18b4d5e56eece21a/fsmp-teamplay-hats-1.1.0.pk3)
+
+[fsmp-teamplay-hats-1.2.0.pk3](uploads/9997b9cb9e9f3405a3e374811caa37ec/fsmp-teamplay-hats-1.2.0.pk3)
+
+[fsmp-teamplay-server-files-1.3.0.pk3](uploads/b72f913d9a32520275a943b6c3fde511/fsmp-teamplay-server-files-1.3.0.pk3)
+
+[fsmp-teamplay-server-files-1.4.0.pk3](uploads/ba94aa50b9d2a1b4afbbe277ce4e8e3e/fsmp-teamplay-server-files-1.4.0.pk3)
+
+[csprogs-xonotic-v0.8.2-2564-g68e9345d4.pk3](uploads/0fcb08f67791913d31dbaa89f6f4abf7/csprogs-xonotic-v0.8.2-2564-g68e9345d4.pk3)
+
+- Minecraft map for demo (compressed as .zip, it needs to uncompress and copy .pk3 file and paste to data/dlcache):
+
+[minectf_fsmp1.zip](uploads/3b589d72556bff2e9426025e5550c2ea/minectf_fsmp1.zip)
+
+- Demo file (copy and paste to data):
+
+[2019.07.11-9_08_minectf__ttt__show_result_.dem](uploads/10a03f55b5aed6a2fcfe68a8d8b7023f/2019.07.11-9_08_minectf__ttt__show_result_.dem)
+
+After adding these resources, type in the game console: 
+
+`playdemo "2019.07.11-9_08(minectf)(ttt)(show result).dem"`
 
 
 # Rules

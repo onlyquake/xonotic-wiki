@@ -40,7 +40,7 @@ The Karma is used for the damage that weapons generate, the more Karma, the more
 If the Karma is lower, the player can be banned temporarily to avoid teamkills or any abuse with the end to keep the game in balance.
 
 
-# Screenshots and demo
+# Screenshots and demos
 
 The screenshots are from 23/08/2019.
 
@@ -55,7 +55,7 @@ The screenshots are from 23/08/2019.
 <img src="uploads/098c35c194b1a2e12857eade57a0ad03/karmaScore.jpg" alt="TTTkarmaScore" width="400"/>
 
 
-**Demo here, thanks to Kotangens, he has given his best effort to record this**:
+**Demos here, thanks to Kotangens, he has given his best effort to record this**:
 
 To play the demo, you need the following resources:
 
@@ -75,13 +75,17 @@ To play the demo, you need the following resources:
 
 [minectf_fsmp1.zip](uploads/3b589d72556bff2e9426025e5550c2ea/minectf_fsmp1.zip)
 
-- Demo file (copy and paste to data):
+- Demo files (copy and paste to data):
 
 [2019.07.11-9_08_minectf__ttt__show_result_.dem](uploads/10a03f55b5aed6a2fcfe68a8d8b7023f/2019.07.11-9_08_minectf__ttt__show_result_.dem)
+
+[2019-10-02_21-54_minectf.dem](uploads/8ba3d79131713563e8d2ba35aa7d1b55/2019-10-02_21-54_minectf.dem)
 
 After adding these resources, type in the game console: 
 
 `playdemo "2019.07.11-9_08(minectf)(ttt)(show result).dem"`
+
+`playdemo "2019-10-02_21-54_minectf.dem"`
 
 
 # Rules

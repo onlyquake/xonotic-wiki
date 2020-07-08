@@ -1,6 +1,6 @@
 # Trouble in Terrorist Town (TTT)
 
-## WARNING! This gamemode has been lost. There is no way to recover this only if the responsible author does. Possibly the author violated the GPL rule, specifically he broke "sharing" rule in an open source community (as he didn't share and contribute). The community would be glad to retrieve this gamemode resources.
+## WARNING! This gamemode has been lost. There is no way to recover this only if the responsible author does. Possibly the author violated the GPL rule, specifically he broke "sharing" rule in an open source community (as he didn't share and contribute). The community would be glad to retrieve these gamemode resources.
 
 ## This gamemode appeared once in a server called "FSMP Teamplay", the server was shutdown in late 2019.
 
@@ -176,11 +176,11 @@ A kill on site must come under valid for you to act on it. Any kill on site mark
 
 - Invalid kill on site​
 
-1. kill on site on a Skin.​
+1. Kill on site on a Skin.​
 
-2. kill on site on a Weapon.​
+2. Kill on site on a Weapon.​
 
-3. kill on site on a Location.​
+3. Kill on site on a Location.​
 
 4. Not following Innocents orders.​
 

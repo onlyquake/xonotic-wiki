@@ -17,6 +17,7 @@ Welcome to the Xonotic wiki. If you wish to contribute, see [Editing](Editing).
 ### Tutorials
 - [HALOGENE’S NEWBIE CORNER](https://xonotic.org/guide/) has rich information for beginners. **Must read!** You will enjoy the game more!
 - [Overkill Tutorial](https://xonotic.org/okguide/)
+- [Creating bot waypoints](https://gitlab.com/xonotic/xonotic/-/wikis/Creating-bot-waypoints)
 
 ### Unofficial map repositories
 - [xonotic.fps.gratis](http://xonotic.fps.gratis/) (or [dl.xonotic.fps.gratis](http://dl.xonotic.fps.gratis/) for a simple list that loads faster) - Run by [-z-](https://github.com/z/)/[detrate](https://gitlab.com/detrate). Same content as [xonotic.co](http://xonotic.co/).

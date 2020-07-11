@@ -6,9 +6,17 @@
 
 <img src="uploads/6cdb741c94684e2633821c7540269186/iconTTTgamemode.png" alt="logoTTTxonotic"/>
 
+A group of space terrorists have traitors among them. Traitors must kill terrorists, while the terrorists have to try to find and kill the traitors.
+
 # Objective of the Game
 
 The game mode is based on the fact that there is a small group of traitors and another of detectives, there is an explanation of the functions of each one.
+
+
+## Innocents
+
+The Innocent are the majority (62.5% of the game's population by default.) Their group color is green.
+The task of the innocent is to detect traitors and defend detectives more than anything, they must kill the right person or anything special.
 
 
 ## Traitors
@@ -23,12 +31,6 @@ The Detectives are the smallest group in TTT (12.5% of the population or one Det
 Detectives have special methods to detect the traitor, for example, when they see a body, they must analyze the body, searching in it until it says a message in the middle "Unidentified", when seeing it, touch the E, if the body was recently killed, it will tell if he was Innocent or a Traitor.
 
 They always appear as CT and everyone sees them as CTs, plus they flash a blue circle on their body that everyone sees (unlike traitors who only see each other CT and the flash is only seen by them).
-
-
-## Innocent
-
-The Innocent are the majority (62.5% of the game's population by default.) Their group color is green.
-The task of the innocent is to detect traitors and defend detectives more than anything, they must kill the right person or anything special.
 
 
 ## About Karma points

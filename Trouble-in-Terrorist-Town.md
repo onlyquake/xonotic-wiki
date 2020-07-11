@@ -89,7 +89,7 @@ Demo without players, only bots:
 
 After adding these resources, type in the game console: 
 
-I recommended you watch the best recorded demo:
+I recommended you watch the **best recorded demo**:
 
 `playdemo "2019-10-02_21-54_minectf.dem"`
 

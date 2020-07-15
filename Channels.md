@@ -27,6 +27,7 @@ Country/Region specific IRC channels:
     #xonotic.fr - Xonotic France
     #xonotic.na - Xonotic North America
     #xonotic.ru - Xonotic Russia
+    #xonotic.sp - Xonotic Spanish
 
 Clan channels:
 

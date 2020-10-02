@@ -1,4 +1,4 @@
-Complete list of command line parameters
+Complete list of q3map2 command line parameters
 ========================================
 
 Common options

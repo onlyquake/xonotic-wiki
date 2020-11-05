@@ -1,6 +1,6 @@
 # Trouble in Terrorist Town (TTT)
 
-## WARNING! This gamemode has been lost. There is no way to recover this only if the responsible author does. Possibly the author violated the GPL rule, specifically he broke "sharing" rule in an open source community (as he didn't share and contribute). The community would be glad to retrieve these gamemode resources.
+## WARNING! This gamemode has been lost. There is no way to recover this only if the responsible author does. Possibly the author didn't share and it's hard to find him to recover this. The community would be glad to retrieve these gamemode resources.
 
 ## This gamemode appeared once in a server called "FSMP Teamplay", the server was shutdown in late 2019.
 

@@ -56,11 +56,9 @@ Cloning the Repository and Compiling
 
 To begin downloading:
 
-    git clone git://git.xonotic.org/xonotic/xonotic.git  # download main repo
+    git clone https://gitlab.com/xonotic/xonotic.git  # download main repo
     cd xonotic
     ./all update -l best  # download all other repos (data + game logic, maps, etc.)
-
-The **git://** protocol uses port **9418**, which may be a problem if you’re behind a **strict firewall**. You may instead use the clone url http://git.xonotic.org/xonotic/xonotic.git (however, using the git protocol directly is preferred for performance reasons).
 
 Now the game can be compiled and run with the following commands:
 

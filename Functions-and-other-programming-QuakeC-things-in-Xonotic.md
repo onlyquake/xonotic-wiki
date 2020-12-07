@@ -1,5 +1,3 @@
-# Functions and other programming QuakeC things in Xonotic
-
 **Note:** The article is written as developer notes to ease developer tasks and save QuakeC function terms here. Some references are taken from `events.qh`.
 
 

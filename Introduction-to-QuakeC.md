@@ -677,30 +677,82 @@ Entry points
 The server-side code calls the following entry points of the QuakeC code:
 
 -   **void ClientDisconnect()**: called when a player leaves the server. Do not forget to *strunzone* all *strings* stored in the player entity here, and do not forget to clear all references to the player!
--   **void SV\_Shutdown()**: called when the map changes or the server is quit. A good place to store persistent data like the database of race records.
--   **void SV\_ChangeTeam(float newteam)**: called when a player changes his team. Can be used to disallow team changes, or to clear the player’s scores.
--   **void ClientKill()**: called when the player uses the ”kill" console command to suicide.
--   **void RestoreGame()**: called directly after loading a save game. Useful to, for example, load the databases from disk again.
--   **void ClientConnect()**: called as soon as a client has connected, downloaded everything, and is ready to play. This is the typical place to initialize the player entity.
--   **void PutClientInServer()**: called when the client requests to spawn. Typically puts the player somewhere on the map and lets him play.
--   **.float SendEntity(entity to, float sendflags)**: called when the engine requires a CSQC networked entity to send itself to a client, referenced by *to*. Should write some data to *MSG\_ENTITY*. *FALSE* can be returned to make the entity not send. See *EXT\_CSQC* for information on this.
--   **void URI\_Get\_Callback(...)**:
--   **void GameCommand(string command)**: called when the “sv\_cmd” console command is used, which is commonly used to add server console commands to the game. It should somehow handle the command, and print results to the server console.
--   **void SV\_OnEntityNoSpawnFunction()**: called when there is no matching spawn function for an entity. Just ignore this...
--   **void SV\_OnEntityPreSpawnFunction**: called before even looking for the spawn function, so you can even change its classname in there. If it remove()s the entity, the spawn function will not be looked for.
--   **void SV\_OnEntityPostSpawnFunction**: called ONLY after its spawn function or SV\_OnEntityNoSpawnFunction was called, and skipped if the entity got removed by either.
--   **void SetNewParms()**:
--   **void SetChangeParms()**:
--   **.float customizeentityforclient()**: called for an entity before it is going to be sent to the player specified by *other*. Useful to change properties of the entity right before sending, e.g. to make an entity appear only to some players, or to make it have a different appearance to different players.
--   **.void touch()**: called when two entities touch; the other entity can be found in *other*. It is, of course, called two times (the second time with *self* and *other* reversed).
--   **.void contentstransition()**:
--   **.void think()**: described above, basically a timer function.
--   **.void blocked()**: called when a *MOVETYPE\_PUSH* entity is blocked by another entity. Typically does either nothing, reverse the direction of the door moving, or kills the player who dares to step in the way of the Mighty Crusher Door.
--   **.void movetypesteplandevent()**: called when a player hits the floor.
--   **.void PlayerPreThink()**: called before a player runs his physics. As a special exception, *frametime* is set to 0 if this is called for a client-side prediction frame, as it still will get called for server frames.
--   **.void PlayerPreThink()**: called after a player runs his physics. As a special exception, *frametime* is set to 0 if this is called for a client-side prediction frame, as it still will get called for server frames.
--   **void StartFrame()**: called at the beginning of each server frame, before anything else is done.
--   **void EndFrame()**: called at the end of each server frame, just before waiting until the next frame is due.
--   **void SV\_PlayerPhysics()**: allows to replace the player physics with your own code. The movement the player requests can be found in the *vector* field *movement*, and the currently pressed buttons are found in various fields, whose names are aliased to the *BUTTON*\_ macros.
--   **void SV\_ParseClientCommand(string command)**: handles commands sent by the client to the server using “cmd ...”. Unhandled commands can be passed to the built-in function *clientcommand* to execute the normal engine behaviour.
+<br />
 
+-   **void SV\_Shutdown()**: called when the map changes or the server is quit. A good place to store persistent data like the database of race records.
+<br />
+
+-   **void SV\_ChangeTeam(float newteam)**: called when a player changes his team. Can be used to disallow team changes, or to clear the player’s scores.
+<br />
+
+-   **void ClientKill()**: called when the player uses the ”kill" console command to suicide.
+<br />
+
+-   **void RestoreGame()**: called directly after loading a save game. Useful to, for example, load the databases from disk again.
+<br />
+
+-   **void ClientConnect()**: called as soon as a client has connected, downloaded everything, and is ready to play. This is the typical place to initialize the player entity.
+<br />
+
+-   **void PutClientInServer()**: called when the client requests to spawn. Typically puts the player somewhere on the map and lets him play.
+<br />
+
+-   **.float SendEntity(entity to, float sendflags)**: called when the engine requires a CSQC networked entity to send itself to a client, referenced by *to*. Should write some data to *MSG\_ENTITY*. *FALSE* can be returned to make the entity not send. See *EXT\_CSQC* for information on this.
+<br />
+
+-   **void URI\_Get\_Callback(...)**:
+<br />
+
+-   **void GameCommand(string command)**: called when the “sv\_cmd” console command is used, which is commonly used to add server console commands to the game. It should somehow handle the command, and print results to the server console.
+<br />
+
+-   **void SV\_OnEntityNoSpawnFunction()**: called when there is no matching spawn function for an entity. Just ignore this...
+<br />
+
+-   **void SV\_OnEntityPreSpawnFunction**: called before even looking for the spawn function, so you can even change its classname in there. If it remove()s the entity, the spawn function will not be looked for.
+<br />
+
+-   **void SV\_OnEntityPostSpawnFunction**: called ONLY after its spawn function or SV\_OnEntityNoSpawnFunction was called, and skipped if the entity got removed by either.
+<br />
+
+-   **void SetNewParms()**:
+<br />
+
+-   **void SetChangeParms()**:
+<br />
+
+-   **.float customizeentityforclient()**: called for an entity before it is going to be sent to the player specified by *other*. Useful to change properties of the entity right before sending, e.g. to make an entity appear only to some players, or to make it have a different appearance to different players.
+<br />
+
+-   **.void touch()**: called when two entities touch; the other entity can be found in *other*. It is, of course, called two times (the second time with *self* and *other* reversed).
+<br />
+
+-   **.void contentstransition()**:
+<br />
+
+-   **.void think()**: described above, basically a timer function.
+<br />
+
+-   **.void blocked()**: called when a *MOVETYPE\_PUSH* entity is blocked by another entity. Typically does either nothing, reverse the direction of the door moving, or kills the player who dares to step in the way of the Mighty Crusher Door.
+<br />
+
+-   **.void movetypesteplandevent()**: called when a player hits the floor.
+<br />
+
+-   **.void PlayerPreThink()**: called before a player runs his physics. As a special exception, *frametime* is set to 0 if this is called for a client-side prediction frame, as it still will get called for server frames.
+<br />
+
+-   **.void PlayerPreThink()**: called after a player runs his physics. As a special exception, *frametime* is set to 0 if this is called for a client-side prediction frame, as it still will get called for server frames.
+<br />
+
+-   **void StartFrame()**: called at the beginning of each server frame, before anything else is done.
+<br />
+
+-   **void EndFrame()**: called at the end of each server frame, just before waiting until the next frame is due.
+<br />
+
+-   **void SV\_PlayerPhysics()**: allows to replace the player physics with your own code. The movement the player requests can be found in the *vector* field *movement*, and the currently pressed buttons are found in various fields, whose names are aliased to the *BUTTON*\_ macros.
+<br />
+
+-   **void SV\_ParseClientCommand(string command)**: handles commands sent by the client to the server using “cmd ...”. Unhandled commands can be passed to the built-in function *clientcommand* to execute the normal engine behaviour.
+<br />

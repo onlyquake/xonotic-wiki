@@ -72,7 +72,7 @@ prvm_edictwatchpoint server
 
 Incomplete [Doxygen documentation](https://timepath.github.io/scratchspace/index.html) is generated as part of CI on [xonotic-data.pk3dir](https://gitlab.com/xonotic/xonotic-data.pk3dir) - you can search functions, "classes", globals, etc.
 
-Note that it might be incomplete or incorrect because Doxygen doesn't understand all of QC's constructs and our code heavily uses macros. See the `doxygen` section of the [CI file](https://gitlab.com/xonotic/xonotic-data.pk3dir/blob/master/.gitlab-ci.yml) for details what's missing.
+Note that it might be incomplete or incorrect because [Doxygen](https://www.doxygen.nl) doesn't understand all of QC's constructs and our code heavily uses macros. See the `doxygen` section of the [CI file](https://gitlab.com/xonotic/xonotic-data.pk3dir/blob/master/.gitlab-ci.yml) for details what's missing.
 
 ### Tool to find C symbols, functions, declarations and definitions inside source code
 

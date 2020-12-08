@@ -10,57 +10,57 @@ How to use MUTATOR functions:
 **Attention:** to use a hook, first register your mutator using `REGISTER_MUTATOR`, then create your function using `MUTATOR_HOOKFUNCTION`.
 
 
-**`REGISTER_MUTATOR`**
+- **`REGISTER_MUTATOR`**
 
 Registers a new `MUTATOR_HOOKFUNCTION`.
-```
+```c
 REGISTER_MUTATOR(new_mutator_name, some_variable);
 ```
 
 
-**`MUTATOR_HOOKFUNCTION`**
+- **`MUTATOR_HOOKFUNCTION`**
 
 Creates a function and calls `new_mutator_name` (from `REGISTER_MUTATOR`) and one of `#define MUTATOR()` (from `qcsrc/server/mutators/events.qh` main hooks).
 
 Example:
+```c
+MUTATOR_HOOKFUNCTION(new_mutator_name_or_events.qh_main_hook, PlayerSpawn)
+{
+    // whatever does
+}
+```
 
-    MUTATOR_HOOKFUNCTION(helloworld, PlayerSpawn)
-    {
-    	// whatever does
-    }
-
-
-**`MUTATOR_CALLHOOK`**
+- **`MUTATOR_CALLHOOK`**
 
 Calls some `MUTATOR_HOOKFUNCTION`.
-```
-MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hooks);
+```c
+MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hook);
 ```
 
 There are different versions and depends how many variables need to be called in a `MUTATOR_HOOKFUNCTION`:
 
 1 `MUTATOR_HOOKFUNCTION` and 1 variable:
 
-```
-MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hooks, some_variable);
+```c
+MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hook, some_variable);
 ```
 
 1 `MUTATOR_HOOKFUNCTION` and 2 variables:
 
-```
-MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hooks, some_variable, some_variable);
+```c
+MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hook, some_variable, some_variable);
 ```
 
 1 `MUTATOR_HOOKFUNCTION` and 3 variables:
 
-```
-MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hooks, some_variable, some_variable, some_variable);
+```c
+MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hook, some_variable, some_variable, some_variable);
 ```
 
 1 `MUTATOR_HOOKFUNCTION` and multiple variables:
 
-```
-MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hooks, some_variable, some_variable, some_variable, some_variable, ...);
+```c
+MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hook, some_variable, some_variable, some_variable, some_variable, ...);
 ```
 
 <br />
@@ -69,119 +69,265 @@ MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hooks, some_vari
 
 ## List of MUTATOR functions
 
-**`MakePlayerObserver`**
+- **`MakePlayerObserver`**
 
 Called when a player becomes observer, after shared setup.
-```
+```c
 #define EV_MakePlayerObserver(i, o) \
     /** player */ i(entity, MUTATOR_ARGV_0_entity) \
     /**/
 MUTATOR_HOOKABLE(MakePlayerObserver, EV_MakePlayerObserver)
 ```
 
-**`PutClientInServer`**
+- **`PutClientInServer`**
 
 Called when client spawns in server. (Not sure described)
-```
+```c
 #define EV_PutClientInServer(i, o) \
 	/** client wanting to spawn */ i(entity, MUTATOR_ARGV_0_entity) \
     /**/
 MUTATOR_HOOKABLE(PutClientInServer, EV_PutClientInServer);
 ```
 
-**`ForbidSpawn`**
+- **`ForbidSpawn`**
 
 Returns true to prevent a spectator/observer to spawn as player.
-```
+```c
  #define EV_ForbidSpawn(i, o) \
     /** player */ i(entity, MUTATOR_ARGV_0_entity) \
     /**/
 MUTATOR_HOOKABLE(ForbidSpawn, EV_ForbidSpawn);
 ```
 
-**`AutoJoinOnConnection`**
+- **`AutoJoinOnConnection`**
 
 Returns true if client should be put as player on connection.
-```
+```c
 #define EV_AutoJoinOnConnection(i, o) \
     /** player */ i(entity, MUTATOR_ARGV_0_entity) \
     /**/
 MUTATOR_HOOKABLE(AutoJoinOnConnection, EV_AutoJoinOnConnection);
 ```
 
-**`ForbidRandomStartWeapons`**
+- **`ForbidRandomStartWeapons`**
 
 Called when player spawns to determine whether to give them random start weapons. Return true to forbid giving them.
-```
+```c
 #define EV_ForbidRandomStartWeapons(i, o) \
 	/** player */ i(entity, MUTATOR_ARGV_0_entity) \
     /**/
 MUTATOR_HOOKABLE(ForbidRandomStartWeapons, EV_ForbidRandomStartWeapons);
 ```
 
-**`PlayerSpawn`**
+- **`PlayerSpawn`**
 
 Called when a player spawns as player, after shared setup, before his weapon is chosen (so items may be changed in here)
 
+```c
+#define EV_PlayerSpawn(i, o) \
+    /** player spawning */ i(entity, MUTATOR_ARGV_0_entity) \
+    /** spot that was used, or NULL */ i(entity, MUTATOR_ARGV_1_entity) \
+    /**/
+MUTATOR_HOOKABLE(PlayerSpawn, EV_PlayerSpawn);
+```
 
-    #define EV_PlayerSpawn(i, o) \
-    	/** player spawning */ i(entity, MUTATOR_ARGV_0_entity) \
-        /** spot that was used, or NULL */ i(entity, MUTATOR_ARGV_1_entity) \
-        /**/
-    MUTATOR_HOOKABLE(PlayerSpawn, EV_PlayerSpawn);
-
-
-**`PlayerWeaponSelect`**
+- **`PlayerWeaponSelect`**
 
 Called after a player's weapon is chosen so it can be overriden here.
-```
+```c
 #define EV_PlayerWeaponSelect(i, o) \
 	/** player spawning */ i(entity, MUTATOR_ARGV_0_entity) \
     /**/
 MUTATOR_HOOKABLE(PlayerWeaponSelect, EV_PlayerWeaponSelect);
 ```
 
-**`reset_map_global`**
+- **`reset_map_global`**
 
 Called in reset_map.
-```
+```c
 #define EV_reset_map_global(i, o) \
     /**/
 MUTATOR_HOOKABLE(reset_map_global, EV_reset_map_global);
 ```
 
-**`reset_map_players`**
+- **`reset_map_players`**
 
 Called in reset_map.
-```
+```c
 #define EV_reset_map_players(i, o) \
     /**/
 MUTATOR_HOOKABLE(reset_map_players, EV_reset_map_players);
 ```
 
+- **`ForbidPlayerScore_Clear`**
+
+Returns 1 if clearing player score shall not be allowed.
+```c
+#define EV_ForbidPlayerScore_Clear(i, o) \
+    /**/
+MUTATOR_HOOKABLE(ForbidPlayerScore_Clear, EV_ForbidPlayerScore_Clear);
+```
+
+- **`ClientDisconnect`**
+
+Called when a player disconnects.
+```c
+#define EV_ClientDisconnect(i, o) \
+    /** player */ i(entity, MUTATOR_ARGV_0_entity) \
+    /**/
+MUTATOR_HOOKABLE(ClientDisconnect, EV_ClientDisconnect);
+```
+
+- **`PlayerDies`**
+
+Called when a player dies to e.g. remove stuff he was carrying.
+```c
+#define EV_PlayerDies(i, o) \
+	/** inflictor  		*/ i(entity, MUTATOR_ARGV_0_entity) \
+    /** attacker    	*/ i(entity, MUTATOR_ARGV_1_entity) \
+    /** target    		*/ i(entity, MUTATOR_ARGV_2_entity) \
+    /** deathtype     	*/ i(float,  MUTATOR_ARGV_3_float) \
+    /** damage         */ i(float,  MUTATOR_ARGV_4_float) \
+    /** damage  		*/ o(float,  MUTATOR_ARGV_4_float) \
+    /**/
+MUTATOR_HOOKABLE(PlayerDies, EV_PlayerDies);
+```
+
+- **`PlayerDied`**
+
+Called after a player died.
+```c
+#define EV_PlayerDied(i, o) \
+    /** player    		*/ i(entity, MUTATOR_ARGV_0_entity) \
+    /**/
+MUTATOR_HOOKABLE(PlayerDied, EV_PlayerDied);
+```
+
+- **`ClientObituary`**
+
+Called when showing an obituary for the player. Returns true to show nothing (workarounds may be needed).
+```c
+#define EV_ClientObituary(i, o) \
+    /** inflictor       */ i(entity, MUTATOR_ARGV_0_entity) \
+    /** attacker        */ i(entity, MUTATOR_ARGV_1_entity) \
+    /** target          */ i(entity, MUTATOR_ARGV_2_entity) \
+    /** deathtype       */ i(float,  MUTATOR_ARGV_3_float) \
+    /** wep entity      */ i(entity, MUTATOR_ARGV_4_entity) \
+    /** anonymous killer*/ o(bool,   MUTATOR_ARGV_5_bool) \
+    /**/
+MUTATOR_HOOKABLE(ClientObituary, EV_ClientObituary);
+```
+
+- **`FragCenterMessage`**
+
+Allows overriding the frag centerprint messages.
+```c
+#define EV_FragCenterMessage(i, o) \
+    /** attacker       */ i(entity, MUTATOR_ARGV_0_entity) \
+    /** target         */ i(entity, MUTATOR_ARGV_1_entity) \
+    /** deathtype      */ i(float, MUTATOR_ARGV_2_float) \
+    /** attacker kcount*/ i(int,  MUTATOR_ARGV_3_int) \
+    /** targ killcount */ i(int,  MUTATOR_ARGV_4_int) \
+    /**/
+MUTATOR_HOOKABLE(FragCenterMessage, EV_FragCenterMessage);
+```
+
+- **`PlayHitsound`**
+
+Called when a player dies to e.g. remove stuff he was carrying.
+```c
+#define EV_PlayHitsound(i, o) \
+    /** victim */ i(entity, MUTATOR_ARGV_0_entity) \
+    /** attacker */ i(entity, MUTATOR_ARGV_1_entity) \
+    /**/
+MUTATOR_HOOKABLE(PlayHitsound, EV_PlayHitsound);
+```
+
+- **`ItemModel`**
+
+Called when an item model is about to be set, allows custom paths etc.
+```c
+#define EV_ItemModel(i, o) \
+    /** model       */ i(string, MUTATOR_ARGV_0_string) \
+    /** output      */ i(string, MUTATOR_ARGV_1_string) \
+    /**/               o(string, MUTATOR_ARGV_1_string) \
+    /**/
+MUTATOR_HOOKABLE(ItemModel, EV_ItemModel);
+```
+
+- **`ItemSound`**
+
+Called when an item sound is about to be played, allows custom paths etc.
+```c
+#define EV_ItemSound(i, o) \
+    /** sound       */ i(string, MUTATOR_ARGV_0_string) \
+    /** output      */ i(string, MUTATOR_ARGV_1_string) \
+    /**/               o(string, MUTATOR_ARGV_1_string) \
+    /**/
+MUTATOR_HOOKABLE(ItemSound, EV_ItemSound);
+```
+
+- **`GiveFragsForKill`**
+
+Called when someone was fragged by "self", and is expected to change frag_score to adjust scoring for the kill.
+```c
+#define EV_GiveFragsForKill(i, o) \
+    /** attacker   */ i(entity, MUTATOR_ARGV_0_entity) \
+    /** target     */ i(entity, MUTATOR_ARGV_1_entity) \
+    /** frag score */ i(float, MUTATOR_ARGV_2_float) \
+    /**            */ o(float, MUTATOR_ARGV_2_float) \
+    /** deathtype  */ i(float, MUTATOR_ARGV_3_float) \
+    /** wep entity */ i(entity, MUTATOR_ARGV_4_entity) \
+    /**/
+MUTATOR_HOOKABLE(GiveFragsForKill, EV_GiveFragsForKill);
+```
+
+- **`MatchEnd`**
+
+Called when the match ends.
+```c
+MUTATOR_HOOKABLE(MatchEnd, EV_NO_ARGS);
+```
+
+- **`TeamBalance_CheckAllowedTeams`**
+
+Allows adjusting allowed teams. Return true to use the bitmask value and set non-empty string to use team entity name. Both behaviors can be active at the same time and will stack allowed teams.
+```c
+#define EV_TeamBalance_CheckAllowedTeams(i, o) \
+    /** mask of teams      */ i(float, MUTATOR_ARGV_0_float) \
+    /**/                      o(float, MUTATOR_ARGV_0_float) \
+    /** team entity name   */ i(string, MUTATOR_ARGV_1_string) \
+    /**/                      o(string, MUTATOR_ARGV_1_string) \
+    /** player checked     */ i(entity, MUTATOR_ARGV_2_entity) \
+    /**/
+MUTATOR_HOOKABLE(TeamBalance_CheckAllowedTeams, EV_TeamBalance_CheckAllowedTeams);
+```
+
+
 <br />
 <br />
 
 
-**`Damage_Calculate`**
+- **`Damage_Calculate`**
 
 Called to adjust damage and force values which are applied to the player, used for e.g. strength damage/force multiplier, I'm not sure if I should change this around slightly (Naming of the entities, and also how they're done in g_damage).
 
-
-    #define EV_Damage_Calculate(i, o) \
-        /** inflictor  		*/ i(entity, MUTATOR_ARGV_0_entity) \
-        /** attacker    	*/ i(entity, MUTATOR_ARGV_1_entity) \
-        /** target    		*/ i(entity, MUTATOR_ARGV_2_entity) \
-        /** deathtype     	*/ i(float,  MUTATOR_ARGV_3_float) \
-        /** damage          */ i(float,  MUTATOR_ARGV_4_float) \
-        /** damage  		*/ o(float,  MUTATOR_ARGV_4_float) \
-        /** mirrordamage    */ i(float,  MUTATOR_ARGV_5_float) \
-        /** mirrordamage 	*/ o(float,  MUTATOR_ARGV_5_float) \
-        /** force           */ i(vector, MUTATOR_ARGV_6_vector) \
-        /** force 			*/ o(vector, MUTATOR_ARGV_6_vector) \
-        /**/
-    MUTATOR_HOOKABLE(Damage_Calculate, EV_Damage_Calculate);
-
+```c
+#define EV_Damage_Calculate(i, o) \
+    /** inflictor  		*/ i(entity, MUTATOR_ARGV_0_entity) \
+    /** attacker    	*/ i(entity, MUTATOR_ARGV_1_entity) \
+    /** target    		*/ i(entity, MUTATOR_ARGV_2_entity) \
+    /** deathtype     	*/ i(float,  MUTATOR_ARGV_3_float) \
+    /** damage          */ i(float,  MUTATOR_ARGV_4_float) \
+    /** damage  		*/ o(float,  MUTATOR_ARGV_4_float) \
+    /** mirrordamage    */ i(float,  MUTATOR_ARGV_5_float) \
+    /** mirrordamage 	*/ o(float,  MUTATOR_ARGV_5_float) \
+    /** force           */ i(vector, MUTATOR_ARGV_6_vector) \
+    /** force           */ o(vector, MUTATOR_ARGV_6_vector) \
+    /** weapon entity 	*/ i(entity, MUTATOR_ARGV_7_entity) \
+    /**/
+MUTATOR_HOOKABLE(Damage_Calculate, EV_Damage_Calculate);
+```
 <br />
 <br />
 

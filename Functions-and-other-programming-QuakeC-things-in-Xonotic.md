@@ -71,8 +71,19 @@ MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hook, some_varia
 
 You can look the MUTATOR functions in:
 
+**COMMON**:
+
 **`qcsrc/common/mutators/events.qh`** :
 https://timepath.github.io/scratchspace/d4/d95/common_2mutators_2events_8qh.html
+
+
+**CLIENT**:
+
+**`qcsrc/client/mutators/events.qh`** :
+https://timepath.github.io/scratchspace/d8/d0e/client_2mutators_2events_8qh.html
+
+
+**SERVER**:
 
 **`qcsrc/server/mutators/events.qh`** :
 https://timepath.github.io/scratchspace/d6/ddd/server_2mutators_2events_8qh.html

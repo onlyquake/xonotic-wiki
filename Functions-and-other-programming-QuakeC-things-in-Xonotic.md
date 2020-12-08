@@ -69,6 +69,8 @@ MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hook, some_varia
 
 ## List of MUTATOR functions
 
+**Warning:** 
+
 - **`MakePlayerObserver`**
 
 Called when a player becomes observer, after shared setup.
@@ -302,6 +304,120 @@ Allows adjusting allowed teams. Return true to use the bitmask value and set non
     /**/
 MUTATOR_HOOKABLE(TeamBalance_CheckAllowedTeams, EV_TeamBalance_CheckAllowedTeams);
 ```
+
+- **`TeamBalance_GetTeamCounts`**
+
+Returns true to manually override team counts.
+```c
+MUTATOR_HOOKABLE(TeamBalance_GetTeamCounts, EV_NO_ARGS);
+```
+
+- **`TeamBalance_GetTeamCount`**
+
+Allows overriding of team counts.
+```c
+#define EV_TeamBalance_GetTeamCount(i, o) \
+    /** team index to count             */ i(float, MUTATOR_ARGV_0_float) \
+    /** player to ignore                */ i(entity, MUTATOR_ARGV_1_entity) \
+    /** number of players in a team     */ o(float, MUTATOR_ARGV_2_float) \
+    /** number of bots in a team        */ o(float, MUTATOR_ARGV_3_float) \
+    /**/
+MUTATOR_HOOKABLE(TeamBalance_GetTeamCount, EV_TeamBalance_GetTeamCount);
+```
+
+- **`TeamBalance_FindBestTeams`**
+
+Allows overriding the teams that will make the game most balanced if the player joins any of them.
+```c
+#define EV_TeamBalance_FindBestTeams(i, o) \
+    /** player checked   */ i(entity, MUTATOR_ARGV_0_entity) \
+    /** bitmask of teams */ o(float, MUTATOR_ARGV_1_float) \
+    /**/
+MUTATOR_HOOKABLE(TeamBalance_FindBestTeams, EV_TeamBalance_FindBestTeams);
+```
+
+- **`TeamBalance_GetPlayerForTeamSwitch`**
+
+Called during autobalance. Returns true to override the player that will be switched.
+```c
+#define EV_TeamBalance_GetPlayerForTeamSwitch(i, o) \
+    /** source team index      */ i(int, MUTATOR_ARGV_0_int) \
+    /** destination team index */ i(int, MUTATOR_ARGV_1_int) \
+    /** is looking for bot     */ i(bool, MUTATOR_ARGV_2_bool) \
+    /** player to switch       */ o(entity, MUTATOR_ARGV_3_entity) \
+    /**/
+MUTATOR_HOOKABLE(TeamBalance_GetPlayerForTeamSwitch, EV_TeamBalance_GetPlayerForTeamSwitch);
+```
+
+- **`SpectateCopy`**
+
+Copies variables for spectating "spectatee" to "this".
+```c
+#define EV_SpectateCopy(i, o) \
+    /** spectatee   */ i(entity, MUTATOR_ARGV_0_entity) \
+    /** client      */ i(entity, MUTATOR_ARGV_1_entity) \
+    /**/
+MUTATOR_HOOKABLE(SpectateCopy, EV_SpectateCopy);
+```
+
+- **`FormatMessage`**
+
+Called when formatting a chat message to replace fancy functions.
+```c
+#define EV_FormatMessage(i, o) \
+    /** player        */ i(entity, MUTATOR_ARGV_0_entity) \
+    /** escape        */ i(string, MUTATOR_ARGV_1_string) \
+    /** replacement   */ i(string, MUTATOR_ARGV_2_string) \
+    /**/                 o(string, MUTATOR_ARGV_2_string) \
+    /** message       */ i(string, MUTATOR_ARGV_3_string) \
+    /**/
+MUTATOR_HOOKABLE(FormatMessage, EV_FormatMessage);
+```
+
+- **`PreFormatMessage`**
+
+Called before any formatting is applied, handy for tweaking the message before scripts get ahold of it.
+```c
+#define EV_PreFormatMessage(i, o) \
+    /** player        */ i(entity, MUTATOR_ARGV_0_entity) \
+    /** message       */ i(string, MUTATOR_ARGV_1_string) \
+    /**/                 o(string, MUTATOR_ARGV_1_string) \
+    /**/
+MUTATOR_HOOKABLE(PreFormatMessage, EV_PreFormatMessage);
+```
+
+- **`ForbidThrowCurrentWeapon`**
+
+Returns true if throwing the current weapon shall not be allowed.
+```c
+#define EV_ForbidThrowCurrentWeapon(i, o) \
+    /** player        */ i(entity, MUTATOR_ARGV_0_entity) \
+    /** weapon entity */ i(entity, MUTATOR_ARGV_1_entity) \
+    /**/
+MUTATOR_HOOKABLE(ForbidThrowCurrentWeapon, EV_ForbidThrowCurrentWeapon);
+```
+
+- **`ForbidDropCurrentWeapon`**
+
+Returns true if dropping the current weapon shall not be allowed at any time including death */
+```c
+#define EV_ForbidDropCurrentWeapon(i, o) \
+    /** player */        i(entity, MUTATOR_ARGV_0_entity) \
+    /** weapon id */     i(int, MUTATOR_ARGV_1_int) \
+    /**/
+MUTATOR_HOOKABLE(ForbidDropCurrentWeapon, EV_ForbidDropCurrentWeapon);
+```
+
+- **`SetDefaultAlpha`**
+
+Sets alpha value by default. (Not sure described)
+```c
+MUTATOR_HOOKABLE(SetDefaultAlpha, EV_NO_ARGS);
+```
+
+
+
+
 
 
 <br />

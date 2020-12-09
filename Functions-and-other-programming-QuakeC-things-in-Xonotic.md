@@ -144,10 +144,10 @@ In the moment when player shots the weapon, weapon flashes.
 void W_MuzzleFlash(Weapon thiswep, entity actor, .entity weaponentity, vector shotorg, vector shotdir);
 ```
 
-- [**`Weapon selection functions`**](https://timepath.github.io/scratchspace/d8/d6b/selection_8qh.html)
+- [**Weapon selection functions**](https://timepath.github.io/scratchspace/d8/d6b/selection_8qh.html)
 (located in `qcsrc/server/weapons/selection.qh`)
 
-- [**``Weapon decrease ammo, speed factor, rate factor, reload functions`**](https://timepath.github.io/scratchspace/d5/de0/weaponsystem_8qc.html)
+- [**Weapon decrease ammo, speed factor, rate factor, reload functions**](https://timepath.github.io/scratchspace/d5/de0/weaponsystem_8qc.html)
 (located in `qcsrc/server/weapons/weaponsystem.qh`)
 
 

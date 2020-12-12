@@ -19,7 +19,7 @@ Note: The `all` script requires either `wget` or `curl`.
 
 **Ubuntu** dependencies:
 
-    sudo apt-get install autoconf build-essential curl git libtool libgmp-dev libjpeg-turbo8-dev libsdl2-dev libxpm-dev xserver-xorg-dev zlib1g-dev unzip
+    sudo apt-get install autoconf build-essential curl git libtool libgmp-dev libjpeg-turbo8-dev libsdl2-dev libxpm-dev xserver-xorg-dev zlib1g-dev unzip zip
 
 Note: On Debian, use `libjpeg62-turbo-dev` if `libjpeg-turbo8-dev` isn’t available in the package repositories.
 
@@ -33,7 +33,7 @@ Note: `x11-proto-devel` or `xorg-x11-proto-devel` might be needed but might be a
 
 **Archlinux** dependencies:
 
-    sudo pacman -S alsa-lib curl git libjpeg-turbo libmodplug libpng libvorbis libxpm xorgproto libxxf86vm sdl2 unzip
+    sudo pacman -S alsa-lib curl git libjpeg-turbo libmodplug libpng libvorbis libxpm xorgproto libxxf86vm sdl2 unzip zip
 
 ### Windows
 

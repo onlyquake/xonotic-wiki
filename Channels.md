@@ -14,11 +14,12 @@ For a short introduction to IRC, [skip to the bottom of this page](Channels#gene
 
     #xonotic           - General purpose channel, bridged  to discord: https://discordapp.com/invite/0uxcsw1XMkaOB936
     #xonotic.cup       - Cup channel
-    #xonotic.duel      - Duel servers (psyx, FPS, WTWRP, pacman)
+    #xonotic.duel      - Duel servers (PsyX, PAC)
     #xonotic.editing   - Channel for mapmakers, modelers, texturers, etc.
     #xonotic.maps      - Channel for xonotic.co
     #xonotic.pickup    - Pickup channel
     #xonotic.translate - Channel to discuss translation issues
+    #xonotic.bar       - Off-topic conversations
 
 Country/Region specific IRC channels:
 

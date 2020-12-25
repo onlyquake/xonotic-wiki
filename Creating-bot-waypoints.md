@@ -61,7 +61,7 @@ To your convenience I set up a config file with all the commands described in th
 | Hardwired waypoint | Crouch waypoint |
 | :------: | :------: |
 | ![hardwired_wp](uploads/80220aa4479a827e72b0a3734c9b237e/hardwired_wp.jpg) | ![crouch_wp](uploads/77207df550e8c0316e08bdd696917493/crouch_wp.jpg) |
-| Links only to the destination waypoint(s) | Links to all the waypoints within 100 qu range |
+| Normal waypoint with one or more hardwired link | Links to all the waypoints within 100 qu range |
 
 | Jump waypoint | Jump waypoint linked to a Crouch waypoint |
 | :------: | :------: |
@@ -81,14 +81,14 @@ Bots can swim too if you put waypoints in the water or even above the water surf
 
 Use the command `wpeditor saveall` to save waypoints and links, preferably run this command periodically to avoid accidental loss of waypoints you have added since the last save.  
 It will generate 3 files in your data directory:
-* `data/data/maps/\<mapname\>.waypoints` containing waypoints data
-* `data/data/maps/\<mapname\>.waypoints.cache` containing links data
-* `data/data/maps/\<mapname\>.waypoints.hardwired` containing hardwired and special links data
+* `data/data/maps/<mapname>.waypoints` containing waypoints data
+* `data/data/maps/<mapname>.waypoints.cache` containing links data
+* `data/data/maps/<mapname>.waypoints.hardwired` containing hardwired and special links data
 
 In Race or Race CTS mode, you will get these files instead:
-* `data/data/maps/\<mapname\>.race.waypoints`
-* `data/data/maps/\<mapname\>.race.waypoints.cache`
-* `data/data/maps/\<mapname\>.race.waypoints.hardwired`
+* `data/data/maps/<mapname>.race.waypoints`
+* `data/data/maps/<mapname>.race.waypoints.cache`
+* `data/data/maps/<mapname>.race.waypoints.hardwired`
 
 #### Symmetrical editing:
 
@@ -101,7 +101,9 @@ First of all you need to figure out the map symmetry:
 1. **Rotational symmetry** (of order 3 or greater): rarely used as it needs 3 or more flags (gasoline_3teams, gasoline_4teams). With order 3 a part of the map is rotated twice by 120 and 240 degrees around a point (origin) that is the center of the map.
 
 If you think map symmetry is 1) or 3) try `g_waypointeditor_symmetrical 1`, if you think it's 2) try `g_waypointeditor_symmetrical 2`.
-Check that the autodetermined symmetry is correct by spawning one or more test waypoint and checking that the symmetrical waypoints are spawned *exactly* where they should be. If you can't find a symmetrical waypoint or its position is wrong you can determine origin or axis of symmetry with the help of the commands `wpeditor symorigin get|set p1 p2 ... pX` and `wpeditor symaxis get|set p1 p2` where p1 p2 ... pX are positions "x y z" that you know are perfectly symmetrical. With `get` values of origin / axis are printed to the console, with `set` values of origin / axis are applied immediately, that is they are set to the g_waypointeditor_symmetrical_* cvars.  
+Check that the autodetermined symmetry is correct by spawning one or more test waypoint and checking that the symmetrical waypoints are spawned *exactly* where they should be: if they respect map symmetry then you are ready to waypoint the map.
+
+If you can't find the symmetrical waypoints or their position are wrong it's possible to determine the origin or axis of symmetry with the commands `wpeditor symorigin get|set p1 p2 ... pX` and `wpeditor symaxis get|set p1 p2` where p1 p2 ... pX are positions "x y z" that you know are perfectly symmetrical. With `get` values of origin / axis are printed to the console, with `set` values of origin / axis are applied immediately, that is they are set to the g_waypointeditor_symmetrical_* cvars.  
 Note: don't forget to remove test waypoints before you change symmetry settings otherwise you won't be able to easily remove their symmetrical waypoints.
 
 The symmetry settings are saved to the waypoint files and reloaded from there when you restart the map.
@@ -150,11 +152,11 @@ Use the command `wpeditor unreachable` to reveal waypoints and items unreachable
 
 Recomended settings:
 ```
-bot_nofire 1           // when set, bots never fire
-bot_debug_goalstack 1  // visualize the current path that each bot is following
-skill 4                // waypoints should work well at least with bots with medium movement skill
+bot_nofire 1
+bot_debug_goalstack 1
+skill 4
 bot_number 1
 ```
 
-Check how well bot navigates the map with your waypoints: add a single bot with medium skills and spectate it (preferably in free third person view by pressing twice `BACKSPACE` once you are spectator); if you notice it takes weird paths (zigzags), gets stuck, bumps into walls, falls down or can't jump an obstacle on some links try to fix them by creating a slightly different route that is more reliable.
+Check how well bot navigates the map with your waypoints: add a single bot with medium skills (`skill 4`) and spectate it (preferably in free third person view by pressing `BACKSPACE` twice once you are spectator so you can change camera angles with your mouse); if you notice it takes weird paths (zigzags), gets stuck, bumps into walls, falls down or can't jump an obstacle on some links try to fix them by creating a slightly different route that is more reliable.
 It is also a good idea to test how high skilled bots behave as they can bunnyhop (skill 7 and higher).

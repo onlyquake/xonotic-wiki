@@ -100,7 +100,7 @@ Spawns all of the above and a marine at random.
 
 **Nades source codes are in this [directory](https://gitlab.com/xonotic/xonotic-data.pk3dir/-/tree/master/qcsrc/common/mutators/mutator/nades).**
 
-If you are creating a server for yourself, to play with the nades, you need to activate the nades and it is recommended to set those variables:
+If you are creating a server for yourself, to play with the nades, you need to activate the nades and it is recommended to set those variables (you can toggle in the console while writing `g_nades` and pressing TAB to display info of these cvars):
 
 `g_nades 1 // activate nades in the game`
 
@@ -108,13 +108,23 @@ If you are creating a server for yourself, to play with the nades, you need to a
 
 `set g_nades_bonus 1 // adding number of extra nades when it's obtained after time bonus`
 
-`set g_nades_bonus_client_select 1`
+`set g_nades_bonus_client_select 1 // allow client side selection of bonus nade type`
 
-`set g_nades_bonus_type 3 // limit of number of nades when a player had`
+`set g_nades_bonus_max 3 // maximum number of bonus grenades`
+
+`set g_nades_bonus_type 3 // type of the bonus grenade. 1:normal 2:napalm 3:ice 4:translocate 5:spawn 6:heal 7:pokenade 8:entrap`
 
 `set g_nades_bonus_score_time 5 // time when someone is scoring, makes adding fast one nade extra more`
 
 `set g_nades_heal_foe -5 // when someone is not ally of the healing orb will take damage during a certain time if this is inside the orb`
+
+`set g_nades_nade_lifetime 3.5`
+
+`set g_nades_nade_maxforce 2000`
+
+`set g_nades_nade_minforce 400`
+
+`set g_nades_nade_newton_style 0 // 0 is absolute, 1 is relative (takes into account player speed), 2 is something in between`
 
 `set g_nades_napalm_ball_damage 110 // napalm explosion damage`
 
@@ -125,8 +135,6 @@ If you are creating a server for yourself, to play with the nades, you need to a
 `set g_nades_entrap_time 15 // entrap orb time`
 
 `set g_nades_nade_refire 10`
-
-`set g_nades_spawn_count 1`
 
 `set g_nades_veil_radius 720 // veil orb radius size`
 
@@ -139,5 +147,10 @@ If you are creating a server for yourself, to play with the nades, you need to a
 `set g_nades_ice_teamcheck 0 // Don't freeze teammates`
 
 `set g_nades_ice_explode 1 // Whether the ice nade should explode again once the ice field dissipated`
+
+`set g_nades_spawn_count 1 // number of times player will spawn at their spawn nade explosion location`
+
+`set g_nades_spread 0.04 // random spread offset of throw direction`
+
 
 After setting all this, it can be necessary to restart the server, use `restart` command to apply the changes. Instead doing this manually, you can put those variables in a *.cfg* file. Save the variables inside *nades.cfg* empty file and save it in *xonotic/data* folder. In the game, when you are playing in your own server, execute in the console: `exec nades.cfg` and restart if necessary.

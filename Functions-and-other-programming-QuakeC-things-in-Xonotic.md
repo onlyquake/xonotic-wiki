@@ -94,7 +94,7 @@ https://timepath.github.io/scratchspace/d6/ddd/server_2mutators_2events_8qh.html
 
 ## A bit of introduction
 
-You'll need understand that weapons can be interacted with autocvars variables and its own .qh file where cvars are declared. *Think*, *touch*, *explode* and those types of functions can be declared within an *attack* function and *whatever* it is called. Note that there are also METHODs that are necessary for the weapon to work.
+You'll need understand that weapons can be interacted with **autocvars** variables(example: `float autocvar_g_balance_someweapon_speed;`) and each weapon with .qh file where cvars are declared without the need to declare using `autocvar_blabla...`. *Think*, *touch*, *explode* and those types of functions can be declared within an *attack* function and *whatever* it is called. Note that there are also METHODs that are necessary for the weapon to work.
 
 - **Think** function makes the weapon shot react on what to do.
 - **Touch** function makes the weapon shot react against some element where touch (like player, monster, vehicle, ...).

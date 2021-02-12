@@ -1,7 +1,7 @@
 **Note:** The article is written as developer notes to ease developer tasks and save QuakeC function terms here. Some references are taken from `events.qh`.
 
 
-# MUTATOR functions (from: `qcsrc/client/mutators/events.qh`, `qcsrc/common/mutators/events.qh`, `qcsrc/server/mutators/events.qh`)
+# MUTATOR functions (from: [`qcsrc/client/mutators/events.qh`](https://timepath.github.io/scratchspace/d8/d0e/client_2mutators_2events_8qh_source.html), [`qcsrc/common/mutators/events.qh`](https://timepath.github.io/scratchspace/d4/d95/common_2mutators_2events_8qh_source.html), [`qcsrc/server/mutators/events.qh`](https://timepath.github.io/scratchspace/d6/ddd/server_2mutators_2events_8qh_source.html))
 
 ### How to use MUTATOR functions:
 
@@ -69,22 +69,11 @@ MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hook, some_varia
 
 You can look the MUTATOR functions in:
 
-**COMMON**:
+- **COMMON:** [`qcsrc/common/mutators/events.qh`](https://timepath.github.io/scratchspace/d4/d95/common_2mutators_2events_8qh.html)
 
-**`qcsrc/common/mutators/events.qh`** :
-https://timepath.github.io/scratchspace/d4/d95/common_2mutators_2events_8qh.html
+- **CLIENT:** [`qcsrc/client/mutators/events.qh`](https://timepath.github.io/scratchspace/d8/d0e/client_2mutators_2events_8qh.html)
 
-
-**CLIENT**:
-
-**`qcsrc/client/mutators/events.qh`** :
-https://timepath.github.io/scratchspace/d8/d0e/client_2mutators_2events_8qh.html
-
-
-**SERVER**:
-
-**`qcsrc/server/mutators/events.qh`** :
-https://timepath.github.io/scratchspace/d6/ddd/server_2mutators_2events_8qh.html
+- **SERVER:** [`qcsrc/server/mutators/events.qh`](https://timepath.github.io/scratchspace/d6/ddd/server_2mutators_2events_8qh.html)
 
 
 <br />
@@ -94,7 +83,7 @@ https://timepath.github.io/scratchspace/d6/ddd/server_2mutators_2events_8qh.html
 
 ## A bit of introduction
 
-You'll need understand that weapons can be interacted with **autocvars** variables(example: `float autocvar_g_balance_someweapon_speed;`) and each weapon with .qh file where cvars are declared without the need to declare using `autocvar_blabla...`. *Think*, *touch*, *explode* and those types of functions can be declared within an *attack* function and *whatever* it is called. Note that there are also METHODs that are necessary for the weapon to work.
+You'll need understand that weapons can be interacted with **autocvars** variables (example: `float autocvar_g_balance_someweapon_speed;`) and each weapon with .qh file where cvars are declared without the need to declare using `autocvar_blabla...`. *Think*, *touch*, *explode* and those types of functions can be declared within an *attack* function and *whatever* it is called. Note that there are also METHODs that are necessary for the weapon to work.
 
 - **Think** function makes the weapon shot react on what to do.
 - **Touch** function makes the weapon shot react against some element where touch (like player, monster, vehicle, ...).
@@ -111,7 +100,7 @@ You can look the example of this weapon code:
 
 This is a created list of functions to modify/create weapons. There are incomplete explanations for each function.
 
-There are contents taken from `qcsrc/common/weapons/all.qh`.
+There are contents taken from [`qcsrc/common/weapons/all.qh`](https://timepath.github.io/scratchspace/d0/ddd/weapons_2all_8qh_source.html)
 
 **WARNING:** The contents may content wonky code, and the interactions can change and not do the same what happens here.
 

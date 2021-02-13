@@ -1,4 +1,4 @@
-**Note:** The article is written as developer notes to ease developer tasks and save QuakeC function terms here.
+**Note:** The article is written as developer notes to ease developer tasks and save QuakeC terms here.
 
 # CSQC, MENUQC, SVQC and GAMEQC blocks
 

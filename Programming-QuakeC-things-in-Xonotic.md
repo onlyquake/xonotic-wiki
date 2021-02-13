@@ -82,8 +82,6 @@ MUTATOR_CALLHOOK(name_of_MUTATOR_HOOKFUNCTION_or_events.qh_main_hook, some_varia
 ```
 
 <br />
-<br />
-
 
 ## List of MUTATOR functions
 
@@ -94,7 +92,6 @@ You can look the MUTATOR functions in:
 - **CLIENT:** [`qcsrc/client/mutators/events.qh`](https://timepath.github.io/scratchspace/d8/d0e/client_2mutators_2events_8qh.html)
 
 - **SERVER:** [`qcsrc/server/mutators/events.qh`](https://timepath.github.io/scratchspace/d6/ddd/server_2mutators_2events_8qh.html)
-
 
 <br />
 <br />
@@ -118,7 +115,7 @@ You can look the example of this weapon code:
 
 ## List of WEAPON functions
 
-This is a created list of functions to modify/create weapons. There are incomplete explanations for each function.
+This is a created list of functions to modify/create weapons. There may be incomplete explanations for each function.
 
 There are contents taken from [`qcsrc/common/weapons/all.qh`](https://timepath.github.io/scratchspace/d0/ddd/weapons_2all_8qh_source.html)
 
@@ -157,23 +154,22 @@ void W_SetupProjVelocity_Explicit(
 )
 ```
 
-- [**W_MuzzleFlash**](https://timepath.github.io/scratchspace/d0/ddd/weapons_2all_8qh_source.html)(located in `qcsrc/common/weapons/all.qh` line 406)
+- [**W_MuzzleFlash**](https://timepath.github.io/scratchspace/d0/ddd/weapons_2all_8qh_source.html)(located in **`qcsrc/common/weapons/all.qh`** line 406)
 
 In the moment when player shots the weapon, weapon flashes. 
 
-*Note:* write `#ifdef SVQC` at the start of using this function, and write with `#endif` after declared the function(only can do this if the code which needs execute can do this, although maybe you need more functions/things in the code inside this).
+**Note:** write **`#ifdef SVQC`** at the start of using this function, and write with **`#endif`** after declared the function (only can do this if the code which needs execute can do this, although maybe you need more functions/things in the code inside this).
 
 ```c
 void W_MuzzleFlash(Weapon thiswep, entity actor, .entity weaponentity, vector shotorg, vector shotdir);
 ```
 
 - [**Weapon selection functions**](https://timepath.github.io/scratchspace/d8/d6b/selection_8qh.html)
-(located in `qcsrc/server/weapons/selection.qh`)
+(located in **`qcsrc/server/weapons/selection.qh`**)
 
 - [**Weapon decrease ammo, speed factor, rate factor, reload functions**](https://timepath.github.io/scratchspace/d5/de0/weaponsystem_8qc.html)
-(located in `qcsrc/server/weapons/weaponsystem.qh`)
+(located in **`qcsrc/server/weapons/weaponsystem.qh`**)
 
-<br />
 <br />
 
 # HUD, Menu and Draw functions

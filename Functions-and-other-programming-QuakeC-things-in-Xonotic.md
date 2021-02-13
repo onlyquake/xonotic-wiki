@@ -1,5 +1,25 @@
-**Note:** The article is written as developer notes to ease developer tasks and save QuakeC function terms here. Some references are taken from `events.qh`.
+**Note:** The article is written as developer notes to ease developer tasks and save QuakeC function terms here.
 
+# CSQC, MENUQC, SVQC and GAMEQC blocks
+
+Menu and HUD code are actually separated as they run in 2 distinct programs: ***csprogs.dat*** and ***menu.dat***
+
+Server program is ***progs.dat***
+
+- Code inside a **`#ifdef CSQC`** block is part of the client code and will be compiled to **csprogs.dat**
+
+- Code inside a **`#ifdef MENUQC`** block is part of the menu code and will be compiled to **menu.dat**
+
+- Code inside a **`#ifdef SVQC`** block is part of the menu code and will be compiled to **progs.dat**
+
+- Also, code inside a **`#ifdef GAMEQC`** block is part of both client (not menu) and server code.
+
+Example: `g_balance_grapplehook_speed_fly` is clearly a server cvar (**g_*** cvars are server cvars), so you CAN'T declare it within a `#ifdef CSQC` block. This cvar should be declared inside a **`#ifdef SVQC`**.
+
+Other example: `cl_chatsound` is clearly a client cvar (**cl_*** cvars are client cvars), only can be declared in a **`#ifdef CSQC`** block.
+
+
+<br />
 
 # MUTATOR functions (from: [`qcsrc/client/mutators/events.qh`](https://timepath.github.io/scratchspace/d8/d0e/client_2mutators_2events_8qh_source.html), [`qcsrc/common/mutators/events.qh`](https://timepath.github.io/scratchspace/d4/d95/common_2mutators_2events_8qh_source.html), [`qcsrc/server/mutators/events.qh`](https://timepath.github.io/scratchspace/d6/ddd/server_2mutators_2events_8qh_source.html))
 
@@ -156,7 +176,7 @@ void W_MuzzleFlash(Weapon thiswep, entity actor, .entity weaponentity, vector sh
 <br />
 <br />
 
-# Menu and Draw functions
+# HUD, Menu and Draw functions
 
 You can look the draw functions where HUD is being drawn: 
 - [**Draw functions and macros (`qcsrc/client/draw.qh`)**](https://timepath.github.io/scratchspace/d5/d8d/client_2draw_8qh_source.html)

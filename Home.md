@@ -149,7 +149,8 @@ Other mutators:
 -   [DarkPlaces Wiki](DarkPlaces-Index)
 -   [Writing your first mutator](writing-your-first-mutator)
 -   [Tips for new developers](Programming-Tips)
--   [Functions and other programming QuakeC things in Xonotic](Functions-and-other-programming-QuakeC-things-in-Xonotic)
+-   [Programming QuakeC stuff in Xonotic
+](Programming-QuakeC-stuff-in-Xonotic)
 
 ### [Translating](Translating)
 -   [Translation website](https://www.transifex.com/team-xonotic/xonotic/dashboard/)
